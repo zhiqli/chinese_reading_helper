@@ -1,0 +1,61 @@
+<!--index.wxml-->
+<navigation-bar title="课文朗读助手" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+
+<view class="container">
+  <!-- 选项卡 -->
+  <view class="tabs">
+    <view class="tab {{currentTab === 'chinese' ? 'active' : ''}}" bindtap="switchTab" data-tab="chinese">
+      <text class="tab-icon">📖</text>
+      <text class="tab-text">语文朗读</text>
+    </view>
+    <view class="tab {{currentTab === 'english' ? 'active' : ''}}" bindtap="switchTab" data-tab="english">
+      <text class="tab-icon">🔤</text>
+      <text class="tab-text">英语朗读</text>
+    </view>
+  </view>
+
+  <!-- 语文板块 -->
+  <view class="tab-content" wx:if="{{currentTab === 'chinese'}}">
+    <!-- 年级和学期选择 -->
+    <view class="grade-selector">
+      <picker class="picker" range="{{grades}}" value="{{gradeIndex}}" bindchange="onGradeChange">
+        <view class="picker-text">
+          年级：{{grades[gradeIndex]}}
+        </view>
+      </picker>
+      
+      <picker class="picker" range="{{semesters}}" value="{{semesterIndex}}" bindchange="onSemesterChange">
+        <view class="picker-text">
+          学期：{{semesters[semesterIndex]}}
+        </view>
+      </picker>
+    </view>
+
+    <!-- 课文列表 -->
+    <scroll-view class="article-list" scroll-y>
+      <view class="article-grid">
+        <view class="article-card" wx:for="{{articles}}" wx:key="index" bindtap="onArticleClick" data-index="{{index}}">
+          <view class="article-image">
+            <view class="article-img-placeholder" style="background: linear-gradient(135deg, {{item.color}} 0%, {{item.darkColor}} 100%)">{{item.emoji}}</view>
+            <view class="article-title-overlay">
+              <text class="article-title">{{item.title}}</text>
+            </view>
+          </view>
+          <view class="article-controls">
+            <view class="play-btn" bindtap="playAudio" data-index="{{index}}" catchtap="playAudio">
+              <text class="play-icon">▶</text>
+              <text class="play-text">播放</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- 英语板块 -->
+  <view class="tab-content" wx:if="{{currentTab === 'english'}}">
+    <view class="coming-soon">
+      <text>英语板块开发中...</text>
+    </view>
+  </view>
+</view>

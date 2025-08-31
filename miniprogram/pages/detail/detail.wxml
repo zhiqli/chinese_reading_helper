@@ -1,0 +1,39 @@
+<!--detail.wxml-->
+<view class="container">
+  <!-- 头部信息 -->
+  <view class="header">
+    <view class="header-top">
+      <view class="back-btn" bindtap="onBack">
+        <text class="back-arrow">←</text>
+        <text class="back-text">返回</text>
+      </view>
+    </view>
+    <view class="lesson-info">
+      <text class="lesson-number">{{lessonNumber}}</text>
+      <text class="lesson-title">{{title}}</text>
+      <text class="lesson-author" wx:if="{{author}}">{{author}}</text>
+    </view>
+  </view>
+
+
+  <!-- 课文内容 -->
+  <scroll-view class="content-section" scroll-y>
+    <view class="content-wrapper">
+      <text class="content-text">{{content}}</text>
+    </view>
+  </scroll-view>
+
+  <!-- 隐藏的video组件用于播放HLS音频 -->
+  <video 
+    wx:if="{{showVideoPlayer}}"
+    id="audioVideo"
+    src="{{audio}}" 
+    class="hidden-video"
+    controls="{{false}}"
+    show-center-play-btn="{{false}}"
+    show-fullscreen-btn="{{false}}"
+    show-play-btn="{{false}}"
+    bindplay="onVideoPlay"
+    binderror="onVideoError"
+  ></video>
+</view>

@@ -1,0 +1,119 @@
+/* components/audio-player/audio-player.scss */
+.audio-player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  border-top: 1rpx solid #e0e0e0;
+  padding: 20rpx 24rpx;
+  box-shadow: 0 -2rpx 12rpx rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  transition: transform 0.3s ease;
+  
+  &.hidden {
+    transform: translateY(100%);
+  }
+  
+  &.visible {
+    transform: translateY(0);
+  }
+}
+
+.player-content {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+}
+
+.track-info {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4rpx;
+  min-width: 0;
+  max-width: 150rpx;
+  margin-right: 16rpx;
+}
+
+.track-title {
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.track-author {
+  font-size: 24rpx;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+}
+
+.control-btn {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  
+  &:active {
+    transform: scale(0.95);
+    opacity: 0.8;
+  }
+}
+
+.control-icon {
+  font-size: 24rpx;
+  color: white;
+  font-weight: bold;
+}
+
+.progress-time-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8rpx;
+  min-width: 120rpx;
+}
+
+.progress {
+  height: 4rpx;
+  margin: 0;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 100%;
+  background: #e0e0e0;
+  border-radius: 2rpx;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2rpx;
+  transition: width 0.3s ease;
+}
+
+.time-display {
+  display: flex;
+  justify-content: center;
+}
+
+.time-text {
+  font-size: 20rpx;
+  color: #666;
+  font-weight: 400;
+}

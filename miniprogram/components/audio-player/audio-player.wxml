@@ -1,0 +1,27 @@
+<!--components/audio-player/audio-player.wxml-->
+<view class="audio-player {{isVisible ? 'visible' : 'hidden'}}">
+  <view class="player-content">
+    <!-- 标题信息 -->
+    <view class="track-info">
+      <text class="track-title">{{currentTrack.title || '无标题'}}</text>
+    </view>
+    
+    <!-- 进度条和时间显示 -->
+    <view class="progress-time-container">
+      <view class="progress">
+        <view class="progress-bar">
+          <view class="progress-fill" style="width: {{progress}}%"></view>
+        </view>
+      </view>
+      <view class="time-display">
+        <text class="time-text">{{formatTime(currentTime)}} / {{formatTime(duration)}}</text>
+      </view>
+    </view>
+    
+    <view class="controls">
+      <view class="control-btn" bindtap="togglePlay">
+        <text class="control-icon">{{isPlaying ? '❚❚' : '▶'}}</text>
+      </view>
+    </view>
+  </view>
+</view>

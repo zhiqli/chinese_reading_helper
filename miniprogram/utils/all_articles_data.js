@@ -6,8 +6,7 @@ const articlesData =
     "author": "冯仪",
     "reader": "梁艳",
     "content": "天气凉了，树叶黄了，一片片叶子从树上落下来。\n天空那么蓝，那么高。一群大雁往南飞，一会儿排成个“人”字，一会儿排成个“一”字。\n啊！秋天来了！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/6fb7d3c7156061703646545159734609/6fb7d3c7156061703646545159734609.m3u8?auth=d2cf90973eae25c836fd9af5fa4e1b3f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231227/t20231227_526536164.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-1.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🍂"
@@ -18,11 +17,10 @@ const articlesData =
     "author": "果君",
     "reader": "董乐",
     "content": "草芽尖尖，\n他对小鸟说：\n“我是春天。”\n荷叶圆圆，\n他对青蛙说：\n“我是夏天。”\n谷穗弯弯，\n他鞠着躬说：\n“我是秋天。”\n雪人大肚子一挺，\n他顽皮地说：\n“我就是冬天。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1218/bdf4de34d7d2f1702882284670327102/bdf4de34d7d2f1702882284670327102.m3u8?auth=f5129bf9d32e9c5b83d2112b457c2f00",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231218/t20231218_526525605.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-4.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "4️⃣"
+    "emoji": "🌺"
   },
   {
     "lesson_number": "第12课",
@@ -30,71 +28,65 @@ const articlesData =
     "author": "雷妍",
     "reader": "赵宇昕",
     "content": "下雪啦，下雪啦！\n雪地里来了一群小画家。\n小鸡画竹叶，小狗画梅花，\n小鸭画枫叶，小马画月牙。\n不用颜料不用笔，\n几步就成一幅画。\n青蛙为什么没参加？\n他在洞里睡着啦。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/c3ab7950824e81702982870623450878/c3ab7950824e81702982870623450878.m3u8?auth=d75591794780396946de79087b214935",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534578.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-12.mp3",
     "grade": "1",
-    "semester": "2",
-    "emoji": "❄️"
+    "semester": "1",
+    "emoji": "👨‍🎨"
   },
   {
-    "lesson_number": "识字4",
+    "lesson_number": "识字",
     "title": "日月水火",
     "author": "雷妍",
     "reader": "绿泡泡",
     "content": "日    月\n水    火\n山    石\n田    禾",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/c4a0ad7ad66921703141316928213010/c4a0ad7ad66921703141316928213010.m3u8?auth=e23c2dffd5a79af539273b4067190c05",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534575.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-4.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "💧"
   },
   {
-    "lesson_number": "汉语拼音4",
+    "lesson_number": "汉语拼音",
     "title": "轻轻跳",
     "author": "雷妍",
     "reader": "郑晶",
     "content": "小兔小兔轻轻跳，\n小狗小狗慢慢跑。\n要是踩疼小青草，\n我就不跟你们好。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/0e2257ae217e31703141465789791495/0e2257ae217e31703141465789791495.m3u8?auth=edf0db47cfb768e43b2aa47f8451f635",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534550.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-4.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "💃"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "汉语拼音",
     "title": "四是四",
     "author": "郭彦伟",
     "reader": "李辉",
     "content": "绕口令\n四是四，\n十是十。\n十四是十四，\n四十是四十。\n四十不是十四，\n十四不是四十。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/9444e0bcc126c1703659192607747272/9444e0bcc126c1703659192607747272.m3u8?auth=71bb8dd8280115633dc1ae3ba8338d85",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231227/t20231227_526536386.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-8.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "4️⃣"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "汉语拼音10",
+    "lesson_number": "汉语拼音",
     "title": "欢迎台湾小朋友",
     "author": "雷妍",
     "reader": "张文星",
     "content": "一只船，扬白帆，\n漂啊漂啊到台湾。\n接来台湾小朋友，\n到我学校玩一玩。\n伸出双手紧紧握，\n热情的话儿说不完。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/d60ec9cc023b91703141580460177399/d60ec9cc023b91703141580460177399.m3u8?auth=8507a19fd88fbc8736c3f59acaf5bd88",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534547.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-10.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "👧"
+    "emoji": "👶"
   },
   {
-    "lesson_number": "汉语拼音11",
+    "lesson_number": "汉语拼音",
     "title": "月儿弯弯",
     "author": "雷妍",
     "reader": "李梓萌",
     "content": "月儿弯弯挂蓝天，\n小溪弯弯出青山。\n大河弯弯流入海，\n山路弯弯到校园。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/06e3e4add2fe8170314167170296312/06e3e4add2fe8170314167170296312.m3u8?auth=0ced4e2132b4630c40ea9c08431ec9b2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534546.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-11.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -102,8 +94,7 @@ const articlesData =
     "author": "雷妍",
     "reader": "小鹿姐姐",
     "content": "老师教大家读书。老师念一句，我们跟着念一句。窗外的风吹着，淅淅沙沙；窗外的鸟叫着，叽叽喳喳。\n老师说：“风也在教小鸟念书吗？”我们仔细地听。窗外的风念着：“淅淅沙沙。”窗外的鸟念着：“叽叽喳喳。”\n我们都笑了。哈哈！小鸟念错啦！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/5bde7ee3d42f11703141776300547277/5bde7ee3d42f11703141776300547277.m3u8?auth=6814fa0a9f8b65f52475781648427248",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534545.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-3.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🐦"
@@ -114,47 +105,43 @@ const articlesData =
     "author": "雷妍",
     "reader": "贡婉莹",
     "content": "一年之计在于春，\n一日之计在于晨。\n一寸光阴一寸金，\n寸金难买寸光阴。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/3e0da8c05a1931703141871619504577/3e0da8c05a1931703141871619504577.m3u8?auth=127e458a1f8c28eb11f26282b118e18b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534543.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-4.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🌸"
   },
   {
-    "lesson_number": "识字7",
+    "lesson_number": "识字",
     "title": "大小多少",
     "author": "雷妍",
     "reader": "李佳",
     "content": "一个大，一个小，\n一头黄牛一只猫。\n一边多，一边少，\n一群鸭子一只鸟。\n一个大，一个小，\n一个苹果一颗枣。\n一边多，一边少，\n一堆杏子一个桃。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/963bd09a72f421703142139319404661/963bd09a72f421703142139319404661.m3u8?auth=88d34400d9bc3b7bd6abb5b342c6a049",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534541.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-7.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🔴"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "识字8",
+    "lesson_number": "识字",
     "title": "小书包",
     "author": "雷妍",
     "reader": "李修平",
     "content": "橡皮  尺子  作业本\n笔袋  铅笔  转笔刀\n我的小书包，\n宝贝真不少。\n课本作业本，\n铅笔转笔刀。\n上课静悄悄，\n下课不乱跑。\n天天起得早，\n陪我去学校。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/57eb9d85b46e1703142278002975838/57eb9d85b46e1703142278002975838.m3u8?auth=d44c7d97625348dd99f65189cfc5ef7f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534540.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-8.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🎒"
   },
   {
-    "lesson_number": "识字9",
+    "lesson_number": "识字",
     "title": "日月明",
     "author": "雷妍",
     "reader": "马黎",
     "content": "日月明，田力男。\n小大尖，小土尘。\n二人从，三人众。\n双木林，三木森。\n一人不成众，\n独木不成林。\n众人一条心，\n黄土变成金。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/77f4a5d55e4ce1703142400029895975/77f4a5d55e4ce1703142400029895975.m3u8?auth=b44dbf7e5f14aea5b5895db4d8848c2a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534538.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-9.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "语文园地",
@@ -162,23 +149,21 @@ const articlesData =
     "author": "雷妍",
     "reader": "方亮",
     "content": "悯农（其二）\n[唐]  李绅\n锄禾日当午，汗滴禾下土。\n谁知盘中餐，粒粒皆辛苦。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/a25e05fd005ea1703142483086564581/a25e05fd005ea1703142483086564581.m3u8?auth=06088b350341da300a15bcc66fd0c2e1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534537.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-6.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "2️⃣"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第17课",
     "title": "拔萝卜",
     "author": "雷妍",
     "reader": "绿泡泡",
     "content": "老公公种了一个萝卜。萝卜长大了，老公公去地里拔萝卜。\n老公公拉着萝卜叶子，“嗨哟！嗨哟！”拔呀拔，拔不动。\n老公公喊老婆婆来帮忙。老婆婆拉着老公公，老公公拉着萝卜叶子，“嗨哟！嗨哟！”拔呀拔，拔不动。\n老婆婆喊小姑娘来帮忙。小姑娘拉着老婆婆，老婆婆拉着老公公，老公公拉着萝卜叶子，“嗨哟！嗨哟！”拔呀拔，拔不动。\n小姑娘喊小狗来帮忙。小狗拉着小姑娘，小姑娘拉着老婆婆，老婆婆拉着老公公，老公公拉着萝卜叶子，“嗨哟！嗨哟！”拔呀拔，拔不动。\n小狗喊小猫来帮忙……",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/82101e2607b4d1703142592419558462/82101e2607b4d1703142592419558462.m3u8?auth=7ed3edbe78ec14ca4cc2db8ef9e4da6a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534536.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-5.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🥕"
   },
   {
     "lesson_number": "语文园地",
@@ -186,11 +171,10 @@ const articlesData =
     "author": "冯仪",
     "reader": "林溪",
     "content": "古朗月行（节选）\n［唐］李白\n小时不识月，\n呼作白玉盘。\n又疑瑶台镜，\n飞在青云端。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/b3cee3b874e691703647064496770892/b3cee3b874e691703647064496770892.m3u8?auth=5bf150384e90fb9fe865f77c6fc11bd7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231227/t20231227_526536157.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-7.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "📄"
   },
   {
     "lesson_number": "语文园地",
@@ -198,8 +182,7 @@ const articlesData =
     "author": "雷妍",
     "reader": "尼格买提",
     "content": "有只小猴子在井边玩。他往井里一看，里面有个月亮。小猴子叫起来：“糟啦，糟啦！月亮掉在井里啦！”\n大猴子听见了，跑过来一看，跟着叫起来：“糟啦，糟啦！月亮掉在井里啦！”\n老猴子听见了，跑过来一看，也跟着叫起来：“糟啦，糟啦！月亮掉在井里啦！”\n附近的猴子听见了，都跑过来看。大家跟着叫起来：“糟啦，糟啦！月亮掉在井里啦！咱们快把它捞上来！\n猴子们爬上了井旁边的大树。老猴子倒挂在树上，拉住大猴子的脚。大猴子也倒挂着，拉住另一只猴子的脚。猴子们就这样一只接一只，一直挂到井里头，小猴子挂在最下边。\n小猴子伸手去捞月亮，手刚碰到水，月亮就不见了。老猴子一抬头，看见月亮还在天上。他喘着气，说：“不用捞了，不用捞了！月亮好好地挂在天上呢！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/2888528a6090b1703142677518918581/2888528a6090b1703142677518918581.m3u8?auth=1bcaa05a898f3a5711d1587d3b9e65cf",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534535.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-8.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🌙"
@@ -210,11 +193,10 @@ const articlesData =
     "author": "雷妍",
     "reader": "任鲁豫",
     "content": "风\n[唐]  李峤\n解落三秋叶，能开二月花。\n过江千尺浪，入竹万竿斜。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/ef14f1300e2a21703142787934240736/ef14f1300e2a21703142787934240736.m3u8?auth=47f742577d4ee245b2b9af04c12c55db",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20231226/t20231226_526534514.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-11.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "💨"
+    "emoji": "🌀"
   },
   {
     "lesson_number": "第2课",
@@ -222,8 +204,7 @@ const articlesData =
     "author": "方婧",
     "reader": "郑晶",
     "content": "弯弯的月儿小小的船，\n小小的船儿两头尖。\n我在小小的船里坐，\n只看见闪闪的星星蓝蓝的天。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547D8-A900-4A80-A6E7-2A190A141C1A_2018-05-1115_39_12_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231242.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-2.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "⛵"
@@ -234,8 +215,7 @@ const articlesData =
     "author": "方婧",
     "reader": "马宗武",
     "content": "江南\n汉乐府\n江南可采莲，\n莲叶何田田。\n鱼戏莲叶间。\n鱼戏莲叶东，\n鱼戏莲叶西，\n鱼戏莲叶南，\n鱼戏莲叶北。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547D8-D8F4-4685-B678-2A190A141C1A_2018-05-1115_36_13_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231250.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-3.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "📖"
@@ -246,11 +226,10 @@ const articlesData =
     "author": "方婧",
     "reader": "鞠萍",
     "content": "影子在前，\n影子在后，\n影子常常跟着我，\n就像一条小黑狗。\n影子在左，\n影子在右，\n影子常常陪着我，\n它是我的好朋友。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547D9-B7E4-455D-8E1B-2A190A141C1A_2018-05-1115_09_02_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231255.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-5.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "👥"
   },
   {
     "lesson_number": "第6课",
@@ -258,11 +237,10 @@ const articlesData =
     "author": "方婧",
     "reader": "方舟",
     "content": "谁的尾巴长？\n谁的尾巴短？\n谁的尾巴好像一把伞？\n猴子的尾巴长。\n兔子的尾巴短。\n松鼠的尾巴好像一把伞。\n谁的尾巴弯？\n谁的尾巴扁？\n谁的尾巴最好看？\n公鸡的尾巴弯。\n鸭子的尾巴扁。\n孔雀的尾巴最好看。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547D9-2738-4F2F-8AC2-2A190A141C1A_2018-05-1115_35_52_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231276.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-6.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第7课",
@@ -270,8 +248,7 @@ const articlesData =
     "author": "方婧",
     "reader": "任杰",
     "content": "下雨了，\n雨点儿淅沥沥，沙啦啦。\n青蛙说：“我要写诗啦！”\n小蝌蚪游过来说：\n“我要给你当个小逗号。”\n池塘里的水泡泡说：\n“我能当个小句号。”\n荷叶上的一串水珠说：\n“我们可以当省略号。”\n青蛙的诗写成了：\n“呱呱，呱呱，\n呱呱呱。\n呱呱，呱呱，\n呱呱呱……”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EA-7E64-47B1-9878-2A780A141C1A_2018-05-1115_39_42_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231282.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-7.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🐸"
@@ -282,8 +259,7 @@ const articlesData =
     "author": "方婧",
     "reader": "郑岚",
     "content": "数不清的雨点儿，从云彩里飘落下来。\n半空中，大雨点儿问小雨点儿：“你要到哪里去？”\n小雨点儿回答：“我要去有花有草的地方。你呢？”\n大雨点儿说：“我要去没有花没有草的地方。”\n不久，有花有草的地方，花更红了，草更绿了。没有花没有草的地方，开出了红的花，长出了绿的草。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EA-8EBC-4AEE-9479-2A780A141C1A_2018-05-1115_36_27_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231290.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-8.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🌧️"
@@ -294,11 +270,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "阿杰",
     "content": "翻过来，\n唉－－－－\n睡不着。\n那地方的海，\n真的像老师说的，\n那么多种颜色吗？\n翻过去，\n唉－－－－\n睡不着。\n那地方的云，\n真的像同学说的，\n那么洁白柔软吗？\n翻过来，\n翻过去，\n唉－－－－\n到底什么时候，\n才天亮呢？",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA10-D5E4-4E79-BAB9-3D1E0A141C1A_2018-12-0616_09_57_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450196.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-9.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌤️"
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第11课",
@@ -306,11 +281,10 @@ const articlesData =
     "author": "方婧",
     "reader": "春天",
     "content": "大海，蓝蓝的，又宽又远。沙滩，黄黄的，又长又软。雪白雪白的浪花，哗哗地笑着，涌向沙滩，悄悄撒下小小的海螺和贝壳。\n小娃娃嘻嘻地笑着，迎上去，捡起小小的海螺和贝壳，穿成彩色的项链，挂在胸前。快活的脚印落在沙滩上，穿成金色的项链，挂在大海胸前。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EB-95AC-4438-85A4-2A780A141C1A_2018-05-1115_36_44_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231299.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-11.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📿"
   },
   {
     "lesson_number": "第13课",
@@ -318,11 +292,10 @@ const articlesData =
     "author": "方婧",
     "reader": "宇菲",
     "content": "一只乌鸦口渴了，到处找水喝。乌鸦看见一个瓶子，瓶子里有水。但是，瓶子里水不多，瓶口又小，乌鸦喝不着水。怎么办呢？\n乌鸦看见旁边有许多小石子，想出办法来了。\n乌鸦把小石子一颗一颗地放进瓶子里。瓶子里的水渐渐升高，乌鸦就喝着水了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EB-9528-4369-BD7D-2A780A141C1A_2018-05-1115_36_16_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231304.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-13.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "💧"
+    "emoji": "🐦‍⬛"
   },
   {
     "lesson_number": "第14课",
@@ -330,8 +303,7 @@ const articlesData =
     "author": "方婧",
     "reader": "郑晶",
     "content": "蜗牛一家住在小树林的旁边。\n春天来了， 蜗牛妈妈对小蜗牛说：“孩子，到小树林里去玩吧，小树发芽了。”\n小蜗牛爬呀，爬呀，好久才爬回来。它说：“妈妈，小树长满了叶子，碧绿碧绿的，地上还长着许多草莓呢。”\n蜗牛妈妈说：“哦，已经是夏天了！快去摘几颗草莓回来。”\n小蜗牛爬呀，爬呀，好久才爬回来。它说：“妈妈，草莓没有了，地上长着蘑菇，树叶全变黄了。”\n蜗牛妈妈说：“哦，已经是秋天了！快去采几个蘑菇回来。”\n小蜗牛爬呀，爬呀，好久才爬回来。它说：“妈妈，蘑菇没有了，地上盖着雪，树叶全掉了。”\n蜗牛妈妈说 ：“哦，已经是冬天了！你就待在家里过冬吧。”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EB-A5D0-476D-B11B-2A780A141C1A_2018-05-1115_37_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20180513/t20180513_524231307.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-14.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🐌"
@@ -342,11 +314,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "绿泡泡",
     "content": "天地人\n你我他",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A24E2-3384-4557-8B58-53A10A141C1A_2018-12-0715_41_27_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450199.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-1.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🌤️"
+    "emoji": "📚"
   },
   {
     "lesson_number": "识字",
@@ -354,8 +325,7 @@ const articlesData =
     "author": "刘冬青",
     "reader": "小鹿姐姐",
     "content": "一二三四五，\n金木水火土。\n天地分上下，\n日月照今古。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA11-2668-4B41-B801-3D1E0A141C1A_2018-12-0616_13_43_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450200.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-2.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "💧"
@@ -366,11 +336,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "满超",
     "content": "站如松，坐如钟。\n行如风，卧如弓。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA11-DB90-45BF-9ACC-3D1E0A141C1A_2018-12-0616_10_38_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450201.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-3.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "识字",
@@ -378,20 +347,18 @@ const articlesData =
     "author": "刘冬青",
     "reader": "绿泡泡",
     "content": "云对雨，\n雪对风。\n花对树，\n鸟对虫。\n山清对水秀，\n柳绿对桃红。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA12-CFA4-42E0-9C08-3D1E0A141C1A_2018-12-0616_13_36_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450202.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-5.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🎤"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "识字",
-    "title": "502 Bad Gateway",
+    "lesson_number": "第9课",
+    "title": "画",
     "author": "",
-    "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450214.html",
+    "reader": "徐曼",
+    "content": "远看山有色，\n近听水无声。\n春去花还在，\n人来鸟不惊。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-6.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "📖"
@@ -402,11 +369,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "唐子文",
     "content": "中国  国旗  五星红旗\n五星红旗，我们的国旗。\n国歌声中，徐徐升起；\n迎风飘扬，多么美丽。\n向着国旗，我们立正；\n望着国旗，我们敬礼。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA1A-D8B4-47C6-A97E-3D1E0A141C1A_2018-12-0616_12_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450215.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-10.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -414,8 +380,7 @@ const articlesData =
     "author": "刘冬青",
     "reader": "李修平",
     "content": "小孩小孩你别馋，\n过了腊八就是年。\n腊八粥，喝几天，\n哩哩啦啦二十三。\n二十三，糖瓜粘。\n二十四，扫房子。\n二十五，磨豆腐。\n二十六，去买肉。\n二十七，宰公鸡。\n二十八，把面发。\n二十九，蒸馒头。\n三十晚上熬一宿，\n初一初二满街走。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA1E-6998-4B35-A2B9-3D1E0A141C1A_2018-12-0616_15_43_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450220.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-10.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🧧"
@@ -426,11 +391,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "董浩",
     "content": "种瓜得瓜，种豆得豆。\n前人栽树，后人乘凉。\n千里之行，始于足下。\n百尺竿头，更进一步。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA1D-2924-4884-9D10-3D1E0A141C1A_2018-12-0616_15_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450219.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-9.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "汉语拼音",
@@ -438,35 +402,32 @@ const articlesData =
     "author": "刘冬青",
     "reader": "红果果",
     "content": "蓝天是白云的家，\n树林是小鸟的家，\n小河是鱼儿的家，\n泥土是种子的家。\n我们是祖国的花朵，\n祖国就是我们的家。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA17-BC84-4A68-B92F-3D1E0A141C1A_2018-12-0616_14_36_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450211.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-12.mp3",
     "grade": "1",
     "semester": "1",
     "emoji": "🏠"
   },
   {
     "lesson_number": "语文园地",
-    "title": "502 Bad Gateway",
+    "title": "剪窗花",
     "author": "",
     "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450209.html",
+    "content": "小剪刀，手中拿，\n 我学奶奶剪窗花。\n 剪梅花，剪雪花， \n 剪对喜鹊叫喳喳。\n 剪只鸡，剪只鸭，\n剪条鲤鱼摇尾巴。\n大红鲤鱼谁来抱？ \n哦！再剪一个胖娃娃。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-2.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🌺"
   },
   {
     "lesson_number": "汉语拼音",
-    "title": "502 Bad Gateway",
+    "title": "过桥",
     "author": "",
     "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450208.html",
+    "content": "数学题，三四道，\n 一排等号像小桥。\n 做对了，走过桥。\n 做错了，过不了。\n 想一想，算一算，\n 快快乐乐过了桥。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-7.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🌉"
   },
   {
     "lesson_number": "汉语拼音",
@@ -474,23 +435,21 @@ const articlesData =
     "author": "刘冬青",
     "reader": "王尹麒",
     "content": "小黄鸡，小黑鸡，\n欢欢喜喜在一起。\n刨刨土，捉捉虫，\n青草地上做游戏。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA14-CC54-4F4B-8A3B-3D1E0A141C1A_2018-12-0616_11_17_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450207.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-6.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "1️⃣"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "课外阅读",
+    "lesson_number": "汉语拼音",
     "title": "说话",
     "author": "刘冬青",
     "reader": "绿泡泡",
     "content": "小溪流说话，哗哗，哗哗。\n小雨点说话，沙沙，沙沙。\n小鸽子说话，咕咕，咕咕。\n小鸭子说话，嘎嘎，嘎嘎。\n小花猫说话，喵喵，喵喵。\n小青蛙说话，呱呱，呱呱。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA14-DB88-449A-8958-3D1E0A141C1A_2018-12-0616_14_04_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450206.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-5.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "💬"
+    "emoji": "📖"
   },
   {
     "lesson_number": "语文园地",
@@ -498,11 +457,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "李辉",
     "content": "咏鹅\n［唐］骆宾王\n鹅，鹅，鹅，\n曲项向天歌。\n白毛浮绿水，\n红掌拨清波。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA13-82E4-4CCA-A085-3D1E0A141C1A_2018-12-0616_11_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450204.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-12.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🦆"
+    "emoji": "🦢"
   },
   {
     "lesson_number": "语文园地",
@@ -510,11 +468,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "任鲁豫",
     "content": "一片两片三四片，\n五片六片七八片。\n九片十片无数片，\n飞入水中都不见。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA12-9BD0-4D53-891E-3D1E0A141C1A_2018-12-0616_10_22_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjsc/20181214/t20181214_524450203.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-97-1.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "1️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第12课",
@@ -522,11 +479,10 @@ const articlesData =
     "author": "高杨",
     "reader": "肖玉",
     "content": "小池\n[宋]  杨万里\n泉眼无声惜细流，\n树荫照水爱晴柔。\n小荷才露尖尖角，\n早有蜻蜓立上头。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f47d4910518ef1703064878992805469/f47d4910518ef1703064878992805469.m3u8?auth=6600ef8dbf498dcc292fb1be66e47f0d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532344.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-12-2.mp3",
     "grade": "1",
     "semester": "2",
-    "emoji": "🔵"
+    "emoji": "📖"
   },
   {
     "lesson_number": "第14课",
@@ -534,23 +490,21 @@ const articlesData =
     "author": "冯仪",
     "reader": "小鹿姐姐",
     "content": "小白兔弯着腰在山坡上割草。天阴沉沉的，小白兔直起身子，伸了伸腰。\n小燕子从他头上飞过。小白兔大声喊：“燕子，燕子，你为什么飞得这么低呀？”\n燕子边飞边说：“要下雨了，空气很潮湿，虫子的翅膀沾了小水珠，飞不高。我正忙着捉虫子呢！”\n是要下雨了吗？小白兔往前边池子里一看，小鱼都游到水面上来了。\n小白兔跑过去，问：“小鱼，小鱼，今天怎么有空出来呀？”\n小鱼说：“要下雨了。水里闷得很。我们到水面上来透透气。小白兔，你快回家吧，小心淋着雨。”\n小白兔连忙挎起篮子往家跑。他看见路边有一大群蚂蚁，就把要下雨的消息告诉了蚂蚁。一只大蚂蚁说：“是要下雨了，我们正忙着搬东西呢！”\n小白兔加快步子往家跑。他一边跑一边喊：“妈妈，妈妈，要下雨了！”\n轰隆隆，天空响起了一阵雷声。哗，哗，哗，大雨真的下起来了！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/19ab64a90af421703648061909728341/19ab64a90af421703648061909728341.m3u8?auth=309e28c87807216c83f0b73aaf5cb844",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231227/t20231227_526536198.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-14.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🌧️"
   },
   {
-    "lesson_number": "语文园地",
-    "title": "502 Bad Gateway",
+    "lesson_number": "识字",
+    "title": "摇摇床",
     "author": "",
     "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532348.html",
+    "content": "摇摇摇，\n 一摇摇到外婆桥，\n 外婆叫我好宝宝。\n 糖一包，果一包，\n 还有饼儿还有糕。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-4.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -558,10 +512,9 @@ const articlesData =
     "author": "冯仪",
     "reader": "林溪",
     "content": "春晓\n［唐］孟浩然\n春眠不觉晓，\n处处闻啼鸟。\n夜来风雨声，\n花落知多少。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/696aa6ce6d70f170364859075017040/696aa6ce6d70f170364859075017040.m3u8?auth=498a78793b910ee7c07305811a8432af",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231227/t20231227_526536289.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-7.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🌸"
   },
   {
@@ -570,11 +523,10 @@ const articlesData =
     "author": "高杨",
     "reader": "方亮",
     "content": "赠汪伦\n[唐]  李白\n李白乘舟将欲行，\n忽闻岸上踏歌声。\n桃花潭水深千尺，\n不及汪伦送我情。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/e7f45b27a79e61703064111462673131/e7f45b27a79e61703064111462673131.m3u8?auth=bef38770e5c0e1fd2fea216bb8f819ba",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532346.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-9.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "识字",
@@ -582,35 +534,32 @@ const articlesData =
     "author": "任芳",
     "reader": "贾际",
     "content": "人之初，性本善。\n性相近，习相远。\n苟不教，性乃迁。\n教之道，贵以专。\n子不学，非所宜。\n幼不学，老何为。\n玉不琢，不成器。\n人不学，不知义。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/827d83592e9211703063837220717384/827d83592e9211703063837220717384.m3u8?auth=df825ec2dd284c130357012677031a8f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532345.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-8.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
-    "title": "502 Bad Gateway",
+    "title": "夏夜多美",
     "author": "",
     "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532343.html",
+    "content": "夏夜，公园里静悄悄的。\n水池里，睡莲刚闭上眼睛，就被呜呜的哭声惊醒了。她睁开眼睛一看，是一只小蚂蚁趴在一根水草上。睡莲问：“小蚂蚁，你怎么啦？”\n小蚂蚁说：“我不小心掉进池塘，上不了岸啦！”\n“快上来吧！”睡莲弯弯腰，让他爬了上来。\n小蚂蚁非常感激，连声说：“谢谢您，睡莲姑姑。”\n睡莲说：“今晚就在这儿住下吧！你瞧，夏夜多美呀！”\n小蚂蚁摇摇头，说：“我得回家。要不，爸爸妈妈会着急的。”\n他们的话让正在睡莲叶上休息的蜻蜓听见了。他问：“睡莲姑姑，有什么事吗？”\n“小蚂蚁想回家，可我没办法送他。”\n蜻蜓说：“让我来送小蚂蚁吧！”\n睡莲问：“天这么黑，你能行吗？”\n这时，一只萤火虫飞来了，说：“我来给你们照亮。”\n小蚂蚁爬上“飞机”，蜻蜓起飞了。萤火虫在前面点起了亮晶晶的小灯笼。\n蜻蜓飞呀飞，飞过青青的假山，飞过绿绿的草坪，飞到一座花坛前，小蚂蚁到家了。\n星星看见了，高兴地眨着眼。\n啊，多美的夏夜呀！",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-13.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "☀️"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第18课",
     "title": "画鸡",
     "author": "任芳",
     "reader": "李辉",
     "content": "画鸡\n[明  ]唐寅\n头上红冠不用裁，\n满身雪白走将来。\n平生不敢轻言语，\n一叫千门万户开。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/642b9476d6eeb1703064485604887821/642b9476d6eeb1703064485604887821.m3u8?auth=5e72346a9937657ff7b8ed696d5a8307",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20231223/t20231223_526532338.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-16.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🐓"
+    "semester": "2",
+    "emoji": "🐔"
   },
   {
     "lesson_number": "第2课",
@@ -618,11 +567,10 @@ const articlesData =
     "author": "方婧",
     "reader": "郑晶",
     "content": "妈妈告诉我，沿着弯弯的小路，就会走出天山。遥远的北京城，有一座雄伟的天安门，广场上的升旗仪式非常壮观。我对妈妈说，我多想去看看，我多想去看看！\n爸爸告诉我，沿着宽宽的公路，就会走出北京。遥远的新疆，有美丽的天山，雪山上盛开着洁白的雪莲。我对爸爸说，我多想去看看，我多想去看看！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547EC-330C-4037-AE69-2A780A141C1A_2018-05-1115_37_16_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231316.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-2.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "💭"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第4课",
@@ -630,10 +578,9 @@ const articlesData =
     "author": "刘冬青",
     "reader": "杨富江",
     "content": "我画了个绿绿的太阳，挂在夏天的天空。高山、田野、街道、校园，到处一片清凉。\n我画了个金黄的太阳，送给秋天。果园里，果子熟了。金黄的落叶忙着邀请小伙伴，请他们尝尝水果的香甜。\n我画了个红红的太阳，送给冬天。阳光温暖着小朋友冻僵的手和脸。\n春天，春天的太阳该画什么颜色呢？哦，画个彩色的。因为春天是个多彩的季节。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08DA1E-8A64-4551-8338-3D1E0A141C1A_2018-12-0616_12_33_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450237.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-4.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "☀️"
   },
   {
@@ -642,23 +589,21 @@ const articlesData =
     "author": "方婧",
     "reader": "董乐",
     "content": "小公鸡和小鸭子一块儿出去玩。\n他们走进草地里。小公鸡找到了许多虫子，吃得很欢。小鸭子捉不到虫子，急得直哭。小公鸡看见了，捉到虫子就给小鸭子吃。\n他们走到小河边。小鸭子说：“公鸡弟弟，我到河里捉鱼给你吃。”小公鸡说：“我也去。”小鸭子说：“不行，不行，你不会游泳，会淹死的！”小公鸡不信，偷偷地跟在小鸭子后面，也下了水。\n小鸭子正在水里捉鱼，忽然，听见小公鸡喊救命。他飞快地游到小公鸡身边，让小公鸡坐在自己的背上。小公鸡上了岸，笑着对小鸭子说：“鸭子哥哥，谢谢你。”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547FA-B5D0-4D49-A852-2A7B0A141C1A_2018-05-1115_09_54_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231317.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-5.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🐓"
+    "semester": "2",
+    "emoji": "🐔"
   },
   {
-    "lesson_number": "第6课",
+    "lesson_number": "习作例文",
     "title": "树和喜鹊",
     "author": "方婧",
     "reader": "陈亮",
     "content": "从前，这里只有一棵树，树上只有一个鸟窝，鸟窝里只有一只喜鹊。\n树很孤单，喜鹊也很孤单。\n后来，这里种了好多好多树，每棵树上都有鸟窝，每个鸟窝里都有喜鹊。\n树有了邻居，喜鹊也有了邻居。\n每天天一亮，喜鹊们叽叽喳喳叫几声，打着招呼一起飞出去了。天一黑，他们又叽叽喳喳地一起飞回窝里，安安静静地睡觉了。\n树很快乐，喜鹊也很快乐。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547FB-D174-49DE-B1DB-2A7B0A141C1A_2018-05-1115_36_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231320.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌳"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-2.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🐦"
   },
   {
     "lesson_number": "第7课",
@@ -666,11 +611,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "舒欣",
     "content": "一个人玩，很好！\n独自一个，静悄悄的，\n正好用纸折船，折马……\n踢毽子，跳绳，搭积木，\n当然还有看书，画画，\n听音乐……\n两个人玩，很好！\n讲故事得有人听才行，\n你讲我听，我讲你听。\n还有下象棋，打羽毛球，\n坐跷跷板……\n三个人玩，很好！\n讲故事多个人听更有劲，\n你讲我们听，我讲你们听。\n两个人甩绳子，\n你跳，我跳，轮流跳。\n四个人玩，很好！\n五个人玩，很好！\n许多人玩，更好！\n人多，什么游戏都能玩，\n拔河，老鹰捉小鸡，\n打排球，打篮球，踢足球……\n连开运动会也可以。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08E58D-0474-4574-9064-3D830A141C1A_2018-12-0617_02_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450238.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-7.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "😊"
   },
   {
     "lesson_number": "第8课",
@@ -678,11 +622,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "贾际",
     "content": "静夜思\n[唐] 李白\n床前明月光，疑是地上霜。\n举头望明月，低头思故乡。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08E58D-AD48-4B9D-B1E2-3D830A141C1A_2018-12-0617_02_14_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450239.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-8.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第9课",
@@ -690,10 +633,9 @@ const articlesData =
     "author": "方婧",
     "reader": "王艺",
     "content": "我从前胆子很小很小，\n天一黑就不敢往外瞧。\n妈妈把勇敢的故事讲了又讲，\n可我一看窗外心就乱跳……\n爸爸晚上偏要拉我去散步，\n原来花草都像白天一样微笑。\n从此再黑再黑的夜晚，\n我也能看见小鸟怎样在月光下睡觉……",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547FC-2E64-485A-8098-2A7B0A141C1A_2018-05-1115_37_34_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231322.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-9.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -702,10 +644,9 @@ const articlesData =
     "author": "刘冬青",
     "reader": "杜月媚",
     "content": "雨停了，天上有一座美丽的桥。\n爸爸，你那把浇花用的水壶呢？如果我提着它，走到桥上，把水洒下来，那不就是我在下雨吗？你就不用挑水去浇田了，你高兴吗？\n妈妈，你梳头用的那面镜子呢？如果我拿着它，走到桥上，天上不就多了一个月亮吗？我拿着圆圆的月亮照着你梳头，你高兴吗？\n哥哥，你系在门前树上的秋千呢？如果我把它挂在彩虹桥上，坐着秋千荡来荡去，花裙子飘啊飘的，不就成了一朵彩云吗？你看见了，高兴吗？",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08E58E-56E0-40A3-B501-3D830A141C1A_2018-12-0617_02_17_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450240.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-11.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🌈"
   },
   {
@@ -714,8 +655,7 @@ const articlesData =
     "author": "方婧",
     "reader": "肖玉",
     "content": "池上【唐】白居易小娃撑小艇，偷采白莲回。不解藏踪迹，浮萍一道开。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547FC-ABEC-44DA-B4A4-2A7B0A141C1A_2018-05-1115_37_47_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231329.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-12-1.mp3",
     "grade": "1",
     "semester": "2",
     "emoji": "📖"
@@ -726,11 +666,10 @@ const articlesData =
     "author": "方婧",
     "reader": "田龙",
     "content": "荷叶圆圆的，绿绿的。\n小水珠说：“荷叶是我的摇蓝。”小水珠躺在荷叶上，眨着亮晶晶的眼睛。\n小蜻蜓说：“荷叶是我的停机坪。”小蜻蜓立在荷叶上，展开透明的翅膀。\n小青蛙说：“荷叶是我的歌台。”小青蛙蹲在荷叶上，呱呱地放声歌唱。\n小鱼儿说：“荷叶是我的凉伞。”小鱼儿在荷叶下笑嘻嘻地游来游去，捧起一朵朵很美很美的水花。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF547FD-ED60-43DC-862E-2A7B0A141C1A_2018-05-1115_38_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231335.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-13.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🍃"
+    "semester": "2",
+    "emoji": "🪷"
   },
   {
     "lesson_number": "第15课",
@@ -738,11 +677,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "肖玉",
     "content": "铅笔，只用了一次，不知丢到哪里去了。\n橡皮，只擦了一回，再想擦，就找不着了。\n贝贝一回到家，就向妈妈要新的铅笔、新的橡皮。妈妈说：“你怎么天天丢东西呢？”贝贝眨着一双大眼睛，对妈妈说：“我也不知道。”\n妈妈说：“贝贝，你有一个家，每天放学后，你都平平安安地回家。你要想想办法，让你的铅笔、橡皮和转笔刀，也有自己的家呀！”\n贝贝想起来了，她书包里的文具盒，就是这些文具的家。\n从此，每天放学的时候，贝贝都要仔细检查，铅笔呀，橡皮呀，转笔刀哇，所有的小伙伴是不是都回家了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C08E58E-03B8-4638-907C-3D830A141C1A_2018-12-0617_02_22_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450241.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-15.mp3",
     "grade": "1",
     "semester": "2",
-    "emoji": "🏠"
+    "emoji": "📝"
   },
   {
     "lesson_number": "第16课",
@@ -750,11 +688,10 @@ const articlesData =
     "author": "方婧",
     "reader": "王冠",
     "content": "丁零零，闹钟响了。元元打了个哈欠，翻了个身，心想：再睡一分钟吧，就睡一分钟，不会迟到的。\n过了一分钟，元元起来了。他很快地洗了脸，吃了早点，就背着书包上学去了。到了十字路口，他看见前面是绿灯，刚想走过去，红灯亮了。他叹了口气，说：“要是早一分钟就好了。”\n他等了一会儿，才走过十字路口。他向停在车站的公共汽车跑去，眼看就要到了，车子开了。他又叹了口气，说：“要是早一分钟就好了。”\n他等啊等，一直不见公共汽车的影子，元元决定走到学校去。\n到了学校，已经上课了。元元红着脸，低着头，坐到了自己的座位上。李老师看了看手表，说：“元元，今天你迟到了二十分钟。”\n元元非常后悔。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5480D-F5E8-4D5D-8ADA-2A7C0A141C1A_2018-05-1115_38_31_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231344.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-16.mp3",
     "grade": "1",
     "semester": "2",
-    "emoji": "1️⃣"
+    "emoji": "🕰️"
   },
   {
     "lesson_number": "第18课",
@@ -762,23 +699,21 @@ const articlesData =
     "author": "方婧",
     "reader": "林溪",
     "content": "有一天，小猴子下山来，走到一块玉米地里。他看见玉米结得又大又多，非常高兴，就掰了一个，扛着往前走。\n小猴子扛着玉米，走到一棵桃树下。他看见满树的桃子又大又红，非常高兴，就扔了玉米，去摘桃子。\n小猴子捧着几个桃子，走到一片瓜地里。他看见满地的西瓜又大又圆，非常高兴，就扔了桃子，去摘西瓜。\n小猴子抱着一个大西瓜往回走。走着走着，他看见一只小兔子蹦蹦跳跳的，真可爱，就扔了西瓜，去追小兔子。\n小兔子跑进树林里，不见了。小猴子只好空着手回家去。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5480E-9814-43FE-B554-2A7C0A141C1A_2018-05-1115_38_43_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231349.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-18.mp3",
     "grade": "1",
     "semester": "2",
     "emoji": "⛰️"
   },
   {
-    "lesson_number": "第19课",
-    "title": "502 Bad Gateway",
+    "lesson_number": "第11课",
+    "title": "棉花姑娘",
     "author": "",
     "reader": "",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450242.html",
+    "content": "棉花姑娘生病了，叶子上有许多可恶的蚜虫。她多么盼望有医生来给她治病啊！\n 燕子飞来了。棉花姑娘说：“请你帮我捉害虫吧！”燕子说：“对不起，我只会捉空中飞的害虫，你还是请别人帮忙吧！”\n 啄木鸟飞来了。棉花姑娘说：“请你帮我捉害虫吧！”啄木鸟说：“对不起，我只会捉树干里的害虫，你还是请别人帮忙吧！”\n 青蛙跳来了。棉花姑娘高兴地说：“请你帮我捉害虫吧！”青蛙说“对不起，我只会捉田里的害虫，你还是请别人帮忙吧！”\n 忽然，一群圆圆的小虫子飞来了，很快就把蚜虫吃光了。棉花姑娘惊奇地问：“你们是谁呀？”小虫子说：“我们身上有七个斑点，就像七颗星星，大家叫我们七星瓢虫。”\n 不久，棉花姑娘的病好了，长出了碧绿碧绿的叶子，吐出了雪白雪白的棉花。她咧开嘴笑啦！",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-19.mp3",
     "grade": "1",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "🌺"
   },
   {
     "lesson_number": "第21课",
@@ -786,11 +721,10 @@ const articlesData =
     "author": "方婧",
     "reader": "海霞",
     "content": "小壁虎在墙角捉蚊子，一条蛇咬住了他的尾巴。小壁虎一挣，挣断尾巴逃走了。\n没有尾巴多难看哪！小壁虎想：向谁去借一条尾巴呢？\n小壁虎爬呀爬，爬到小河边。他看见小鱼摇着尾巴，在河里游来游去。小壁虎说：“小鱼姐姐，您把尾巴借给我行吗？”小鱼说：“不行啊，我要用尾巴拨水呢。”\n小壁虎爬呀爬，爬到大树上。他看见老牛甩着尾巴，在树下吃草。小壁虎说：“牛伯伯，您把尾巴借给我行吗？”老牛说：“不行啊，我要用尾巴赶蝇子呢。”\n小壁虎爬呀爬，爬到房檐下。他看见燕子摆着尾巴，在空中飞来飞去。小壁虎说：“燕子阿姨，您把尾巴借给我行吗？”燕子说：“不行啊，我要用尾巴掌握方向呢。”\n小壁虎借不到尾巴，心里很难过。他爬呀爬，爬回家里找妈妈。\n小壁虎把借尾巴的事告诉了妈妈。妈妈笑着说：“傻孩子，你转过身子看看。”小壁虎转身一看，高兴得叫了起来：“我长出一条新尾巴啦！”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5480E-69EC-4B57-9085-2A7C0A141C1A_2018-05-1115_38_49_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20180513/t20180513_524231351.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-21.mp3",
     "grade": "1",
     "semester": "2",
-    "emoji": "🐯"
+    "emoji": "🐅"
   },
   {
     "lesson_number": "语文园地",
@@ -798,11 +732,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "任鲁豫",
     "content": "唐僧骑马咚那个咚，\n后面跟着个孙悟空，\n孙悟空，跑得快，\n后面跟着个猪八戒。\n猪八戒，鼻子长，\n后面跟着个沙和尚。\n沙和尚，挑着箩，\n后面跟着个老妖婆。\n老妖婆，真正坏，\n骗了唐僧和八戒。\n唐僧八戒真糊涂，\n是人是妖分不清。\n分不清，上了当，\n多亏悟空眼睛亮。\n眼睛亮，冒金光，\n高高举起金箍棒。\n金箍棒，有力量，\n妖魔鬼怪消灭光。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD07-D38C-4652-961D-4E390A141C1A_2018-12-0710_35_22_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450262.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-15.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -810,11 +743,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "唐子文",
     "content": "朝霞不出门，晚霞行千里。\n有雨山戴帽，无雨半山腰。\n早晨下雨当日晴，晚上下雨到天明。\n蚂蚁搬家蛇过道，大雨不久要来到。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD07-1624-4189-BAB1-4E390A141C1A_2018-12-0710_35_13_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450261.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-14.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🚪"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -822,11 +754,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "任鲁豫",
     "content": "狐狸在树林里找吃的。他来到一棵大树下，看见乌鸦正站在树枝上，嘴里叼着一片肉。狐狸馋得直流口水。\n他眼珠一转，对乌鸦说：“亲爱的乌鸦，您好吗？”乌鸦没有回答。\n狐狸赔着笑脸说：“亲爱的乌鸦，您的孩子好吗？”乌鸦看了狐狸一眼，还是没有回答。\n狐狸又摇摇尾巴，说：”亲爱的乌鸦，您的羽毛真漂亮，麻雀比起您来，可就差多了。您的嗓子真好，谁都爱听您唱歌，您就唱几句吧！”\n乌鸦听了狐狸的话，非常得意，于是就唱了起来。“哇……”乌鸦刚一开口，肉就掉了下来。\n狐狸叼起肉，一溜烟跑掉了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD06-D548-453E-BA0B-4E390A141C1A_2018-12-0710_34_50_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450260.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-11.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "🐦‍⬛"
   },
   {
     "lesson_number": "语文园地",
@@ -834,11 +765,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "马黎",
     "content": "小葱拌豆腐――一清（青）二白\n竹篮子打水――一场空\n芝麻开花――节节高\n十五个吊桶打水――七上八下",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD06-8F20-4637-A485-4E390A141C1A_2018-12-0710_41_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450259.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-12.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🔵"
+    "semester": "2",
+    "emoji": "⬜"
   },
   {
     "lesson_number": "识字",
@@ -846,11 +776,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "王尹麒",
     "content": "打球　拔河　拍皮球\n跳高　跑步　踢足球\n铃声响，下课了。\n操场上，真热闹。\n跳绳踢毽丢沙包，\n天天锻炼身体好。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD05-9538-4842-B517-4E390A141C1A_2018-12-0710_34_47_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450258.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-7.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "🏟️"
   },
   {
     "lesson_number": "识字",
@@ -858,23 +787,21 @@ const articlesData =
     "author": "刘冬青",
     "reader": "绿泡泡",
     "content": "古对今，\n圆对方。\n严寒对酷暑，\n春暖对秋凉。\n晨对暮，\n雪对霜。\n和风对细雨，\n朝霞对夕阳。\n桃对李，\n柳对杨，\n莺歌对燕舞，\n鸟语对花香。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD1A-6D74-4AA5-8A77-4E3E0A141C1A_2018-12-0710_36_18_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450257.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-6.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "识字",
+    "lesson_number": "第12课",
     "title": "动物儿歌",
     "author": "刘冬青",
     "reader": "孙钱",
     "content": "蜻蜓半空展翅飞，\n蝴蝶花间捉迷藏。\n蚯蚓土里造宫殿，\n蚂蚁地上运食粮。\n蝌蚪池中游得欢，\n蜘蛛房前结网忙。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD19-D298-4612-A377-4E3E0A141C1A_2018-12-0710_36_15_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450256.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-5.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🐾"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -882,11 +809,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "李辉",
     "content": "寻隐者不遇\n［唐］贾岛\n松下问童子，言师采药去。\n只在此山中，云深不知处。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD18-7564-477C-A24A-4E3E0A141C1A_2018-12-0710_36_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450254.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-10.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -894,11 +820,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "杨帆",
     "content": "全家人都喜欢兰兰画的这张画。\n爸爸刚下班回来，拿起画，看了又看，把画贴在了墙上。兰兰不明白，问：“我只是画了自己的小手哇！我有那么多画，您为什么只贴这一张呢？”\n爸爸说：“这胖乎乎的小手替我拿过拖鞋呀！”\n妈妈下班回来，看见画，笑着说：“这胖乎乎的小手给我洗过手绢哪！”\n姥姥从厨房出来，一眼就看见了画上红润润的小手，说：“这胖乎乎的小手帮我挠过痒痒啊！”\n兰兰明白了全家人为什么都喜欢这张画。她高兴地说：“等我长大了，小手变成了大手，它会帮你们做更多的事情！”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD17-EF98-4EF1-9DC2-4E3E0A141C1A_2018-12-0710_35_47_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450253.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-8.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🔵"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -906,11 +831,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "小草",
     "content": "阳光像金子，洒遍田野、高山和小河。\n田里的禾苗，因为有了阳光，更绿了。山上的小树，因为有了阳光，更高了。河面闪着阳光，小河就像长长的锦缎了。\n早晨，我拉开窗帘，阳光就跳进了我的家。\n谁也捉不住阳光，阳光是大家的。\n阳光像金子，阳光比金子更宝贵。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD17-3844-460C-B1AA-4E3E0A141C1A_2018-12-0710_35_49_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450252.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-6.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "✨"
   },
   {
     "lesson_number": "语文园地",
@@ -918,11 +842,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "绿泡泡",
     "content": "小刺猬，去理发，\n嚓嚓嚓，嚓嚓嚓，\n理完头发瞧瞧他，\n不是小刺猬，\n是个小娃娃。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09DD25-5CB4-484A-AFF4-4E3A0A141C1A_2018-12-0710_36_21_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450250.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-3.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🔵"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -930,11 +853,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "小鹿姐姐",
     "content": "谁和谁好？\n藤和瓜好，\n它们手拉手，\n不吵也不闹。\n谁和谁好？\n蜜蜂和花好，\n蜜蜂来采蜜，\n花儿仰脸笑。\n谁和谁好？\n白云和风好，\n风往哪里刮，\n云往哪里跑。\n谁和谁好？\n我和同学好，\n大家唱着歌，\n一起上学校。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D702-778C-4930-8346-4D600A141C1A_2018-12-0710_12_35_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450249.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-2.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -942,10 +864,9 @@ const articlesData =
     "author": "刘冬青",
     "reader": "贡婉莹",
     "content": "春回大地　万物复苏\n柳绿花红　莺歌燕舞\n冰雪融化　泉水叮咚\n百花齐放　百鸟争鸣",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D701-11E0-4C32-BE2F-4D600A141C1A_2018-12-0710_12_27_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450248.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-5.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🌸"
   },
   {
@@ -954,11 +875,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "小草",
     "content": "大兴安岭，\n雪花还在飞舞。\n长江两岸，\n柳枝已经发芽。\n海南岛上，\n到处盛开鲜花。\n我们的祖国多么广大。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D701-2F30-4AAC-9B32-4D600A141C1A_2018-12-0710_12_49_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450247.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-98-1.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🔴"
+    "semester": "2",
+    "emoji": "🇨🇳"
   },
   {
     "lesson_number": "识字",
@@ -966,10 +886,9 @@ const articlesData =
     "author": "刘冬青",
     "reader": "马黎",
     "content": "（一）\n左边绿，右边红，\n左右相遇起凉风。\n绿的喜欢及时雨，\n红的最怕水来攻。\n（二）\n“言”来相互尊重，\n“心”至令人感动，\n“日”出万里无云，\n“水”到纯净透明。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D6D2-8CA0-4DD9-92D4-4D560A141C1A_2018-12-0710_11_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450246.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-4.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🔤"
   },
   {
@@ -978,10 +897,9 @@ const articlesData =
     "author": "刘冬青",
     "reader": "邹颖静",
     "content": "河水清清天气晴，\n小小青蛙大眼睛。\n保护禾苗吃害虫，\n做了不少好事情。\n请你爱护小青蛙，\n好让禾苗不生病。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D6D2-078C-4F03-A569-4D560A141C1A_2018-12-0710_08_50_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450245.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-3.mp3",
     "grade": "1",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🐸"
   },
   {
@@ -990,11 +908,10 @@ const articlesData =
     "author": "刘冬青",
     "reader": "董乐",
     "content": "你姓什么？我姓李。\n什么李？木子李。\n他姓什么？他姓张。\n什么张？弓长张。\n古月胡，口天吴，\n双人徐，言午许。\n中国姓氏有很多，\n赵、钱、孙、李，\n周、吴、郑、王，\n诸葛、东方，\n上官、欧阳……",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09D6D1-711C-4E31-9B41-4D560A141C1A_2018-12-0710_12_06_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ynjxc/20181214/t20181214_524450244.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-2-99-2.mp3",
     "grade": "1",
-    "semester": "1",
-    "emoji": "🎤"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第16课",
@@ -1002,11 +919,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "雷鹏",
     "content": "1928年，朱德同志带领队伍到井冈山，跟毛泽东同志带领的队伍会师了。红军在山上，山下不远处就是敌人。\n红军要巩固井冈山根据地，粉碎敌人的围攻，需要储备足够的粮食。井冈山上生产的粮食不多，常常要抽出一些人到山下宁冈的茅坪去挑粮。从井冈山到茅坪，来回有五六十里，山高路陡，非常难走。可是每次挑粮，大家都争着去。\n朱德同志也跟战士们一块儿去挑粮。他穿着草鞋，戴着斗笠，挑起粮食，跟大家一块儿爬山。白天挑粮爬山，晚上还常常整夜整夜地研究怎样跟敌人打仗。大家看了心疼，就把他那根扁担藏了起来。不料，朱德同志又找来一根扁担，写上“朱德的扁担”五个字。\n大家见了，越发敬爱朱德同志，不好意思再藏他的扁担了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/aa629803837011702970402468427537/aa629803837011702970402468427537.m3u8?auth=dbc5c855867957e6f2e187b5ccfcf633",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534638.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-15.mp3",
+    "grade": "2",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "识字",
@@ -1014,11 +930,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "朱晓婷",
     "content": "拍手歌\n你拍一，我拍一，\n动物世界很新奇。\n你拍二，我拍二，\n孔雀锦鸡是伙伴。\n你拍三，我拍三，\n雄鹰飞翔云彩间。\n你拍四，我拍四，\n天空雁群会写字。\n你拍五，我拍五，\n丛林深处有猛虎。\n你拍六，我拍六，\n黄鹂百灵唱不休。\n你拍七，我拍七，\n竹林熊猫在嬉戏。\n你拍八，我拍八，\n大小动物都有家。\n你拍九，我拍九，\n人和动物是朋友。\n你拍十，我拍十，\n保护动物是大事。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/89137836abe91702971660363927521/89137836abe91702971660363927521.m3u8?auth=242492f5b1eb3063c48feffcc1e3d07f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231227/t20231227_526536347.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-99-2.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "✋"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -1026,11 +941,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "林溪",
     "content": "小儿垂钓\n[唐]  胡令能\n蓬头稚子学垂纶，\n侧坐莓苔草映身。\n路人借问遥招手，\n怕得鱼惊不应人。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d38b7385171661702971896959950814/d38b7385171661702971896959950814.m3u8?auth=3a14028302612e894cc15f806553d285",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534637.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-3.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🔵"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -1038,11 +952,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "朱晓婷",
     "content": "孩子们爱家乡，也爱画自己美丽的家乡。\n涛涛的家乡在海边。他画的海那么蓝，那么宽。一艘艘船上装满了鱼和虾。那个在海边捡贝壳的孩子，就是涛涛。\n山山的家乡在山里。他画的山那么高，水那么清。房前屋后都是又高又大的树。画上的山山，挎着小竹篮，正要到树林里去采蘑菇呢。\n平平的家乡在平原。她画的平原那么平坦，那么宽广。有金黄的稻子，雪白的棉花，还有一大片一大片绿油油的菜地。屋前有鸡、鸭，屋后有几丛青翠的竹子。那个正在田野上奔跑的小女孩，就是平平。\n青青的家乡在草原。她画的草原一眼望不到边。草长得又绿又密，羊群在草原上走来走去。一匹骏马从远处奔来，青青正骑在马上赶着羊群。\n京京的家乡在城市。他画的城市那么美。宽宽的街道，高高的楼房，还有好几个街心公园。那个正跑向图书馆的小男孩，就是京京。\n小朋友，你的家乡一定也很美，请你画出来吧！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/2089f18d3c5361702973044637846429/2089f18d3c5361702973044637846429.m3u8?auth=243bd383b52662b2cb2e17dbf9786f34",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534635.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-5.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🏠"
+    "emoji": "👨‍🎨"
   },
   {
     "lesson_number": "语文园地",
@@ -1050,9 +963,8 @@ const articlesData =
     "author": "冯仪",
     "reader": "林溪",
     "content": "江雪\n［唐］柳宗元\n千山鸟飞绝，\n万径人踪灭。\n孤舟蓑笠翁，\n独钓寒江雪。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/2e2018e6526441703648995000964460/2e2018e6526441703648995000964460.m3u8?auth=7cbec8852c985e7d231ce2bc4bfb508d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231227/t20231227_526536291.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-6.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "❄️"
   },
@@ -1062,11 +974,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "林溪",
     "content": "一九二九不出手，三九四九冰上走，五九六九，沿河看柳，七九河开，八九雁来，九九加一九，耕牛遍地走。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/9904b921d6a771702974628057341717/9904b921d6a771702974628057341717.m3u8?auth=b429487993299fadda0b12268fece6ac",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534631.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-7.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "9️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -1074,9 +985,8 @@ const articlesData =
     "author": "赵天源",
     "reader": "张蕾",
     "content": "天空飘着一片霞，\n水上游来一群鸭。\n霞是五彩霞，\n鸭是麻花鸭。\n麻花鸭游进五彩霞，\n五彩霞网住麻花鸭。\n乐坏了鸭，\n拍碎了霞，\n分不清是鸭还是霞。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/153fe86b64eec17032277526338116/153fe86b64eec17032277526338116.m3u8?auth=9775a1333d3dde101fcadeeadade18e2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534630.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-8.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "🦆"
   },
@@ -1086,11 +996,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "贾际",
     "content": "狼吞虎咽    惊弓之鸟    胆小如鼠\n龙飞凤舞    漏网之鱼    如虎添翼\n鸡鸣狗吠    害群之马    如鱼得水",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/9047c6f57b011702975232864968951/9047c6f57b011702975232864968951.m3u8?auth=d5dc7d768ba0a121dbbb312162559baf",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20231226/t20231226_526534629.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-9.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🐯"
+    "emoji": "🐺"
   },
   {
     "lesson_number": "第1课",
@@ -1098,11 +1007,10 @@ const articlesData =
     "author": "高姗",
     "reader": "郑晶",
     "content": "池塘里有一群小蝌蚪，大大的脑袋，黑灰色的身子，甩着长长的尾巴，快活地游来游去。\n小蝌蚪游哇游，过了几天，长出了两条后腿。他们看见鲤鱼妈妈在教小鲤鱼捕食，就迎上去，问：“鲤鱼阿姨，我们的妈妈在哪里？”鲤鱼妈妈说：“你们的妈妈四条腿，宽嘴巴。你们到那边去找吧！”\n小蝌蚪游哇游，过了几天，长出了两条前腿。他们看见一只乌龟摆动着四条腿在水里游，连忙追上去，叫着：“妈妈，妈妈！”乌龟笑着说：“我不是你们的妈妈。你们的妈妈头顶上有两只大眼睛，披着绿衣裳。你们到那边去找吧！”\n小蝌蚪游哇游，过了几天，尾巴变短了。他们游到荷花旁边，看见荷叶上蹲着一只大青蛙，披着碧绿的衣裳，露着雪白的肚皮，鼓着一对大眼睛。\n小蝌蚪游过去，叫着：“妈妈，妈妈！”青蛙妈妈低头一看，笑着说：“好孩子，你们已经长成青蛙了，快跳上来吧！”他们后腿一蹬，向前一跳，蹦到了荷叶上。\n不知什么时候，小青蛙的尾巴已经不见了。他们跟着妈妈，天天去捉害虫。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5480F-ED84-4ACF-8E96-2A7C0A141C1A_2018-05-1115_39_10_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231235.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-1.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🐸"
+    "emoji": "👩"
   },
   {
     "lesson_number": "第2课",
@@ -1110,11 +1018,10 @@ const articlesData =
     "author": "高姗",
     "reader": "刘沙",
     "content": "我会变。太阳一晒，我就变成汽。升到天空，我又变成无数极小极小的点儿，连成一片，在空中飘浮。有时候我穿着白衣服，有时候我穿着黑衣服，早晨和傍晚我又把红袍披在身上。人们叫我“云”。\n我在空中越升越高，体温越来越低，变成了无数小水滴。小水滴聚在一起落下来，人们叫我“雨”。有时候我变成小硬球打下来，人们就叫我“冰雹”。到了冬天，我变成小花朵飘下来，人们又叫我“雪”。\n平常我在池子里睡觉，在小溪里散步，在江河里奔跑，在海洋里跳舞、唱歌、开大会。\n有时候我很温和，有时候我却很暴躁。我做过许多好事，灌溉田地，发动机器，帮助人们工作。我也做过许多坏事，淹没庄稼，冲毁房屋，给人们带来灾害。人们想出种种办法管住我，让我光做好事，不做坏事。\n小朋友，你们猜猜，我是什么？",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5480F-A930-4165-8CFE-2A7C0A141C1A_2018-05-1115_39_20_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231237.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-2.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第6课",
@@ -1122,11 +1029,10 @@ const articlesData =
     "author": "高姗",
     "reader": "朱红娜",
     "content": "爸爸出国了，要过半年才能回来。今天，露西想给爸爸写一封信。\n妈妈还在厂里，露西早早回到家。她打开空调，又洗了一些土豆，削好后放在锅里。她朝窗外望了一眼。好了，她想，现在可以开始写信了。她拿来一沓纸，一支圆珠笔。\n“亲爱的爸爸，”露西写道，“你不在，我们很不开心。以前每天早上你一边刮胡子，一边逗我玩。还有，家里的台灯坏了，我们修不好。从早到晚，家里总是很冷清。”\n这时，妈妈回来了。她拍拍露西的肩膀，问：“是在给爸爸写信吗？”\n“是的。可是我写得不好。”露西说着，把纸揉成一团。\n“那我们一起重新写吧！”说着，妈妈在她身旁坐下来。\n露西边说边写：“亲爱的爸爸……”\n“我们过得挺好。”妈妈接着露西的话说。\n露西写完这一句，想到了小狗希比希，写道：“太阳闪闪发光。阳光下，我们的希比希又蹦又跳。”\n妈妈说：“请爸爸告诉我们，螺丝刀放在哪儿了。”\n露西笑了，她记下妈妈的话，接着写道：“这样，我们就能自己修台灯了。”\n“还有，下个星期天我们去看电影。”妈妈说。\n“啊，太好啦！”露西叫了起来。\n“爸爸，我们天天想你。”露西在信的结尾，画了一大束鲜花。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF54810-0B38-4D83-8E3D-2A7C0A141C1A_2018-05-1115_42_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231241.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-6.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "1️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第7课",
@@ -1134,9 +1040,8 @@ const articlesData =
     "author": "李周圆",
     "reader": "刘曼斯",
     "content": "妈妈睡了。妈妈哄我午睡的时候，自己先睡着了，睡得好熟，好香。\n睡梦中的妈妈真美丽。明亮的眼睛闭上了，紧紧地闭着；弯弯的眉毛，也在睡觉，睡在妈妈红润的脸上。\n睡梦中的妈妈好温柔。妈妈微微地笑着。是的，她在微微地笑着，嘴巴、眼角都笑弯了，好像在睡梦中，妈妈又想好了一个故事，等会儿讲给我听……\n睡梦中的妈妈好累。妈妈的呼吸那么沉。她乌黑的头发粘在微微渗出汗珠的额头上。窗外，小鸟在唱着歌，风儿在树叶间散步，发出沙沙的响声，可是妈妈全听不到。她干了好多活儿，累了，乏了，她真该好好睡一觉。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E480-65F8-4A28-BC6F-4EE50A141C1A_2018-12-0711_06_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450300.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-7.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "👩"
   },
@@ -1146,11 +1051,10 @@ const articlesData =
     "author": "高姗",
     "reader": "忠诚",
     "content": "登鹳雀楼\n唐：王之涣\n白日依山尽，\n黄河入海流。\n欲穷千里目，\n更上一层楼。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF54818-1BD4-4219-87A5-2A830A141C1A_2018-05-1115_39_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231244.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-8-1.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🏢"
   },
   {
     "lesson_number": "第8课",
@@ -1158,9 +1062,8 @@ const articlesData =
     "author": "李周圆",
     "reader": "忠诚",
     "content": "望庐山瀑布\n[唐] 李白\n日照香炉生紫烟，\n遥看瀑布挂前川。\n飞流直下三千尺，\n疑是银河落九天。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E480-363C-4109-9071-4EE50A141C1A_2018-12-0711_10_00_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450299.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-8-2.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "⛰️"
   },
@@ -1170,9 +1073,8 @@ const articlesData =
     "author": "李周圆",
     "reader": "尼格买提",
     "content": "中外闻名的黄山风景区在我国安徽省南部。那里景色秀丽神奇，尤其是那些怪石，有趣极了。\n就说“仙桃石”吧，它好像从天上飞下来的一个大桃子，落在山顶的石盘上。\n在一座陡峭的山峰上，有一只“猴子”。它两只胳膊抱着腿，一动不动地蹲在山头，望着翻滚的云海。这就是有趣的“猴子观海”。\n“仙人指路”就更有趣了！远远望去，那巨石真像一位仙人站在高高的山峰上，伸着手臂指向前方。\n每当太阳升起，有座山峰上的几块巨石，就变成了一只金光闪闪的雄鸡。它伸着脖子，对着天都峰不住地啼叫。不用说，这就是著名的“金鸡叫天都”了。\n黄山的奇石还有很多，如“天狗望月”“狮子抢球”“仙女弹琴”。那些叫不出名字的奇形怪状的岩石，正等你去给它们起名字呢！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E480-CDEC-4489-85F7-4EE50A141C1A_2018-12-0711_10_02_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450298.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-9.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "⛰️"
   },
@@ -1182,21 +1084,19 @@ const articlesData =
     "author": "高姗",
     "reader": "李锐",
     "content": "青蛙坐在井里。小鸟飞来，落在井沿上。\n青蛙问小鸟：“你从哪儿来呀？”\n小鸟回答说：“我从天上来，飞了一百多里，口渴了，下来找点水喝。”\n青蛙说：“朋友，别说大话了！天不过井口那么大，还用飞那么远吗？”\n小鸟说：“你弄错了。天无边无际，大得很哪！”\n青蛙笑了，说：“朋友，我天天坐在井里，一抬头就能看见天。我不会弄错的。”\n小鸟也笑了，说：“朋友，你是弄错了。不信，你跳出井来看一看吧。”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF54819-699C-48CF-B5F2-2A830A141C1A_2018-05-1115_40_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231251.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🌤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-12.mp3",
+    "grade": "2",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第13课",
+    "lesson_number": "第23课",
     "title": "寒号鸟",
     "author": "高姗",
     "reader": "贾男",
     "content": "山脚下有一堵石崖，崖上有一道缝，寒号鸟就把这道缝当作自己的窝。石崖前面有一条河，河边有一棵大杨树，杨树上住着喜鹊。寒号鸟和喜鹊面对面住着，成了邻居。\n几阵秋风，树叶落尽，冬天快要到了。\n有一天，天气晴朗。喜鹊一早飞出去，东寻西找，衔回来一些枯草，就忙着做窝，准备过冬。寒号鸟却只知道出去玩，累了就回来睡觉。喜鹊说：“寒号鸟，别睡了。天气暖和，赶快做窝。”\n寒号鸟不听劝告，躺在崖缝里对喜鹊说：“傻喜鹊，不要吵。太阳高照，正好睡觉。”\n冬天说到就到，寒风呼呼地刮着。喜鹊住在温暖的窝里。寒号鸟在崖缝里冻得直打哆嗦，不停地叫着：“哆����，哆����，寒风冻死我，明天就做窝。”\n第二天清早，风停了，太阳暖暖的，好像又是春天了。喜鹊来到崖缝前劝寒号鸟：“趁天晴，快做窝。现在懒惰，将来难过。”\n寒号鸟还是不听劝告，伸伸懒腰，答道：“傻喜鹊，别��嗦。天气暖和，得过且过。”\n寒冬腊月，大雪纷飞。北风像狮子一样狂吼，崖缝里冷得像冰窖。寒号鸟重复着哀号：“哆����，哆����，寒风冻死我，明天就做窝。”\n天亮了，太阳出来了，喜鹊在枝头呼唤寒号鸟。可是，寒号鸟已经在夜里冻死了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D67-8EC0-4131-9FBA-2E460A141C1A_2018-05-1118_16_23_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231257.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-23-1.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "🐦"
   },
@@ -1206,11 +1106,10 @@ const articlesData =
     "author": "李周圆",
     "reader": "贾男",
     "content": "从前，有个人种了一棵葫芦。细长的葫芦藤上长满了绿叶，开出了几朵雪白的小花。花谢以后，藤上挂了几个小葫芦。多么可爱的小葫芦啊！那个人每天都要去看几次。\n有一天，他看见叶子上爬着一些蚜虫，心里想，有几个虫子怕什么！他盯着小葫芦自言自语地说：“我的小葫芦，快长啊，快长啊！长得赛过大南瓜才好呢！”\n一个邻居看见了，对他说：“你别光盯着葫芦了，叶子上生了蚜虫，快治一治吧！”那个人感到很奇怪，说：“什么？叶子上的虫还用治？我要的是葫芦。”\n没过几天，叶子上的蚜虫更多了。小葫芦慢慢地变黄了，一个一个都落了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E481-4084-4305-B5A5-4EE50A141C1A_2018-12-0711_10_06_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450297.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-14.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第17课",
@@ -1218,8 +1117,7 @@ const articlesData =
     "author": "高姗",
     "reader": "贺红梅",
     "content": "火红火红的凤凰花开了，傣族人民一年一度的泼水节又到了。\n1961年的泼水节，傣族人民特别高兴，因为敬爱的周恩来总理和他们一起过泼水节。\n那天早晨，人们敲起象脚鼓，从四面八方赶来了。为了欢迎周总理，人们在地上撒满了凤凰花的花瓣，好像铺上了鲜红的地毯。一条条龙船驶过江面，一串串花炮升上天空。人们欢呼着∶“周总理来了！”\n周总理身穿对襟白褂，咖啡色长裤，头上包着一条水红色头巾，笑容满面地来到人群中。他接过一只象脚鼓，敲着欢乐的鼓点，踩着凤凰花铺成的“地毯”，同傣族人民一起跳舞。\n开始泼水了。周总理一手端着盛满清水的银碗，一手拿着柏树枝蘸了水，向人们泼洒，为人们祝福。傣族人民一边欢呼，一边向周总理泼水，祝福他健康长寿。\n清清的水，泼啊，洒啊！周总理和傣族人民笑啊，跳啊，是那么开心！\n多么幸福啊，1961年的泼水节！\n多么令人难忘啊，1961年的泼水节！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D67-57F8-4D5B-933D-2E460A141C1A_2018-05-1117_49_00_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231263.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-16.mp3",
     "grade": "2",
     "semester": "1",
     "emoji": "💧"
@@ -1230,32 +1128,29 @@ const articlesData =
     "author": "李周圆",
     "reader": "方亮",
     "content": "夜宿山寺\n[唐] 李白\n危楼高百尺，\n手可摘星辰。\n不敢高声语，\n恐惊天上人。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E481-2C98-43B0-A1E7-4EE50A141C1A_2018-12-0711_10_36_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450296.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-18.mp3",
+    "grade": "2",
+    "semester": "1",
     "emoji": "⛰️"
   },
   {
-    "lesson_number": "第18课",
+    "lesson_number": "第4课",
     "title": "敕勒歌",
     "author": "高姗",
     "reader": "方亮",
-    "content": "敕勒歌北朝民歌敕勒川，阴山下，天似穹庐，笼盖四野。天苍苍，野茫茫，风吹草低见牛羊。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D68-4A58-4F54-A88B-2E460A141C1A_2018-05-1118_16_35_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231267.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🎤"
+    "content": "敕勒歌\n北朝民歌\n敕勒川，阴山下，\n天似穹庐，笼盖四野。\n天苍苍，野茫茫，\n风吹草低见牛羊。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-17.mp3",
+    "grade": "2",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第20课",
+    "lesson_number": "第2课",
     "title": "雪孩子",
     "author": "高姗",
     "reader": "宋雪",
     "content": "雪，下个不停，一连下了好几天。\n这天早上，天晴了，兔妈妈要出门去。小白兔嚷起来：“妈妈，妈妈，我也要去！”\n兔妈妈说：“好孩子，妈妈有事，你不能跟着去。”兔妈妈在门外的空地上给小白兔堆了个雪孩子。小白兔有了小伙伴，就不跟妈妈去了。\n小白兔跳舞给雪孩子看，唱歌给雪孩子听。他玩累了，就回家去睡午觉。“屋子里真冷，赶紧往火堆里添把柴吧！”\n小白兔添了柴，把火烧得旺旺的，屋子里渐渐暖和了。他躺在床上，闭上眼睛，一会儿就睡着了。\n火越烧越旺。哎呀，火把旁边的柴堆烧着了！小白兔睡的正香，他一点儿也不知道。\n“不好了！小白兔家着火了！”雪孩子看见从小白兔家的窗户里冒出黑烟，蹿出火星，他一边喊，一边向小白兔家奔去。\n“小白兔，小白兔！你在哪里？”雪孩子冲进屋里，冒着呛人的烟、烫人的火，找哇找哇，终于找到了小白兔。他连忙把小白兔抱起来，跑到屋外。\n小白兔得救了，雪孩子却浑身水淋淋的。\n这时候，树林里的小猴子、小山羊都赶来救火了。不一会儿，大家就把火扑灭了。\n兔妈妈回来了，激动地说：“谢谢大家来救火，救了小白兔，谢谢大家！”\n“咦，是谁救了小白兔？”小动物们说，“真得谢谢他呢！”\n这时，救小白兔的雪孩子不见了。他已经化成水了。\n不，雪孩子还在呢！瞧，太阳晒着晒着，他变成了很轻很轻的水汽。飞呀，飞呀，飞上天空，变成了一朵白云，一朵美丽的白云。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D7B-0B90-4971-80F8-2E590A141C1A_2018-05-1118_03_17_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231272.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-20.mp3",
     "grade": "2",
     "semester": "1",
     "emoji": "👶"
@@ -1266,11 +1161,10 @@ const articlesData =
     "author": "高姗",
     "reader": "刘曼斯",
     "content": "松鼠和小熊住在一座山上。松鼠住在山顶，小熊住在山脚。山上的小溪往下流，正好从小熊的家门口流过。\n松鼠折了一只纸船，放在小溪里。纸船漂哇漂，漂到了小熊家门口。\n小熊拿起纸船一看，乐坏了。纸船里放着一个小松果，松果上挂着一张纸条，上面写着：“祝你快乐！”\n小熊也想折一只纸船送给松鼠，可是纸船不能漂到山上去。怎么办呢？他想了想，就扎了一只风筝。风筝乘着风，飘哇飘，飘到了松鼠家门口。\n松鼠一把抓住风筝的线一看，也乐坏了。风筝上挂着一个草莓，风筝的翅膀上写着：“祝你幸福！”\n纸船和风筝让他们俩成了好朋友。\n可是有一天，他们俩为了一点小事吵了一架。山顶上再也看不到飘荡的风筝，小溪里再也看不到漂流的纸船了。\n小熊很难过。他还是每天扎一只风筝，但是不好意思把风筝放起来，就把风筝挂在高高的树枝上。\n松鼠也很难过。他还是每天折一只纸船，他也不好意思把纸船放进小溪，就把纸船放到屋顶上。\n过了几天，松鼠再也受不了啦。他在一只折好的纸船上写了一句话：“如果你愿意和好，就放一只风筝吧！”他把这只纸船放进了小溪。\n傍晚，松鼠看见一只美丽的风筝朝他飞来，高兴得哭了。他连忙爬上屋顶，取下纸船，把一只只纸船放到了小溪里。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D7C-A26C-4E26-91CD-2E590A141C1A_2018-05-1117_49_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20180513/t20180513_524231284.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-23.mp3",
     "grade": "2",
     "semester": "1",
-    "emoji": "💨"
+    "emoji": "🌀"
   },
   {
     "lesson_number": "第24课",
@@ -1278,11 +1172,10 @@ const articlesData =
     "author": "李周圆",
     "reader": "郑晶",
     "content": "风妈妈有个可爱的风娃娃。风娃娃长大了，他想像妈妈一样去帮助人。风妈妈说：“到田野里去吧，在那里，你可以帮人们做很多事情。”\n风娃娃来到田野，看见一架大风车正在慢慢转动，抽上来的水断断续续地流着。他深深地吸了一口气，鼓起腮使劲向风车吹去。风车一下子转得飞快！抽上来的水奔跑着，哗啦哗啦地向田里流去。秧苗喝足了水，笑着不住地点头。风娃娃高兴极了。\n风娃娃又来到河边，看见许多船工正拉着一艘大船。他们弯着腰，流着汗，“嗨哟，嗨哟”喊着号子，可是船却走得很慢很慢。他急忙跑过去，对着船帆用力吹了口气，船飞快地跑了起来。船工们笑了，一边收起纤绳，一边向风娃娃表示感谢。\n风娃娃想：帮助人们做好事，真容易，只要有力气就行。\n他这么想着，来到一个广场上。那里有几个孩子正在放风筝。风娃娃看见了，赶紧过去用力吹。风筝在空中摇摇摆摆，有的还翻起了跟头。不一会儿，风筝被吹得无影无踪，孩子们伤心极了。\n风娃娃却一点儿也不知道，他仍然东吹吹，西吹吹。就这样，风娃娃吹跑了人们晾晒的衣服，折断了路边新栽的小树……人们都生气了，纷纷责怪他。\n风娃娃不敢再去帮忙了，他委屈地在天上转着、想着：我帮人们做事情，为什么他们还责怪我呢？风娃娃回家去问妈妈。妈妈说：“孩子，做事情光有好的愿望还不行，还要看是不是真的对别人有用。”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E481-1A20-483E-8D3D-4EE50A141C1A_2018-12-0711_10_23_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450295.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-24.mp3",
     "grade": "2",
     "semester": "1",
-    "emoji": "💨"
+    "emoji": "🌀"
   },
   {
     "lesson_number": "语文园地",
@@ -1290,33 +1183,30 @@ const articlesData =
     "author": "李周圆",
     "reader": "李修平",
     "content": "梅花\n【宋】王安石\n墙角数枝梅，\n凌寒独自开。\n遥知不是雪，\n为有暗香来。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E48F-F488-4106-8345-4EEA0A141C1A_2018-12-0711_07_19_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450294.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-1.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🌺"
+    "emoji": "🌸"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第15课",
     "title": "企鹅寄冰",
     "author": "李周圆",
     "reader": "任鲁豫",
     "content": "狮子大王住在炎热的非洲。\n夏天来了，狮子大王不停地叫着：“热啊，热啊。”河马说：“听说在南极有一种很冷很冷的东西，叫作冰。”\n狮子大王听了，立刻给南极的企鹅写了一封信，请他寄一块冰来。\n好多天以后，企鹅收到了信。他说：“啊，狮子大王想要一块冰，太容易了，我这里可是冰天雪地啊。”企鹅挑了一块冰，装在袋子里，给狮子大王寄去。\n装冰的箱子先上了轮船，又上了飞机。\n过了很多天，狮子大王收到了箱子。他打开一看，觉得好奇怪：“呀，怎么是一袋水？”\n狮子大王生气地把箱子退回去了，还给企鹅写了一封信。\n又过了很多天，企鹅收到了箱子和信。\n狮子大王的信上写着：“我请你寄块冰来，你为什么寄来一袋水？”企鹅连忙把箱子打开：“这明明是冰嘛，怎么说是水呢？”看着袋子里的冰块，企鹅也糊涂了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E490-2AE4-4F57-AF7E-4EEA0A141C1A_2018-12-0711_11_03_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450293.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-2.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🦆"
+    "emoji": "🦢"
   },
   {
-    "lesson_number": "识字",
+    "lesson_number": "第22课",
     "title": "树之歌",
     "author": "李周圆",
     "reader": "刘曦莹",
     "content": "杨树高，榕树壮，\n梧桐树叶像手掌。\n枫树秋天叶儿红，\n松柏四季披绿装。\n木棉喜暖在南方，\n桦树耐寒守北疆。\n银杏水杉活化石。\n金桂开花满院香。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E491-C4B4-47D1-A4C4-4EEA0A141C1A_2018-12-0711_10_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450291.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-99-1.mp3",
+    "grade": "2",
     "semester": "1",
     "emoji": "🌳"
   },
@@ -1326,11 +1216,10 @@ const articlesData =
     "author": "李周圆",
     "reader": "张文星",
     "content": "王二小是儿童团员。他常常一边放牛，一边替八路军放哨。\n有一天，日寇来扫荡，走到山口迷了路。敌人看见王二小在山坡上放牛，就叫他带路。\n王二小装着顺从的样子走在前面，把敌人带进了八路军的埋伏圈。\n突然，四面八方响起了枪声。敌人知道上了当，就杀害了小英雄王二小。\n这时候，八路军从山上冲下来，消灭了全部敌人。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09E49C-BA60-4B13-A026-4EE50A141C1A_2018-12-0711_15_31_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/enjsc/20181214/t20181214_524450287.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-98-4.mp3",
+    "grade": "2",
     "semester": "1",
-    "emoji": "🔵"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -1338,11 +1227,10 @@ const articlesData =
     "author": "夏青",
     "reader": "肖玉",
     "content": "咏柳\n［唐］贺知章\n碧玉妆成一树高，\n万条垂下绿丝绦。\n不知细叶谁裁出，\n二月春风似剪刀。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D789E8C-7214-4BB6-A309-21400A141C1A_2019-09-1115_06_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783277.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-1-2.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "🌿"
   },
   {
     "lesson_number": "第1课",
@@ -1350,10 +1238,9 @@ const articlesData =
     "author": "赵天源",
     "reader": "朱广权",
     "content": "村居\n[清]  高鼎\n草长莺飞二月天，\n拂堤杨柳醉春烟。\n儿童散学归来早，\n忙趁东风放纸鸢。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/425dd4c2e4c831703138749897969191/425dd4c2e4c831703138749897969191.m3u8?auth=d862d6f99643ba97ed15938729b7e40b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534595.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-1-1.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -1362,10 +1249,9 @@ const articlesData =
     "author": "冯仪",
     "reader": "赵宇昕",
     "content": "春天来了！春天来了！\n我们几个孩子脱掉棉袄，冲出家门，奔向田野，去寻找春天。\n春天像个害羞的小姑娘，遮遮掩掩，躲躲藏藏。我们仔细地找哇，找哇。\n小草从地下探出头来，那是春天的眉毛吧？\n早开的野花一朵两朵，那是春天的眼睛吧？\n树木吐出点点嫩芽，那是春天的音符吧？\n解冻的小溪叮叮咚咚，那是春天的琴声吧？\n春天来了！我们看到了她，我们听到了她，我们闻到了她，我们触到了她。她在柳枝上荡秋千，在风筝尾巴上摇哇摇；她在喜鹊、杜鹃嘴里叫，在桃花、杏花枝头笑……",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/d6aa113d995c81703649158588696204/d6aa113d995c81703649158588696204.m3u8?auth=1c61c0ab4f003417fe364884e4407505",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231227/t20231227_526536296.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-2.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🌸"
   },
   {
@@ -1374,10 +1260,9 @@ const articlesData =
     "author": "冯仪",
     "reader": "赵宇昕",
     "content": "一个春天的傍晚，妈妈牵着妹妹，爸爸牵着我，一起到郊外去散步。我们沿着一条小河走。河水碧绿碧绿的，微风吹过，泛起层层波纹。河岸上垂下来的柳叶，拂过妈妈和爸爸的头发，我和妹妹看着都笑了。\n路的一边是田野，葱葱绿绿的，非常可爱，像一片柔软的绿毯。\n春天的郊外，景色异常美丽。我们一边看，一边走，路已经走了不少，却还恋恋不舍，不想回去。\n当我们往回走的时候，妹妹求妈妈抱她：“我很累，走不动了，抱抱我。”\n妈妈摇摇头，回答说：“不行啊，我也很累，抱不动你了。”\n妹妹转过头求爸爸。爸爸不作声，他松开我的手，从路旁一株柳树下，拾起一根又长又细的枝条，把它递给了妹妹，说：“这是一匹出色的马，你走不动了，就骑着它回家吧。”\n妹妹高兴地跨上“马”，蹦蹦跳跳地奔向前去。等我们回到家时，她已经在门口迎接我们，笑着说：“我早回来啦！”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1227/c4dd87e737ea1703649321965392276/c4dd87e737ea1703649321965392276.m3u8?auth=da94a3074514262c86b9ab689905f2a5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231227/t20231227_526536300.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-7.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🐎"
   },
   {
@@ -1386,11 +1271,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "李梓萌",
     "content": "我有一大把彩色的梦，\n有的长，有的圆，有的硬。\n他们躺在铅笔盒里聊天，\n一打开，就在白纸上跳蹦。\n脚尖滑过的地方，\n大块的草坪，绿了；\n大朵的野花，红了；\n大片的天空，蓝了，\n蓝――得――透――明！\n在葱郁的森林里，\n雪松们拉着手，\n请小鸟留下歌声。\n小屋的烟囱上，\n结一个苹果般的太阳，\n又大――又红！\n我的彩色铅笔，\n是大森林的精灵。\n我的彩色梦境，\n有水果香，有季节风，\n还有紫葡萄的叮咛，\n在溪水里流动……",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7b85d58ad3b8c1703043105906800102/7b85d58ad3b8c1703043105906800102.m3u8?auth=f703135a6373c7f2951d668cf30d9660",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534596.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "💤"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-8.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "🎨"
   },
   {
     "lesson_number": "第12课",
@@ -1398,11 +1282,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "任鲁豫",
     "content": "古时候有个人，他巴望自己田里的禾苗长得快些，天天到田边去看。可是，一天，两天，三天，禾苗好像一点儿也没有长高。他在田边焦急地转来转去，自言自语地说：“我得想个办法帮它们长。”\n一天，他终于想出了办法，就急忙跑到田里，把禾苗一棵一棵往高里拔。从中午一直忙到太阳落山，弄得筋疲力尽。\n他回到家里，一边喘气一边说：“今天可把我累坏了！力气总算没白费，禾苗都长高了一大截。”\n他的儿子不明白是怎么回事，第二天跑到田里一看，禾苗都枯死了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/5d049d0e265091703139605885429537/5d049d0e265091703139605885429537.m3u8?auth=cad87b6469038cf951fa8b66c34c6944",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534586.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-12-2.mp3",
+    "grade": "2",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第14课",
@@ -1410,10 +1293,9 @@ const articlesData =
     "author": "赵天源",
     "reader": "阿杰",
     "content": "马棚里住着一匹老马和一匹小马。\n有一天，老马对小马说：“你已经长大了，能帮妈妈做点儿事吗？”小马连蹦带跳地说：“怎么不能？我很愿意帮您做事。”老马高兴地说：“那好啊，你把这半口袋麦子驮到磨坊去吧。”\n小马驮起口袋，飞快地往磨坊跑去。跑着跑着，一条小河挡住了去路，河水哗哗地流着。小马为难了，心想：我能不能过去呢？如果妈妈在身边，问问她该怎么办，那多好啊！可是他离家已经很远了。\n小马向四周望望，看见一头老牛在河边吃草，小马嗒嗒嗒跑过去，问道：“牛伯伯，请您告诉我，这条河，我能��过去吗？”老牛说：“水很浅，刚没小腿，能��过去。”\n小马听了老牛的话，立刻跑到河边，准备��过去。突然，从树上跳下一只松鼠，拦住他大叫：“小马！别过河，别过河，你会淹死的！”小马吃惊地问：“水很深吗？”松鼠认真地说：“深得很哩！昨天，我的一个伙伴就掉在这条河里淹死的！”\n小马连忙收住脚步，不知道怎么办才好。他叹了口气说：“唉！还是回家问问妈妈吧！”\n小马甩甩尾巴，跑回家去。妈妈问：“怎么回来啦？”小马难为情地说：“一条河挡住了去路，我……我过不去。”妈妈说：“那条河不是很浅吗？”小马说：“是啊！牛伯伯也这么说。可是松鼠说河水很深，还淹死过他的伙伴呢！”妈妈说：“那么河水到底是深还是浅？你仔细想过他们的话吗？”小马低下了头，说：“没……没想过。”妈妈亲切地对小马说：“孩子，光听别人说，自己不动脑筋，不去试试，是不行的。河水是深是浅，你去试一试就知道了。”\n小马跑到河边，刚刚抬起前蹄，松鼠又大叫起来：“怎么？你不要命啦！”小马说：“让我试试吧！”他下了河，小心地��到了对岸。原来河水既不像老牛说的那样浅，也不像松鼠说的那样深。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/f0049204c30d81703139803075756972/f0049204c30d81703139803075756972.m3u8?auth=432df23f6c25763c901d39dbc16d65fe",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534581.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-14.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🏞️"
   },
   {
@@ -1422,11 +1304,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "郑晶",
     "content": "大象有一对大耳朵，像扇子似的，耷拉着。\n这一天，大象正在路上慢慢地散步，遇到了小兔子。\n小兔子说：“咦，大象啊，你的耳朵怎么耷拉下来了？”\n大象说：“我生来就是这样啊。”\n小兔子说：“你看，我的耳朵是竖着的，你的耳朵一定是出毛病了。”\n后来，大象又遇到了小羊。小羊也说：“大象啊，你的耳朵怎么是耷拉着的呢？”\n小鹿、小马，还有小老鼠，见到了大象，都要说他的耳朵。\n大象也不安起来，他自言自语地说：“他们都这么说，是不是我的耳朵真的有毛病啦？我得让我的耳朵竖起来。”\n怎么才能让耳朵竖起来呢？\n每天，大象站着睡觉的时候，就用两根竹竿把耳朵撑起来。\n可是，大象的耳朵眼儿里，经常有小虫子飞进去，还在里面跳舞，吵得他又头痛，又心烦。\n最后，大象还是把他的耳朵放了下来。这样，虫子飞不进去了。有虫子来的话，大象只要把他的大耳朵一扇，就能把他们赶跑。\n大象说：“我还是让耳朵耷拉着吧。人家是人家，我是我。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/89d2516d3782d1703139949356988656/89d2516d3782d1703139949356988656.m3u8?auth=482fe59d2bb91a50328a6da01514b08a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534572.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-19.mp3",
+    "grade": "2",
     "semester": "2",
-    "emoji": "👂"
+    "emoji": "🐘"
   },
   {
     "lesson_number": "第23课",
@@ -1434,11 +1315,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "田龙",
     "content": "爷爷说：\n那原始森林\n是我们祖先的摇篮。\n真有意思，\n这是多大的摇篮啊！\n那浓绿的树荫\n一望无边，\n遮住了蓝天。\n我想――\n我们的祖先，\n可曾在这些大树上\n摘野果，\n掏鹊蛋？\n可曾在那片草地上\n和野兔赛跑，\n看蘑菇打伞？\n那时候，\n孩子们也在这里\n逗小松鼠，\n采野蔷薇吗？\n也在这里\n捉红蜻蜓，\n逮绿蝈蝈吗？\n风儿吹动树叶\n“沙沙，沙沙！”\n那回忆\n多么美好，\n又那么遥远……\n啊！\n苍苍茫茫的原始森林，\n我们祖先的摇篮！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/95293c7ea64461703140110287920576/95293c7ea64461703140110287920576.m3u8?auth=25b4df2d1be8f7d9b124f73ad4109a8a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534570.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-23.mp3",
     "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -1446,35 +1326,32 @@ const articlesData =
     "author": "赵天源",
     "reader": "朱广权",
     "content": "赋得古原草送别（节选）\n[唐]  白居易\n离离原上草，\n一岁一枯荣。\n野火烧不尽，\n春风吹又生。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/ccebeb2a83c441703140508467779535/ccebeb2a83c441703140508467779535.m3u8?auth=616126d0c0952ca017262850200797ed",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534569.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-1.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🌱"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "课外古诗词诵读",
     "title": "笋芽儿",
     "author": "赵天源",
     "reader": "董乐",
     "content": "沙沙沙，沙沙沙。春雨姑娘在绿色的叶丛中弹奏着乐曲，低声呼唤着沉睡的笋芽儿：“笋芽儿，醒醒啊，春天来啦！”\n笋芽儿被叫醒了。她揉了揉眼睛，伸了伸懒腰，看看四周仍然一片漆黑，撒娇地说：“是谁在叫我呀？”\n轰隆隆！轰隆隆！雷公公把藏了好久的大鼓重重地敲了起来。他用粗重的嗓音呼唤着笋芽儿。\n笋芽儿扭动着身子，一个劲儿地向上钻。\n妈妈见了，忙给笋芽儿穿上一件又一件衣服，还不停地唠叨：“千万别着凉。”\n笋芽儿终于钻出了地面。她睁开眼睛一看，啊，多么明亮、多么美丽的世界呀！桃花笑红了脸，柳树摇着绿色的长辫子，小燕子叽叽喳喳地叫着……笋芽儿看看这儿，看看那儿，怎么也看不够。她高兴地说：“多美好的春光啊！我要快快长大！”\n春雨姑娘爱抚她，滋润她。太阳公公照耀她，给她温暖。笋芽儿脱下一件件衣服，长成了一株健壮的竹子。她站在山冈上，自豪地喊着“我长大啦！“",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7539aba689a9e1703141672964370038/7539aba689a9e1703141672964370038.m3u8?auth=eb63cc1b2222f4f07394336120cf7eca",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534567.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-2.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "识字",
+    "lesson_number": "第16课",
     "title": "传统节日",
     "author": "赵天源",
     "reader": "赵宇昕",
     "content": "春节到，人欢笑，\n贴窗花，放鞭炮。\n元宵节，看花灯，\n大街小巷人如潮。\n清明节，雨纷纷，\n先人墓前去祭扫。\n过端午，赛龙舟，\n粽香艾香满堂飘。\n七月七，来乞巧，\n牛郎织女会鹊桥。\n过中秋，吃月饼，\n十五圆月当空照。\n重阳节，要敬老，\n踏秋赏菊去登高。\n转眼又是新春到，\n全家团圆真热闹。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/9b703f8dc002f1703142765959761073/9b703f8dc002f1703142765959761073.m3u8?auth=b2055a8f89c1f075024d4bc0f2db459f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534560.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🎉"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-99-1.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "🎊"
   },
   {
     "lesson_number": "识字",
@@ -1482,11 +1359,10 @@ const articlesData =
     "author": "赵天源",
     "reader": "富赜",
     "content": "凉拌菠莱  香煎豆腐  红烧茄子\n烤鸭  水煮鱼\n葱爆羊肉  小鸡炖蘑菇\n蒸饺  炸酱面  小米粥  蛋炒饭",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/8cad835f3ae51703144331427264010/8cad835f3ae51703144331427264010.m3u8?auth=a7b1b4120cf3ec28f0b606d77b939450",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534558.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-99-2.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "🇨🇳"
   },
   {
     "lesson_number": "语文园地",
@@ -1494,10 +1370,9 @@ const articlesData =
     "author": "赵天源",
     "reader": "董乐",
     "content": "夜晚，月亮姑娘出来了，细细的，弯弯的，像眉毛。凉风吹得她有点儿冷，她想，还是找一位裁缝师傅做件衣裳吧。\n裁缝师傅给她量了尺寸，让她四天以后来取。过了四天，月亮姑娘长胖了一点儿，好像弯弯的镰刀。她来取衣裳了。衣裳做得真漂亮，可惜太小，穿在身上连扣子也扣不上。\n裁缝师傅决定重做一件，又给她量了尺寸，让她再过四天来取。过了四天，月亮姑娘又长胖了一点儿，像只核桃。她来取衣裳了。衣裳做得更漂亮，可惜连套也套不进去。\n裁缝师傅涨红了脸，说：“我只好重做了。”又是四天过去了，月亮姑娘来取衣裳。裁缝师傅看到她变得圆圆的，像一只圆盘，吃了一惊：“啊，你又长胖了！”他叹了一口气，说：“唉，你的身材量不准，我没法给你做衣裳了。”\n月亮姑娘看着那漂亮的衣裳，又望望自己圆圆的身子，不好意思地对裁缝师傅说：“不，老师傅，这不能怨您。不是您量不准，而是我每天都在变化。”\n后来，月亮姑娘再也不找人做衣裳了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7835ba9a0f9c11703146171532783733/7835ba9a0f9c11703146171532783733.m3u8?auth=04e0b4d7a81ba1be7c690340cb6ac6bd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20231226/t20231226_526534552.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-9.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🌙"
   },
   {
@@ -1506,46 +1381,42 @@ const articlesData =
     "author": "夏青",
     "reader": "任鲁豫",
     "content": "沿着长长的小溪，\n寻找雷锋的足迹。\n雷锋叔叔，你在哪里，\n你在哪里？\n小溪说：\n昨天，他曾路过这里，\n抱着迷路的孩子，\n冒着蒙蒙的细雨。\n瞧，那泥泞路上的脚窝，\n就是他留下的足迹。\n顺着弯弯的小路，\n寻找雷锋的足迹。\n雷锋叔叔，你在哪里，\n你在哪里？\n小路说：\n昨天，他曾路过这里，\n背着年迈的大娘，\n踏着路上的荆棘。\n瞧，那花瓣上晶莹的露珠，\n就是他洒下的汗滴。\n乘着温暖的春风，\n我们四处寻觅。\n啊，终于找到了――\n哪里需要献出爱心，\n雷锋叔叔就出现在哪里。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D789E8D-2298-45B5-A00A-21400A141C1A_2019-09-1115_07_12_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783862.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "⚡"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-5.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "👨"
   },
   {
-    "lesson_number": "语文园地二",
+    "lesson_number": "语文园地",
     "title": "一株紫丁香",
     "author": "夏青",
     "reader": "朱红娜",
     "content": "踮起脚尖儿，\n走进安静的小院，\n我们把一株紫丁香，\n栽在老师窗前。\n老师，老师，\n就让它绿色的枝叶，\n伸进您的窗口，\n夜夜和您做伴。\n老师――\n绿叶在风里沙沙，\n那是我们给您唱歌，\n帮您消除一天的疲倦。\n老师――\n满树盛开的花儿，\n那是我们的笑脸，\n感谢您时时把我们挂牵。\n夜深了，星星困得眨眼，\n老师，休息吧，\n让花香飘进您的梦里，\n那梦啊，准是又香又甜。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D798DDC-09AC-446B-8C1F-254E0A141C1A_2019-09-1208_18_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783842.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-3.mp3",
     "grade": "2",
     "semester": "2",
-    "emoji": "1️⃣"
+    "emoji": "🟣"
   },
   {
-    "lesson_number": "识字1",
+    "lesson_number": "识字",
     "title": "神州谣",
     "author": "夏青",
     "reader": "尼格买提",
     "content": "我神州， 称中华，山川美， 可入画。\n黄河奔， 长江涌，长城长， 珠峰耸。\n台湾岛， 隔海峡，与大陆， 是一家。\n各民族， 情意浓，齐奋发， 共繁荣。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D798F17-A794-4207-9F57-31C30A141C1A_2019-09-1208_19_42_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783827.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-99-3.mp3",
     "grade": "2",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地三",
+    "lesson_number": "语文园地 3",
     "title": "子鼠丑牛",
     "author": "夏青",
     "reader": "刘静",
     "content": "子鼠 丑牛 寅虎 卯兔\n辰龙 巳蛇 午马 未羊\n申猴 酉鸡 戌狗 亥猪\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D798DDD-1180-40D7-BDE2-254E0A141C1A_2019-09-1208_07_58_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783804.html",
-    "grade": "",
-    "semester": "",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-4.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "🐄"
   },
   {
@@ -1554,35 +1425,32 @@ const articlesData =
     "author": "夏青",
     "reader": "朱广权",
     "content": "从前有个人，养了几只羊。一天早上，他去放羊，发现羊少了一只。原来羊圈破了个窟窿，夜里狼从窟窿钻进去，把羊叼走了。\n街坊劝他说：“赶紧把羊圈修一修，堵上那个窟窿吧！”\n他说：“羊已经丢了，还修羊圈干什么？”\n第二天早上，他去放羊，发现羊又少了一只。原来狼又从窟窿钻进去，把羊叼走了。\n他很后悔没有听街坊的劝告，心想，现在修还不晚。他赶紧堵上那个窟窿，把羊圈修得结结实实的。从此，他的羊再也没丢过。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D799099-1030-46DC-8745-31E50A141C1A_2019-09-1208_19_10_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783776.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-12-1.mp3",
+    "grade": "2",
     "semester": "2",
     "emoji": "🐑"
   },
   {
-    "lesson_number": "语文园第五",
+    "lesson_number": "第2课",
     "title": "弟子规",
     "author": "夏青",
     "reader": "王大民",
     "content": "冠必正，纽必结，袜与履，俱紧切。\n置冠服，有定位，勿乱顿，致污秽。\n唯德学，唯才艺，不如人，当自砺。\n若衣服，若饮食，不如人，勿生戚。\n――《弟子规》\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D79909A-90EC-43C7-AB16-31E50A141C1A_2019-09-1208_19_41_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783757.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-5.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地五",
+    "lesson_number": "语文园地",
     "title": "好天气和坏天气",
     "author": "夏青",
     "reader": "舒欣",
     "content": "一天，有一位老奶奶去看望她的两个儿子。\n她先来到大儿子家。\n大儿子是做蜜饯的，他门口的一大片地上，正晒着各种各样的果脯呢。\n老奶奶看到儿子这么勤快，心里很高兴。她问大儿子： “儿子啊，你现在最盼望什么？”大儿子说：“我最盼望有太阳的好天气，最害怕下雨的坏天气。有了好天气，我的果脯就干得快啊。”\n老奶奶离开的时候，对大儿子说：“儿子啊，我和你一起盼望有太阳的好天气。”\n老奶奶又去了小儿子家。\n小儿子是做雨伞的，他正在家里忙着呢。\n老奶奶问小儿子：“儿子啊，你最盼望什么？”小儿子说：“我最盼望下雨的好天气，最害怕有太阳的坏天气。有了天天下雨的好天气，我的伞就好卖了。”\n老奶奶回家以后，不知道怎么办才好，坐在门口哭。\n一位老爷爷问她：“你为什么哭啊？”老奶奶说：“下雨天是坏天气，因为大儿子不能晒果脯了；大晴天也是坏天气，因为小儿子的雨伞就卖不出去了。”\n老爷爷哈哈大笑起来，他说：“你可以倒过来想啊！晴天是好天气，晒果脯的大儿子会高兴；下雨也是好天气，做伞的小儿子会高兴。”\n老奶奶想了想，一下子高兴起来了。她说：“对啊，不管是晴天还是下雨天，反正有一个儿子会高兴，每天都是好天气呢！”\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D79909B-23C4-422B-A8E3-31E50A141C1A_2019-09-1208_16_59_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783745.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-6.mp3",
     "grade": "2",
     "semester": "2",
-    "emoji": "🌤️"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第15课",
@@ -1590,11 +1458,10 @@ const articlesData =
     "author": "夏青",
     "reader": "原杰",
     "content": "晓出净慈寺送林子方\n［宋］杨万里\n毕竟西湖六月中，\n风光不与四时同。\n接天莲叶无穷碧，\n映日荷花别样红。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D79909B-A698-4902-A8F1-31E50A141C1A_2019-09-1208_30_25_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783743.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-15-2.mp3",
+    "grade": "2",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "🛕"
   },
   {
     "lesson_number": "第15课",
@@ -1602,9 +1469,8 @@ const articlesData =
     "author": "夏青",
     "reader": "肖玉",
     "content": "绝句\n[唐] 杜甫\n两个黄鹂鸣翠柳，\n一行白鹭上青天。\n窗含西岭千秋雪，\n门泊东吴万里船。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D799147-CD24-48B2-8B08-31F50A141C1A_2019-09-1208_22_04_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783741.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-15-1.mp3",
+    "grade": "2",
     "semester": "2",
     "emoji": "📖"
   },
@@ -1614,9 +1480,8 @@ const articlesData =
     "author": "夏青",
     "reader": "雷鹏",
     "content": "满天的乌云，黑沉沉地压下来。树上的叶子一动不动，蝉一声也不出。\n忽然一阵大风，吹得树枝乱摆。一只蜘蛛从网上垂下来，逃走了。\n闪电越来越亮，雷声越来越响。\n哗，哗，哗，雨下起来了。\n雨越下越大。往窗外望去，树啊，房子啊，都看不清了。\n渐渐地，渐渐地，雷声小了，雨声也小了。\n天亮起来了。打开窗户，清新的空气迎面扑来。\n雨停了。太阳出来了。一条彩虹挂在天空。蝉叫了。蜘蛛又坐在网上。池塘里水满了，青蛙也叫起来了。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D79935F-C5C0-4707-81E6-32080A141C1A_2019-09-1208_31_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783738.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-16.mp3",
+    "grade": "2",
     "semester": "2",
     "emoji": "🌧️"
   },
@@ -1626,46 +1491,42 @@ const articlesData =
     "author": "夏青",
     "reader": "于晓莉",
     "content": "要是你在野外迷了路，\n可千万别慌张。\n大自然有很多天然的指南针，\n会帮助你辨别方向。\n太阳是个忠实的向导，\n它在天空给你指点方向。\n中午的时候它在南边，\n地上的树影正指着北方。\n北极星是盏指路灯，\n它永远高挂在北方。\n要是你能认出它，\n就不会在黑夜里乱闯。\n要是碰上阴雨天，\n大树也会来帮忙。\n枝叶稠的一面是南方，\n枝叶稀的一面是北方。\n雪特别怕太阳，\n沟渠里的积雪会给你指点方向。\n看看哪边雪化得快，哪边化得慢，\n就可以分辨北方和南方。\n要是你在野外迷了路，\n可千万别慌张。\n大自然有很多天然的指南针，\n需要你细细观察，多多去想。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D799360-9984-49DA-B9D2-32080A141C1A_2019-09-1208_38_54_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783727.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-17.mp3",
     "grade": "2",
-    "semester": "1",
-    "emoji": "🛤️"
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地六",
+    "lesson_number": "课外古诗词诵读",
     "title": "悯农（其一）",
     "author": "夏青",
     "reader": "原杰",
     "content": "悯农（其一）\n[唐] 李绅\n春种一粒粟，\n秋收万颗子。\n四海无闲田，\n农夫犹饿死。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D799361-A27C-413B-98A1-32080A141C1A_2019-09-1208_35_02_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783706.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "1️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-7.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地七",
+    "lesson_number": "语文园地",
     "title": "二十四节气歌",
     "author": "夏青",
     "reader": "肖玉",
     "content": "二十四节气歌\n春雨惊春清谷天，\n夏满芒夏暑相连。\n秋处露秋寒霜降，\n冬雪雪冬小大寒。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D799472-86C0-4889-91E7-323D0A141C1A_2019-09-1208_43_26_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783677.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "2️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-8.mp3",
+    "grade": "2",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地八",
+    "lesson_number": "语文园地",
     "title": "舟夜书所见",
     "author": "夏青",
     "reader": "雅坤",
     "content": "舟夜书所见\n[清] 查慎行\n月黑见渔灯，\n孤光一点萤。\n微微风簇浪，\n散作满河星。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D7996B6-5520-4EC8-8D8D-324B0A141C1A_2019-09-1208_42_59_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/erx/20190919/t20190919_524783566.html",
-    "grade": "",
-    "semester": "",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-2-98-10.mp3",
+    "grade": "2",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -1674,11 +1535,10 @@ const articlesData =
     "author": "丁骁",
     "reader": "成亚",
     "content": "蚂蚁队长集合好队伍，向大家宣布：“今天搬运粮食，只许出力，不许偷嘴。谁偷嘴就要处罚谁。”\n一只小蚂蚁在队列里嘀咕：“要是偷嘴的是您呢？”蚂蚁队长说：“照样要受处罚。”\n大家一听，都来劲了，争先恐后赶到运粮地点，抢着抬大的，搬重的，谁也不愿偷懒。\n就在这时，蚂蚁队长发现了一块大奶酪。那块奶酪实在太大了，他左抬抬不起，右搬搬不动，只好叫来七八只小蚂蚁当助手。\n奶酪多诱人啊！抬着它，不要说吃，单是闻闻，都要淌口水。小蚂蚁们嘴叼着它，要做到不趁机舔一下，那要有多大的毅力，多强的纪律性啊！\n蚂蚁队长叼着奶酪的一角往前拽着，也许是用力过猛，一下就把那个角拽掉了。盯着那一点儿掉在地上的奶酪渣，蚂蚁队长想：丢掉，实在太可惜；趁机吃掉它，又要犯不许偷嘴的禁令。怎么办呢？他的心七上八下，只好下令：“休息一会儿！”\n听到命令，大家放下奶酪，却不走开。\n“大家分散开，哪里凉快就到哪里休息。”\n大家依旧不动，眼睛望着别处，心却牵挂着那一点儿奶酪渣。\n蚂蚁队长生气了。他登上一块大石板，突然下令：“注意啦，全体都有。稍息！立正！向后――转！齐步――走！”等小蚂蚁们消失在草丛中，他才大叫：“立――定！原地休息！”\n这时，奶酪旁边只有蚂蚁队长，他要是偷嘴，谁也看不见。他低下头，嗅嗅那点儿奶酪渣，味道真香！可是，他犹豫了一会儿，终于一跺脚：“注意啦，全体都有。稍息！立正！向后――转！齐步――走！”\n小蚂蚁们从四面八方的草丛里走拢来了。当他们重新聚到奶酪旁边时，蚂蚁队长命令年龄最小的一只蚂蚁：“这点儿奶酪渣是刚才弄掉的，丢了可惜，你吃掉它吧！”\n大家又干起活来了，劲头比刚才更足，奶酪一会儿就被搬进洞里去了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/fd44aadd769931703073210674208359/fd44aadd769931703073210674208359.m3u8?auth=a74f74989689c0c92a12feec4eac35e6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231223/t20231223_526532359.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-11.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "1️⃣"
+    "emoji": "🧀"
   },
   {
     "lesson_number": "第17课",
@@ -1686,35 +1546,21 @@ const articlesData =
     "author": "杨璇铄",
     "reader": "雅坤",
     "content": "望天门山\n[唐]李白\n天门中断楚江开，\n碧水东流至此回。\n两岸青山相对出，\n孤帆一片日边来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/aca1ba577c608170307017994897476/aca1ba577c608170307017994897476.m3u8?auth=eb2334323f8c07b5882706647964b27a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231223/t20231223_526532354.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-17-2.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "🌤️"
+    "emoji": "⛰️"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第4课",
     "title": "所见",
     "author": "果君",
     "reader": "贺红梅",
     "content": "所见\n[清]  袁枚\n牧童骑黄牛，\n歌声振林樾。\n意欲捕鸣蝉，\n忽然闭口立。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/4c57676dd50221703036816752692785/4c57676dd50221703036816752692785.m3u8?auth=df4b5c7f257fdf4b6105362c6332b459",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533933.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "习作例文",
-    "title": "写日记",
-    "author": "果君",
-    "reader": "赵宇昕",
-    "content": "8月20日  星期一  晴\n早上起床时，我发现那颗松动的牙齿更松了。我想把它摇掉，可是左摇右摇，牙齿就是不掉。唉！怎么办呢？这颗摇摇欲坠的牙齿让我感觉很难受。晚饭前，我忍不住又去晃动它，晃了几下，啊，终于掉了！\n妈妈把我的这颗牙齿洗干净，收起来了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/c5302f31143d1703036424659799284/c5302f31143d1703036424659799284.m3u8?auth=97abaff5fa807b3eb26f7cbaafa82b1b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533932.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-4-2.mp3",
     "grade": "3",
     "semester": "1",
-    "emoji": "✏️"
+    "emoji": "📖"
   },
   {
     "lesson_number": "语文园地",
@@ -1722,11 +1568,10 @@ const articlesData =
     "author": "果君",
     "reader": "陈智鹏",
     "content": "早发白帝城\n［唐］李白\n朝辞白帝彩云间，\n千里江陵一日还。\n两岸猿声啼不住，\n轻舟已过万重山。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/2f4628a9e57a1703036080963565299/2f4628a9e57a1703036080963565299.m3u8?auth=6707c671a8d1c622db486d5f483c90c6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533931.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-97-5.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "⚪"
   },
   {
     "lesson_number": "语文园地",
@@ -1734,11 +1579,10 @@ const articlesData =
     "author": "果君",
     "reader": "姚科",
     "content": "采莲曲\n［唐］王昌龄\n荷叶罗裙一色裁，芙蓉向脸两边开。\n乱入池中看不见，闻歌始觉有人来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/1a1d6bdbf0be31703035585019884100/1a1d6bdbf0be31703035585019884100.m3u8?auth=4a3c21a9e4898eb79b4f6657b959cbcd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20231225/t20231225_526533974.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-97-1.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "🪷"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第4课",
@@ -1746,9 +1590,8 @@ const articlesData =
     "author": "夏青",
     "reader": "黎江",
     "content": "山行\n［唐］杜 牧\n远上寒山石径斜，\n白云生处有人家。\n停车坐爱枫林晚，\n霜叶红于二月花。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E865-8988-4F54-8D77-48FB0A141C1A_2019-09-1910_35_03_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784993.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-4-1.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "⛰️"
   },
@@ -1758,21 +1601,19 @@ const articlesData =
     "author": "夏青",
     "reader": "常亮",
     "content": "赠刘景文\n［宋］苏 轼\n荷尽已无擎雨盖，\n菊残犹有傲霜枝。\n一年好景君须记，\n最是橙黄橘绿时。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E866-6AD0-4B94-8B86-48FB0A141C1A_2019-09-1910_35_13_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784981.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-4-3.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第4课",
-    "title": "夜书所见",
+    "lesson_number": "语文园地",
+    "title": "所见",
     "author": "夏青",
     "reader": "黎江",
-    "content": "夜书所见\n［宋］叶绍翁\n萧萧梧叶送寒声，\n江上秋风动客情。\n知有儿童挑促织，\n夜深篱落一灯明。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E866-9710-4885-AFD6-48FB0A141C1A_2019-09-1910_24_36_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784972.html",
-    "grade": "1",
+    "content": "所见\n［[清] 袁枚\n牧童骑黄牛，\n歌声振林樾。\n意欲捕鸣蝉，\n忽然闭口立。\n人民教育出版社\n2018年6月第1版",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-97-4.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "📖"
   },
@@ -1782,9 +1623,8 @@ const articlesData =
     "author": "夏青",
     "reader": "陈智鹏",
     "content": "一夜秋风，一夜秋雨。\n我背着书包去上学时，天开始放晴了。\n啊！多么明朗的天空。\n可是，地面还是潮湿的，不时还能看见一个亮晶晶的水洼，映着一角小小的蓝天。\n道路两旁的法国梧桐树，掉下了一片片金黄金黄的叶子。这一片片闪着雨珠的叶子，一掉下来，便紧紧地粘在湿漉漉的水泥道上了。\n我走在院墙外的水泥道上。水泥道像铺上了一块彩色的地毯。这是一块印着落叶图案的、闪闪发光的地毯，从脚下一直铺到很远很远的地方，一直到路的尽头……\n每一片法国梧桐树的落叶，都像一个金色的小巴掌，熨帖地、平展地粘在水泥道上。它们排列得并不规则，甚至有些凌乱，然而，这更增添了水泥道的美。\n我一步一步小心地走着，一片一片仔细地数着。我穿着一双棕红色的小雨靴。你瞧，这多像两只棕红色的小鸟，在秋天金黄的叶丛间，愉快地蹦跳着、歌唱着……\n要不是怕上课迟到，我会走得很慢很慢的。\n一夜秋风，一夜秋雨。\n当我背着书包去上学时，第一回觉得，门前的水泥道真美啊！\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E871-0CF8-4A6C-AC3E-49170A141C1A_2019-09-1910_21_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784957.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-5.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "💧"
   },
@@ -1794,11 +1634,10 @@ const articlesData =
     "author": "夏青",
     "reader": "林溪",
     "content": "听听，\n秋的声音，\n大树抖抖手臂，\n“唰唰”，\n是黄叶道别的话音。\n听听，\n秋的声音，\n蟋蟀振动翅膀，\n“����”，\n是和阳台告别的歌韵。\n一排排大雁追上白云，\n撒下一阵暖暖的叮咛；\n一阵阵秋风掠过田野，\n送来一片丰收的歌吟。\n听听，\n走进秋，\n走进这辽阔透明的音乐厅，\n你好好地去听\n――秋的声音。\n秋的声音，\n在每一片叶子里，\n在每一朵小花上，\n在每一滴汗水里，\n在每一颗饱满的谷粒里。\n听听，\n秋的声音，\n从远方匆匆地来，\n向远方匆匆地去。\n听听，\n我们去听秋的声音。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E872-A394-4F7B-8FCF-49170A141C1A_2019-09-1910_45_15_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784919.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-7.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "🍂"
+    "emoji": "🔊"
   },
   {
     "lesson_number": "语文园地",
@@ -1806,9 +1645,8 @@ const articlesData =
     "author": "夏青",
     "reader": "林溪",
     "content": "人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82E873-ED1C-4F44-BB2C-49170A141C1A_2019-09-1910_21_41_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784899.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-97-3.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "🍂"
   },
@@ -1817,10 +1655,9 @@ const articlesData =
     "title": "灯不拨不亮，理不辨不明",
     "author": "夏青",
     "reader": "成亚",
-    "content": "人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82ED51-6C54-4C17-B14D-49560A141C1A_2019-09-1910_45_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784844.html",
-    "grade": "1",
+    "content": "灯不拨不亮，理不辩不明。 \n有理走遍天下，无理寸步难行。 \n一时强弱在于力，万古胜负在于理。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-97-2.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "💡"
   },
@@ -1830,8 +1667,7 @@ const articlesData =
     "author": "夏青",
     "reader": "章莹莹",
     "content": "我得好好写写我们家的小狗，它叫“王子”，是我们村里长得最花、毛色最漂亮的一只狗。它跑得特别快，我总也追不上它。不过“王子”很乖，它总是在前面等着我。\n我教过“王子”认字，可是它连一个字母也没学会，不过它倒是挺爱上课的。我教它念“狗”的时候，它叫得最欢。它准是在想，这是在说它自己呀！“王子”还会数数，不过总共才会数到二。\n它喜欢哼哼叫和汪汪叫。\n“你要干什么？”“王子”在我面前哼哼时，我问它。\n它汪地叫一声，晃一晃脑袋，表示想要出去。\n“现在还想干什么？”当我们走出院子时，我接着问它。\n“王子”又汪地叫一声，朝铁路那边跑去。\n“你该一次说完哪！”我一边埋怨，一边跟在它后面跑。我知道“王子”想去那儿干什么，它喜欢同火车赛跑。每次都是它输，可它从不在乎。每当有火车开过来，“王子”都以为能跑赢它。等到跑不动了，它便冲着远去的火车汪汪叫上几声，不知是允许火车开走呢，还是骂了火车一顿。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8B8-F9C4-410C-B597-4A520A141C1A_2019-09-1911_40_58_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784777.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-99-2.mp3",
     "grade": "3",
     "semester": "1",
     "emoji": "🐕"
@@ -1842,11 +1678,10 @@ const articlesData =
     "author": "夏青",
     "reader": "原杰",
     "content": "我的故乡在江南，我爱故乡的杨梅。\n细雨如丝，一棵棵杨梅树贪婪地吮吸着春天的甘露。它们伸展着四季常绿的枝条，一片片狭长的叶子在雨雾中欢笑着。\n端午节过后，杨梅树上挂满了杨梅。\n杨梅圆圆的，和桂圆一样大小，遍身生着小刺。等杨梅渐渐长熟，刺也渐渐软了，平了。摘一个放进嘴里，舌尖触到杨梅那平滑的刺，是那样细腻而柔软。\n杨梅先是淡红的，随后变成深红，最后几乎变成黑的了。它不是真的变黑，而是因为太红了，看上去像黑的。你轻轻咬开它，就可以看见那新鲜红嫩的果肉，嘴唇上舌头上同时染满了鲜红的汁水。\n没有熟透的杨梅又酸又甜，熟透了就甜津津的，叫人越吃越爱吃。我小时候，有一次杨梅吃得太多，感觉牙齿又酸又软，连豆腐也咬不动了。我这才知道，杨梅虽然熟透了，酸味还是有的，因为它太甜，吃起来就不觉得酸了。吃多了杨梅再吃别的东西，才感觉到牙齿已经被它酸倒了。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8B9-98B8-42EF-934E-4A520A141C1A_2019-09-1911_41_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190920/t20190920_524784699.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-99-1.mp3",
     "grade": "3",
     "semester": "1",
-    "emoji": "🏠"
+    "emoji": "🌳"
   },
   {
     "lesson_number": "第17课",
@@ -1854,9 +1689,8 @@ const articlesData =
     "author": "夏青",
     "reader": "贾际",
     "content": "饮湖上初晴后雨\n［宋］苏 轼\n水光潋滟晴方好，\n山色空蒙雨亦奇。\n欲把西湖比西子，\n淡妆浓抹总相宜。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8BA-7B74-4F30-A530-4A520A141C1A_2019-09-1911_41_06_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784106.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/2-1-17-3.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "🌧️"
   },
@@ -1866,11 +1700,10 @@ const articlesData =
     "author": "夏青",
     "reader": "雅坤",
     "content": "望洞庭\n［唐］刘禹锡\n湖光秋月两相和，\n潭面无风镜未磨。\n遥望洞庭山水翠，\n白银盘里一青螺。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8BA-0F98-4930-9141-4A520A141C1A_2019-09-1911_41_09_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784094.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-17-1.mp3",
+    "grade": "3",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第18课",
@@ -1878,11 +1711,10 @@ const articlesData =
     "author": "夏青",
     "reader": "方亮",
     "content": "西沙群岛位于南海的西北部，是我国海南省三沙市的一部分。那里风景优美，物产丰富，是个可爱的地方。\n西沙群岛一带海水五光十色，瑰丽无比：有深蓝的，淡青的，浅绿的，杏黄的。一块块，一条条，相互交错着。因为海底高低不平，有山崖，有峡谷，海水有深有浅，从海面看，色彩就不同了。\n海底的岩石上生长着各种各样的珊瑚，有的像绽开的花朵，有的像分枝的鹿角。海参到处都是，在海底懒洋洋地蠕动。大龙虾全身披甲，划过来，划过去，样子挺威武。\n鱼成群结队地在珊瑚丛中穿来穿去，好看极了。有的全身布满彩色的条纹；有的头上长着一簇红缨；有的周身像插着好些扇子，游动的时候飘飘摇摇；有的眼睛圆溜溜的，身上长满了刺，鼓起气来像皮球一样圆。各种各样的鱼多得数不清。正像人们说的那样，西沙群岛的海里一半是水，一半是鱼。\n西沙群岛也是鸟的天下。岛上有一片片茂密的树林，树林里栖息着各种海鸟。遍地都是鸟蛋。树下堆积着一层厚厚的鸟粪，这是非常宝贵的肥料。\n富饶的西沙群岛，是我们祖祖辈辈生活的地方。随着祖国建设事业的发展，可爱的西沙群岛，必将变得更加美丽，更加富饶。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8BB-F1D8-46AD-A917-4A520A141C1A_2019-09-1911_41_59_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784082.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-18.mp3",
+    "grade": "3",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第19课",
@@ -1890,10 +1722,9 @@ const articlesData =
     "author": "夏青",
     "reader": "于晓莉",
     "content": "我的家乡在广东，是一座海滨小城。人们走到街道尽头，就可以看见浩瀚的大海。天是蓝的，海也是蓝的。海天交界的水平线上，有棕色的机帆船和银白色的军舰来来往往。天空飞翔着白色的、灰色的海鸥，还飘着跟海鸥一样颜色的云朵。\n早晨，机帆船、军舰、海鸥、云朵，都被朝阳镀上了一层金黄色。帆船上的渔民，军舰上的战士，他们的脸和胳臂也镀上了一层金黄色。\n海边是一片沙滩，沙滩上遍地是各种颜色、各种花纹的贝壳。这里的孩子见得多了，都不去理睬这些贝壳，贝壳只好寂寞地躺在那里。远处响起了汽笛声，那是出海捕鱼的船队回来了。船上满载着银光闪闪的鱼，还有青色的虾和蟹，金黄色的海螺。船队一靠岸，海滩上就喧闹起来。\n小城里每一个庭院都栽了很多树。有桉树、椰子树、橄榄树、凤凰树，还有别的许多亚热带树木。初夏，桉树叶子散发出来的香味，飘得满街满院都是。凤凰树开了花，开得那么热闹，小城好像笼罩在一片片红云中。\n小城的公园更美。这里栽着许许多多榕树。一棵棵榕树就像一顶顶撑开的绿绒大伞，树叶密不透风，可以遮太阳，挡风雨。树下摆着石凳，每逢休息的日子，石凳上总是坐满了人。\n小城的街道也美。除了沥青的大路，都是用细沙铺成的，踩上去咯吱咯吱地响，好像踩在沙滩上一样。人们把街道打扫得十分干净，甚至连一片落叶都没有。\n这座海滨小城真是又美丽又整洁。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D82F8BB-E8AC-4DC3-BA78-4A520A141C1A_2019-09-1911_42_05_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784044.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-19.mp3",
+    "grade": "3",
+    "semester": "1",
     "emoji": "🌊"
   },
   {
@@ -1902,9 +1733,8 @@ const articlesData =
     "author": "夏青",
     "reader": "贾际",
     "content": "群儿戏于庭，一儿登瓮，足跌没水中。众皆弃去，光持石击瓮破之，水迸，儿得活。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D831E54-E94C-4CD2-B75B-4CE40A141C1A_2019-09-1914_21_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784023.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-24.mp3",
+    "grade": "3",
     "semester": "1",
     "emoji": "🐎"
   },
@@ -1914,8 +1744,7 @@ const articlesData =
     "author": "夏青",
     "reader": "康辉",
     "content": "有一年冬天，列宁在郊外养病。他每天到公园散步。公园里有一棵高大的白桦树，树上有三只灰雀：两只胸脯是粉红的，一只胸脯是深红的。它们在树枝间来回跳动，婉转地歌唱，非常惹人喜爱。列宁每次走到白桦树下，都要停下来，仰望这三只欢快的灰雀，还经常给它们带来面包渣和谷粒。\n一天，列宁又来到公园，走到白桦树下，发现那只胸脯深红的灰雀不见了。他在周围的树林中找遍了，也没有找到。\n这时，列宁看见一个小男孩，就问：“孩子，你看见过一只深红色胸脯的灰雀吗？”\n男孩说：“没……我没看见。”\n列宁说：“一定是飞走了或者是冻死了。天气严寒，它怕冷。”\n那个男孩本来想告诉列宁灰雀没有死，但又不敢讲。\n列宁自言自语地说：“多好的灰雀呀，可惜再也飞不回来了。”\n男孩看看列宁，说：“会飞回来的，一定会飞回来的。它还活着。”\n列宁问：“会飞回来？”\n“一定会飞回来！”男孩肯定地说。\n第二天，列宁来到白桦树下，果然又看到那只灰雀欢蹦乱跳地在枝头歌唱。那个男孩站在白桦树旁，低着头。\n列宁看看男孩，又看看灰雀，微笑着说：“你好！灰雀，昨天你到哪儿去了？”\n当然，灰雀没有告诉列宁昨天它去哪儿了。列宁也没再问那个男孩，因为他已经知道，男孩是诚实的。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D831E56-BEB0-4082-8DE0-4CE40A141C1A_2019-09-1914_25_33_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/ss/20190919/t20190919_524784009.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-1-26.mp3",
     "grade": "3",
     "semester": "1",
     "emoji": "📖"
@@ -1926,10 +1755,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "毛舟",
     "content": "绝句\n[唐]  杜甫\n迟日江山丽，\n春风花草香。\n泥融飞燕子，\n沙暖睡鸳鸯。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1218/7033a266b071170288953733045126/7033a266b071170288953733045126.m3u8?auth=95f88f1e90c60404f261f53c232bf44c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534576.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-1-2.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -1938,10 +1766,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "王大民",
     "content": "惠崇春江晚景\n[宋]  苏轼\n竹外桃花三两枝，\n春江水暖鸭先知。\n蒌蒿满地芦芽短，\n正是河豚欲上时。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/cc7005374a9bc1702948625417983777/cc7005374a9bc1702948625417983777.m3u8?auth=df0d02c60a786732fdd85601c0d41a60",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534579.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-1-1.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "🌸"
   },
   {
@@ -1950,23 +1777,21 @@ const articlesData =
     "author": "于诗宁",
     "reader": "毛舟",
     "content": "三衢道中\n[宋]  曾几\n梅子黄时日日晴，\n小溪泛尽却山行。\n绿茵不减来时路，\n添得黄鹂四五声。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/683e88f314e711702948963110608939/683e88f314e711702948963110608939.m3u8?auth=c19fbecccdb785f8b5b56faad54801d6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534580.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "3️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-1-3.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第2课",
+    "lesson_number": "第11课",
     "title": "燕子",
     "author": "于诗宁",
     "reader": "赵宇昕",
     "content": "一身乌黑的羽毛，一对轻快有力的翅膀，加上剪刀似的尾巴，凑成了那样可爱的活泼的小燕子。\n二三月的春日里，轻风微微地吹拂着，如毛的细雨由天上洒落着，千条万条的柔柳，红的白的黄的花，青的草，绿的叶，都像赶集似的聚扰来，形成了烂漫无比的春天。这时候，那些小燕子，那么伶俐可爱的小燕子，也由南方飞来，加入这光彩夺目的图画中，为春光平添了许多生趣。\n小燕子带了它的剪刀似的尾巴，在阳光满地时，斜飞于旷亮无比的天空，叽的一声，已由这里的稻田上，飞到那边的高柳下了。\n另有几只却在波光粼粼的湖面上横掠着，小燕子的翼尖或剪尾，偶尔沾了一下水面，那小圆晕便一圈一圈地荡漾开去。\n那边还有飞倦了的几对，闲散地在纤细的电线上休憩――嫩蓝的春天，几支木杆，几痕细线连于杆与杆之间，线上停着几个小黑点，那便是燕子。多么有趣的一幅图画呀！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/2036dcd281c951702949424178691431/2036dcd281c951702949424178691431.m3u8?auth=41624eb80f20787629a063a2db3af431",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534582.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🕊️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-2.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "🐦"
   },
   {
     "lesson_number": "第3课",
@@ -1974,11 +1799,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "赵宇昕",
     "content": "清早，我到公园去玩，一进门就闻到一阵清香。我赶紧往荷花池边跑去。\n荷花已经开了不少了。荷叶挨挨挤挤的，像一个个碧绿的大圆盘。白荷花在这些大圆盘之间冒出来。有的才展开两三片花瓣儿。有的花瓣儿全展开了，露出嫩黄色的小莲蓬。有的还是花骨朵儿，看起来饱胀得马上要破裂似的。\n这么多的白荷花，一朵有一朵的姿势。看看这一朵，很美；看看那一朵，也很美。如果把眼前的一池荷花看做一大幅活的画，那画家的本领可真了不起。\n我忽然觉得自己仿佛就是一朵荷花，穿着雪白的衣裳，站在阳光里。一阵微风吹过来，我就翩翩起舞，雪白的衣裳随风飘动。不光是我一朵，一池的荷花都在舞蹈。风过了，我停止了舞蹈，静静地站在那儿。蜻蜓飞过来，告诉我清早飞行的快乐。小鱼在脚下游过，告诉我昨夜做的好梦……\n过了好一会儿，我才记起我不是荷花，我是在看荷花呢。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/02e24c92bb4341702949951900568537/02e24c92bb4341702949951900568537.m3u8?auth=ac1cc9126c1a834683973a19822ff7f1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534585.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-3.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "🪷"
   },
   {
     "lesson_number": "第5课",
@@ -1986,10 +1810,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "黎江",
     "content": "宋人有耕者，田中有株。兔走触株，折颈而死。因释其耒而守株，冀复得兔。兔不可复得，而身为宋国笑。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/0d960b50c25e71702950919854680010/0d960b50c25e71702950919854680010.m3u8?auth=5865a2c282d0700964ce95e8ab75773a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534593.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-5-1.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "🐰"
   },
   {
@@ -1998,11 +1821,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "任鲁豫",
     "content": "国王的厨柜里有两个罐子，一个是陶的，一个是铁的。骄傲的铁罐看不起陶罐，常常奚落它。\n“你敢碰我吗，陶罐子！”铁罐傲慢地问。\n“不敢，铁罐兄弟。”陶罐谦虚地回答。\n“我就知道你不敢，懦弱的东西！”铁罐说，带着更加轻蔑的神气。\n“我确实不敢碰你，但并不是懦弱。”陶罐争辩说，“我们生来就是盛东西的，并不是来互相碰撞的。说到盛东西，我不见得就比你差。再说……”\n“住嘴！”铁罐恼怒了，“你怎么敢和我相提并论！你等着吧，要不了几天，你就会破成碎片，我却永远在这里，什么也不怕。”\n“何必这样说呢？”陶罐说，“我们还是和睦相处吧，有什么可吵的呢！”\n“和你在一起，我感到羞耻，你算什么东西！”铁罐说，“走着瞧吧，总有一天，我要把你碰成碎片！”\n陶罐不再理会铁罐。\n时间在流逝，世界上发生了许多事情。王朝覆灭了，宫殿倒塌了，两个罐子遗落在荒凉的废墟上，上面覆盖了厚厚的尘土。\n许多年过去了。有一天，人们来到这里，掘开厚厚的堆积物，发现了那个陶罐。\n“哟，这里有一个罐子！”一个人惊讶地说。\n“真的，一个陶罐！”其他的人都高兴地叫起来。\n捧起陶罐，倒掉里面的泥土，清理干净，它还是那样光洁，朴素，美观。\n“多美的陶罐！”一个人说，“小心点儿，千万别把它碰坏了，这是古代的东西，很有价值的。”\n“谢谢你们！”陶罐兴奋地说，“我的兄弟铁罐就在我旁边，请你们把它也掘出来吧，它一定闷得不行了。”\n人们立即动手，翻来覆去，把土都掘遍了，但是，连铁罐的影子也没见到。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/660174004550e1702951172303437284/660174004550e1702951172303437284.m3u8?auth=236de968f1d60fa55cebd5456b32cbee",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534603.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-6-1.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第9课",
@@ -2010,11 +1832,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "陆洋",
     "content": "元日\n[宋]  王安石\n爆竹声中一岁除，\n春风送暖入屠苏。\n千门万户���尤眨�\n总把新桃换旧符。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/fbe65ebed34511702952120389676850/fbe65ebed34511702952120389676850.m3u8?auth=9365635d4bd1fe722d5e32f544551811",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534616.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "💴"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-9-3.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📖"
   },
   {
     "lesson_number": "第9课",
@@ -2022,11 +1843,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "张悦",
     "content": "清明\n[唐]  杜牧\n清明时节雨纷纷，\n路上行人欲断魂。\n借问酒家何处有？\n牧童遥指杏花村。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/89fd4defadcd51702952250862992527/89fd4defadcd51702952250862992527.m3u8?auth=21bdc8118888543b2af8e7d153e87220",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534619.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-9-2.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第9课",
@@ -2034,11 +1854,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "杨昶",
     "content": "九月九日忆山东兄弟\n[唐]  王维\n独在异乡为异客，\n每逢佳节倍思亲。\n遥知兄弟登高处，\n遍插茱萸少一人。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/549f881c601c31702952351171905509/549f881c601c31702952351171905509.m3u8?auth=753f1103436ef8ad5e369b4ef3c7b774",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534620.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌙"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-9-1.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "⛰️"
   },
   {
     "lesson_number": "第14课",
@@ -2046,21 +1865,19 @@ const articlesData =
     "author": "于诗宁",
     "reader": "刘鹤佳",
     "content": "听说蜜蜂有辨认方向的能力，无论飞到哪里，它总是可以回到原处。我想做个实验。\n一天，我在我家草料棚的蜂窝里捉了一些蜜蜂，把它们放在纸袋里。我叫小女儿在蜂窝旁等着，自己带着蜜蜂，走了四公里路，打开纸袋，在它们身上做了白色记号，然后放了出来。二十只左右被闷了好久的蜜蜂向四面飞散，好像在寻找回家的方向。这时候刮起了狂风，蜜蜂飞得很低，几乎要触到地面，大概这样可以减少阻力。我想，它们飞得这么低，怎么能看到遥远的家呢？\n在回家的路上，我推测蜜蜂可能找不到家了。没等我跨进家门，小女儿就冲过来，脸红红的，看上去很激动。她高声喊道：“有两只蜜蜂飞回来了！它们两点四十分回到蜂窝里，肚皮下面还沾着花粉呢。”\n我放蜜蜂的时候是将近两点钟，也就是说，在大约三刻钟的时间里，那两只小蜜蜂飞了四公里路，这还包括了采花粉的时间。\n傍晚时，我亲眼看到另外三只飞了回来，身上也都带着花粉。\n第二天我检查蜂窝时，发现了十五只身上有白色记号的蜜蜂。\n这样，二十只左右的蜜蜂，至少有十五只没有迷失方向，准确无误地回到了家。尽管它们逆风而飞，沿途都是一些陌生的景物，但它们确确实实飞回来了。\n蜜蜂靠的不是超常的记忆力，而是一种我无法解释的本能。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e73263bfbc5a91702957440169240554/e73263bfbc5a91702957440169240554.m3u8?auth=010389f6f47ccf1672edc20cc3df2044",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534668.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🍯"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-14-1.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "🐝"
   },
   {
-    "lesson_number": "第18课",
+    "lesson_number": "快乐读书吧",
     "title": "童年的水墨画",
     "author": "于诗宁",
     "reader": "林溪、王世林",
     "content": "溪边\n垂柳把溪水当做梳妆的镜子，\n山溪像绿玉带一样平静。\n人影给溪水染绿了，\n钓竿上立着一只红蜻蜒。\n忽然扑腾一声人影碎了，\n草地上蹦跳着鱼儿和笑声。\n江上\n像刚下水的鸭群，\n扇动翅膀拍水戏耍。\n一双双小手拨动着浪花，\n你拨我溅笑哈哈。\n是哪个“水葫芦”一下钻入水中，\n出水时只见一阵水花两排银牙。\n林中\n松树刚洗过澡一身清清爽爽，\n松针上一串串雨珠明明亮亮。\n小蘑菇钻出泥土戴一顶斗笠，\n像一朵朵山花在树下开放。\n是谁一声欢叫把雨珠抖落，\n只见松林里一个个斗笠像蘑菇一样。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/ea5a334b22f2b1702959493342325557/ea5a334b22f2b1702959493342325557.m3u8?auth=37e765b3c38b489c945813306a504a72",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534676.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-18.mp3",
+    "grade": "3",
     "semester": "2",
     "emoji": "💧"
   },
@@ -2070,10 +1887,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "杨昶",
     "content": "晚饭过后，火烧云上来了。霞光照得小孩子的脸红红的。大白狗变成红的了。红公鸡变成金的了。黑母鸡变成紫檀色的了。喂猪的老头儿在墙根靠着，笑盈盈地看着他的两头小白猪变成小金猪了。他刚想说：“你们也变了……”，旁边走来个乘凉的人对他说：“您老人家必要高寿，您老是金胡子了。”\n天上的云从西边一直烧到东边，红彤彤的，好像是天空着了火。\n这地方的火烧云变化极多，一会儿红彤形的，一会儿金灿灿的，一会儿半紫半黄，一会儿半灰半百合色。葡萄灰、梨黄、茄子紫，这些颜色天空都有。还有些说也说不出来、见也没见过的颜色。\n一会儿，天空出现一匹马，马头向南，马尾向西。马是跪着的，像等人骑上它的背，它才站起来似的。过了两三秒钟，那匹马大起来了，腿伸开了，脖子也长了，尾巴却不见了。看的人正在寻找马尾巴，那匹马变模糊了。\n忽然又来了一条大狗。那条狗十分凶猛，在向前跑，后边似乎还跟着好几条小狗。跑着跑着，小狗不知哪里去了，大狗也不见了。\n接着又来了一头大狮子，跟庙门前的石头狮子一模一样，也那么大，也那样蹲着，很威武很镇静地蹲着。可是一转眼就变了，再也找不着了。\n一时恍恍惚惚的，天空里又像这个又像那个，其实什么也不像，什么也看不清了。必须低下头，揉一揉眼睛，沉静一会儿再看。可是天空偏偏不等待那些爱好它的孩子。一会儿工夫，火烧云就下去了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/356df753025021702961203283591149/356df753025021702961203283591149.m3u8?auth=de2566fdc0bf9c5d95a9d1ab32ced52f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534686.html",
-    "grade": "2",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-24.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "☁️"
   },
   {
@@ -2082,11 +1898,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "雅坤",
     "content": "忆江南\n[唐]  白居易\n江南好，风景旧曾谙。日出江花红胜火，春来江水绿如蓝。能不忆江南？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/39abb489c8b221702973622866828026/39abb489c8b221702973622866828026.m3u8?auth=36672aeabcf8ac5db0135929880928ea",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534718.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-7.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第5课",
@@ -2094,11 +1909,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "黎江",
     "content": "从前有一个人，乘着马车在大路上飞跑。\n他的朋友看见了，叫住他问：“你上哪儿去啊！”\n他回答说：“到楚国去。”\n朋友很奇怪，提醒他说：“楚国在南边，你怎么往北边走啊？”\n他说：“没关系，我的马跑得快。”\n朋友说：“马跑得越快，离楚国不是越远了吗？”\n他说：“没关系，我的车夫是个好把式！”\n朋友摇摇头，说：“那你哪一天才能到楚国啊！”\n他说：“没关系，不怕时间久，我带的盘缠多。”\n楚国在南边，他硬要往北边走。他的马越好，车夫的本领越大，盘缠带得越多，走得越远，就越到不了楚国。\n――根据《战国策・魏策四》相关内容改写",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e622e29f44b51702973821598878811/e622e29f44b51702973821598878811.m3u8?auth=e1547bcbaf4784ca481de3c7a94caca5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534722.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-5-2.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第6课",
@@ -2106,10 +1920,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "任鲁豫",
     "content": "有一天，北风和太阳相遇了，北风对太阳说：“我们来比赛吧，谁先把行人的衣服脱下来，谁就赢了。”\n说罢，北风迫不及待地向行人吹了一口气。行人突然觉得有点儿冷，就把敞开的衣服扣上了。北风见状，深吸一口气用力吹。可是，行人反而把衣服裹更紧了。北风气坏了，他用尽全身力气吹，行人却把双手抱在胸前，衣服裹得更紧了，还把衣服竖起来挡风呢！\n太阳见了，不慌不忙地把头从云里探出来，笑眯眯地看着路上的行人。行人觉得暖洋洋的，就把双手松开了。太阳从云里走出来，行人觉得更暖和了，就开始解纽扣。太阳放射出金色的光芒，行人觉得很热，忍不住脱了衣服，跳到水里快活地游来游去。这时，北风已经悄悄溜走了。\n――根据《伊索寓言》相关内容改写",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d95388f830e381702974460523289354/d95388f830e381702974460523289354.m3u8?auth=0e01a835a30b495b61c95e7db3ed939d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534724.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-6-2.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "☀️"
   },
   {
@@ -2118,10 +1931,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "杨昶",
     "content": "邯郸学步  滥竽充数  掩耳盗铃\n自相矛盾  刻舟求剑  画蛇添足\n杞人忧天  井底之蛙  杯弓蛇影",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/06d2f0630abf71702974827355104778/06d2f0630abf71702974827355104778.m3u8?auth=8cd6705aaea51577d6019387a5e145c7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534725.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-5.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "📚"
   },
   {
@@ -2130,8 +1942,7 @@ const articlesData =
     "author": "于诗宁",
     "reader": "杨昶",
     "content": "古时候有个叶公，非常喜欢龙。他穿的衣服上绣着龙，戴的帽子上镶着龙，住的房子也一样，墙壁上画着龙，柱子上雕着龙。这些龙张牙舞爪，回旋盘绕，好像在云雾里飞翔。\n天上的真龙听说叶公这么喜欢龙，就决定去拜访他。霎时间，乌云滚滚，雷电交加，真龙到了叶公家里，把头伸进了南窗，把尾巴绕到了北窗。\n叶公见了真龙，吓得脸色发白，浑身发抖，连忙跑走了。原来他喜欢的不是真龙。\n――根据《新序・杂事》相关内容改写",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/9440e1d6b3c271702975037948251401/9440e1d6b3c271702975037948251401.m3u8?auth=5e2ab950804bb0e23b304882222aa507",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534726.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-1.mp3",
     "grade": "3",
     "semester": "2",
     "emoji": "🍃"
@@ -2142,23 +1953,21 @@ const articlesData =
     "author": "于诗宁",
     "reader": "刘鹤佳",
     "content": "法布尔（1823-1915）是法国著名的昆虫学家、文学家。课文节选自他的《昆虫记》。这部作品用优美生动的语言，记录了他对昆虫的观察和发现，兼具科学和文学价值。\n法布尔曾经说过：“在对某个事物说‘是’以前，我要观察、触摸，而且不是一次，是两三次，甚至没完没了，直到没有任何怀疑为止。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/779af3bab620e170303620705814826/779af3bab620e170303620705814826.m3u8?auth=0314aea6ece7a170782e8183695006ff",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534733.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-14-2.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第2课",
     "title": "滁州西涧",
     "author": "于诗宁",
     "reader": "刘鹤佳",
     "content": "滁州西涧\n[唐]  韦应物\n独怜幽草涧边生，\n上有黄鹂深树鸣。\n春潮带雨晚来急，\n野渡无人舟自横。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/2fe4b6424789c1703036351486300278/2fe4b6424789c1703036351486300278.m3u8?auth=dea5d0968375f91c610dc26a6ffacda6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534735.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-6.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "习作例文",
@@ -2166,11 +1975,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "毛舟",
     "content": "想一想，一支老憋在抽屉里的铅笔，会有多少梦想？\n第一个梦想，是溜出教室。知道我要做什么吗？我要到山坡上，萌出嫩嫩的芽儿；还在头顶上，开出一朵漂亮的花儿。蝴蝶啊蜜蜂啊，就猜不出我是谁了。哈，多么好玩！多么开心!\n第二个梦想，是跳进荷塘里。知道我要做什么吗？我要为小鱼虾，撑起阴凉的伞；伞上，还趴着大眼睛青蛙。有的在伞上歌唱，有的在伞下玩耍。哈，多么好玩！多么开心！\n第三个梦想，是躲到菜园里去。知道我要做什么吗？我要在青叶间，长成长长的豆角；或者，伪装成嫩嫩的丝瓜。菜园里的派对马上开始！哈，多么好玩！多么开心！\n第四个梦想，是来到小溪边。知道我要做什么吗？我要为玩水的鸟当船篙，为过河的蚂蚁当木筏。船上的、岸边的一齐喝彩！哈，多么好玩！多么开心！\n第五个梦想，是跑到运动场上。知道我要做什么吗？我要当一会儿小松鼠的撑竿，当一阵儿小猴子的标枪。挂在脖子上的奖牌亮闪闪的。哈，多么好玩！多么开心！\n谁也不知道，一支铅笔有多少梦想……就像种在稿纸上的字，发多少芽，开多少花，结多少童话。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f2ba99a6cc571703036539168895504/f2ba99a6cc571703036539168895504.m3u8?auth=dea68a34fb400db9db5c43fff7136174",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534736.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-2.mp3",
     "grade": "3",
-    "semester": "1",
-    "emoji": "1️⃣"
+    "semester": "2",
+    "emoji": "💭"
   },
   {
     "lesson_number": "第20课",
@@ -2178,11 +1986,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "宝晓峰",
     "content": "冰心（1900――1999），原名谢婉莹，现代著名的散文家、诗人。她的作品充满了对大自然的赞美，以及对母爱与童真的歌颂，如《繁星》《春水》《寄小读者》。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/a4264055cb0e61703037202025256331/a4264055cb0e61703037202025256331.m3u8?auth=3b55e4b137706f1a3aad75b6d9ca8eab",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534738.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "❤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-20.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "📖"
   },
   {
     "lesson_number": "语文园地",
@@ -2190,10 +1997,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "林溪",
     "content": "兵来将挡，水来土掩。\n不入虎穴，焉得虎子。\n眼见为实，耳听为虚。\n近朱者赤，近墨者黑。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/c1cfd337527d51703037888710587111/c1cfd337527d51703037888710587111.m3u8?auth=fcc3959e67db1fd7daf7edfe29e5e1a1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534742.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-3.mp3",
+    "grade": "3",
+    "semester": "2",
     "emoji": "💧"
   },
   {
@@ -2202,11 +2008,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "张悦",
     "content": "大林寺桃花\n[唐]  白居易\n人间四月芳菲尽，\n山寺桃花始盛开。\n长恨春归无觅处，\n不知转入此中来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/9a529402a289d1703038205858643411/9a529402a289d1703038205858643411.m3u8?auth=c284f9ce33508de1d637e61a3d76c25f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjxc/20231226/t20231226_526534745.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/3-2-99-4.mp3",
+    "grade": "3",
+    "semester": "2",
+    "emoji": "🌸"
   },
   {
     "lesson_number": "第2课",
@@ -2214,9 +2019,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "贺红梅",
     "content": "秋天的夜晚，月亮升起来了，从洱海那边升起来了。\n是在洱海里淘洗过吗？月盘是那样明亮，月光是那样柔和。照亮了高高的点苍山，照亮了村头的大青树，也照亮了，照亮了村间的大道和小路……\n这时候，阿妈喜欢牵着我，在洒满月光的小路上走着，走着……啊，我和阿妈走月亮！\n细细的溪水，流着山草和野花的香味，流着月光。灰白色的鹅卵石布满河床。哟，卵石间有多少可爱的小水塘啊，每个小水塘都抱着一个月亮！哦，阿妈，白天你在溪里洗衣裳，而我，用树叶做小船，运载许多新鲜的花瓣……哦，阿妈，我们到溪边去吧，去看看小水塘，看看水塘里的月亮，看看我采过野花的地方。\n啊，我和阿妈走月亮……\n村道已经修补过，坑坑洼洼的地方已经填上碎石和新土。就要收庄稼了，收庄稼前，要把道路修一修，补一补，这是村里的风俗。秋虫唱着，夜鸟拍打着翅膀，鱼儿跃出水面，泼剌声里银光一闪……从果园那边飘来果子的甜香，是雪梨，是火把梨，还是紫葡萄？都有。在坡头那片月光下的果园里，这些好吃的果子挂满枝头。沟水汩汩，很满意地响着。是啊，它旁边，是它浇灌过的稻田。哦，阿妈，这不就是我们家的地吗？春天，我们种的油菜开花了，我在田地里找兔草，我把蒲公英吹得飞啊飞……收了油菜，栽上水稻。看，稻谷就要成熟了，稻穗低垂着头，稻田像一块月光镀亮的银毯。哦，阿妈，我们到田埂上去吧，你不是说学校放假了，阿爸就要回来了吗？我们采哪一塘新谷招待阿爸呢？\n啊，我和阿妈走月亮……\n有时，阿妈给我讲月亮的故事，一个古老的传说；有时，却什么也不讲，只是静静地走着，走着。走过月光闪闪的溪岸，走过石拱桥，走过月影团团的果园，走过庄稼地和菜地……啊，在我仰起脸看阿妈的时候，我突然看见，美丽的月亮牵着那些闪闪烁烁的小星星，好像也在天上走着，走着……\n多么奇妙的夜晚啊，我和阿妈走月亮！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/37d2a20b342fa1703038873239113710/37d2a20b342fa1703038873239113710.m3u8?auth=2f390e4042fe4115b10d96a2064b4eb5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534756.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-2-1.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "🌙"
   },
@@ -2226,9 +2030,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "毛舟",
     "content": "秋晚的江上\n归巢的鸟儿，\n尽管是倦了，\n还驮着斜阳回去。\n双翅一翻，\n把斜阳掉在江上；\n头白的芦苇，\n也妆成一瞬的红颜了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/48ca7653dfaf41703039668461255473/48ca7653dfaf41703039668461255473.m3u8?auth=2c4dcdb06496627f694fed8b24ba1592",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534767.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-3-2.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "🍂"
   },
@@ -2238,9 +2041,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "毛舟",
     "content": "花牛歌\n花牛在草地里坐，\n压扁了一穗剪秋罗。\n花牛在草地里眠，\n白云霸占了半个天。\n花牛在草地里走，\n小尾巴甩得滴溜溜。\n花牛在草地里做梦，\n太阳偷渡了西山的青峰。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/08a7040bf76ff1703039790747173625/08a7040bf76ff1703039790747173625.m3u8?auth=a28a95c3e14a0b63d0174aac09f488ad",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534774.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-3-1.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "🌺"
   },
@@ -2250,9 +2052,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "宝晓峰",
     "content": "我爱月夜，但我也爱星天。从前在家乡七八月的夜晚，在庭院里纳凉的时候，我最爱看天上密密麻麻的星星。\n三年前，在南京我住的地方有一道后门。每晚我打开后门，便看是一个静寂的夜。下面是一片菜园，  上面是星群密布的蓝天。  星光在我们的肉眼里虽然微小，然而它使我们觉得光明无处不在。\n如今在海上，每晚和繁星相对，我把它们认得很熟了。我躺在舱面上，仰望天空。深蓝色的天空里，  悬着无数半明半昧的星。船在动，星也在动，它们是这样低，真是摇摇欲坠呢！渐渐地我的眼睛模糊了，我好像看见无数萤火虫在我的周围飞舞。海上的夜是柔和的，是静寂的，是梦幻的。我望着那许多认识的星，我仿佛看见它们在对我眨眼，我仿佛听见它们在小声说话。这时候我忘记了一切，在星的怀抱中我微笑着，我沉睡着。我觉得自己是一个小孩子，现在睡在母亲的怀里了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f64414725b5b41703039871981772057/f64414725b5b41703039871981772057.m3u8?auth=514cbbadbf71e8ac28d455750f9abfb8",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534778.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-4-1.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "⭐"
   },
@@ -2262,11 +2063,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "小草",
     "content": "暮江吟\n[唐]  白居易\n一道残阳铺水中，\n半江瑟瑟半江红。\n可怜九月初三夜，\n露似真珠月似弓。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/a639631df93971703042914966233606/a639631df93971703042914966233606.m3u8?auth=74064059cd59c5bb0ddd0592698861ac",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534794.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-9-1.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第9课",
@@ -2274,11 +2074,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "任鲁豫",
     "content": "题西林壁\n[宋]  苏轼\n横看成岭侧成峰，\n远近高低各不同。\n不识庐山真面目，\n只缘身在此山中。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/30c7f97117fab1703043016036666773/30c7f97117fab1703043016036666773.m3u8?auth=aca7772169a193041311470c88f7ef07",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534802.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-9-2.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第9课",
@@ -2286,9 +2085,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "贺红梅",
     "content": "雪梅\n[宋]  卢钺\n梅雪争春未肯降，\n骚人阁笔费评章。\n梅须逊雪三分白，\n雪却输梅一段香。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/ec51b8a188c7f1703043105661827304/ec51b8a188c7f1703043105661827304.m3u8?auth=93545cce9e9577e4c76d3ab9269fdcac",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534806.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-9-3.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "❄️"
   },
@@ -2298,8 +2096,7 @@ const articlesData =
     "author": "于诗宁",
     "reader": "章莹莹",
     "content": "学校操场北边墙上满是爬山虎。我家也有爬山虎，从小院的西墙爬上去，在房顶上占了一大片地方。\n爬山虎刚长出来的叶子是嫩红的，不几天叶子长大，就变成嫩绿的。爬山虎的嫩叶，不大引人注意，引人注意的是长大了的叶子。那些叶子绿得那么新鲜，看着非常舒服。叶尖一顺儿朝下，在墙上铺得那么均匀，没有重叠起来的，也不留一点儿空隙。一阵风拂过，一墙的叶子就漾起波纹，好看得很。\n以前，我只知道这种植物叫爬山虎，可不知道它怎么能爬。今年，我注意了，原来爬山虎是有脚的。爬山虎的脚长在茎上。茎上长叶柄的地方，反面伸出枝状的六七根细丝，这些细丝很像蜗牛的触角。细丝跟新叶子一样，也是嫩红的。这就是爬山虎的脚。\n爬山虎的脚触着墙的时候，六七根细丝的头上就变成小圆片，巴住墙。细丝原先是直的，现在弯曲了，把爬山虎的嫩茎拉一把，使它紧贴在墙上。爬山虎就是这样一脚一脚地往上爬。如果你仔细看那些细小的脚，你会想起图画上蛟龙的爪子。\n爬山虎的脚要是没触着墙，不几天就萎了，后来连痕迹也没有了。触着墙的，细丝和小圆片逐渐变成灰色。不要瞧不起那些灰色的脚，那些脚巴在墙上相当牢固，要是你的手指不费一点儿劲，休想拉下爬山虎的一根茎。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f23d77b26a9e61703043200505922163/f23d77b26a9e61703043200505922163.m3u8?auth=7949d4946c9460469f4e53c6a1d2d149",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534815.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-10-1.mp3",
     "grade": "4",
     "semester": "1",
     "emoji": "⛰️"
@@ -2310,11 +2107,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "任志宏",
     "content": "很久很久以前，天和地还没有分开，宇宙混沌一片，像个大鸡蛋。有个叫盘古的巨人，在混沌之中睡了一万八千年。\n有一天，盘古醒来了，睁眼一看，周围黑乎乎一片，什么也看不见。他一使劲翻身坐了起来，只听咔嚓一声，“大鸡蛋”裂开了一条缝，一丝微光透了进来。巨人见身边有一把斧头，就拿起斧头，对着眼前的黑暗劈过去，只听见一声巨响，“大鸡蛋”碎了。轻而清的东西，缓缓上升，变成了天；重而浊的东西，慢慢下降，变成了地。\n天和地分开后，盘古怕它们还会合在一起，就头顶天，脚踏地，站在天地当中，随着它们的变化而变化。天每天升高一丈，地每天加厚一丈，盘古的身体也跟着长高。\n这样过了一万八千年，天升得高极了，地变得厚极了。盘古这个巍峨的巨人就像一根柱子，撑在天和地之间，不让它们重新合拢。又不知过了多少年，天和地终于成形了，盘古也精疲力竭，累得倒下了。\n盘古倒下以后，他的身体发生了巨大的变化。他呼出的气息变成了四季的风和飘动的云；他发出的声音化作了隆隆的雷声；他的左眼变成了太阳，照耀大地，他的右眼变成了月亮，给夜晚带来光明；他的四肢和躯干变成了大地的四极和五方的名山；他的血液变成了奔流不息的江河；他的汗毛变成了茂盛的花草树木；他的汗水变成了滋润万物的雨露……\n伟大的巨人盘古，用他的整个身体创造了美丽的世界。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/24ff76297887b1703043841302709578/24ff76297887b1703043841302709578.m3u8?auth=8fdd45a67b1072881fbce480cc99b70c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534820.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🌤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-12-1.mp3",
+    "grade": "4",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第13课",
@@ -2322,9 +2118,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "贾际",
     "content": "炎帝之少女，名曰女娃。女娃游于东海，溺而不返，故为精卫，常衔西山之木石，以堙于东海。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7ecf11492c1321703044098811231590/7ecf11492c1321703044098811231590.m3u8?auth=ff23b182be31ee08bd786d947d7417ac",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534824.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-13-1.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "🌊"
   },
@@ -2334,22 +2129,20 @@ const articlesData =
     "author": "于诗宁",
     "reader": "肖玉",
     "content": "假日里，爸爸带我去黄山，爬天都峰。\n我站在天都峰脚下抬头望：啊，峰顶这么高，在云彩上面哩！我爬得上去吗？再看看笔陡的石级，石级边上的铁链，似乎是从天上挂下来的，真叫人发颤！\n忽然听到背后有人叫我：“小朋友，你也来爬天都峰？”\n我回头一看，是一位白发苍苍的老爷爷，年纪比我爷爷还大哩！我点点头，仰起脸，问：“老爷爷，您也来爬天都峰？”\n老爷爷也点点头，说：“对，咱们一起爬吧！”\n我奋力向峰顶爬去，一会儿攀着铁链上，一会儿手脚并用向上爬，像小猴子一样……\n爬呀爬，我和老爷爷，还有爸爸，终于都爬上了天都峰顶。\n在鲫鱼背前，爸爸给我和老爷爷照了一张相，留作纪念。老爷爷拉拉我的小辫子，笑呵呵地说：“谢谢你啦，小朋友。要不是你的勇气鼓舞我，我还下不了决心哩！现在居然爬上来了！”\n“不，老爷爷，我是看您也要爬天都峰，才有勇气向上爬的！我应该谢谢您！”\n爸爸听了，笑着说：“你们这一老一小真有意思，都会从别人身上汲取力量！”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/8ae3ad14550611703045423016185147/8ae3ad14550611703045423016185147.m3u8?auth=fb80fa9c8b9f00036d625975e1d3e118",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534828.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-17-1.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "🌤️"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第21课",
+    "lesson_number": "第3课",
     "title": "出塞",
     "author": "于诗宁",
     "reader": "原杰",
     "content": "出塞\n[唐]  王昌龄\n秦时明月汉时关，\n万里长征人未还。\n但使龙城飞将在，\n不教胡马度阴山。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/a692ef3618ef91703053363506414401/a692ef3618ef91703053363506414401.m3u8?auth=a2f191883142f35957fe903e31aa593a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534838.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-21-1.mp3",
+    "grade": "4",
+    "semester": "1",
     "emoji": "📖"
   },
   {
@@ -2358,10 +2151,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "原杰",
     "content": "凉州词\n[唐]  王翰\n葡萄美酒夜光杯，\n欲饮琵琶马上催。\n醉卧沙场君莫笑，\n古来征战几人回？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/16e06408df6771703053443175668320/16e06408df6771703053443175668320.m3u8?auth=8ea2a2e9fe2857c568a624e12a06c4bf",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534840.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-21-2.mp3",
+    "grade": "4",
+    "semester": "1",
     "emoji": "📝"
   },
   {
@@ -2370,10 +2162,9 @@ const articlesData =
     "author": "于诗宁",
     "reader": "原杰",
     "content": "夏日绝句\n[宋]  李清照\n生当作人杰，\n死亦为鬼雄。\n至今思项羽，\n不肯过江东。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/23c1b30db16b81703053542833501548/23c1b30db16b81703053542833501548.m3u8?auth=f90ef12ed5c446530a2a5fc9d7865dda",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534842.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-21-3.mp3",
+    "grade": "4",
+    "semester": "1",
     "emoji": "☀️"
   },
   {
@@ -2382,11 +2173,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "孙小梅",
     "content": "梅兰芳先生是闻名世界的京剧表演艺术家。他在舞台上唱旦角，为了演出的需要，总是把胡须剃得干干净净的。但他的一生中，有几年却是留着胡须的。\n1937年，日军占领上海，梅兰芳被迫藏身租界，以躲避日本人的纠缠。1938年底，有人邀请他去香港演戏。演出结束后，梅兰芳在香港住了下来，深居简出，不再登台。对于一个视舞台为生活、视艺术为生命的人来说，不能演出，不能创作，无异于虚度生命。到了深夜，梅兰芳关紧门窗，拉上特制的厚窗帘，才能在寓所悄悄地细声吟唱，这对他来说已经很知足了。一个艺术大师就用这种方式坚持着对艺术的追求。\n1941年12月香港沦陷。日本驻港司令官亲自出马，多次逼迫梅兰芳演戏。梅兰芳可以忍受生活的困顿，直面战争的危险，但他难以抵抗来自侵略者随时随地的骚扰。拒绝的借口都用尽了，梅兰芳最后只能蓄须明志，表示对日本帝国主义的抗议，表明不给侵略者演戏的决心。后来，梅兰芳不堪其扰，只好又回到了上海。\n长期不演戏，没有了经济来源，又要养家，梅兰芳准备卖掉北京的房子。听说梅兰芳要卖房子，很多戏园子老板找上门来说：“梅先生，您何必卖房子，只要您把胡子一剃，一登台，还愁没钱花？”有的甚至说，只要签订演出合同，就预支二十两黄金给梅兰芳。但是，无论戏园子老板开出的条件多么优厚，梅兰芳全部拒绝了。他宁可卖房度日，也决不在日本侵略者的统治下登台演出。\n一次，日本侵略军要庆祝“大东亚圣战”，要求他必须上台演出。梅兰芳斩钉截铁地说：“普通的演出我都不参加，这样的庆祝会当然更不会去了。”但是，拒绝演出总得要想出个办法啊。\n梅兰芳找到一位当医生的好朋友，说明了自己的危险处境，请朋友设法让他生一场“大病”，以摆脱日本人。这个朋友被他的爱国精神感动了，决心帮助他渡过难关，于是给他打了伤寒预防针，人打了这种针就会连日发高烧。\n日本人不相信梅兰芳病了，专门派了一个军医来检查。日本军医闯进梅兰芳的家，看见他盖着棉被躺在床上，床边桌子上放着很多药。军医用手摸了摸梅兰芳的额头，滚烫滚烫的，看不出破绽，只好认定梅兰芳得了重病，不能登台演出了。日本侵略者的妄想最终没有实现，梅兰芳为此差点儿丢了性命。\n当抗日战争取得胜利的消息传来时，梅兰芳当即剃了胡须，高兴地向大家宣布：“胜利了，我该登台演出了！\"前来看他演出的人太多了，很多人没有座位就站着看。\n作为艺术家，梅兰芳先生高超的表演艺术让人喜爱，他的民族气节更令人敬佩！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/584ea4d1917b91703054080484766418/584ea4d1917b91703054080484766418.m3u8?auth=71827bc216c3efee50f57b80a4ba2adc",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534844.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-23-1.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "🌸"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第25课",
@@ -2394,11 +2184,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "原杰",
     "content": "王戎七岁，尝与诸小儿游。看道边李树多子折枝，诸儿竞走取之，唯戎不动。人问之，答曰：“树在道边而多子，此必苦李。”取之，信然。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/84adeabbb838e1703054791639642269/84adeabbb838e1703054791639642269.m3u8?auth=24fb01fba45001dd4198851d740501f9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534846.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-25-1.mp3",
     "grade": "4",
     "semester": "1",
-    "emoji": "🍃"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第27课",
@@ -2406,8 +2195,7 @@ const articlesData =
     "author": "于诗宁",
     "reader": "黎江",
     "content": "飞卫是一名射箭能手。有个叫纪昌的人，想学习射箭，就去向飞卫请教。\n开始练习的时候，飞卫对纪昌说：“你要想学会射箭，首先应该下功夫练眼力。你要牢牢地盯住一个目标，不能眨眼！”纪昌回家之后，就开始练习起来。妻子织布的时候，他躺在织布机下面，睁大眼睛，死死盯住织布机的踏板。两年以后，纪昌的本领练得相当到家了――就是锋利的锥尖要刺到眼角了，他的眼睛也不眨一下。\n纪昌对自己的成绩感到很满意，以为练得差不多了，就再次去拜见飞卫。飞卫对他说：“虽然你已经取得了不小的成绩，但你的眼力还不够。你要练到把极小的东西看得很大，把模糊难辨的东西看得很清楚，那时候再来见我。”纪昌记住了飞卫的话，回到家里，又开始练习起来。他用一根牛尾毛拴住一只虱子，把它吊在窗口，然后每天站在虱子旁边，聚精会神地盯着它。那只小虱子，在纪昌的眼里一天天大起来，练到后来，大得竟然像车轮一样。\n取得了这样大的进步，纪昌赶紧跑到飞卫那里，报告了这个好消息。飞卫高兴地说：“你就要成功了！”  于是，飞卫开始教他怎样开弓，怎样放箭。\n后来，纪昌成了百发百中的射箭能手。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/217d288e4fb911703055491718164873/217d288e4fb911703055491718164873.m3u8?auth=735ce8bd6ae9938523809e6ce8bda134",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534849.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-27-1.mp3",
     "grade": "4",
     "semester": "1",
     "emoji": "📚"
@@ -2418,11 +2206,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "宝晓峰",
     "content": "鹿柴\n[唐]  王维\n空山不见人，\n但闻人语响。\n返景入深林，\n复照青苔上。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/05a006274e9921703058702224416939/05a006274e9921703058702224416939.m3u8?auth=c388f0e24b8c76d38be7e888f8c3b1d7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534857.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-8.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🦌"
   },
   {
     "lesson_number": "语文园地",
@@ -2430,23 +2217,21 @@ const articlesData =
     "author": "于诗宁",
     "reader": "梁艳",
     "content": "好问则裕，自用则小。――《尚书》\n博学之，审问之，慎思之，明辨之，笃行之。――《礼记》\n智能之士，不学不成，不问不知。――王充\n人非生而知之者，孰能无惑？――韩愈",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/ca5dfcafe83e21703058861664213247/ca5dfcafe83e21703058861664213247.m3u8?auth=cb8712652b3bd0b6b4ac6b109c83ae98",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534858.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-6.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "🔵"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第11课",
+    "lesson_number": "课外古诗词诵读",
     "title": "燕子窝",
     "author": "于诗宁",
     "reader": "任鲁豫",
     "content": "6月28日\n燕子已经不衔泥了，它们往窝里衔干草和绒毛，铺垫子。真没想到，它们把全部建筑工程估算得这么周到―――原本就应该让窝的一边比另一边建得快一些！雌燕子把窝的左边堆到了顶，雄燕子的右半边窝却始终没有堆完。这么着燕子窝就成了一个有缺口的泥圆球，右上角留了一个洞口。不消说，它们的窝就应该是这样的―――这就是家的大门啊！要不然，这对燕子可怎么进它们的家呢？我当初骂雄燕子懒，看来是冤枉它了。\n今天是雌燕子头一次留在家里过夜。\n6月30日\n窝做好了。雌燕子老待在窝里不出门，大概是产下第一个蛋了。雄燕子不时给雌燕子衔一些小虫来，还不停地唱歌，欢天喜地、叽叽喳喳地说着贺词。\n第一批贺客―――那一群燕子又飞来了。它们一只一只地打窝旁飞过去，向窝里张望着，在窝前扑棱着翅膀。这时女主人的小脸正探出门外，说不定它们在吻着这位幸福的女主人呢！客人们叽叽喳喳热闹了一阵子，就散了。\n猫时常爬上屋顶，从梁上往屋檐下张望。它是不是在焦急地等待窝里的小燕子出世呢？\n――选自苏联比安基的《森林报・夏》，王汶译，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/a1b5e1db6cd6d1703059055153965459/a1b5e1db6cd6d1703059055153965459.m3u8?auth=bf49554de98f16b5835741f7a2d09ef2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534862.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-11-1.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "🕊️"
+    "emoji": "🐦"
   },
   {
     "lesson_number": "语文园地",
@@ -2454,9 +2239,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "李修平",
     "content": "立了秋，把扇丢。\n二八月，乱穿衣。\n夏雨少，秋霜早。\n八月里来雁门开，雁儿脚上带霜来。\n一场秋雨一场寒，十场秋雨要穿棉。\n八月暖，九月温，十月还有小阳春。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7692556c8ab281703059373519575854/7692556c8ab281703059373519575854.m3u8?auth=7208b5c1f2b3a61c6e28e261a932e583",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534870.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-7.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "🍂"
   },
@@ -2466,9 +2250,8 @@ const articlesData =
     "author": "于诗宁",
     "reader": "于芳",
     "content": "嫦娥\n李商隐\n云母屏风烛影深，\n长河渐落晓星沉。\n嫦娥应悔偷灵药，\n碧海青天夜夜心。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/2252edae8bf9170306011573765377/2252edae8bf9170306011573765377.m3u8?auth=79f4b87f40fab74d7e3419cf0cbac563",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534881.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-4.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "📖"
   },
@@ -2478,21 +2261,19 @@ const articlesData =
     "author": "于诗宁",
     "reader": "杜月媚",
     "content": "每当我看见珍藏在抽屉里的那只精致的小木船，就想起陈明来。\n上小学一年级的时候，陈明和我是同班同学。我们两家离得很近。每天我们一起上学、回家，一起温习功课。我们成了形影不离的好朋友，一直到四年级。\n有一天，发生了一件不愉快的事。我们俩温习完功课，把自己在舰模小组做的小木船拿出来玩。我见他那只做得很精致，就拿在手上，翻过来掉过去地看，总舍不得放下。不料我一失手，啪的一声，小木船掉在地上，摔坏了。他一看，急了，哭着要我赔。我上前分辩说：“我不是故意的。”他生气地说：“谁叫你不小心，非赔不可！”还用力推了我一下。我往后一退，正好一脚踩在小木船上，把它踩碎了。这一下，陈明更生气了。他拿起我的小木船，使劲摔在地上，用脚踩了两下，一把抓起书包，头也不回地走了。看着被他踩坏的小木船，我也气得说不出话来。我们的友谊从此破裂了。\n转眼几个月过去了。有一天放学回家，我走在前面，陈明走在后面。我偷偷地回头看了他一眼，他右手插在裤兜里，裤兜胀得鼓鼓的，不知手里攥着什么。忽然，他几步追上了我，从裤兜里掏出一只精致的小木船来。我惊讶地望着他。他满脸通红，激动地说：“那次是我不好，不该弄坏你的船。明天我家就要搬走了，我做了这只船送给你，留个纪念吧！”说着，他把小木船塞到我手里。想想那天发生的事，本来是我的错，望着他那双热情的眼睛，我一句话也说不出来，只是紧紧地握住他的手。\n陈明跟着爸爸妈妈搬到外地去了。那天以后，我们俩再也没有见过面。我把他送给我的小木船珍藏在抽屉里。一看见这只精致的小木船，我就好像看见陈明站在我的面前。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/23626ade8d13e1703125440729161940/23626ade8d13e1703125440729161940.m3u8?auth=d7ca5037e0d1a772010753b9e6b2416b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534886.html",
-    "grade": "3",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-1.mp3",
+    "grade": "4",
     "semester": "1",
     "emoji": "⛵"
   },
   {
-    "lesson_number": "第18课",
+    "lesson_number": "第14课",
     "title": "牛的写意",
     "author": "于诗宁",
     "reader": "雷鹏",
     "content": "牛的眼睛总是湿润的，它终生都在流泪。牛的眼睛是诚实的，在生命界，它的眼睛最没有恶意。牛的眼睛也是美丽的，无论雌雄老少，都有着好看的双眼皮，长着善眨动的睫毛，以及天真黑亮的眸子。\n牛在任何地方都会留下蹄印，这是它用全身的重量烙下的印章。它不在意自己身后留下了什么，绝不回头看自己蹄印的深浅，走过去就走过去了，它相信自己的每一步都是实实在在走过去的。雨过天晴，牛的蹄窝里的积水像一片小小的湖，会摄下天空和白云的倒影，有时还会摄下人的倒影。那些留在树林里和旷野上的蹄印，将会被落叶和野花遮掩起来，成为蛐蛐们的乐池。而有些蹄印，比如牛因为探路踩在幽谷苔藓上的，就永远留在那里了，成为大自然永久的秘密。\n――选自李汉荣的《牛的写意》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/dad536f1a53fc1703126053495908358/dad536f1a53fc1703126053495908358.m3u8?auth=4a4242f12015f0866b7fffca592edd5b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534889.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-18-1.mp3",
+    "grade": "9",
     "semester": "2",
     "emoji": "🐄"
   },
@@ -2502,23 +2283,21 @@ const articlesData =
     "author": "于诗宁",
     "reader": "于芳",
     "content": "尺有所短，寸有所长。机不可失，时不再来。\n差之毫厘，谬以千里。病从口入，祸从口出。\n一言既出，驷马难追。比上不足，比下有余。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/dc9135bb47441170312645866913752/dc9135bb47441170312645866913752.m3u8?auth=6c58510a6750dc403880ef745ef37d4b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534899.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-5.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "📏"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "习作",
+    "lesson_number": "第13课",
     "title": "写信",
     "author": "于诗宁",
     "reader": "昀瑾",
     "content": "亲爱的叔叔：\n您好！\n您寄来的书我已经收到了，我很喜欢。谢谢您！\n告诉您一个好消息，我们学校搬进了新的校园。新教室宽敞明亮，配有多媒体设备，上课时老师经常使用它们。学校有一个很大的操场，我每天都会去踢足球。搬进新校园，同学们天天都很开心。\n您好久没回来了，家里人都很想您。今年过年，您会回来吗？\n祝\n身体健康！\n侄儿小杰\n2018年11月25日",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/b8f2713fdb5d81703126603841127344/b8f2713fdb5d81703126603841127344.m3u8?auth=0ccbaaf01bb1684fa714915723fd31f6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534900.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-2.mp3",
     "grade": "4",
     "semester": "1",
-    "emoji": "✏️"
+    "emoji": "📖"
   },
   {
     "lesson_number": "语文园地",
@@ -2526,11 +2305,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "陆洋",
     "content": "别董大\n[唐]  高适\n千里黄云白日曛，\n北风吹雁雪纷纷。\n莫愁前路无知己  ，\n天下谁人不识君？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/c6a00faea2145170312915961894607/c6a00faea2145170312915961894607.m3u8?auth=6292d7e5836ec9150945e831a34c1db1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534907.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-3.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "🔴"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -2538,11 +2316,10 @@ const articlesData =
     "author": "于诗宁",
     "reader": "黎江",
     "content": "眉清目秀  亭亭玉立  明眸皓齿  文质彬彬\n相貌堂堂  威风凛凛  膀大腰圆  短小精悍\n容光焕发  鹤发童颜  慈眉善目  老态龙钟",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/e88bbab01f981170312928549932611/e88bbab01f981170312928549932611.m3u8?auth=9f528c2ff93b0a742d126351e70924e5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjs/20231226/t20231226_526534909.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-1-99-9.mp3",
+    "grade": "4",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第1课",
@@ -2550,11 +2327,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "肖玉",
     "content": "四时田园杂兴（其二十五）\n[宋]    范成大\n梅子金黄杏子肥  ，\n麦花雪白菜花稀  。\n日长篱落无人过  ，\n惟有蜻蜓蛱蝶飞  。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/1332b278ba64f1702970763455525922/1332b278ba64f1702970763455525922.m3u8?auth=1e85b001bc8134d43f93721c5c88c80f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534717.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "2️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-1-2.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -2562,11 +2338,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "肖玉",
     "content": "宿  新  市  徐  公  店\n[宋]  杨万里\n篱  落  疏  疏  一  径  深  ，\n树  头  新  绿  未  成  阴  。\n儿  童  急  走  追  黄  蝶  ，\n飞  入  菜  花  无  处  寻  。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/ccb302e98c3b1702971185169925550/ccb302e98c3b1702971185169925550.m3u8?auth=2ceb6f66b8dde0bffbb5a6ba4fd761c2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534719.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-1-3.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -2574,11 +2349,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "肖玉",
     "content": "清平乐・村居\n〔宋〕辛弃疾\n茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪？\n大儿锄豆溪东，中儿正织鸡笼。最喜小儿亡赖，溪头卧剥莲蓬。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/1f832620b6005170297139677299710/1f832620b6005170297139677299710.m3u8?auth=e7da26ee83f02296047ca685ca8be5e3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534721.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-1-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第2课",
@@ -2586,10 +2360,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "陈智鹏",
     "content": "乡下人家总爱在屋前搭一瓜架，或种南瓜，或种丝瓜，让那些瓜藤攀上棚架，爬上屋檐。当花儿落了的时候，藤上便结出了青的、红的瓜，它们一个个挂在房前，衬着那长长的藤，绿绿的叶。青、红的瓜，碧绿的藤和叶，构成了一道别有风趣的装饰，比那高楼门前蹲着一对石狮子或是竖着两根大旗杆，可爱多了。\n有些人家，还在门前的场地上种几株花，芍药，凤仙，鸡冠花，大丽菊，它们依着时令，顺序开放，朴素中带着几分华丽，显出一派独特的农家风光。还有些人家，在屋后种几十枝竹，绿的叶，青的竿，投下一片浓浓的绿荫。几场春雨过后，到那里走走，你常常会看见许多鲜嫩的笋，成群地从土里探出头来。\n鸡，乡下人家照例总要养几只的。从他们的房前屋后走过，你肯定会瞧见一只母鸡，率领一群小鸡，在竹林中觅食；或是瞧见耸着尾巴的雄鸡，在场地上大踏步地走来走去。\n他们的屋后倘若有一条小河，那么在石桥旁边，在绿树荫下，你会见到一群鸭子游戏水中，不时地把头扎到水下去觅食。即使附近的石头上有妇女在捣衣，它们也从不吃惊。\n若是在夏天的傍晚出去散步，你常常会瞧见乡下人家吃晚饭的情景。他们把桌椅饭菜搬到门前，天高地阔地吃起来。天边的红霞，向晚的微风，头上飞过的归巢的鸟儿，都是他们的好友，它们和乡下人家一起，绘成了一幅自然、和谐的田园风景画。\n秋天到了，纺织娘寄住在他们屋前的瓜架上。月明人静的夜里，它们便唱起歌来：“织，织，织，织啊!织，织，织，织啊!”那歌声真好听，赛过催眠曲，让那些辛苦一天的人们，甜甜蜜蜜地进入梦乡。\n乡下人家，不论什么时候，不论什么季节，都有一道独特、迷人的风景。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d1819f4ab77ad1702971682712884365/d1819f4ab77ad1702971682712884365.m3u8?auth=79556a9396df6df0f65e0f9027d6f2ea",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534723.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-2-1.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🏠"
   },
   {
@@ -2598,11 +2371,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "宝晓峰",
     "content": "是什么声音，像一串小铃铛，轻轻地走过村边？是什么光芒，像一匹明洁的丝绸，映照着蓝天？\n啊，河流醒来了！三月的桃花水，舞动着绮丽的朝霞，向前流啊。有一千朵桃花，点点洒在河面，有一万个小酒窝，在水中回旋。\n三月的桃花水，是春天的竖琴。\n那忽大忽小的水声，应和着拖拉机的鸣响；那纤细的低语，是在和刚刚从雪被里伸出头来的麦苗谈心；那碰着岸边石块的叮当声，像是大路上车轮滚过的铃声……\n三月的桃花水，是春天的明镜。\n它看见燕子飞过天空，翅膀上裹着白云；它看见垂柳披上了长发，如雾如烟；它看见一群姑娘来到河边，水底立刻浮起一朵朵红莲，她们捧起了水，像抖落一片片花瓣……\n啊，地上草如茵，两岸柳如眉，三月桃花水，叫人多沉醉。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/cb6302d6667871702972931386478909/cb6302d6667871702972931386478909.m3u8?auth=b86426ba68c2c9296033d153b89993b1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534728.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-4-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🌸"
   },
   {
     "lesson_number": "第6课",
@@ -2610,11 +2382,21 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "张腾岳",
     "content": "说到恐龙，人们往往想到凶猛的霸王龙或者笨重、迟钝的马门溪龙；谈起鸟类，我们头脑中自然会浮现轻灵的鸽子或者五彩斑斓的孔雀。二者似乎毫不相干，但近年来发现的大量化石显示：在中生代时期，恐龙的一支经过漫长的演化，最终变成了凌空翱翔的鸟儿。\n早在19世纪，英国学者赫胥黎就注意到恐龙和鸟类在骨骼结构上有许多相似之处。在研究了大量恐龙和鸟类化石之后，科学家们提出，鸟类不仅和恐龙有亲缘关系，而且很可能就是一种小型恐龙的后裔。根据这一假说，一些与鸟类亲缘关系较近的恐龙应该长有羽毛，但一直没有找到化石证据。20世纪末期，我国科学家在辽宁西部首次发现了保存有羽毛的恐龙化石，顿时使全世界的研究者们欣喜若狂。辽西的发现向世人展示了恐龙长羽毛的证据，给这幅古生物学家们描绘的画卷涂上了点晴之笔。\n恐龙是如何飞向蓝天的呢？让我们穿越时空隧道，访问中生代的地球，看看这一演化过程吧！\n地球上的第一种恐龙大约出现在两亿四千万年前。它和狗一般大小，两条后腿粗壮有力，能够支撑起整个身体。数千万年后，它的后代繁衍成一个形态各异的庞大家族。有些恐龙像它们的祖先一样用两足奔跑，有些恐龙则用四足行走。有些恐龙身长几十米，重达数十吨；有些恐龙则身材小巧，体重只有几千克。有些恐龙凶猛异常，是茹毛饮血的食肉动物；有些恐龙则温顺可爱，以植物为食。其中，一些猎食性恐龙的身体逐渐变小，越来越像鸟类：骨骼中空，身体轻盈；脑颅膨大，行动敏捷；前肢越来越长，能像鸟翼一样拍打；体表长出美丽的羽毛，不再披着鳞片或鳞甲。它们中的一些种类可能为了躲避敌害或寻找食物而转移到树上生存。这些树栖的恐龙在树木之间跳跃、降落，慢慢具备了滑翔能力，并最终能够主动飞行。不过，另一种看法是，飞行并非始于树栖生活。有些科学家推测，一种生活在地面上的带羽毛的恐龙，在奔跑过程中学会了飞翔。不管怎样，科学家们认为：原本不会飞的恐龙最终变成了天之骄子――鸟类，它们飞向了蓝天，从此开辟了崭新的生活天地。\n亿万年前，一种带羽毛的恐龙脱离同类，飞向蓝天，演化出今天的鸟类大家族。科学家们希望能够全面揭示这一历史进程。随着越来越多相关化石的发现，他们离这一愿望的实现已越来越近了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/6a24d47e2850e1702974103619784065/6a24d47e2850e1702974103619784065.m3u8?auth=9d0b32f7ee8d4b735c8479cd5b632264",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534731.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-6-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🐉"
+  },
+  {
+    "lesson_number": "第9课",
+    "title": "繁星（七一）",
+    "author": "吴佳怡",
+    "reader": "肖玉",
+    "content": "这些事——\n 是永不漫灭的回忆：\n月明的园中，\n哪一次我的思潮里藤萝的叶下，\n母亲的膝上。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-9-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "⭐"
   },
   {
     "lesson_number": "第9课",
@@ -2622,10 +2404,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "肖玉",
     "content": "大海啊！\n哪一颗星没有光？\n哪一朵花没有香？\n哪一次我的思潮里\n没有你波涛的清响？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/5e704deee9c991703592256893484540/5e704deee9c991703592256893484540.m3u8?auth=a9173879bd51e58f130d0c93dc416ef4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231227/t20231227_526536053.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-9-2.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "⭐"
   },
   {
@@ -2634,10 +2415,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "于芳",
     "content": "母亲啊！\n天上的风雨来了，\n鸟儿躲到它的巢里；\n心中的风雨来了，\n我只躲到你的怀里。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/27b58e9d35a781703592315682229900/27b58e9d35a781703592315682229900.m3u8?auth=2533353ea2b3d4ec52b6d2f4769df062",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231227/t20231227_526536052.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-9-3.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "⭐"
   },
   {
@@ -2646,10 +2426,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "敬一丹",
     "content": "好像绿色的墨水瓶倒翻了，\n到处是绿的……\n到哪儿去找这么多的绿：\n墨绿、浅绿、嫩绿、\n翠绿、淡绿、粉绿……\n绿得发黑、绿得出奇。\n刮的风是绿的，\n下的雨是绿的，\n流的水是绿的，\n阳光也是绿的。\n所有的绿集中起来，\n挤在一起，\n重叠在一起，\n静静地交叉在一起。\n突然一阵风，\n好像舞蹈教练在指挥，\n所有的绿就整齐地\n按着节拍飘动在一起……",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/025e4e22d5c7a1702977721426298798/025e4e22d5c7a1702977721426298798.m3u8?auth=cdc146cc3c56f863e0f8c8b336a21e70",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534836.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-10-1.mp3",
     "grade": "4",
-    "semester": "1",
+    "semester": "2",
     "emoji": "🟢"
   },
   {
@@ -2658,11 +2437,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "王世林",
     "content": "在我的窗前，\n有一颗白桦，\n仿佛涂上银霜，\n披了一身雪花。\n毛茸茸的枝头，\n雪绣的花边潇洒，\n串串花穗齐绽，\n洁白的流苏如画。\n在朦胧的寂静中\n玉立着这棵白桦,\n在灿灿的金晖里\n闪着晶亮的雪花。\n白桦四周徜徉着\n姗姗来迟的朝霞，\n它向白雪皑皑的树枝\n又抹一层银色的光华。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/a076b256e46c11702977966461991804/a076b256e46c11702977966461991804.m3u8?auth=e1c485f45c6409c49b16d2387cee67ea",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534837.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-11-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "⚪"
   },
   {
     "lesson_number": "第13课",
@@ -2670,10 +2448,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "李修平",
     "content": "猫的性格实在有些古怪。\n说它老实吧，它的确有时候很乖。它会找个暖和的地方，成天睡大觉，无忧无虑，什么事也不过问。可是，它决定要出去玩玩，就会出走一天一夜，任凭谁怎么呼唤，它也不肯回来。说它贪玩吧，的确是啊，要不怎么会一天一夜不回家呢？可是，它听到老鼠的一点儿响动，又是多么尽职。它屏息凝视，一连就是几个钟头，非把老鼠等出来不可！\n它要是高兴，能比谁都温柔可亲：用身子蹭你的腿，把脖子伸出来让你给它抓痒，或是在你写作的时候，跳上桌来，在稿纸上踩印几朵小梅花。它还会丰富多腔地叫唤，长短不同，粗细各异，变化多端。在不叫的时候，它还会咕噜咕噜地给自己解闷。这可都凭它的高兴。它若是不高兴啊，无论谁说多少好话，它也一声不出，连半朵小梅花也不肯印在稿纸上！\n它什么都怕，总想藏起来。可是它又那么勇猛，不要说见着小虫和老鼠，就是遇上蛇也敢斗一斗。\n这种古怪的小动物，真让人觉得可爱。\n满月的小猫们就更好玩了，腿脚还不稳，可是已经学会淘气。妈妈的尾巴，一根鸡毛，都是它们的好玩具，耍个没完没了。一玩起来，它们不知要摔多少跟头，但是跌倒了马上起来，再跑再跌。它们的头撞在门上，桌腿上，和彼此的头上，撞疼了也不哭。它们的胆子越来越大，逐渐开辟新的游戏场所。它们到院子里来了。院中的花草可遭了殃。它们在花盆里摔跤，抱着花枝打秋千，所过之处，枝折花落。你见了，绝不会责打它们，它们是那么生气勃勃，天真可爱！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/8a9160dee42251703038102374627058/8a9160dee42251703038102374627058.m3u8?auth=b5274eaa57db27b699ea22f3b2f4baa4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534853.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-13-1.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🐱"
   },
   {
@@ -2682,11 +2459,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "田龙",
     "content": "我一向讨厌母鸡。听吧，它由前院嘎嘎到后院，由后院再嘎嘎到前院，没完没了，并且没有什么理由，讨厌！有的时候，它不这样乱叫，而是细声细气的，有什么心事似的，颤颤巍巍的，顺着墙根，或沿着田坝，那么扯长了声如怨如诉，使人心中立刻结起个小疙瘩来。\n它永远不反抗公鸡，有时候却欺侮最忠厚的鸭子。更可恶的是遇到另一只母鸡的时候，它会下毒手，趁其不备，狠狠地咬一口，咬下一撮儿毛来。\n到下蛋的时候，它差不多是发了狂，恨不能让全世界都知道它的这点儿成绩；就是聋人也会被它吵得受不了。\n可是，现在我改变了心思，我看见一只孵出一群小雏鸡的母鸡。\n不论是在院里，还是在院外，它总是挺着脖儿，表示出世界上并没有可怕的东西。一只鸟儿飞过，或是什么东西响了一声，它立刻警戒起来：歪着头听；挺着身儿预备作战；看看前，看看后，咕咕地警告鸡雏要马上集合到它身边来。\n发现了一点儿可吃的东西，它咕咕地紧叫，啄一啄那个东西，马上便放下，让它的儿女吃。结果，每一只鸡雏的肚子都圆圆地下垂，像刚装了一两个汤圆儿似的，它自己却消瘦了许多。假若有别的大鸡来抢食，它一定出击，把它们赶出老远，连大公鸡也怕它三分。\n它教鸡雏们啄食，掘地，用土洗澡，一天不知教多少次。它还半蹲着，让它们挤在它的翅下、胸下，得一点儿温暖。它若伏在地上，鸡雏们有的便爬到它的背上，啄它的头或别的地方，它一声也不哼。\n在夜间若有什么动静，它便放声啼叫，顶尖锐，顶凄惨，无论多么贪睡的人都得起来看看，是不是有了黄鼠狼。\n它负责、慈爱、勇敢、辛苦，因为它有了一群鸡雏。它伟大，因为它是鸡母亲。一个母亲必定就是一位英雄。\n我不敢再讨厌母鸡了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/65c075b58bf3a1703038834712946385/65c075b58bf3a1703038834712946385.m3u8?auth=d7c21cbee8f54fdc571567d382e53ec6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534855.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐓"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-14-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🐔"
   },
   {
     "lesson_number": "第15课",
@@ -2694,21 +2470,19 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "黎春",
     "content": "这白鹅，是一位即将远行的朋友送给我的。我抱着这雪白的“大鸟”回家，放在院子里。它伸长了头颈，左顾右盼，我一看这姿态，想道：“好一个高傲的动物!”\n鹅的高傲，更表现在它的叫声、步态和吃相中。\n鹅的叫声，音调严肃郑重，似厉声呵斥。它的旧主人告诉我：养鹅等于养狗，它也能看守门户。后来我看到果然如此：凡有生客进来，鹅必然厉声叫嚣；甚至篱笆外有人走路，它也要引吭大叫，不亚于狗的狂吠。\n鹅的步态，更是傲慢了。大体上与鸭相似，但鸭的步调急速，有局促不安之相；鹅的步调从容，大模大样的，颇像京剧里的净角出场。它常傲然地站着，看见人走来也毫不相让；有时非但不让，竟伸过颈子来咬你一口。\n鹅的吃饭，常常使我们发笑。我们的鹅是吃冷饭的，一日三餐。它需要三样东西下饭：一样是水，一样是泥，一样是草。先吃一口冷饭，再喝一口水，然后再到别处去吃一口泥和草。大约这些泥和草也有各种可口的滋味。这些食料并不奢侈，但它的吃法，三眼一板，一丝不苟。譬如吃了一口饭，倘若水盆放在远处，它一定从容不迫地大踏步走上前去，饮一口水，再大踏步走去吃泥、吃草。吃过泥和草再回来吃饭。\n这样从容不迫地吃饭，必须有一个人在旁侍候，像饭馆里的堂倌一样。因为附近的狗，都知道我们这位鹅老爷的脾气，每逢它吃饭的时候，狗就躲在篱边窥伺。等它吃过一口饭，踏着方步去喝水、吃泥、吃草的当儿，狗就敏捷地跑过来，努力地吃它的饭。鹅老爷偶然早归，伸颈去咬狗，并且厉声叫骂，狗立刻逃往篱边，蹲着静候；看它再吃了一口饭，再走开去喝水、吃泥、吃草的时候，狗又敏捷地跑上来，把它的饭吃完，扬长而去。等到鹅再来吃饭的时候，饭罐已经空空如也。鹅便昂首大叫，似乎责备人们供养不周。这时我们便替它添饭，并且站着侍候。因为邻近狗很多，一狗方去，一狗又来蹲着窥伺了。\n我们不胜其烦，以后便将饭罐和水盆放在一起，免得它走远去，让鸡、狗偷饭吃。然而它所必需的泥和草，所在的地点远近无定。为了找这些食物，它仍是要走远去的。因此鹅吃饭时，非有一个人侍候不可，真是架子十足！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/c4e7a40b3d0821703040353258531610/c4e7a40b3d0821703040353258531610.m3u8?auth=03ce187153ed8ed5f29842c565925df3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534856.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-15-1.mp3",
+    "grade": "4",
     "semester": "2",
-    "emoji": "🦆"
+    "emoji": "🦢"
   },
   {
-    "lesson_number": "第16课",
+    "lesson_number": "习作写日记",
     "title": "海上日出",
     "author": "吴佳怡",
     "reader": "潘涛",
     "content": "为了看日出，我常常早起。那时天还没有大亮，周围非常清净，船上只有机器的响声。\n天空还是一片浅蓝，颜色很浅。转眼间天边出现了一道红霞，慢慢地在扩大它地范围，加强它的亮光。我知道太阳要从天边升起来了，便不转眼地望着那里。\n果然，过了一会儿，在那个地方出现了太阳的小半边脸，红是真红，却没有亮光。太阳好像负着重荷似的一步一步，慢慢地努力上升，到了最后，终于冲破了云霞，完全跳出了海面，颜色红得非常可爱。一刹那间，这个深红的圆东西，忽然发出了夺目的亮光，射得人眼睛发痛，它旁边的云片也突然有了光彩。\n有时太阳走进了云堆中，它的光线却从云里射下来，直射到水面上。这时候要分辨出哪里是水，哪里是天，倒也不容易，因为我就只看见一片灿烂的亮光。\n有时天边有黑云，而且云片很厚，太阳出来，人眼还看不见。然而太阳在黑云里放射的光芒，透过黑云的重围，替黑云镶了一道发光的金边。后来太阳才慢慢地冲出重围，出现在天空，甚至把黑云也染成了紫色或者红色。这时候发亮的不仅是太阳、云和海水，连我自己也成了光亮的了。\n这不是很伟大的奇观吗?",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/5ff0370ec1fb41703041439340352642/5ff0370ec1fb41703041439340352642.m3u8?auth=e07ad475302d6eca589f83219332357a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534867.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-16-1.mp3",
+    "grade": "4",
     "semester": "2",
     "emoji": "🌊"
   },
@@ -2718,10 +2492,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "贺红梅",
     "content": "4月14日，我在浙江金华，游北山的双龙洞。\n出金华城大约五公里到罗店，过了罗店就渐渐入山。公路盘曲而上。山上开满了映山红，无论花朵还是叶子，都比盆栽的杜鹃显得有精神。油桐也正开花，这儿一丛，那儿一簇，很不少。山上沙土呈粉红色，在别处似乎没有见过。粉红色的山，各色的映山红，再加上或浓或淡的新绿，眼前一片明艳。\n一路迎着溪流。随着山势，溪流时而宽，时而窄，时而缓，时而急，溪声也时时变换调子。入山大约五公里就来到双龙洞口，那溪流就是从洞里出来的。\n在洞口抬头望，山相当高，突兀森郁，很有气势。洞口像桥洞似的，很宽。走进去，仿佛到了个大会堂，周围是石壁，头上是高高的石顶，在那里聚集一千或是八百人开个会，一定不觉得拥挤。泉水靠着洞口的右边往外流。这是外洞。\n在外洞找泉水的来路，原来从靠左边的石壁下方的孔隙流出。虽说是孔隙，可也容得下一只小船进出。怎样小的小船呢？两个人并排仰卧，刚合适，再没法容下第三个人，是这样小的小船。船两头都系着绳子，管理处的工人先进内洞，在里边拉绳子，船就进去，在外洞的工人拉另一头的绳子，船就出来。我怀着好奇的心情独个儿仰卧在小船里，自以为从后脑到肩背，到臀部，到脚跟，没有一处不贴着船底了，才说一声“行了”，船就慢慢移动。眼前昏暗了，可是还能感觉左右和上方的山石似乎都在朝我挤压过来。我又感觉要是把头稍微抬起一点儿，准会撞破额角，擦伤鼻子。大约行了二三丈的水程吧，就登陆了，这就到了内洞。\n内洞一团漆黑，什么都看不见。工人提着汽油灯，也只能照见小小的一块地方，余外全是昏暗，不知道有多么宽广。工人高高举起汽油灯，逐一指点洞内的景物。先看到的是蜿蜒在洞顶的双龙，一条黄龙，一条青龙。我顺着他的指点看，有点儿像。其他那些石钟乳和石笋，这是什么，那是什么，大都依据形状想象成神仙、动物以及宫室、器用，名目有四十多。这些石钟乳和石笋，形状变化多端，再加上颜色各异，即使不比作什么，也很值得观赏。\n在洞里走了一转，觉得内洞比外洞大得多，大概有十来进房子那么大，泉水靠着右边缓缓地流，声音轻轻的。上源在深黑的石洞里。\n我排队等候，又仰卧在小船里，出了洞。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/634c2ce062f2b1703042834866230724/634c2ce062f2b1703042834866230724.m3u8?auth=7c6cb3fbd1e48573b1739a9126da5f97",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534869.html",
-    "grade": "2",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-17-1.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🐉"
   },
   {
@@ -2730,11 +2503,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "康辉",
     "content": "胤恭勤不倦，博学多通。家贫不常得油，夏月则练囊盛数十萤火以照书，以夜继日焉。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/f1f6218682d781703575404096816503/f1f6218682d781703575404096816503.m3u8?auth=b196f30ff2477c83b3e8bffffe7f95d9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535599.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-22-1.mp3",
     "grade": "4",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第22课",
@@ -2742,11 +2514,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "康辉",
     "content": "磨针溪，在象耳山下。世传李太白读书山中，未成，弃去。过是溪，逢老媪方磨铁杵。问之，曰：“欲作针。”太白感其意，还卒业。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/b5d786d087831703575459261711342/b5d786d087831703575459261711342.m3u8?auth=7990edc2700f298469c7358be2c49d51",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535600.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-22-2.mp3",
     "grade": "4",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第18课",
@@ -2754,9 +2525,8 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "黎春",
     "content": "一\n晋察冀边区的北部有一条还乡河，河里长着很多芦苇。河边有个小村庄。芦花开的时候，远远望去，黄绿的芦苇上好像盖了一层厚厚的白雪。风一吹，鹅毛般的苇絮就飘飘悠悠地飞起来，把这几十家小房屋都罩在柔软的芦花里。因此，这村就叫芦花村。12岁的雨来就是这村的。\n雨来最喜欢这条紧靠着村边的还乡河。每到夏天，雨来和铁头、三钻儿，还有很多小朋友，好像一群鱼，在河里钻上钻下，藏猫猫，狗刨，立浮，仰浮。雨来仰浮的本领最高，能够脸朝天在水里躺着，不但不沉底，还要把小肚皮露在水面上。\n妈妈不让雨来耍水，怕出危险。有一天，妈妈见雨来从外面进来，光着身子，浑身被太阳晒得黝黑发亮。妈妈知道他又去耍水了，把脸一沉，叫他过来，扭身就到炕上抓笤帚。雨来一看要挨打啦，撒腿就往外跑。\n妈妈紧跟着追出来。雨来一边跑一边回头看。糟了！眼看要追上了，往哪儿跑呢？铁头正赶着牛从河沿回来，远远地向雨来喊：“往河沿跑！往河沿跑！”雨来听出了话里的意思，转身就朝河沿跑。妈妈还是死命追着不放，到底追上了，可是雨来浑身光溜溜的像条小泥鳅，怎么也抓不住。只听见扑通一声，雨来扎进河里不见了。妈妈立在河沿上，望着渐渐扩大的水圈直发愣。\n忽然，远远的水面上露出个小脑袋来。雨来像小鸭子一样抖着头上的水，用手抹一下眼睛和鼻子，嘴里吹着气，望着妈妈笑。\n二\n秋天。\n爸爸从集上卖苇席回来，同妈妈商量：“看见了区上的工作同志，说是孩子们不上学念书不行，起码要上夜校。叫雨来上夜校吧。要不，将来闹个睁眼瞎。”\n夜校就在三钻儿家的豆腐房里，房子很破。教夜课的是东庄学堂里的女老师，穿着青布裤褂，胖胖的，剪着短发。女老师走到黑板前面，屋里嗡嗡嗡嗡说话的声音立刻停止了，只听见哗啦哗啦翻课本的声音。雨来从口袋里掏出课本，这是用土纸油印的，软鼓囊囊的。雨来怕揉坏了，向妈妈要了一块红布，包了个书皮，上面用铅笔歪歪斜斜地写了“雨来”两个字。雨来把书放在腿上，翻开书。\n女老师斜着身子，用手指点着黑板上的字，念着：\n“我们是中国人，我们爱自己的祖国。”\n大家就随着女老师的手指，齐声轻轻地念起来\n“我们――是――中国人，\n我们――爱――自己的――祖国。”\n三\n有一天，雨来从夜校回到家，躺在炕上，背诵当天晚上学会的课文。可是背了不到一半，他就睡着了。\n不知什么时候，门吱扭响了一声。雨来睁开眼，看见闪进一个黑影。妈妈划了根火柴，点着灯，一看，原来是爸爸出外卖席子回来了。他肩上披着子弹袋，腰里插着手榴弹，背上还背着一杆长长的步枪。爸爸怎么忽然这样打扮起来了呢？\n爸爸对妈妈说：“鬼子又‘扫荡’了，民兵都到区上集合，要一两个月才能回来。”雨来问爸爸：“爸爸，远不远？”爸爸把手伸进被里，摸着雨来光溜溜的脊背，说：“这哪有准儿呢？说远就远，说近就近。”爸爸又转过脸对妈妈说：“明天你到东庄他姥姥家去一趟，告诉他舅舅，就说区上说的，叫他赶快把村里的民兵带到区上去集合。”妈妈问：“区上在哪儿？”爸爸装了一袋烟，吧嗒吧嗒抽着，说：“叫他们在河北一带村里打听。”\n雨来还想说什么，可是门哐啷响了一下，就听见爸爸走出去的脚步声。不大一会儿，什么也听不见了。只从街上传来一两声狗叫。\n第二天，吃过早饭，妈妈就到东庄去，临走说晚上才能回来。过了晌午，雨来吃了点剩饭，因为看家，不能到外面去，就趴在炕上念他那红布包着的识字课本。\n忽然听见街上咕咚咕咚有人跑，把屋子震得好像要摇晃起来，窗户纸哗啦哗啦响。\n雨来一骨碌下了炕，把书塞在怀里就往外跑，刚要迈门槛，进来一个人。雨来正撞在这个人的怀里。他抬头一看，是李大叔。李大叔是区上的交通员，常在雨来家落脚。\n随后听见日本鬼子呜哩哇啦地叫。李大叔忙把墙角那盛着一半糠皮的缸搬开。雨来两眼愣住了：“咦！这是什么时候挖的洞呢？”李大叔跳进洞里，说：“把缸搬回原地方。你就快到别的院里去，对谁也不许说。”\n十二岁的雨来使尽力气，才把缸挪回到原地。\n雨来刚到堂屋，见十几把雪亮的刺刀从前门进来。他撒腿就往后院跑。背后咔啦一声枪栓响，有人大声叫道：“站住！”雨来没理他，脚下像踩着风，一直朝后院跑去。只听见子弹向他头上嗖嗖地飞来。可是后院没有门。把雨来急出一身冷汗。靠墙有一棵桃树，雨来抱着树就往上爬。鬼子已经追到树底下，伸手抓住雨来的脚，往下一拉，雨来就摔在地上。鬼子把他两只胳膊向背后一拧，捆绑起来，推推搡搡回到屋里。\n四\n鬼子把前后院都翻遍了。\n屋子里遭了劫难――连枕头都给刺刀挑破了。炕沿上坐着个鬼子军官，两眼红红的，用中国话问雨来说：“小孩，问你话，不许撒谎！”他突然望着雨来的胸脯，张着嘴，眼睛睁得圆圆的。\n雨来低头一看，原来刚才一阵子挣扎，识字课本从怀里露出来了。鬼子一把抓在手里，翻着看了看，问他：“谁给你的？”雨来说：“捡来的！”\n鬼子露出满口金牙，做个鬼脸，温和地对雨来说：“不要害怕！小孩，皇军是爱护的！”说着，就叫人给他松绑。\n雨来把手放下来，觉得胳膊发麻发痛，扁鼻子军官用手摸着雨来的脑袋，说：“这本书谁给你的，没有关系，我不问了。别的话要统统告诉我！刚才有个人跑进来，看见没有？”雨来用手背抹了一下鼻子，嘟嘟囔囔地说：“我在屋里，什么也没看见。”\n扁鼻子军官把书扔在地上，伸手往皮包里掏。雨来心里想：“掏什么呢？找刀子？鬼子生了气要挖小孩眼睛的！”只见他掏出来的却是一把雪白的糖块。\n扁鼻子军官把糖往雨来手里一塞，说：“吃！你吃！你得说出来他在什么地方？”他又伸出那个戴金戒指的手指，说：“这个，金的，也给你！”\n雨来没有接他的糖，也没有回答他。\n旁边一个鬼子嗖地抽出刀来，瞪着眼睛要向雨来头上劈。扁鼻子军官摇摇头。两个人叽叽咕咕说了一阵。那鬼子向雨来横着脖子翻白眼，使劲把刀放回鞘里。\n扁鼻子军官压住肚子里的火气，用手轻轻地拍着雨来的肩膀，说：“我最喜欢小孩，那个人，你看见没有？说啊！”\n雨来摇摇头，说：“我在屋里，什么也没看见！”\n扁鼻子军官的目光立刻变得凶恶可怕，他向前弓着身子，伸出两只大手。啊！那双手就像鹰的爪子，扭着雨来的两只耳朵，向两边拉。雨来疼得直咧嘴。鬼子又抽出一只手来，在雨来的脸上打了两巴掌，又把他脸上的肉揪起一块，咬着牙拧。雨来的脸立刻变成白一块，青一块，紫一块。鬼子又向他胸脯上打了一拳。雨来打个趔趄，后退几步，后脑勺正碰在柜板上，但立刻又被抓过来，肚子撞在炕沿上。\n雨来半天才喘过气来，脑袋里像有一窝蜂，嗡嗡地叫，他两眼直冒金星，鼻子流着血。一滴一滴的血滴下来，溅在课本那几行字上：\n“我们是中国人，\n我们爱自己的祖国。”\n鬼子打得累了，雨来仍是咬着牙，说：“没看见！”\n扁鼻子军官气得暴跳起来，嗷嗷地叫：“枪毙，枪毙！拉出去！拉出去！”\n五\n太阳已经落下去。蓝蓝的天上飘着的浮云像一块一块红绸子，映在还乡河上，像开了一大朵一大朵鸡冠花。苇塘的芦花被风吹起来，在上面飘飘悠悠地飞着。\n芦花村里的人听见河沿上响了几枪。老人们含着泪，说：\n“雨来是个好孩子！死得可惜！”\n“有志不在年高。”\n芦花村的孩子们，雨来的好朋友铁头和三钻儿几个人，听到枪声都呜呜地哭了。\n六\n李大叔在地洞里等了好久，不见雨来来搬缸。就往另一个出口走，他试探着推开洞口的石板，扒开苇叶。院子里空空的，一个人影也没有，四处也不见动静。忽然听见街上有人吆喝：“豆腐啦！卖豆腐啦！”这是芦花村的暗号，李大叔知道敌人已经走远了。\n可是怎么还不见雨来呢？他跑到街上，看见许多人往河沿跑，一打听，才知道雨来被鬼子打死在河里了。\n李大叔脑袋轰的一声，眼泪就流下来了。他一股劲儿地跟着人们向河岸跑。\n到了河岸，别说尸首，连一滴血也没看见。\n大家呆呆地在河沿上立着。还乡河静静的，河水打着漩涡哗哗地向下流去。虫子在草窝里叫着。不知谁说：“也许鬼子把雨来扔在河里，冲走了！”\n大家就顺着河岸向下找。突然铁头叫起来：“啊！雨来！雨来！”\n在芦苇丛里，水面上露出个小脑袋来。雨来还是像小鸭子一样抖着头上的水，用手抹一下眼睛和鼻子，扒着芦苇，向岸上的人问道：“鬼子走了？”\n“啊！”大家都高兴得叫起来，“雨来没有死！雨来没有死！”\n原来枪响以前，雨来就趁鬼子不防备，一头扎到河里去了。鬼子慌忙向水里打枪，可是我们的小英雄雨来已经从水底游到远处去了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/539a6a62566db1703574474671626220/539a6a62566db1703574474671626220.m3u8?auth=76f2de909e4b93bd6ea29fd667174071",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535593.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-18-1.mp3",
+    "grade": "4",
     "semester": "2",
     "emoji": "🌧️"
   },
@@ -2766,9 +2536,8 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "李修平",
     "content": "我们家里有一个男子汉，那是姐姐的孩子。姐姐生下他后，就和姐夫到安徽去了，把他留在家中由我们来照看。\n他对食物的兴趣\n“他吃饭很爽气。”带他的保姆这么说他。确实，他吃饭吃得很好，量很多，范围很广――什么都要吃，而且吃得极有滋味。叫人看了不由得也会嘴馋起来。当然，和所有的孩子一样，他不爱吃青菜，可是我对他说：“不吃青菜会死的。”他便吃了，吃得很多。他不愿死，似乎是深感活着的乐趣的。他对所有的滋味都有兴趣，为了吃一客小笼包子，他可以耐心地等上三刻钟；他会为他喜欢吃的东西编儿歌一样的谜语。当实在不能再吃了的时候，他便吃自己的大拇指，吃得十分专心，以至前边的嘴唇都有些翘了起来。当《少林寺》风靡全国时，他也学会了一套足以乱真的醉拳。耍起来，眼神都恍惚了，十分入迷。他向往着去少林寺当和尚。可是我们告诉他，当和尚不能吃荤。他说：“用肉汤拌饭可以吗?”“不可以。”“那么棒冰可以吃吗?”他小心地问，是问“棒冰”，而不是冰激凌，甚至不是雪糕。“那山上恐怕是没有棒冰的。”我们感到非常抱歉。\n他对独立的要求\n不知从什么时候起，和他出去，他不愿让人牵他的手了。一只胖胖的小手在我的手掌里，像一条倔强的活鱼―样挣扎着。有一次，我带他去买东西，他提出要让他自己买。我给了他一角钱。他攥着钱，走近了柜台，忽又胆怯起来。我说：“你递上钱，我帮你说好了。”“不要，不要，我自己说。”他说。到了柜台前，他又嘱咐了我一句：“你不要讲话啊！”营业员终于过来了，他神情有点儿紧张，勇敢地开口了：“同志，买，买，买……”他忘了要买什么东西了。我终于忍不住了：“买一包山楂片。”他好久没说话，潦草地吃着山楂片，神情有些沮丧。我有点儿后悔起来。后来，他会自个儿拿着五个汽水瓶和一元钱到门口小店换橘子水了。他是一定要自己去的。假如我不放心，跟在他后面，他便停下脚步不走了：“你回去，回去嘛！”我只得由他去了。他买橘子水日益熟练起来，情绪日益高涨，最终变成了一种可怕的狂热。为了能尽快地拿着空瓶再去买，他便努力地喝橘子水。一个炎热的中午，我从外面回来，见他正在门口小店买橘子水。他站在冰箱前面，露出半个脑袋。营业员只顾和几个成年人做生意，看都不看他一眼。他满头大汗地、耐心地等待着。我很想走过去帮他叫一声“同志”，可最后还是忍住了。\n他面对生活挑战的沉着\n当他满两周岁的时候，我们决定把他送进托儿所。去的那天早晨，他一声不吭，很镇静地四下打量着。当别的孩子哭的时候，他才想起来哭。哭声嘹亮，并无伤感，似乎只为了参加一个仪式。每天早上，送他去托儿所都很容易，不像我们姐妹几个小时候那样，哭着闹着不肯去。问他喜欢托儿所吗，他说：“不喜欢。”可是他明白了自己不得不去，也就坦然地接受了这个现实，不作任何无效的挣扎。据老师说，他吃饭很好，睡觉很好，唱歌游戏都很好，只不过有点儿拘束。然而，他迅速地熟悉起来，开始交朋友，打架。每天去接他，都要听老师几句抱怨。\n他四岁那年，他的保姆病了，回乡了，他终于要去安徽了。他是极不愿意去的。走的前一天，他对外婆说：“外婆，你不要我了，把我扔出去了。”外婆几乎动摇了，想把他留下。那时候，上海到合肥，每天只有一班火车，人很多。车门被行李和人堵满了，大人们只好先挤上车，把他留在月台上。他着急地喊起来：“我怎么办呢？”我安慰他：“上不去，就不走了。”他仍然很着急，认为自己是非走不可的。姐姐说：“让他从窗口爬进来吧！”我把他抱了起来，他勇敢地抓住窗框，两只脚有力地蹬着车厢，攀上了窗口。窗口边的旅客不约而同地伸手去抱他。他推开那些妨碍他的手，抓住一双最得力的，蹿进了车厢，淹没在拥挤的人群里了。\n这就是我们家的男子汉。看着他一点儿一点儿长大，他的脸盘的轮廓，他的手掌上的细纹，他的身体，他的力气，他的智慧，他的性格，还有他的性别，那样神秘地一点儿一点儿鲜明，突出，扩大，再扩大，实在是一件最最奇妙的事情。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/7e18658a4ea161703574614018604253/7e18658a4ea161703574614018604253.m3u8?auth=0049e0f96b7d715b27ecfd3d21b3023f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535594.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-19-1.mp3",
+    "grade": "4",
     "semester": "2",
     "emoji": "🏠"
   },
@@ -2778,11 +2547,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "雅坤",
     "content": "芙蓉楼送辛渐\n[唐]  王昌龄\n寒雨连江夜入吴，平明送客楚山孤。洛阳亲友如相问，一片冰心在玉壶。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/de210abf875981703575142882133323/de210abf875981703575142882133323.m3u8?auth=a104579820d61f5f4345bb70b877bd96",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535596.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-21-1.mp3",
+    "grade": "4",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "🏢"
   },
   {
     "lesson_number": "第21课",
@@ -2790,11 +2558,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "王彤",
     "content": "塞下曲\n[唐]  卢纶\n月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/6709c99fae44e1703575208292131634/6709c99fae44e1703575208292131634.m3u8?auth=67f90bcdf85627f480f57e57e9adff8c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535597.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-21-3.mp3",
+    "grade": "4",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第21课",
@@ -2802,11 +2569,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "雅坤",
     "content": "墨梅\n[元]  王冕\n我家洗砚池头树，朵朵花开淡墨痕。不要人夸好颜色。只留清气满乾坤。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/461654efe787d1703575279464344969/461654efe787d1703575279464344969.m3u8?auth=90bce4ef36c69bfe57dc41b3e339b7aa",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535598.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-21-2.mp3",
+    "grade": "4",
     "semester": "2",
-    "emoji": "🌸"
+    "emoji": "📖"
   },
   {
     "lesson_number": "第24课",
@@ -2814,22 +2580,20 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "雷鹏",
     "content": "1952年10月，上甘岭战役打响了。这是朝鲜战场上最激烈的一次阵地战。\n黄继光所在的营已经持续战斗了四天四夜，第五天夜晚接到上级的命令，要在黎明之前夺下被敌人占领的597.9高地。\n进攻开始了，大炮在轰鸣。战士们占领了一个又一个山头，就要到达597.9高地的主峰了。突然，敌人一个火力点凶猛地射击起来。战士们屡次突击，都被比雨点还密的枪弹压了回来。\n东方升起了启明星，营参谋长看看表，已经四点多了。如果不很快摧毁这个火力点，在黎明前就攻不下597.9高地的主峰，已经夺得的那些山头就会全部丢失。\n黄继光愤怒地注视着敌人的火力点，他转过身来坚定地对营参谋长说：“参谋长，请把这个任务交给我吧！”营参谋长紧握着黄继光的手，说：“好，我相信你一定能完成这个光荣而艰巨的任务。”\n黄继光带上两个战士，拿了手雷，喊了一声：“让祖国人民听我们胜利的消息吧！”便向敌人的火力点爬去。\n敌人发现他们了。几发照明弹升上天空，黑夜变成了白天。炮弹在他们周围爆炸。他们冒着浓烟，冒着烈火，匍匐前进。一个战士牺牲了，另一个战士也负伤了。摧毁火力点的重任落在了黄继光一个人的肩上。\n火力点里的敌人把机枪对准黄继光，子弹像冰雹一样射过来。黄继光肩上腿上都负了伤。他用尽全身的力气，更加顽强地向前爬，还有二十米，十米……近了，更近了。\n啊！黄继光突然站起来了！在暴风雨一样的子弹中站起来了！他举起右臂，手雷在探照灯的光亮中闪闪发光。\n轰！敌人的火力点塌了半边，黄继光晕倒了。战士们赶紧冲上去，不料才冲到半路，敌人的机枪又叫起来，战士们被压在山坡上。\n天快亮了，规定的时间马上到了。营参谋长正在着急，只见黄继光又站起来了！他张开双臂，向喷射着火舌的火力点猛扑上去，用自己的胸膛堵住了敌人的枪口。\n“冲啊，为黄继光报仇！”喊声惊天动地。战士们像海涛一样向上冲，占领了597.9高地，消灭了阵地上的全部敌人。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/19fb32c76d6fe1703064847182187477/19fb32c76d6fe1703064847182187477.m3u8?auth=c46e5a5fe2afd8a6a3b65787fc6101d2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534894.html",
-    "grade": "2",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-24-1.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🟡"
   },
   {
-    "lesson_number": "第23课",
+    "lesson_number": "第1课",
     "title": "挑山工",
     "author": "吴佳怡",
     "reader": "王誉博",
     "content": "在泰山上，随处都可以碰到挑山工。他们肩上搭一根光溜溜的扁担，扁担两头的绳子挂着沉甸甸的货物。登山的时候，他们一条胳膊搭在扁担上，另一条胳膊随着步子有节奏地一甩一甩，使身体保持平衡。他们走的路线是折尺形的，从台阶左侧起步，斜行向上，登上七八级，到了台阶右侧，就转过身子，反方向斜行，到了左侧再转回来。每转一次身，扁担换一次肩。这样曲折向上登，才能使挂在扁担前头的东西不碰到台阶，还可以省些力气。担了重物，如果照一般登山的人那样直往上走，膝盖会受不住的。但是路线曲折，就会使路程加长。挑山工登山走的路程大约比游人多一倍！\n奇怪的是挑山工花的时间并不比游人多。你轻快地从他们身边走过，以为把他们远远地甩在后边了。你在什么地方饱览壮丽的山色，或者在道边诵读凿在石壁上的古人的题句，或者在喧闹的溪流边洗脸洗脚，他们已经不声不响地从你身旁走过，悄悄地走到前头去了。等你发现，你会大吃一惊，以为他们像仙人那样，是腾云驾雾赶上来的。\n有一次，我同几个画友去泰山写生，就遇到过这种情况。我们在山下买登山用的青竹杖，遇到一个挑山工，矮个子，脸黑生生的，眉毛很浓，四十来岁，敞开的白土布褂子中间露出鲜红的背心。他扁担一头拴着几张木凳子，另一头捆着五六个青皮西瓜。我们很快就超过了他。到了回马岭那条陡直的山道前，我们累了，舒展身子躺在一块被山风吹得干干净净的大石头上歇歇脚。我们发现那个挑山工就坐在对面的草地上抽烟。随后，我们跟他差不多同时起程，很快就把他甩在后边，直到看不见他了。等到爬上半山的五松亭，我们看见有个人在那株姿态奇特的古松下整理挑子，那正是他。他把褂子脱掉了，光穿着红背心，现出健美的黑黝黝的肌肉。我很惊异，走过去跟他攀谈起来。这位山民倒不拘束，挺爱说话。他告诉我，他家住在山脚下，他天天挑货上山，干了近二十年了，一年四季，一天一个来回。\n我把心中那个不解之谜说了出来：“我看你们走得很慢，怎么反而常常跑到我们前头去了呢？你们有什么近道吗？”\n他听了，黑生生的脸上显出一丝得意的神色。他说：“我们哪里有近道，还不是和你们走的同一条道？你们肩膀上没有挑子，是走得快，可是一路上东看西看，玩玩闹闹，总得停下来嘛！我们跟你们不一样，不像你们那么随便，高兴怎么就怎么。一步踩不实不行，更不能耽误工夫。我们得一个劲往前走。别看我们慢，走长了就跑到你们前边去了。”\n我心悦诚服地点着头，感到这位山民的几句朴素的话，似乎包蕴着意味深长的哲理。没等我细细体味，他担起挑子又起程了。\n从泰山回来，我画了一幅画――在陡直的似乎没有尽头的山道上，一个穿红背心的挑山工给肩头的重物压弯了腰，他一步一步地向上攀登。这幅画一直挂在我的书桌前，因为我需要它。\n――本文作者冯骥才，选用时有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/48188d63240c91703578341367947474/48188d63240c91703578341367947474.m3u8?auth=0ef41afced81448ca8a35764e90f52be",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535621.html",
-    "grade": "2",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-1-4.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "⛰️"
   },
   {
@@ -2838,11 +2602,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "小草",
     "content": "我来给你们讲个故事。可是我先得介绍介绍我自己：我姓王，叫王葆。我要讲的，正是我自己的一件事情，是我和宝葫芦的故事。\n你们也许要问：“什么？宝葫芦？就是传说故事里的那种宝葫芦吗？”\n不错，正是那种宝葫芦。\n可是我要声明，我并不是什么神仙，也不是什么妖怪。我和你们一样，是一个平平常常的普通人。你们瞧，我是一个少先队员，我也和你们一样，很爱听故事。\n至于宝葫芦的故事，那我从小就知道了。那是我奶奶讲给我听的。奶奶每逢要求我干什么，就得给我讲个故事。这是我们的规矩。\n“乖小葆，来，奶奶给你洗个脚。”奶奶总是一面撵我，一面招手。\n“我不干，我怕烫。”我总是一面溜开，一面摆手。\n“不烫啊。冷了好一会儿了。”\n“那，我怕冷。”\n奶奶撵上了我，说洗脚水刚好不烫也不冷，非洗不可。\n我只好让步。不过我有一个条件：“你爱洗就让你洗。你可得讲个故事。”就这么着，奶奶讲了个宝葫芦的故事。\n“好小葆，别动！”奶奶刚给我洗了脚，忽然又提出一个新的要求来，“让我给你剪一剪……”\n什么！剪脚指甲啊？那不行！我光着脚丫，一下地就跑。可是胳膊给奶奶拽住了。没有办法。\n不过我得提出我的条件：“那，非得讲故事。”于是奶奶又讲了一个――又是宝葫芦的故事。\n我就这么着，从很小的时候起，听奶奶讲故事，一直听到我十来岁。奶奶每次讲的都不一样。上次讲的是张三劈面撞见了一位神仙，得了一个宝葫芦。下次讲的是李四出去远足旅行，一游游到了龙宫，得到了一个宝葫芦。王五呢，他因为是一个好孩子，肯让奶奶给他换衣服，所以得到了一个宝葫芦。至于赵六得的一个宝葫芦――那是掘地掘出来的。\n不管张三也好，李四也好，一得到了这个宝葫芦，可就幸福极了，要什么有什么。张三想：“我要吃水蜜桃。”立刻就有一盘水蜜桃。李四希望有一条大花狗，马上就冒出了那么一条――冲着他摇尾巴，舔他的手。\n后来呢？后来不用说，他们全都过上了好日子。\n我听了这些故事，常常就联系到自己：“我要是有了一个宝葫芦，我该怎么办？我该要些什么？”\n一直到我长大了，有时候还想起它来。我有几次对着一道算术题发愣，不知道要怎么列式子，就由“8”字想到了宝葫芦――假如我有这么一个，那可就省心了。\n我和同学们比赛种向日葵，我家里的那几棵长得又瘦又长，上面顶着一个小脑袋，可怜巴巴的样儿，比谁的也比不上。我就又想到了那个宝贝：“那，我得要一棵最好最好的向日葵，长得不能再棒的向日葵。”可那只不过是幻想罢了。\n可我总还是要想到它。那一天我和科学小组的同学闹翻了，我又想到了它。“要是我有那么一个葫芦，那……”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/b81cea173f7481703575640653795963/b81cea173f7481703575640653795963.m3u8?auth=cf0841be53c0591a3ebdab6ab5ccc112",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535433.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-25-1.mp3",
     "grade": "4",
-    "semester": "1",
-    "emoji": "📖"
+    "semester": "2",
+    "emoji": "📄"
   },
   {
     "lesson_number": "第26课",
@@ -2850,23 +2613,21 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "靳强",
     "content": "每天下午，孩子们放学后，总喜欢到巨人的花园里去玩。\n这是一个很可爱的大花园。园里长满了柔嫩的青草，草丛中到处露出星星似的美丽花朵。还有十二棵桃树，春天开出淡红色和珍珠色的鲜花，秋天结出丰硕的果子。小鸟们在树上唱着悦耳的歌，歌声是那么动听，孩子们都停止了游戏来听他们唱歌。“我们在这儿多么快乐！”孩子们欢叫着。\n有一天，巨人回来了。之前，他离家去看朋友，在那里一住就是七年。现在他回到家，看见孩子们正在花园里玩。\n“你们在这儿做什么？”他叱责道。孩子们吓得跑开了。\n“我自己的花园就是我自己的花园，”巨人自言自语道，“这是随便什么人都懂得的。除了我自己以外，我不允许任何人在里面玩。”于是他在花园的四周砌了一道高墙，挂出一块布告牌：\n禁止入内\n违者重惩\n那些可怜的孩子们现在没有地方玩了，只能在高墙外面转来转去，谈论着墙内美丽的花园。“我们从前在那儿是多么快乐啊！”他们都这样说。\n春天来了，乡下到处开着小花，到处有小鸟歌唱。单单在巨人的花园里，仍旧是冬天的景象。小鸟不肯在他的花园里唱歌，因为那里没有孩子们的踪迹；桃树也忘了开花；偶尔有一朵美丽的花从草丛中伸出头来，可是一看见那块布告牌，就马上缩回到地里睡觉去了。高兴的只有雪和霜两位。他们嚷道：“春天把这个花园忘记了，我们一年到头都可以住在这儿啦！”雪用他的白色大衣覆盖着青草，霜把所有的树枝涂成了银色。他们还请来北风同住。北风身上裹着皮衣，整天在花园里呼啸着。他说：“这是个好地方，我们一定要请雹来玩一玩。”于是雹也来了。他每天总要在屋顶上闹三个钟头，然后又在花园里绕着圈子用力跑。\n“我不懂为什么春天来得这样迟，”巨人坐在窗前，望着窗外那凄凉的花园，“我盼望天气快点儿变好。”\n可是春天始终没有来，夏天也没有来。秋天给每个花园带来了金色果实，但巨人的花园却什么也没有。\n一天早晨，巨人还在睡觉，忽然听见了动人的音乐。他以为是国王的乐队从门外走过，其实是一只小小的梅花雀在窗外唱歌。他很久没有听见小鸟在花园里唱歌了，觉得这是全世界最动听的音乐。这时，雹停止了疯闹，北风也不再吼叫，一缕阳光从窗外射进来。“春天到底来了。”巨人说。他跳下床往外看。\n他看见一幅奇特的景象。孩子们从墙上一个小洞爬进花园里来了，他们都坐在桃树上面。桃树看见孩子们回来十分高兴，纷纷用花朵把自己装饰起来，还在孩子们头上轻轻地舞动胳膊。小鸟们快乐地飞舞歌唱。花儿们也从绿草丛中伸出头来。这的确是很可爱的景象。只有一个角落还是冬天。这是花园里最远的角落，一个小男孩正站在那里。他太小了，手还挨不到树枝，只好在树旁转来转去，哭得很厉害。这棵可怜的树仍然满身盖着雪和霜，北风还在树顶上吼叫。“快爬上来，孩子！”桃树一面对小男孩说，一面尽可能地把树枝垂下去，然而孩子还是太小了。\n巨人看见这个情景，心也软了。他对自己说：“我多么自私啊！现在我明白为什么春天不肯到这儿来了。”他十分后悔自己先前的举动。\n他轻轻地走下楼，静悄悄地打开前门，走进花园里。孩子们看见他，非常害怕，立刻逃走了，花园里又出现了冬天的景象。只有那个小男孩没有跑开，因为他的眼里充满了泪水，看不见巨人走过来。巨人悄悄地走到他后面，轻轻抱起他，放到树枝上。这棵树马上开花了，小鸟们也飞来歌唱。小男孩伸手搂住巨人，亲吻着他的脸颊。别的孩子看见巨人不再像先前那样凶狠了，也都跑了回来。春天也跟着一起回来了。巨人对他们说：“孩子们，花园现在是你们的了。”他拿出一把大斧子，拆除了围墙。\n从那以后，巨人的花园又成了孩子们的乐园。孩子们站在巨人的脚下，爬上巨人的肩膀，尽情地玩耍。\n许多年过去，巨人老了。他不能再跟孩子们一块儿玩了，只能坐在椅子上看孩子们玩各种游戏，同时也欣赏着他自己的花园。他说：“我有许多美丽的花，可孩子们却是最美丽的花。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/aad86bae383841703575732454144249/aad86bae383841703575732454144249.m3u8?auth=f49e4e0de8d96c544c2d92c3e681b71f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535435.html",
-    "grade": "3",
-    "semester": "1",
-    "emoji": "🌺"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-26-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🌻"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "课外古诗词诵读",
     "title": "卜算子・  咏梅",
     "author": "吴佳怡",
     "reader": "雅坤",
     "content": "卜算子・  咏梅\n毛泽东\n风雨送春归，飞雪迎春到。\n已是悬崖百丈冰，犹有花枝俏。\n俏也不争春，只把春来报。\n待到山花烂漫时，她在丛中笑。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/35fb4c7bbbc91703144812050456657/35fb4c7bbbc91703144812050456657.m3u8?auth=ab8dce00f8398fd868419c3d44d38fcb",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534902.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌸"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/8-2-99-1.mp3",
+    "grade": "8",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -2874,23 +2635,21 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "闻齐",
     "content": "江畔独步寻花\n〔唐〕杜甫\n黄师塔前江水东，春光懒困倚微风。桃花一簇开无主，可爱深红爱浅红？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/c69cfbecdec61703145707836699695/c69cfbecdec61703145707836699695.m3u8?auth=5aad9fbe25bfdb3b925da6ffbe0976b5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534906.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-6.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🌺"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "快乐读书吧",
     "title": "十万个为什么（节选）",
     "author": "吴佳怡",
     "reader": "鲁健",
     "content": "你们家里每天总有人生炉子，煮马铃薯。也许你自己就很会生炉子或者煮马铃薯。可是请你解释一下：为什么炉子里的柴会毕剥作响？为什么烟会走烟筒出去，而不向屋里冒？煤油燃烧的时候，从哪里来的烟？为什么烘烤的马铃薯有一层硬皮，煮的却没有？恐怕你不能解释明白吧。或者问你：水为什么能灭火？我的一位熟人回答说：“水能灭火，因为它又湿又冷。”可是煤油也又湿又冷，你倒是试试用煤油来灭火吧！不，你还是不试为好，一试就得报火警了。你看，问题挺简单，可是要回答它却不那么容易。我再给你猜十二个关于最简单事物的谜，你愿意不愿意？\n――选自苏联米・伊林的《十万个为什么》，董纯才、邹信然、祝修恒译，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/78a4fde8f141703145863760644204/78a4fde8f141703145863760644204.m3u8?auth=22287cab495873368bd50a0a83f51d40",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534932.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔟"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-1.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "📄"
   },
   {
     "lesson_number": "第10课",
@@ -2898,11 +2657,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "贡婉莹",
     "content": "雨中去访灵隐，一下车，只觉得绿意扑眼而来。道旁古木参天，苍翠欲滴，似乎飘着的雨丝也都是绿的。飞来峰上层层叠叠的树木，有的绿得发黑，深极了，浓极了；有的绿得发蓝，浅极了，亮极了。峰下蜿蜒的小径，布满青苔，直绿到了石头缝里。\n――选自宗璞的《西湖漫笔》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/1489472b68ae21703147235480329452/1489472b68ae21703147235480329452.m3u8?auth=18a162e9ef978b0d2e1b566a3edb267a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534933.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-10-2.mp3",
     "grade": "4",
-    "semester": "1",
-    "emoji": "✏️"
+    "semester": "2",
+    "emoji": "🏞️"
   },
   {
     "lesson_number": "第13课",
@@ -2910,10 +2668,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "李修平",
     "content": "小猫白玉似的毛色上，黄斑错落得非常明显。当它蹲在草地上或蹦跳在凤仙花丛里的时候，望去真是美丽。每当附近四邻或路过的人，见了称赞说“好猫”的时候，妻脸上就现出一种莫可言说的得意，好像是养着一个好儿子，或是好女儿。阿吉、阿满这两个孩子从学校一回来就用带子逗它玩，或是捉迷藏似的在庭间追赶它。我也常于初秋的夕阳中坐在檐下对这小动物作种种的遐想。\n――选自夏�D尊的《猫》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/09b7a03a47c061703149426636907351/09b7a03a47c061703149426636907351.m3u8?auth=137341e9c5a640c9245709db589a288c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231225/t20231225_526533720.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-13-2.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🐱"
   },
   {
@@ -2922,10 +2679,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "李修平",
     "content": "它一身的白毛像雪似的，中间夹着数块墨色的细毛，黑白相间，白的显得越白，而黑的越发显得黑了。脸一半白，一半黑，两颗小电灯泡似的眼睛在脸中间闪啊闪，见我低下头看它，它也一个劲地盯着我。一条全黑的尾巴躺在地上，悠然自得地摇摆着。嘴张得很大，露出几颗嫩白的小齿，咪咪地叫着，那几根细鱼骨头似的白胡须，傲傲地动着。\n――选自周而复的《猫》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/dfc034709adb21703149696787267548/dfc034709adb21703149696787267548.m3u8?auth=82922cf2fb3a7f50a141342f66d17ae6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231225/t20231225_526533719.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-13-3.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "🐱"
   },
   {
@@ -2934,10 +2690,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "靳强",
     "content": "老舍(1899-1966)，原名舒庆春，字舍予，“老舍”是他最常用的笔名。他是杰出的语言大师，被誉为“人民艺术家”。他一生创作了一千多篇(部)作品，有长篇小说《骆驼祥子》、话剧《茶馆》等经典著作。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/59b6c833152661703149837021969991/59b6c833152661703149837021969991.m3u8?auth=6055355d4260918453dd50dbe8fb43fe",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231225/t20231225_526533718.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-14-2.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -2946,11 +2701,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "黎春",
     "content": "要是可以把军衔授给禽类的话，这只白公鹅理当荣膺海军上将衔了。它板正的姿势啦，步态啦，和别的公鹅攀谈时的腔调啦，全是海军上将的派头。\n它走起路来慢条斯理，仔细掂量着每一步。落步之前，它总要先把脚掌往上抬抬，再合上掌蹼，就像收起张开的扇面一样；然后摆一会儿这个姿势，再不慌不忙地把脚掌放到地上。通过车辙凌乱而泥泞的路时，它也那么有办法，身上的任何一根细翎都不沾上一点儿污泥。就是狗在身后追赶，这只鹅也决不举步奔跑。它总是高傲地、一动不动地挺着长长的脖子，好像头上顶着一罐水。\n当白鹅在浅水滩里挺直身子，扇动起两只长长的有力的翅膀时，水面上便泛起层层涟漪，岸边的芦苇也会沙沙作响。\n这只白鹅在整片河湾里最引人注目。它过得无忧无虑，自由自在。青草茂密的河岸属于它，水边最洁净的沙滩也属于它。\n可最糟糕的是，白鹅把我下了鱼饵的一片水面，也划为自己的地盘。我们为这片水面打了好长时间的官司，它根本没把我放在眼里。有时它率领一伙公鹅横成一排，直奔鱼竿，而且还要赖在那里；有时它们在河对岸洗澡，大声叫唤，拍打翅膀，互相嬉戏。要不，它就与邻近的鹅群来上一场厮打，弄得满河里漂浮着撕咬下来的乱羽。如果赶上这么一场用以耀武扬威的乱子，你就甭想有鱼咬钩了。\n有多少次，它径直把我罐头筒里的鱼饵咽进了肚里，有时还拖走挂着鱼饵的钓绳。干这种勾当它从不偷偷摸摸，总是从从容容、不紧不慢的，因为它自认为是这条河的主宰。白鹅大概认为这个世界上的所有东西都属于它。它要是知道了连它自己也属于村里的少年斯焦普卡――他愿意的话，就可以把它抓起来，交给母亲，用它和鲜白菜一起熬汤喝――那可就要大吃一惊了。\n――本文作者是俄国的叶・诺索夫，译者李颜，选用时有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/965ab5dcda3dd1703157615678206392/965ab5dcda3dd1703157615678206392.m3u8?auth=9c5c06e4c8f0c94bfd0686443567c5de",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535626.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-15-2.mp3",
+    "grade": "4",
     "semester": "2",
-    "emoji": "🦆"
+    "emoji": "🦢"
   },
   {
     "lesson_number": "语文园地",
@@ -2958,23 +2712,21 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "康辉",
     "content": "蜂\n[唐]  罗隐\n不论平地与山尖，\n无限风光尽被占。\n采得百花成蜜后，\n为谁辛苦为谁甜？",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/168c5bd1f4c1170315822247392086/168c5bd1f4c1170315822247392086.m3u8?auth=306534668fe143a9c03bb5482f432e4b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535628.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-5.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "📖"
   },
   {
-    "lesson_number": "习作例文",
+    "lesson_number": "第6课",
     "title": "颐和园",
     "author": "吴佳怡",
     "reader": "贾际",
     "content": "北京的颐和园是个美丽的大公园。\n进了颐和园的大门，绕过大殿，就来到有名的长廊。绿漆的柱子，红漆的栏杆，一眼望不到头。这条长廊有七百多米长，分成二百七十三间。每一间的横槛上都有五彩的画，画着人物、花草、  风景，几千幅画没有哪两幅是相同的。长廊两旁栽满了花木，这一种花还没谢，那一种花又开了。微风从左边的昆明湖上吹来，使人神清气爽。\n走完长廊，就来到了万寿山脚下。抬头一看，一座八角宝塔形的三层建筑耸立在半山腰上，黄色的琉璃瓦闪闪发光。那就是佛香阁。下面的一排排金碧辉煌的宫殿，就是排云殿。\n登上万寿山，站在佛香阁的前面向下望，颐和园的景色大半收在眼底。葱郁的树丛，掩映着黄的绿的琉璃瓦屋顶和朱红的宫墙。正前面，昆明湖静得像一面镜子，绿得像一块碧玉。游船、画舫在湖面慢慢地滑过，几乎不留一点儿痕迹。向东远眺，隐隐约约可以望见几座古老的城楼和城里的白塔。\n从万寿山下来，就是昆明湖。昆明湖围着长长的堤岸，堤上有好几座式样不同的石桥，两岸栽着数不清的倒垂的杨柳。湖中心有个小岛，远远望去，岛上一片葱绿，树丛中露出宫殿的一角。游人走过长长的石桥，就可以去小岛上玩。这座石桥有十七个桥洞，叫十七孔桥。桥栏杆上有上百根石柱，柱子上都雕刻着小狮子。这么多的狮子，姿态不一，没有哪两只是相同的。\n颐和园到处有美丽的景色，说也说不尽，希望你有机会去细细游赏。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/d83ec5f435671703158356513421443/d83ec5f435671703158356513421443.m3u8?auth=38e2a8c2d440b815bd093393723e8d71",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535633.html",
-    "grade": "3",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-2.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -2982,10 +2734,9 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "康辉",
     "content": "独坐敬亭山\n[唐]李白\n众鸟高飞尽，\n孤云独去闲。\n相看两不厌，\n只有敬亭山。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/dee0fe5f2e3881703159285118580256/dee0fe5f2e3881703159285118580256.m3u8?auth=af038744da8fe378404d070be065f5a0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535623.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-4.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "⛰️"
   },
   {
@@ -2994,11 +2745,10 @@ const articlesData =
     "author": "吴佳怡",
     "reader": "潘涛",
     "content": "钱学森是我国杰出的科学家。他早年留学美国，以优异的成绩获得了博士学位，成为航空工程和空气动力学专家。他在火箭研究方面取得了很大进展，被美国麻省理工学院聘为终身教授。在美国，金钱、地位、名誉，他都有了。\n但是，一听到中华人民共和国成立的消息，钱学森便立即决定放弃美国的一切，回国工作，为建设祖国贡献自己的全部力量。\n1950年，钱学森辞去工作，办好了回国手续，买好了回国的飞机票，把行李交给打包公司打包。然而，就在这时，他接到美国移民局的通知：不准离开美国！他被迫退掉飞机票。美国海关把他的行李打开检查，硬说里面藏着重要机密，说钱学森是间谍。其实，他的行李里面装的只是准备带回国的教科书和笔记本。几天后，钱学森突然被捕，被关在一个海岛的拘留所里，受到无休止的折磨。每天晚上，看守人员每隔十分钟就来开一次灯，使他无法休息。半个月时间，他就消瘦了很多。\n美国当局对钱学森的迫害，引起了美国科学界的公愤。不少美国朋友出面营救钱学森。他们募捐一万五千美元，把钱学森从拘留所里保释出来。但是，美国联邦调查局并没有停止对他的迫害。他的行动受到限制，信件受到检查，电话受到监听。然而，钱学森没有屈服，他不断提出要求：我要离开美国，回到祖国去。\n他坚持斗争了五年。他的斗争得到了世界各国主持正义的人们的支持，更得到了中国政府和中国人民的亲切关怀。周恩来总理对钱学森十分关心，亲自过问他的情况，并指示参加中美两国大使级会晤的中国代表，在会晤中提出关于钱学森博士回国的问题。1955年，美国政府不得不同意钱学森回国。同年9月17日，钱学森登上了回国的轮船。10月8日，他含着幸福的泪花，终于回到了祖国的怀抱。\n――根据刘敬智的《钱学森――中国人的骄傲》相关内容改写",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/cd63052ac4cea1703159406957815298/cd63052ac4cea1703159406957815298.m3u8?auth=a7de59584321a1bab55747a3c63d12b5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526535622.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-24-2.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "🇨🇳"
   },
   {
     "lesson_number": "语文园地",
@@ -3006,11 +2756,10 @@ const articlesData =
     "author": "冯仪",
     "reader": "方亮",
     "content": "天行健，君子以自强不息。  ――《周易》\n胜人者有力，自胜者强。  ――《老子》\n不怨天，不尤人。  ――《论语》\n生于忧患而死于安乐。  ――《孟子》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/997550b7597851703146779086495251/997550b7597851703146779086495251.m3u8?auth=a083d30fca129bf937adc46d73fa7520",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534530.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-8.mp3",
+    "grade": "4",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -3018,23 +2767,21 @@ const articlesData =
     "author": "冯仪",
     "reader": "纪萌",
     "content": "少年不知勤学苦，老来方知读书迟。\n一日读书一日功，一日不读十日空。\n学习不怕根底浅，只要迈步总不迟。\n书山有路勤为径，学海无涯苦作舟。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/848d1853e2dd41703146275639644472/848d1853e2dd41703146275639644472.m3u8?auth=d4e12b7a9813b7694c60b1287e47ccaa",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231226/t20231226_526534528.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/4-2-99-7.mp3",
+    "grade": "4",
+    "semester": "2",
     "emoji": "📚"
   },
   {
-    "lesson_number": "第1课",
+    "lesson_number": "第 1 课",
     "title": "白鹭",
     "author": "秦立玲",
     "reader": "贾际",
     "content": "白鹭是一首精巧的诗。\n色素的配合，身段的大小，一切都很适宜。\n白鹤太大而嫌生硬，即使如粉红的朱鹭或灰色的苍鹭，也觉得大了一些，而且太不寻常了。\n然而白鹭却因为它的常见，而被人忘却了它的美。\n那雪白的蓑毛，那全身的流线型结构，那铁色的长喙，那青色的脚，增之一分则嫌长，减之一分则嫌短，素之一忽则嫌白，黛之一忽则嫌黑。\n在清水田里，时有一只两只白鹭站着钓鱼，整个的田便成了一幅嵌在玻璃框里的画面。田的大小好像是有心人为白鹭设计的镜匣。\n晴天的清晨，每每看见它孤独地站立于小树的绝顶，看来像是不安稳，而它却很悠然。这是别的鸟很难表现的一种嗜好。人们说它是在望哨，可它真是在望哨吗?\n黄昏的空中偶见白鹭的低飞，更是乡居生活中的一种恩惠。那是清澄的形象化，而且具有生命了。\n或许有人会感到美中不足，白鹭不会唱歌。但是白鹭本身不就是一首很优美的歌吗?\n――不，歌未免太铿锵了。\n白鹭实在是一首诗，一首韵在骨子里的散文诗。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1218/f9b3e1dfb88c6170289274588829057/f9b3e1dfb88c6170289274588829057.m3u8?auth=40546a61ef2f262852b36bbdd0292769",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534936.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-1-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "⚪"
   },
   {
     "lesson_number": "第6课",
@@ -3042,22 +2789,20 @@ const articlesData =
     "author": "秦立玲",
     "reader": "原杰",
     "content": "战国时，秦国很强大，常常进攻别的国家。\n有一回，赵王得了一件无价之宝，叫和氏璧。秦王知道了，就写了一封信给赵王，说是愿意拿十五座城换这块璧。\n赵王接到信后非常着急，立即召集大臣来商议。大家说秦王不过是想把和氏璧骗到手罢了，不能上他的当；可要是不答应，又怕他派兵来进攻。\n正在为难的时候，有人说有个叫蔺相如的人，勇敢机智，也许他能解决这个难题。\n赵王把蔺相如找来，问他该怎么办。\n蔺相如想了一会儿，说：“如果秦国提出用城换璧，我国却不答应，那理亏的是我们。如果我们把和氏璧给了秦国，秦国却不给我们十五座城，那理亏的就是他们。我愿意带着和氏璧到秦国去。如果秦王真的拿十五座城来换，我就把璧交给他；如果他不肯交出十五座城，我一定把璧完好无缺地送回来。”于是赵王就派蔺相如带着和氏璧去了秦国。\n蔺相如到了秦国，进宫见了秦王，献上和氏璧。秦王双手捧住璧，一边看一边称赞，绝口不提十五座城的事。蔺相如看这情形，知道秦王没有拿城换璧的诚意，就上前一步，说：“这块璧有点儿小毛病，让我指给您看。”秦王听他这么一说，就把和氏璧交给蔺相如。蔺相如捧着璧，往后退了几步，靠着柱子站定。他怒发冲冠，说：“我看您并不想交付十五座城。现在璧在我手里，您要是强逼我，我的脑袋就和璧一起撞碎在这柱子上！”说着，他举起和氏璧就要向柱子上撞。秦王怕他真的把璧撞碎了，连忙说一切都好商量，就叫人拿出地图，把允诺划归赵国的十五座城指给他看。蔺相如说和氏璧是无价之宝，要举行个隆重的典礼，他才能交出来。秦王只好跟他约定了举行典礼的日期。\n蔺相如反复思量，觉得秦王还是不会信守承诺的，一到客舍，就叫手下人化了装，带着和氏璧抄小路先回赵国去了。到了举行典礼那一天，蔺相如进宫见了秦王，说：“秦国的国君历来不守信用，我怕有负赵王所托，已经让人把和氏璧送回赵国了。如果您有诚意，先把十五座城交给我国，我国马上派人把璧送来。我们怎么敢为了一块璧而得罪强大的秦国呢？我知道欺骗了您是死罪，您可以杀了我，但请好好考虑我的话。”秦王没有办法，只得客客气气地把蔺相如送回了赵国。\n这就是“完璧归赵”的故事。蔺相如立了功，赵王封他做上大夫。\n过了几年，秦王约赵王在渑池会面。赵王胆怯，不敢去。但蔺相如和大将军廉颇认为对秦王不能示弱，还是去的好，赵王才决定动身，让蔺相如随行。廉颇带着军队送他们到边境上，作好了抵御秦军的准备。\n赵王到渑池与秦王会面。秦王要赵王鼓瑟。赵王不好推辞，鼓了一段。秦王就叫人记录下来，说在渑池会上，秦王令赵王鼓瑟。\n蔺相如看秦王存心侮辱赵王，便向前走了几步，说：“赵王听说秦王擅长秦国的音乐，希望您能击缶助兴。”秦王很生气，拒绝了。蔺相如再次上前要求，秦王还是拒绝。蔺相如说：“您现在离我只有五步远。如果您不答应，我就跟您同归于尽！”秦王左右的卫士想杀了蔺相如，但蔺相如怒目圆睁，厉声呵斥，卫士竟不敢上前。秦王被逼得没办法，只好敲了一下缶。蔺相如也叫人记录下来，说在渑池会上，秦王为赵王击缶。\n秦国的大臣不甘心，继续发难，但蔺相如毫不示弱，直到会面结束，秦王也没占到便宜。秦王知道廉颇已经在边境上作好了准备，不敢拿赵王怎么样，只好让赵王回去。\n蔺相如在渑池会上又立了功。赵王封蔺相如为上卿，职位比廉颇还高。\n廉颇很不服气，他对别人说：“我廉颇立下了那么多战功，他蔺相如就靠一张嘴，反而爬到我头上去了。要是我碰见他，一定要让他下不来台！”蔺相如听说了，就请病假不上朝，免得跟廉颇见面。\n有一天，蔺相如坐车出去，远远看见廉颇过来了，他赶紧叫车夫把车往回赶。蔺相如的门客们可看不顺眼了，对蔺相如说：“您见了廉颇像老鼠见了猫似的，为什么要怕他呢？”蔺相如说：“诸位请想一想，廉将军和秦王比，谁厉害？”门客们说：“当然是秦王厉害！”蔺相如说：“秦王我都不怕，还会怕廉将军吗？秦王之所以不敢进攻我们赵国，就是因为有我们两个人在。如果我们俩闹不和，就会削弱赵国的力量，秦国必然乘机来攻打我们。我之所以避着廉将军，为的是我们赵国啊！”\n蔺相如的话传到了廉颇的耳朵里。廉颇静下心来想了想，觉得自己为了争一口气，就不顾国家利益，真不应该。于是，他脱下战袍，背上绑着荆条，到蔺相如门上请罪。蔺相如见廉颇来请罪，连忙出来迎接。从此以后，他们俩成了好朋友，同心协力保卫赵国。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/139ebe8593a831702971026914565301/139ebe8593a831702971026914565301.m3u8?auth=f12d076cada66011377eb75ca016f8b9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534924.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-6-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第12课",
+    "lesson_number": "课外古诗词诵读",
     "title": "示儿",
     "author": "秦立玲",
     "reader": "常亮",
     "content": "示  儿\n[宋]  陆游\n死去元知万事空，\n但悲不见九州同。\n王师北定中原日，\n家祭无忘告乃翁。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/e26df2e587691170304270120249068/e26df2e587691170304270120249068.m3u8?auth=2c37c47a3f78ef6e87b64842f0dd051f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534910.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-12-2.mp3",
+    "grade": "5",
+    "semester": "1",
     "emoji": "📖"
   },
   {
@@ -3066,11 +2811,10 @@ const articlesData =
     "author": "秦立玲",
     "reader": "常亮",
     "content": "题临安邸\n[宋]  林升\n山外青山楼外楼，\n西湖歌舞几时休？\n暖风熏得游人醉，\n直把杭州作汴州。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/cc6da3c85555a1703230478146688313/cc6da3c85555a1703230478146688313.m3u8?auth=ce4c683bacb1161e8b65957480a06566",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534908.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-12-3.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第12课",
@@ -3078,10 +2822,9 @@ const articlesData =
     "author": "秦立玲",
     "reader": "常亮",
     "content": "己亥杂诗\n[清]  龚自珍\n九州生气恃风雷，\n万马齐喑究可哀。\n我劝天公重抖擞，\n不拘一格降人材。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/2a542c7aff81703230607509659656/2a542c7aff81703230607509659656.m3u8?auth=04c6a8df6ce9cdad5645d73e988060b7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534905.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-12-1.mp3",
+    "grade": "5",
+    "semester": "1",
     "emoji": "📜"
   },
   {
@@ -3090,11 +2833,10 @@ const articlesData =
     "author": "秦立玲",
     "reader": "阿杰",
     "content": "故今日之责任，不在他人，而全在我少年。少年智则国智，少年富则国富，少年强则国强，少年独立则国独立，少年自由则国自由，少年进步则国进步，少年胜于欧洲则国胜于欧洲，少年雄于地球则国雄于地球。\n红日初升，其道大光。河出伏流，一泻汪洋。潜龙腾渊，鳞爪飞扬。乳虎啸谷，百兽震惶。鹰隼试翼，风尘翕张。奇花初胎，����皇皇。干将发硎，有作其芒。天戴其苍，地履其黄。纵有千古，横有八荒。前途似海，来日方长。\n美哉，我少年中国，与天不老！壮哉，我中国少年，与国无疆！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7aa69eafef2071703043062390616333/7aa69eafef2071703043062390616333.m3u8?auth=5839c591ba954ec8da2f49c4172126d9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534901.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-13-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "💬"
+    "emoji": "🇨🇳"
   },
   {
     "lesson_number": "第16课",
@@ -3102,10 +2844,9 @@ const articlesData =
     "author": "秦立玲",
     "reader": "方亮",
     "content": "有这么一个传说，古时候，天上有十个太阳，晒得地面寸草不生。人们热得受不了，就找一个箭法很好的人射掉九个，只留下一个，地面上才不那么热了。其实，太阳离我们约有一亿五千万千米远。到太阳上去，如果步行，日夜不停地走，差不多要走三千五百年；就是坐飞机，也要飞二十几年。这么远，箭哪能射得到呢？\n我们看到太阳，觉得它并不大，实际上它大得很，约一百三十万个地球的体积才能抵得上一个太阳。因为太阳离地球太远了，所以看上去只有一个盘子那么大。\n太阳会发光，会发热，是个大火球。太阳的温度很高，表面温度有五千多摄氏度，就是钢铁碰到它，也会变成气体。\n太阳虽然离我们很远很远，但是它和我们的关系非常密切。有了太阳，地球上的庄稼和树木才能发芽、长叶、开花、结果；鸟、兽、虫、鱼才能生存、繁殖。如果没有太阳，地球上就不会有植物，也不会有动物。我们吃的粮食、蔬菜、水果、肉类，穿的棉、麻、毛、丝，都和太阳有密切的关系。埋在地下的煤炭，看起来好像跟太阳没有关系，其实离开太阳也不能形成，因为煤炭是由远古时代的植物埋在地层底下变成的。\n地面上的水被太阳晒着的时候，吸收了热，变成了水蒸气。空气上升时，温度下降，其中的水蒸气凝成了无数的小水滴，飘浮在空中，变成云。云层里的小水滴越聚越多，就变成雨或雪落下来。\n太阳晒着地面，有些地区吸收的热量多，那里的空气就比较热；有些地区吸收的热量少，那里的空气就比较冷。空气有冷有热，才能流动，成为风。\n太阳光有杀菌的作用，我们可以利用它来预防和治疗疾病。\n地球上的光明和温暖都是太阳送来的。如果没有太阳，地球上将到处是黑暗，到处是寒冷，没有风、雪、雨、露，没有草、木、鸟、兽，自然也不会有人。一句话，没有太阳，就没有我们这个美丽可爱的世界。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/9626309fea29a170306487610747814/9626309fea29a170306487610747814.m3u8?auth=bbe927e2d3499e0b59e7bcfb4ca1efaa",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534887.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-16-1.mp3",
+    "grade": "5",
+    "semester": "1",
     "emoji": "☀️"
   },
   {
@@ -3114,11 +2855,10 @@ const articlesData =
     "author": "秦立玲",
     "reader": "彭坤",
     "content": "松鼠是一种漂亮的小动物，乖巧，驯良，很讨人喜欢。它们面容清秀，眼睛闪闪发光，身体矫健，四肢轻快。玲珑的小面孔，衬上一条帽缨形的美丽尾巴，显得格外漂亮。它们的尾巴老是翘起来，一直翘到头上，自己就躲在尾巴底下歇凉。它们常常直竖着身子坐着，像人们用手一样，用前爪往嘴里送东西吃。可以说，松鼠最不像四足兽了。\n松鼠不躲藏在地底下，经常在高处活动，像飞鸟一样住在树顶上，满树林里跑，从这棵树跳到那棵树。它们在树上做窝，摘果实，喝露水。只有树被风刮得太厉害了，才到地上来。在平原地区是很少看到松鼠的。它们不接近人的住宅，也不待在小树丛里，只喜欢住在高大的老树上。在清朗的夏夜，可以听到松鼠在树上跳着叫着，互相追逐。它们好像很怕强烈的日光，白天躲在窝里歇凉，晚上出来奔跑，玩耍，吃东西。\n松鼠不像山鼠那样一到冬天就蛰伏不动。它们是十分警觉的，只要有人触动一下松鼠所在的大树，它们就从树上的窝里跑出来躲到树枝底下，或者逃到别的树上去。松鼠轻快极了，总是小跳着前进，有时也连蹦带跑。它们的爪子是那样锐利，动作是那样敏捷，一棵很光滑的高树，一忽儿就爬上去了。松鼠在秋天拾榛子，塞到老树空心的缝隙里，塞得满满的，留到冬天吃。在冬天，它们也常用爪子把雪扒开，在雪下面找榛子。\n松鼠的窝通常搭在树枝分杈的地方，又干净又暖和。它们搭窝的时候，先搬些小木片，错杂着放在一起，再用一些干苔藓编扎起来，然后把苔藓挤紧，踏平，使那建筑物足够宽敞、足够坚实。这样，它们可以带着儿女住在里面，既舒适又安全。窝口朝上，端端正正，很狭窄，勉强可以进出。窝口有一个圆锥形的盖，把整个窝遮蔽起来，下雨时雨水向四周流去，不会落在窝里。\n松鼠通常一胎生三四个。小松鼠的毛是灰褐色的，过了冬就换毛，新换的毛比脱落的毛颜色深些。它们用爪子和牙齿梳理全身的毛，身上总是光光溜溜、干干净净的。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7aa02b0328ba21703067429258942255/7aa02b0328ba21703067429258942255.m3u8?auth=00df844f1347172c08669598c2fe62f5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534885.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-17-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "🐭"
+    "emoji": "🐿️"
   },
   {
     "lesson_number": "第20课",
@@ -3126,11 +2866,10 @@ const articlesData =
     "author": "秦立玲",
     "reader": "智鹏",
     "content": "记得八九岁的时候，我写了第一首诗。母亲一念完那首诗，眼睛亮亮的，兴奋地嚷着：“巴迪，真是你写的吗？多美的诗啊！精彩极了！”她搂住了我，赞扬声雨点般落到我身上。我既腼腆又得意扬扬，点头告诉她这首诗确实是我写的。她高兴得再次拥抱了我。\n“妈妈，爸爸下午什么时候回来？”我红着脸问。我有点儿迫不及待，想立刻让父亲看看我写的诗。“他晚上七点钟回来。”母亲摸着我的脑袋，笑着说。\n整个下午我都怀着一种自豪感等待父亲回来。我用最漂亮的花体字把诗认认真真地重新誊写了一遍，还用彩色笔在它的周围描上一圈花边。将近七点钟的时候，我悄悄走进饭厅，满怀信心地把它放在餐桌父亲的位置上。\n七点。七点一刻。七点半。父亲还没有回来。我实在等不及了。我敬仰我的父亲，他是一家电影公司的重要人物，写过好多剧本。他一定会比母亲更加赞赏我这首精彩的诗。\n快到八点钟时，父亲终于推门而入。他进了饭厅，目光被餐桌上的那首诗吸引住了。我紧张极了。\n“这是什么？”他伸手拿起了我的诗。\n“亲爱的，发生了一件奇妙的事。巴迪写了一首诗，精彩极了……”母亲上前说道。\n“对不起，我自己会判断的。”父亲开始读诗。\n我把头埋得低低的。诗只有十行，可我觉得他读了几个小时。\n“我看这首诗糟糕透了。”父亲把诗扔回原处。\n我的眼睛湿润了，头也沉重得抬不起来。\n“亲爱的，我真不懂你是什么意思！”母亲嚷道，“这不是在你的公司里。巴迪还是个孩子，这是他写的第一首诗，他需要鼓励。”\n“我不明白，”父亲并不退让，“难道世界上糟糕的诗还不够多吗？”\n我再也受不了了。我冲出饭厅，跑进自己的房间，扑到床上失声痛哭起来。饭厅里，父母还在为那首诗争吵着。\n几年后，当我再拿起那首诗，不得不承认父亲是对的，那的确是一首相当糟糕的诗。不过母亲还是一如既往地鼓励我，因此我还一直在写作。有一次，我鼓起勇气给父亲看了一篇我新写的短篇小说。“写得不怎么样，但也不是毫无希望。”根据父亲的批语，我学着进行修改，那时我还未满十二岁。\n现在我已经有了很多作品，出版了一部部小说、戏剧和电影剧本。我越来越体会到我当初是多么幸运。我有个慈祥的母亲，她常常对我说：“巴迪，这是你写的吗？精彩极了！”我还有个严厉的父亲，他总是皱着眉头，说：“这个糟糕透了。”一个作家，应该说生活中的每一个人，都需要来自母亲的力量，这种爱的力量是灵感和创作的源泉。但是仅有这个是不全面的，它可能会把人引入歧途，所以还需要警告的力量来平衡，需要有人时常提醒你：“小心，注意，总结，提高。”\n这些年来，我少年时代听到的这两种声音一直交织在我的耳际。“精彩极了！”“糟糕透了！”“精彩极了！”“糟糕透了！”……它们像两股风不断地向我吹来。我谨慎地把握住我生活的小船，使它不被哪一股风刮倒。我从心底里知道，“精彩极了”也好，“糟糕透了”也好，这两个极端的断言有一个共同的出发点――那就是爱。在爱的鼓舞下，我努力地向前驶去。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/1532c119923d41703126512419675680/1532c119923d41703126512419675680.m3u8?auth=d7666e8f9fa67e35f5259723bb94e655",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534872.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-20-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第21课",
@@ -3138,10 +2877,9 @@ const articlesData =
     "author": "秦立玲",
     "reader": "肖玉",
     "content": "山居秋暝\n[唐]  王维\n空山新雨后，天气晚来秋。\n明月松间照，清泉石上流。\n竹喧归浣女，莲动下渔舟。\n随意春芳歇，王孙自可留。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/0c0084dc959381703128708764796130/0c0084dc959381703128708764796130.m3u8?auth=6f5053a84888ea476aab36a4f689d1f4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534868.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-21-2.mp3",
+    "grade": "5",
+    "semester": "1",
     "emoji": "🍂"
   },
   {
@@ -3150,10 +2888,9 @@ const articlesData =
     "author": "秦立玲",
     "reader": "肖玉",
     "content": "枫桥夜泊\n[唐]  张继\n月落乌啼霜满天，\n江枫渔火对愁眠。\n姑苏城外寒山寺，\n夜半钟声到客船。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/2ce6d61d82c3f1703229926297150719/2ce6d61d82c3f1703229926297150719.m3u8?auth=86c0e3682e88955fd647167706bf4609",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534863.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-21-1.mp3",
+    "grade": "5",
+    "semester": "1",
     "emoji": "🌉"
   },
   {
@@ -3162,23 +2899,21 @@ const articlesData =
     "author": "秦立玲",
     "reader": "肖玉",
     "content": "长相思\n[清]  纳兰性德\n山一程，水一程，身向榆关那畔行，夜深千帐灯。\n风一更，雪一更，聒碎乡心梦不成，故园无此声。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/50cccbc10182b1703230029642746447/50cccbc10182b1703230029642746447.m3u8?auth=43ba94f9f6f2369f0483c089d88ed4ec",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534859.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-21-3.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第22课",
+    "lesson_number": "第15课",
     "title": "四季之美",
     "author": "秦立玲",
     "reader": "冬艳",
     "content": "春天最美是黎明。东方一点儿一点儿泛着鱼肚色的天空，染上微微的红晕，飘着红紫红紫的彩云。\n夏天最美是夜晚。明亮的月夜固然美，漆黑漆黑的暗夜，也有无数的萤火虫翩翩飞舞。即使是蒙蒙细雨的夜晚，也有一只两只萤火虫，闪着朦胧的微光在飞行，这情景着实迷人。\n秋天最美是黄昏。夕阳斜照西山时，动人的是点点归鸦急急匆匆地朝窠里飞去。成群结队的大雁，在高空中比翼而飞，更是叫人感动。夕阳西沉，夜幕降临，那风声、虫鸣，听起来也愈发叫人心旷神怡。\n冬天最美是早晨。落雪的早晨当然美，就是在遍地铺满白霜的早晨，或是在无雪无霜的凛冽的清晨，也要生起熊熊的炭火。手捧着暖和的火盆穿过走廊时，那闲逸的心情和这寒冷的冬晨多么和谐啊！只是到了中午，寒气渐退，火盆里的火炭，大多变成了一堆白灰，这未免令人有点儿扫兴。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/efbeadcd673471703129248817284520/efbeadcd673471703129248817284520.m3u8?auth=92e9a97342fc1bed2aa62f36cffabaf0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534854.html",
-    "grade": "4",
-    "semester": "2",
-    "emoji": "4️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-22-1.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "🌺"
   },
   {
     "lesson_number": "第23课",
@@ -3186,21 +2921,19 @@ const articlesData =
     "author": "秦立玲",
     "reader": "肖玉",
     "content": "我们吃过晚饭，热气已经退了。太阳落下了山坡，只留下一段灿烂的红霞在天边。\n我们走过一段石子路，很快就到了河边。在河边大树下，我们发现了几只小船。\n我们陆续跳上一只船。一个朋友解开了绳，拿起竹竿一拨，船缓缓地动了，向河中心移去。\n河面很宽，白茫茫的水上没有一点儿波浪。船平静地在水面移动。三支桨有规律地在水里划，那声音就像一支乐曲。\n在一个地方，河面变窄了。一簇簇树叶伸到水面上。树叶真绿得可爱。那是许多株茂盛的榕树，看不出主干在什么地方。\n当我说许多株榕树的时候，朋友们马上纠正我的错误。一个朋友说那里只有一株榕树，另一个朋友说是两株。我见过不少榕树，这样大的还是第一次看见。\n我们的船渐渐逼近榕树了。我有机会看清它的真面目，真是一株大树，枝干的数目不可计数。枝上又生根，有许多根直垂到地上，伸进泥土里。一部分树枝垂到水面，从远处看，就像一株大树卧在水面上。\n榕树正值茂盛的时期，好像在把它的全部生命力展示给我们看。那么多的绿叶，一簇堆在另一簇上面，不留一点儿缝隙。那翠绿的颜色，明亮地照耀着我们的眼睛，似乎每一片绿叶上都有一个新的生命在颤动。这美丽的南国的树！\n船在树下泊了片刻。岸上很湿，我们没有上去。朋友说这里是“鸟的天堂”，有许多鸟在这树上做巢，农民不许人去捉它们。我仿佛听见几只鸟扑翅的声音，等我注意去看，却不见一只鸟的影子。只有无数的树根立在地上，像许多根木桩。土地是湿的，大概涨潮的时候河水会冲上岸去。“鸟的天堂”里没有一只鸟，我不禁这样想。于是船开了，一个朋友拨着桨，船缓缓地移向河中心。\n第二天，我们划着船到一个朋友的家乡去。那是个有山有塔的地方。从学校出发，我们又经过那“鸟的天堂”。\n这一次是在早晨。阳光照耀在水面，在树梢，一切都显得更加光明了。我们又把船在树下泊了片刻。\n起初周围是静寂的。后来忽然起了一声鸟叫。我们把手一拍，便看见一只大鸟飞了起来。接着又看见第二只，第三只。我们继续拍掌，树上就变得热闹了，到处都是鸟声，到处都是鸟影。大的，小的，花的，黑的，有的站在树枝上叫，有的飞起来，有的在扑翅膀。\n我注意地看着，眼睛应接不暇，看清楚了这只，又错过了那只，看见了那只，另一只又飞起来了。一只画眉飞了出来，被我们的掌声一吓，又飞进了叶丛，站在一根小枝上兴奋地叫着，那歌声真好听。\n当小船向着高塔下面的乡村划去的时候，我回头看那被抛在后面的茂盛的榕树。我感到一点儿留恋。昨天是我的眼睛骗了我，那“鸟的天堂”的确是鸟的天堂啊！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/772aae58478a1703129576057760927/772aae58478a1703129576057760927.m3u8?auth=4b404fbca357891560bf3d0e04e9d2ee",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534848.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-23-2.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "🌤️"
+    "emoji": "🐦"
   },
   {
     "lesson_number": "语文园地",
     "title": "蝉",
     "author": "袁帅",
     "reader": "肖玉",
-    "content": "蝉\n[  唐  ]  虞世南\n垂�q饮清露，\n流响出疏桐。\n居高声自远，\n非是藉秋风。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d1126d25e64551702971968424248153/d1126d25e64551702971968424248153.m3u8?auth=1c1aa9439eb34a5e82cc403efa35c232",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231227/t20231227_526536435.html",
-    "grade": "1",
+    "content": "蝉\n[  唐  ]  虞世南\n垂緌饮清露，\n流响出疏桐。\n居高声自远，\n非是藉秋风。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-4.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "📖"
   },
@@ -3210,20 +2943,18 @@ const articlesData =
     "author": "袁帅",
     "reader": "雷鹏",
     "content": "不饱食以终日，不弃功于寸阴。――葛洪\n盛年不重来，一日难再晨。及时当勉励，岁月不待人。――陶渊明\n莫等闲，白了少年头，空悲切。――岳飞\n多少事，从来急；天地转，光阴迫。―万年太久，只争朝夕。――毛泽东",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/bc6c2319988a41702972260675886466/bc6c2319988a41702972260675886466.m3u8?auth=ff1099c5b2dad57008da03edfb1c96af",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534650.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-3.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "资料袋",
+    "lesson_number": "第11课",
     "title": "关于牛郎织女",
     "author": "袁帅",
     "reader": "赵宇昕",
     "content": "分布在银河两侧的牵牛星和织女星，看起来是一“水”之隔，其实距离十分遥远。人们根据它们的名字，创作出《牛郎织女》这个充满传奇色彩的民间故事。很多诗人借牛郎织女的动人故事创作诗歌，表达情思，如林杰的《乞巧》、秦观的《鹊桥仙》。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/8324b88a6a50f1702972668425286575/8324b88a6a50f1702972668425286575.m3u8?auth=4d9740cb244fee92d567b728aecc2eab",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534653.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-11-1.mp3",
     "grade": "5",
     "semester": "1",
     "emoji": "🐄"
@@ -3234,35 +2965,32 @@ const articlesData =
     "author": "袁帅",
     "reader": "满超",
     "content": "乞巧\n[  唐  ]  林  杰\n七夕今宵看碧霄，\n牵牛织女渡河桥。\n家家乞巧望秋月，\n穿尽红丝几万条。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/486320a82ae861702972870398436804/486320a82ae861702972870398436804.m3u8?auth=e5bc335df3a6e03397318f4f1b5d03d0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534654.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-7.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "📖"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第14课",
     "title": "七子之歌（节选）",
     "author": "袁帅",
     "reader": "雅坤",
     "content": "七子之歌（节选）\n闻一多\n澳门\n你可知“妈港”不是我的真名姓？\n我离开你的襁褓太久了，母亲！\n但是他们掳去的是我的肉体，\n你依然保管着我内心的灵魂。\n三百年来梦寐不忘的生母啊！\n请叫儿的乳名，叫我一声“澳门”！\n母亲！我要回来，母亲！\n香港\n我好比凤阙阶前守夜的黄豹，\n母亲啊，我身份虽微，地位险要。\n如今狞恶的海狮扑在我身上，\n啖着我的骨肉，咽着我的脂膏；\n母亲啊，我哭泣号啕，呼你不应。\n母亲啊，快让我躲入你的怀抱！\n母亲！我要回来，母亲！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/9b61d819e98461702973627292327163/9b61d819e98461702973627292327163.m3u8?auth=24758154760d894d6adc42abf23d2ad2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534657.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "7️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-14-2.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "📄"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第14课",
     "title": "和平宣言（节选）",
     "author": "袁帅",
     "reader": "陆洋",
     "content": "和平宣言（节选）\n冯亦同\n巍巍金陵，滔滔大江，\n钟山花雨，千秋芬芳。\n一九三七，祸从天降，\n一二一三，古城沦丧。\n侵华倭寇，掳掠烧杀，\n尸横遍野，血染长江。\n三十余万，生灵涂炭，\n炼狱六周，哀哉国殇。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/353dcde580d281702974061057523723/353dcde580d281702974061057523723.m3u8?auth=9dcdf02bd24509490aa4bfc132c24b74",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534659.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-14-1.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "☮️"
   },
   {
     "lesson_number": "语文园地",
@@ -3270,11 +2998,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "黎江",
     "content": "太平盛世          国泰民安          丰衣足食          安居乐业\n政通人和          人寿年丰          夜不闭户          路不拾遗\n多事之秋          兵荒马乱          流离失所          生灵涂炭\n家破人亡          哀鸿遍野          民不聊生          内忧外患",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/37bbb8dd006f51702974379368933029/37bbb8dd006f51702974379368933029.m3u8?auth=da6a8e7cdfb816c8a754e5ae6e7c8ae3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534660.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-8.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "习作例文",
@@ -3282,9 +3009,8 @@ const articlesData =
     "author": "袁帅",
     "reader": "智鹏",
     "content": "不少人看到过象，都说象是很大的动物。其实还有比象大得多的动物，那就是鲸。目前已知最大的鲸约有一百六十吨重。我国发现过一头近四十吨重的鲸，约十八米长，一条舌头就有十几头大肥猪那么重。它要是张开嘴，人站在它嘴里，举起手来还摸不到它的上腭，四个人围着桌子坐在它的嘴里看书，还显得很宽敞。\n鲸生活在海洋里，因为体形像鱼，许多人管它叫鲸鱼。其实它不属于鱼类，而是哺乳动物。在很远的古代，鲸的祖先跟牛羊的祖先一样，生活在陆地上。后来环境发生了变化，鲸的祖先生活在靠近陆地的浅海里。又经过了很长很长的时间，它们的前肢和尾巴渐渐变成了鳍，后肢完全退化了，整个身子成了鱼的样子，适应了海洋的生活。\n鲸的种类很多，总的来说可以分为两大类：一类是须鲸，没有牙齿；一类是齿鲸，有锋利的牙齿。\n鲸吃什么呢？须鲸主要吃虾和小鱼。它们在海洋里游的时候，张着大嘴，把许多小鱼小虾连同海水一齐吸进嘴里，然后闭上嘴，把海水从须板中间滤出来，把小鱼小虾吞进肚子里，有的一顿就可以吃两吨多。齿鲸主要以乌贼、鱼类为食，有的还能捕食大鱼和海兽。它们遇到大鱼和海兽，就凶猛地扑上去，用锋利的牙齿撕咬，很快就吃掉了。有一种号称“海中之虎”的虎鲸，常常好几十头结成一群，围住一头三十多吨重的长须鲸，几个小时就能把它吃光。\n鲸跟牛羊一样用肺呼吸，这也说明它不属于鱼类。鲸的鼻孔长在脑袋顶上，呼气的时候浮出海面，从鼻孔喷出来的气形成一股水柱，就像花园里的喷泉一样；等肺里吸足了气，再潜入水中。鲸每隔一段时间必须呼吸一次。不同种类的鲸喷出的气形成的水柱也不一样：须鲸的水柱是垂直的，又细又高；齿鲸的水柱是倾斜的，又粗又矮。有经验的人根据水柱的形状，就能判断出鲸的种类和大小。\n鲸每天都要睡觉，睡觉的时候，总是几头聚在一起。它们通常会找一个比较安全的地方，头朝里，尾巴向外，围成一圈，静静地浮在海面上。如果听到什么声响，它们立即四散游开。\n鲸是胎生的，幼鲸靠吃母鲸的奶长大，这些特征也说明鲸是哺乳动物。长须鲸刚生下来就有六米多长，一两吨重，两三年就可以长成大鲸。鲸的寿命很长，一般可以活几十年，有的甚至能活近一百年。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/28855d0774fca1702975250669952524/28855d0774fca1702975250669952524.m3u8?auth=9d43d0bdbd79a484d89c712a29b3ac42",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534661.html",
-    "grade": "3",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-2.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "📖"
   },
@@ -3293,37 +3019,34 @@ const articlesData =
     "title": "《风向袋的制作》",
     "author": "",
     "reader": "陈亮",
-    "content": "",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534662.html",
+    "content": "风无影无形，我们怎样才能知道它是从哪个方向吹来的呢？可以借助一些容易随风飘动的物体，比如风向袋，根据它飘动的方向判断风向。\n\n制作风向袋可以分为下面几个步骤：\n\n第一，准备竹竿、细铁丝、粗铁丝、尖嘴钳、尼龙纱巾或其他较轻的纺织品、塑料绳、针线等材料和工具。\n\n第二，缝制口袋。用尼龙纱巾缝一个圆锥形口袋，袋口直径约10厘米，袋长40～50厘米。用细铁丝做一个和袋口一样大小的圆圈，用针线把细铁丝固定在袋口处，把袋口撑开。\n\n第三，剪下4根长约10厘米的塑料绳，在袋口边缘分别扎4个小洞。将4根塑料绳的一头分别穿过4个小洞，绑在铁丝圈上，另一头绑在一起，打一个结实的绳结。\n\n第四，拿一根细铁丝，在离竹竿顶端10厘米处缠2～3圈，不要缠太紧，做一个可以在竹竿上自由滑动的细铁丝圈。离细铁丝圈上下各1～2厘米处，用尖嘴钳把粗铁丝在竹竿上紧紧缠绕3～4圈，这样细铁丝圈就只能在缠紧的粗铁丝圈之间上下滑动。再剪下一根15厘米长的塑料绳，一头绑在之前打好的绳结上，另一头绑在竹竿的细铁丝圈上，把口袋系在竹竿上。\n\n将竹竿固定在空旷的场地上，在观察前确认东西南北的准确方位。当风向袋随风飘动时，观察它飘动的方向。风向袋飘动的反方向就是风向。",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-1.mp3",
     "error": "502 Bad Gateway",
-    "grade": "3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "💨"
+    "emoji": "🌀"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第17课",
     "title": "筑渝道上（节选）",
     "author": "袁帅",
     "reader": "肖玉",
     "content": "一片土，一棵树，一块田……它们使我的眼睛舒畅，使我的呼吸畅快，使我的心灵舒展。我爱这春回大地的景象，我爱一切从土里来的东西，因为我是从土里来的，也要回到地里去。\n生命，无处不是生命。\n――选自巴金的《筑渝道上》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/e5088375f85f81703056438250890286/e5088375f85f81703056438250890286.m3u8?auth=982da80f84ba0ef3200234bedb4af80f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534664.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-23-2.mp3",
+    "grade": "5",
+    "semester": "1",
+    "emoji": "📄"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第20课",
     "title": "渔歌子",
     "author": "袁帅",
     "reader": "付淳",
     "content": "渔歌子\n[  唐  ]  张志和\n西塞山前白鹭飞，\n桃花流水鳜鱼肥。\n青箬笠，绿蓑衣，\n斜风细雨不须归。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/d5870cea3f1ab1703056836675672941/d5870cea3f1ab1703056836675672941.m3u8?auth=65795e7338bbf4ccccaad98e0705846c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534666.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-24-1.mp3",
+    "grade": "5",
     "semester": "1",
-    "emoji": "🎤"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -3331,9 +3054,8 @@ const articlesData =
     "author": "袁帅",
     "reader": "黎江",
     "content": "观书有感\n其一\n[  宋  ]  朱熹\n半亩方塘一鉴开，\n天光云影共徘徊。\n问渠那得清如许？\n为有源头活水来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/1a3640021d0d51703057029651615739/1a3640021d0d51703057029651615739.m3u8?auth=8aee94009215865d9ed0fa31e3e96a15",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534667.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-6.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "📖"
   },
@@ -3343,9 +3065,8 @@ const articlesData =
     "author": "袁帅",
     "reader": "黎江",
     "content": "观书有感\n其二\n[  宋  ]  朱熹\n昨夜江边春水生，\n蒙冲巨舰一毛轻。\n向来枉费推移力，\n此日中流自在行。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/753e3df143e821703057130872186147/753e3df143e821703057130872186147.m3u8?auth=10386ad994059fc82327653fb230136e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjsc/20231226/t20231226_526534669.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-1-99-5.mp3",
+    "grade": "5",
     "semester": "1",
     "emoji": "📖"
   },
@@ -3355,11 +3076,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "常亮",
     "content": "四时田园杂兴（其三十一）\n[宋]范成大\n昼出耘田夜绩麻，\n村庄儿女各当家。\n童孙未解供耕织，\n也傍桑阴学种瓜。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/99927520fd6e1703147000529227665/99927520fd6e1703147000529227665.m3u8?auth=d7136be769a7097346d6b7741ce55d72",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531537.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "1️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-1-2.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -3367,11 +3087,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "任志宏",
     "content": "稚子弄冰\n[宋]杨万里\n稚子金盆脱晓冰，\n彩丝穿取当银钲。\n敲成玉磬穿林响，\n忽作玻璃碎地声。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7c290f9dd3aec1703147068960594899/7c290f9dd3aec1703147068960594899.m3u8?auth=09d80cd51a017b17ae096f3381c19e5a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531535.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-1-3.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -3379,10 +3098,9 @@ const articlesData =
     "author": "吴海波",
     "reader": "常亮",
     "content": "村晚\n[宋]雷震\n草满池塘水满陂，\n山衔落日浸寒漪。\n牧童归去横牛背，\n短笛无腔信口吹。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/9ddac4f0461c2170314763906862666/9ddac4f0461c2170314763906862666.m3u8?auth=cd32acfa50be3b775f94c9334eb1f537",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531533.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-1-1.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -3391,11 +3109,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "肖玉",
     "content": "我家有一个大花园，这花园里蜜蜂、蝴蝶、蜻蜓、蚂蚱，样样都有。蝴蝶有白蝴蝶、黄蝴蝶。这种蝴蝶小，不太好看。好看的是大红蝴蝶，满身带着金粉。蜻蜓是金的，蚂蚱是绿的。蜜蜂则嗡嗡地飞着，满身绒毛，落到一朵花上，胖乎乎，圆滚滚，就像一个小毛球似的不动了。\n花园里边明晃晃的，红的红，绿的绿，新鲜漂亮。\n据说这花园，从前是一个果园。祖母喜欢养羊，羊把果树给啃了，果树渐渐地都死了。到我有记忆的时候，园子里就只有一棵樱桃树、一棵李子树，因为樱桃和李子都不大结果子，所以觉得它们并不存在。小的时候，只觉得园子里边就有一棵大榆树。这榆树在园子的西北角上，来了风，榆树先呼叫，来了雨，榆树先冒烟。太阳一出来，榆树的叶子就发光了，它们闪烁得和沙滩上的蚌壳一样。\n祖父整天都在园子里，我也跟着他在里面转。祖父戴一顶大草帽，我戴一顶小草帽；祖父栽花，我就栽花；祖父拔草，我就拔草。祖父种小白菜的时候，我就跟在后边，用脚把那下了种的土窝一个一个地溜平。哪里会溜得准，不过是东一脚西一脚地瞎闹。有时不但没有把菜种盖上，反而把它踢飞了。\n祖父铲地，我也铲地。因为我太小，拿不动锄头，祖父就把锄头杆拔下来，让我单拿着那个锄头的“头”来铲。其实哪里是铲，不过是伏在地上，用锄头乱钩一阵。我认不得哪个是苗，哪个是草，往往把韭菜当作野草割掉，把狗尾草当作谷穗留着。\n祖父发现我铲的那块地还留着一片狗尾草，就问我  ：“这是什么？”\n我说：“谷子。”\n祖父大笑起来，笑够了，把草拔下来，问我：“你每天吃的就是这个吗？”\n我说：“是的。”\n我看祖父还在笑，就说：“你不信，我到屋里拿来给你看。”\n我跑到屋里拿了一个谷穗，远远地抛给祖父，说：“这不是一样的吗？”\n祖父把我叫过去，慢慢讲给我听，说谷子是有芒针的，狗尾草却没有，只是毛嘟嘟的，很像狗尾巴。\n我并不细看，不过马马虎虎承认下来就是了。一抬头，看见一个黄瓜长大了，我跑过去摘下来，吃黄瓜去了。黄瓜还没有吃完，我又看见一只大蜻蜓从旁边飞过，于是丢下黄瓜又去追蜻蜓了。蜻蜓飞得那么快，哪里会追得上？好在一开始我也没有存心一定要追上，跟着蜻蜓跑了几步就又去做别的了。采一朵倭瓜花，捉一个绿蚂蚱，把蚂蚱腿用线绑上，绑了一会儿，线头上只拴着一条腿，而不见蚂蚱了。\n玩腻了，我又跑到祖父那里乱闹一阵。祖父浇菜，我也过来浇，但不是往菜上浇，而是拿着水瓢，拼尽了力气，把水往天空一扬，大喊着：“下雨��！下雨��！”\n太阳在园子里是特别大的，天空是特别高的。太阳光芒四射，亮得使人睁不开眼睛，亮得蚯蚓不敢钻出地面来，蝙蝠不敢从黑暗的地方飞出来。凡是在太阳下的，都是健康的、漂亮的。拍一拍手，仿佛大树都会发出声响；叫一两声，好像对面的土墙都会回答似的。\n花开了，就像睡醒了似的。鸟飞了，就像在天上逛似的。虫子叫了，就像在说话似的。一切都活了，要做什么，就做什么。要怎么样，就怎么样，都是自由的。倭瓜愿意爬上架就爬上架，愿意爬上房就爬上房。黄瓜愿意开一朵花，就开一朵花，愿意结一个瓜，就结一个瓜。若都不愿意，就是一个瓜也不结，一朵花也不开，也没有人问它。玉米愿意长多高就长多高，它若愿意长上天去，也没有人管。蝴蝶随意地飞，一会儿从墙头上飞来一对黄蝴蝶，一会儿又从墙头上飞走一只白蝴蝶。它们是从谁家来的，又要飞到谁家去？太阳也不知道。\n天空蓝悠悠的，又高又远。\n可是白云一来，一大团一大团的，从祖父的头上飘过，好像要压到祖父的草帽了。\n我玩累了，就在房子底下找个阴凉的地方睡着了。不用枕头，不用席子，把草帽遮在脸上就睡了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/2ffc1598835e1703147692633858860/2ffc1598835e1703147692633858860.m3u8?auth=0c4e168b5128a648bf0d053b2ac17f41",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531532.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-2-2.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第3课",
@@ -3403,11 +3120,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "贾际",
     "content": "每个人都有个故乡，每个人的故乡都有个月亮。人人都爱自己故乡的月亮。\n但是，如果只有孤零零一个月亮，未免显得有点儿孤单。因此，在中国古代诗文中，总有什么东西给月亮当陪衬，最多的是山和水，比如“山高月小”“三潭印月”，不可胜数。我的故乡是在山东西北部的大平原上。我小的时候，从来没有见过山，也不知山为何物。我曾幻想，山大概是一个圆而粗的柱子吧，顶天立地，好不威风。后来到了济南，才见到山，恍然大悟：山原来是这个样子啊！因此，我在故乡望月，从来不同山联系。像苏东坡说的“月出于东山之上，徘徊于斗牛之间”，完全是我无法想象的。\n至于水，我故乡的小村子里却到处都是。几个大苇坑占了村子面积的一多半。在我这个小孩子眼中，虽不能像洞庭湖“八月湖水平”那样有气派，但也颇有烟波浩渺之势。到了夏天，黄昏后，我躺在坑边场院的地上，数天上的星星。有时候在古柳下面点起篝火，然后上树一摇，成群的知了飞落下来，比白天用嚼烂的麦粒去粘要容易得多。我天天晚上乐此不疲，天天盼望黄昏早早来临。\n到了更晚的时候，我走到坑边，抬头看到晴空一轮明月，清光四溢，与水里的那个月亮相映成趣。我当时虽然还不懂什么叫诗兴，可觉得心中油然有什么东西在萌动。有时候在坑边玩很久，才回家睡觉。在梦中见到两个月亮叠在一起，清光更加晶莹澄澈。\n我在故乡只待了六年，以后就离乡背井，漂泊天涯。在济南住了十多年，在北京度过四年，又回到济南待了一年，然后在欧洲住了近十一年，又回到北京，到现在已经四十多年了。在这期间，我曾到过将近三十个国家，看到过许许多多的月亮。在风光旖旎的瑞士莱芒湖上，在无边无垠的非洲大沙漠中，在碧波万顷的大海中，在巍峨雄奇的高山上，我都看到过月亮。这些月亮应该说都是美妙绝伦的，我都非常喜欢。但是，看到它们，我立刻就会想到故乡苇坑上面和水中的那个小月亮。对比之下，我感到这些广阔世界的大月亮，无论如何比不上我那心爱的小月亮。不管我离开故乡多远，我的心立刻就飞回去了。我的小月亮，我永远忘不掉你！\n我现在年事已高，住的朗润园是燕园胜地。夸大一点儿说，此地有茂林修竹，绿水环流，还有几座土山点缀其间，风光无疑是绝妙的。每逢望夜，一轮当空，月光闪耀于碧波之上，上下空蒙，一碧数顷，荷香远溢，宿鸟幽鸣，真不能不说是赏月胜地。荷塘月色的奇景，就在我的窗外。然而，每逢这样的良辰美景，我想到的却仍然是故乡苇坑里的那个平凡的小月亮。\n月是故乡明，我什么时候能够再看到故乡的月亮啊！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/2c9322c2f7a2e1703147721973637656/2c9322c2f7a2e1703147721973637656.m3u8?auth=42174accc062050fd0435f1809891be5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531530.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🏠"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-3-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第7课",
@@ -3415,11 +3131,10 @@ const articlesData =
     "author": "苏晓静",
     "reader": "曾颖",
     "content": "海外有一国土，名曰傲来国。国近大海，海中有一座名山，唤为花果山。那座山正当顶上，有一块仙石。其石有三丈六尺五寸高，有二丈四尺围圆。四面更无树木遮阴，左右倒有芝兰相衬。盖自开辟以来，每受天真地秀，日精月华，感之既久，遂有灵通之意。内育仙胞，一日迸裂，产一石卵，似圆球样大。因见风，化作一个石猴。那猴在山中，却会行走跳跃，食草木，饮涧泉，采山花，觅树果；与狼虫为伴，虎豹为群，獐鹿为友，猕猿为亲；夜宿石崖之下，朝游峰洞之中。\n一朝天气炎热，与群猴避暑，都在松阴之下顽耍。一群猴子耍了一会，却去那山涧中洗澡。见那股涧水奔流，真个似滚瓜涌溅。古云：“禽有禽言，兽有兽语。”众猴都道：“这股水不知是那里的水。我们今日赶闲无事，顺涧边往上溜头寻看源流，耍子去耶！”喊一声，都拖男挈女，唤弟呼兄，一齐跑来，顺涧爬山，直至源流之处，乃是一股瀑布飞泉。众猴拍手称扬道：“好水！好水！原来此处远通山脚之下，直接大海之波。”又道：“那一个有本事的，钻进去寻个源头出来，不伤身体者，我等即拜他为王。”连呼了三声，忽见丛杂中跳出一个石猴，应声高叫道：“我进去！我进去！”他瞑目蹲身，将身一纵，径跳入瀑布泉中，忽睁睛抬头观看，那里边却无水无波，明明朗朗的一架桥梁。他住了身，定了神，仔细再看，原来是座铁板桥。桥下之水，冲贯于石窍之间，倒挂流出去，遮闭了桥门。却又欠身上桥头，再走再看，却似有人家住处一般，真个好所在。看罢多时，跳过桥中间，左右观看，只见正当中有一石碣。碣上有一行楷书大字，镌着“花果山福地，水帘洞洞天”。\n石猴喜不自胜，急抽身往外便走，复瞑目蹲身，跳出水外，打了两个呵呵道：“大造化！大造化！”众猴把他围住，问道：“里面怎么样？水有多深？”石猴道：“没水！没水！原来是一座铁板桥。桥那边是一座天造地设的家当。”众猴道：“怎见得是个家当？”石猴笑道：“这股水乃是桥下冲贯石窍，倒挂下来遮闭门户的。桥边有花有树，乃是一座石房。房内有石锅、石灶、石碗、石盆、石床、石凳。中间一块石碣上，镌着‘花果山福地，水帘洞洞天’。真个是我们安身之处。里面且是宽阔，容得千百口老小。我们都进去住，也省得受老天之气。”\n众猴听得，个个欢喜。都道：“你还先走，带我们进去，进去！”石猴却又瞑目蹲身，往里一跳，叫道：“都随我进来！进来！”\n那些猴有胆大的，都跳进去了；胆小的，一个个伸头缩颈，抓耳挠腮，大声叫喊，缠一会，也都进去了。跳过桥头，一个个抢盆夺碗，占灶争床，搬过来，移过去，正是猴性顽劣，再无一个宁时，只搬得力倦神疲方止。石猴端坐上面道：“列位呵，‘人而无信，不知其可’。你们才说有本事进得来，出得去，不伤身体者，就拜他为王。我如今进来又出去，出去又进来，寻了这一个洞天与列位安眠稳睡，各享成家之福，何不拜我为王？”众猴听说，即拱伏无违。一个个序齿排班，朝上礼拜，都称“千岁大王”。自此，石猴高登王位，将“石”字儿隐了，遂称美猴王。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/6ae3541541bf61703147637337856906/6ae3541541bf61703147637337856906.m3u8?auth=fccb46da1bda63f0d1a8e4ad95130a5e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531521.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐵"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-7-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第8课",
@@ -3427,10 +3142,9 @@ const articlesData =
     "author": "苏晓静",
     "reader": "黎春",
     "content": "一语未了，只听窗外竹子上一声响，恰似窗屉子倒了一般，众人吓了一跳。丫鬟们出去瞧时，帘外丫头子们回道：“一个大蝴蝶风筝，挂在竹梢上了。”众丫鬟笑道：“好一个齐整风筝！不知是谁家放的，断了线。咱们拿下他来。”宝玉等听了，也都出来看时，宝玉笑道：“我认得这风筝，这是大老爷那院里嫣红姑娘放的。拿下来给他送过去罢。”紫鹃笑道：“难道天下没有一样的风筝，单他有这个不成？二爷也太死心眼儿了！我不管，我且拿起来。”探春笑道：“紫鹃也太小器，你们一般有的，这会子拾人走了的，也不嫌个忌讳？”黛玉笑道：“可是呢。把咱们的拿出来，咱们也放放晦气。”\n丫头们听见放风筝，巴不得一声儿，七手八脚，都忙着拿出来：也有美人儿的，也有沙雁儿的。丫头们搬高墩，捆剪子股儿，一面拨起�l子来。宝钗等立在院门前，命丫头们在院外敞地下放去。宝琴笑道：“你这个不好看，不如三姐姐的一个软翅子大凤凰好。”宝钗回头向翠墨笑道：“你去把你们的拿来也放放。”\n宝玉又兴头起来，也打发个小丫头子家去，说：“把昨日赖大娘送的那个大鱼取来。”小丫头去了半天，空手回来，笑道：“晴雯姑娘昨儿放走了。”宝玉道：“我还没放一遭儿呢！”探春笑道：“横竖是给你放晦气罢了！”宝玉道：“再把大螃蟹拿来罢。”丫头去了，同了几个人，扛了一个美人并�l子来，回说：“袭姑娘说：昨儿把螃蟹给了三爷了，这一个是林大娘才送来的，放这一个罢。”宝玉细看了一回，只见这美人做的十分精致，心中欢喜，便叫：“放起来！”\n此时探春的也取了来了，丫头们在那山坡上已放起来。宝琴叫丫头放起一个大蝙蝠来，宝钗也放起个一连七个大雁来，独有宝玉的美人儿，再放不起来。宝玉说丫头们不会放，自己放了半天，只起房高，就落下来，急的头上的汗都出来了。众人都笑他，他便恨的摔在地下，指着风筝说道：“要不是个美人儿，我一顿脚跺个稀烂！”黛玉笑道：“那是顶线不好。拿去叫人换好了，就好放了。再取一个来放罢。”\n宝玉等大家都仰面看天上这几个风筝起在空中。一时风紧，众丫鬟都用绢子垫着手放。黛玉见风力紧了，过去将�l子一松，只听“豁喇喇”一阵响，登时线尽，风筝随风去了。黛玉因让众人来放。众人都说：“林姑娘的病根儿都放了去了，咱们大家都放了罢。”于是丫头们拿过一把剪子来，铰断了线，那风筝都飘飘�u�u随风而去。一时只有鸡蛋大，一展眼只剩下一点黑星儿，一会儿就不见了。众人仰面说道：“有趣，有趣！”说着，有丫头来请吃饭，大家方散。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/8035a95f8438b1703147118761761393/8035a95f8438b1703147118761761393.m3u8?auth=38e8797ce153cf82becf48976da6de40",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531519.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-8-2.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🌸"
   },
   {
@@ -3439,11 +3153,10 @@ const articlesData =
     "author": "苏晓静",
     "reader": "雅坤",
     "content": "从军行\n[唐]王昌龄\n青海长云暗雪山，\n孤城遥望玉门关。\n黄沙百战穿金甲，\n不破楼兰终不还。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/066625e861703147053351395854/066625e861703147053351395854.m3u8?auth=13eddcf5aabf78f33f7dad0e44aec8ab",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531518.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-9-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第9课",
@@ -3451,10 +3164,9 @@ const articlesData =
     "author": "苏晓静",
     "reader": "王彤",
     "content": "秋夜将晓出篱门迎凉有感\n[宋]陆游\n三万里河东入海，\n五千仞岳上摩天。\n遗民泪尽胡尘里，\n南望王师又一年。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/99180f042b21e1703147002462934249/99180f042b21e1703147002462934249.m3u8?auth=d4e1b936221272339279c292ab31be90",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531517.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-9-2.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🍂"
   },
   {
@@ -3463,10 +3175,9 @@ const articlesData =
     "author": "苏晓静",
     "reader": "雅坤",
     "content": "闻官军收河南河北\n[唐]杜甫\n剑外忽传收蓟北，\n初闻涕泪满衣裳。\n却看妻子愁何在，\n漫卷诗书喜欲狂。\n白日放歌须纵酒，\n青春作伴好还乡。\n即从巴峡穿巫峡，\n便下襄阳向洛阳。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7067c9f3c6db1703146927275769709/7067c9f3c6db1703146927275769709.m3u8?auth=1a03a1eba196f9abcaf327a5280da102",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531516.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-9-3.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🏞️"
   },
   {
@@ -3475,11 +3186,10 @@ const articlesData =
     "author": "苏晓静",
     "reader": "方亮",
     "content": "我从事革命斗争，已经十余年了。在这长期的奋斗中，我一向是过着朴素的生活，从没有奢侈过。经手的款项，总在数百万元；但为革命而筹集的金钱，是一点一滴都用之于革命事业的。这在国方的伟人们看来，颇似奇迹，或认为夸张；而矜持不苟，舍己为公，却是每个共产党员具备的美德。所以，如果有人问我身边有没有一些积蓄，那我可以告诉你一桩趣事。\n就在我被俘的那一天――一个最不幸的日子，有两个国方兵士，在树林中发现了我，而且猜到了我是什么人，他们满肚子热望在我身上搜出一千或八百大洋，或者搜出一些金镯金戒指一类的东西，发个意外之财。哪知道从我上身摸到下身，从袄领捏到袜底，除了一只时表和一支自来水笔，一个铜板都没有搜出。他们于是被激怒了，猜疑我是把钱藏在哪里，不肯拿出来。他们之中有一个，左手拿着一个木柄榴弹，右手拉出榴弹中的引线，双脚拉开一步，做出要抛掷的姿势，用凶恶的眼光盯着我，威吓地吼道：\n“赶快将钱拿出来，不然就是一炸弹，把你炸死去！”\n“哼！你不要做出那难看的样子来吧！我确实一个铜板都没有存，想从我这里发洋财，是想错了。”我微笑着，淡淡地说。\n“你骗谁！像你这样当大官的人会没有钱！”拿榴弹的兵士坚决不相信。\n“绝不会没有钱的，一定是藏在哪里，我是老出门的，骗不得我。”另一个兵士一面说，一面弓着背将我的衣角裤裆过细地捏，总企望着有新的发现。\n“你们要相信我的话，不要瞎忙吧！我不比你们国民党当官，个个都有钱，我今天确实是一个铜板也没有，我们革命不是为着发财！”我再次向他们解释。\n等他们确知在我身上搜不出什么的时候，也就停手不搜了；又在我藏躲的地方周围，低头注目搜寻了一番，也毫无所得。他们是多么失望啊！那个持弹欲放的兵士，也将拉着的引线，仍旧塞进榴弹的木柄里，转过来抢夺我的表和水笔。后来彼此说定表和笔卖出钱来平分，才算无话。他们用怀疑而又惊异的目光，对我自上而下地望了几遍，就同声命令：“走吧！”\n是不是还要问问我家里有没有一些财产？请等一下，让我想一想，啊，记起来了，有的有的，但不算多。去年暑天我穿的几套旧的汗褂裤，与几双缝上底的线袜，已交给我的妻放在深山坞里保藏着――怕国军进攻时，被人抢了去，准备今年暑天拿出来再穿；那些就算是我唯一的财产了。但我说出那几件“传世宝”来，岂不要叫那些富翁们齿冷三天？！\n清贫，洁白朴素的生活，正是我们革命者能够战胜许多困难的地方！\n一九三五年五月二十六日写于囚室",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/f1b6a1e99519c170314657344149063/f1b6a1e99519c170314657344149063.m3u8?auth=08e421c4adeec9cb3bf147e84bb29e21",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531513.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-12-1.mp3",
+    "grade": "5",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "🏛️"
   },
   {
     "lesson_number": "第13课",
@@ -3487,10 +3197,9 @@ const articlesData =
     "author": "苏晓静",
     "reader": "田龙",
     "content": "“要不――摔跤。”\n“是吗？”小胖墩儿跳起来，立刻退后两步，一闪身脱了单褂儿，叉着腰说，“来吧，是一叉一搂的，还是随便摔？”\n小嘎子在家里跟人摔跤，一向仗着手疾眼快，从不单凭力气，自然不跟他一叉一搂。两人把“枪”和“鞭”放在门墩儿上，各自虎势儿一站，公鸡�e架似的对起阵来。起初，小嘎子精神抖擞，欺负对手傻大黑粗，动转不灵，围着他猴儿似的蹦来蹦去，总想使巧招，下冷绊子，仿佛很占了上风。可是小胖墩儿也是个摔跤的惯手，塌着腰，合了裆，鼓着眼珠子，不露一点儿破绽。两人走马灯似的转了三四圈，终于三抓两挠，揪在了一起。这一来，小嘎子可上了当：小胖墩儿膀大腰粗，一身牛劲儿，任你怎样推拉拽顶，硬是扳他不动。小嘎子已有些沉不住气，刚想用脚腕子去钩他的腿，不料反给他把脚别住了。小胖墩儿趁势往旁侧里一推，咕咚一声，小嘎子摔了个仰面朝天。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/e1f8c8b49c02e1703145977925698907/e1f8c8b49c02e1703145977925698907.m3u8?auth=05ce3deebc0672b73d6fa2109e422c23",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531512.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-13-1.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -3499,23 +3208,21 @@ const articlesData =
     "author": "杜静",
     "reader": "闻风",
     "content": "他的身量与筋肉都发展到年岁前边去了。二十来岁，他已经很大很高，虽然肢体还没被年月铸成一定的格局，可是已经像个成人了――一个脸上身上都带出天真淘气的样子的大人。看着那高等的车夫，他计划着怎样杀进他的腰去，好更显出他的铁扇面似的胸与直硬的背。扭头看看自己的肩，多么宽，多么威严！杀好了腰，再穿上肥腿的白裤，裤脚用鸡肠子带儿系住，露出那对“出号”的大脚！是的，他无疑可以成为最出色的车夫，傻子似的他自己笑了。\n他没有什么模样，使他可爱的是脸上的精神。头不很大，圆眼，肉鼻子，两条眉很短很粗，头上永远剃得发亮；腮上没有多余的肉，脖子可是几乎与头一边儿粗；脸上永远红扑扑的，特别亮的是颧骨与右耳之间一块不小的疤――小时候在树下睡觉，被驴啃了一口。他不甚注意他的模样，他爱自己的脸正如同他爱自己的身体，都那么结实硬棒，他把脸仿佛算在四肢之内，只要硬棒就好。是的，到城里以后，他还能头朝下，倒着立半天。这样立着，他觉得，他就很像一棵树，上下没有一个地方不挺脱的。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/f4c51d09ccb711703142991198558588/f4c51d09ccb711703142991198558588.m3u8?auth=7306a2935d97d59eadc1b0b43050e7dc",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531511.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-13-2.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🌳"
   },
   {
-    "lesson_number": "第15课",
+    "lesson_number": "第14课",
     "title": "自相矛盾",
     "author": "郑皓月",
     "reader": "原杰",
     "content": "楚人有鬻盾与矛者，誉之曰：“吾盾之坚，物莫能陷也。”又誉其矛曰：“吾矛之利，于物无不陷也。”或曰：“以子之矛陷子之盾，何如？”其人弗能应也。夫不可陷之盾与无不陷之矛，不可同世而立。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/85b94feef691e1703148764505289314/85b94feef691e1703148764505289314.m3u8?auth=a9f47542cdaa95d382709d526ec2d309",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531505.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-15-1.mp3",
+    "grade": "5",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第16课",
@@ -3523,9 +3230,8 @@ const articlesData =
     "author": "郑皓月",
     "reader": "田龙",
     "content": "孙膑是齐国大将田忌的门客，田忌对他非常赏识。\n田忌经常同齐威王及贵族们赛马。孙膑看了几场比赛后发现，大家的马脚力相差不多，而且都能分成上、中、下三等。\n一天，孙膑对田忌说：“将军，我有个办法，保证能让您在赛马时获胜。”\n田忌问道：“你是说换几匹更好的马？”\n孙膑说：“一匹也不用换。”\n田忌有些不明白：“那怎么能有赢的把握呢？”\n孙膑胸有成竹地说：“将军请放心，按照我的主意办，一定能让您赢。”\n田忌很信任孙膑，决定全听他的。\n于是，他同齐威王及贵族们约好一起赛马。\n田忌和齐威王的对阵就要开始了。比赛双方摩拳擦掌，跃跃欲试。观众们也兴致勃勃地猜测着比赛结果。就在这时，孙膑把田忌请到一边，悄悄地把办法告诉了他。\n第一场，田忌先用下等马对齐威王的上等马，齐威王的马遥遥领先。田忌输了，但他不动声色，一点儿都不着急。\n接着，第二场比赛开始了。田忌用上等马对齐威王的中等马，胜了第二场。田忌微微一笑。\n第三场，田忌用中等马对齐威王的下等马，又胜了一场。田忌满意地笑了。\n比赛结束了。田忌胜两场输一场，赢了齐威王。\n齐威王好奇地问田忌：“你这样安排马的出场顺序，是不是有人给你出谋划策了？”\n田忌如实相告，并引荐了孙膑。后来，齐威王任命孙膑为军师。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7e61c10b46ac1703148409190100567/7e61c10b46ac1703148409190100567.m3u8?auth=5525bdbd0f4c89ca26fd16f022ac9672",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531504.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-16-1.mp3",
+    "grade": "5",
     "semester": "2",
     "emoji": "🐎"
   },
@@ -3535,11 +3241,10 @@ const articlesData =
     "author": "郑皓月",
     "reader": "鲁健",
     "content": "梁国杨氏子九岁，甚聪惠。孔君平诣其父，父不在，乃呼儿出。为设果，果有杨梅。孔指以示儿曰：“此是君家果。”儿应声答曰：“未闻孔雀是夫子家禽。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/6b5cb4b92953c1703146525750820346/6b5cb4b92953c1703146525750820346.m3u8?auth=27a71748b6d0a9de993b566f01295ca2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531498.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-21-1.mp3",
+    "grade": "5",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "🌳"
   },
   {
     "lesson_number": "第22课",
@@ -3547,11 +3252,10 @@ const articlesData =
     "author": "郑皓月",
     "reader": "孙小梅",
     "content": "我们每个人，都随时随地随身带着十根手指，永不离身。一只手上的五根手指，各有不同的姿态，各具不同的性格，各有所长，各有所短。\n大拇指在五指中，形状实在算不上美。身体矮而胖，头大而肥，构造简单，比人家少一个关节。但在五指中，却是最肯吃苦的。例如拉胡琴，总由其他四指按弦，却叫他相帮扶住琴身；水要喷出来，叫他死力抵住；血要流出来，叫他拼命按住；重东西要翻倒去，叫他用劲顶住；要读书了，叫他翻书页；要进门了，叫他揿电铃。讨巧的事，却轮不上他。例如招呼人，都由其他四指上前点头，他只能呆呆站在一旁；给人搔痒，人舒服后，感谢的是其他四指。\n常与大拇指合作的是食指。他的姿态可不如其他三指窈窕，都是直直落落的强硬的线条。他的工作虽不如大拇指吃力，却比大拇指复杂。拿笔的时候，全靠他推动笔杆；遇到危险的事，都要他去试探或冒险；秽物、毒物、烈物，他接触的机会最多；刀伤、烫伤、轧伤、咬伤，他消受的机会最多。他具有大拇指所没有的“机敏”，打电话、扳枪机必须请他，打算盘、拧螺丝、解纽扣等，虽有大拇指相助，终是要他主干的。\n五指中地位最优、相貌最堂皇的，无如中指。他居于中央，左右都有屏障。他个子最高，无名指、食指贴身左右，像关公左右的关平、周仓，左膀右臂，片刻不离。他永远不受外物冲撞，所以曲线优美，处处显示着养尊处优的幸福。每逢做事，名义上他是参加的，实际并不出力。他因为身体最长，取物时，往往最先碰到物，好像取得这物是他一人的功劳。其实，他碰到之后就退在一旁，让大拇指和食指去出力，他只在旁略为扶衬而已。\n无名指和小指，体态秀丽，样子可爱。然而，能力薄弱也无过于他们了。无名指多用于研脂粉、蘸药末、戴戒指。小指的用处则更渺小，只是掏掏耳朵、抹抹鼻涕而已。他们也有被重用的时候。在丝竹管弦上，他们的能力不让于别人。舞蹈演员的手指不是常作兰花状吗？这两根手指正是这朵“兰花”中最优美的两瓣。除了这等享乐的风光事以外，遇到工作，他们只是其他手指的附庸。\n手上的五指，我只觉得姿态与性格，有如上的差异，却无爱憎在其中。手指的全体，同人群的全体一样，五根手指如果能一致团结，成为一个拳头，那就根根有用，根根有力量，不再有什么强弱、美丑之分了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/c3fb2435b0be21703144855268203925/c3fb2435b0be21703144855268203925.m3u8?auth=462c07b112a8deacd73296c7c1463807",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531495.html",
-    "grade": "4",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-22-1.mp3",
+    "grade": "5",
     "semester": "2",
-    "emoji": "✋"
+    "emoji": "🖐️"
   },
   {
     "lesson_number": "第23课",
@@ -3559,22 +3263,20 @@ const articlesData =
     "author": "杜静",
     "reader": "章莹莹",
     "content": "我在九岁的时候就发现了有关胚胎发育的规律，这完全是我独立思考的结果。\n听完这句话，你大概忍不住会哈哈大笑，愿意笑你就笑吧，反正笑声不会给你招来祸患。我跟你可不同，事情过去了三年，有一次我想起了自己的发现，情不自禁笑出了声音，竟使我当众受到了惩罚。\n我的发现起始于梦中飞行。每天夜里做梦我都飞，我对飞行是那样迷恋，只要双脚一点，轻轻跃起，就能离开地面飞向空中。后来，我甚至学会了滑翔，在街道上空，在白桦树梢头，在青青的草地和澄澈的湖面上盘旋。我的身体是那样轻盈，可以随心所欲，运转自如，凭着双臂舒展和双腿弹动，似乎想去哪里就能飞到哪里。\n我以为在同学中间只有我一个人具有飞行的天赋。可是，有一天我终于弄明白了，每到夜晚，我的小伙伴们也都会在梦中飞腾。那天，我们几个人决定去见我们的老师，让他来解答这个奇妙的问题。\n“梦里飞行，说明你们是在长身体啊！”老师解释说。\n“为什么只有晚上睡觉时才长？”\n“白天你们太淘气，妨碍细胞的生长。到了晚上，细胞就不停地繁殖。”\n“那为什么人在生长的时候就要飞呢？这究竟是什么道理？”\n“这是你们的细胞回想起了远古时代，那个时候，人还是飞鸟。”\n“人怎么会是鸟？”我们万分惊讶。\n“岂止是鸟！人是由简单生命进化来的。最开始是草履虫，后来是鱼，是青蛙，是猴子……所有这些知识，等你们升入高年级，上课时老师都会给你们讲解。”\n高年级，离我们是那样遥远，而飞行却仍在继续。和老师的一次谈话，更加激发了我的想象力。我渴望弄明白，人究竟是怎么来的。我想得是那样痴迷，以至于从河里抓到一条鱼，我都会翻来覆去地看个仔细，恨不得从鱼身上发现将来的人应该具有的某些特征。\n乡村的孩子从小就知道母亲怀胎九个月才生下婴儿。“为什么是九个月呢？”我绞尽脑汁思考这个问题的答案。想啊想啊，嘿！终于想出了眉目：“哈！这就跟画地图差不多。地上的距离很远很远，在地图上画出来只不过几厘米。人是由细胞构成的……从细胞变成小鱼，经过了很长时间。现在，这一段时间就折合成一个月。从小鱼变成青蛙又得经过很长时间，又折合成一个月。这样推算下来，到变化成人，正好是九个月。”我的发现竟是如此简单明了，我为此感到格外高兴。我想，大概还没有人发现这个道理。\n又过了三四年，我上了六年级。老师开始给我们上生物课。有一次，年轻的女教师板着面孔一本正经讲人的起源，讲人的发育和进化。这时候，我清清楚楚听见老师说，有的科学家认为，母腹中的胎儿再现了从简单生命进化成人的过程。当时教室里安静得出奇，大家都默不作声。我忽然想起了自己的发现，情不自禁地笑出了声音。老师狠狠地瞪了我一眼。\n“费奥多罗夫！……你笑什么？再笑就从教室里出去！”\n“奥尔加・伊万诺夫娜，我……我想起了自己的发现……”\n教室里一阵笑声。奥尔加・伊万诺夫娜气得脸色苍白，大步朝我走来。\n“费奥多罗夫！……你立刻从教室里出去！……”\n我的脸由于困窘和羞愧一下子涨得通红。这时候我才意识到，老师误解了我的笑声，以为我的笑不怀好意。幸亏她没有容我解释，不然的话，同学们听见我说自己三年前就发现了“进化论”，还不笑塌房顶！不过，被轰出教室，站在外面，我倒想出了一条自我安慰的理由，我明白了――世界上的重大发现，有时还会给人带来被驱逐和被迫害的风险。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/873587a1ac7ac1703141228362752272/873587a1ac7ac1703141228362752272.m3u8?auth=378f43a199cdb1d6a4eef1bc42e7d35e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231222/t20231222_526531492.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-23-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第7课",
     "title": "《呼兰河传》（节选）",
     "author": "王丹蕾",
     "reader": "肖玉",
     "content": "呼兰河这小城里边，以前住着我的祖父，现在埋着我的祖父。\n我出生的时候，祖父已经六十多岁了，我长到四五岁，祖父就快七十了。我还没有长到二十岁，祖父就七八十岁了。祖父一过了八十，就死了。\n从前那后花园的主人，而今不见了。老主人死了，小主人逃荒去了。\n那园里的蝴蝶、蚂蚱、蜻蜓，也许还是年年仍旧，也许现在完全荒凉了。\n小黄瓜，大倭瓜，也许还是年年地种着，也许现在根本没有了。\n那早晨的露珠是不是还落在花盆架上，那午间的太阳是不是还照着那大向日葵，那黄昏时候的红霞是不是还会一会儿工夫变出一匹马来，一会儿工夫变出一条狗来，那么变着。\n这一些不能想象了。\n……\n以上我所写的并没有什么优美的故事，只因它们充满我幼年的记忆，忘却不了，难以忘却，就记在这里了。\n――选自萧红的《呼兰河传》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/097a3add7cbf41703068150764307/097a3add7cbf41703068150764307.m3u8?auth=91d95ce5931645ff2210ef0ae4b2b8ff",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532378.html",
-    "grade": "",
-    "semester": "",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-2-2.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🏞️"
   },
   {
@@ -3583,35 +3285,32 @@ const articlesData =
     "author": "王丹蕾",
     "reader": "刘静",
     "content": "游子吟\n[唐]孟郊\n慈母手中线，\n游子身上衣。\n临行密密缝，\n意恐迟迟归。\n谁言寸草心，\n报得三春晖。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/bb0a3700741941703067716413326798/bb0a3700741941703067716413326798.m3u8?auth=2981b271b5db340ee948ed587cea4512",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532377.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🏊"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-9.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第5课",
     "title": "《三国演义》（第四十六回节选）",
     "author": "王丹蕾",
     "reader": "原杰",
     "content": "却说曹寨中，听得擂鼓呐喊，毛�d、于禁二人慌忙飞报曹操。操传令曰：“重雾迷江，彼军忽至，必有埋伏，切不可轻动。可拨水军弓弩手乱箭射之。”又差人往旱寨内唤张辽、徐晃各带弓弩军三千，火速到江边助射。比及号令到来，毛�d、于禁怕南军抢入水寨，已差弓弩手在寨前放箭；少顷，旱寨内弓弩手亦到，约一万余人，尽皆向江中放箭：箭如雨发。孔明教把船吊回，头东尾西，逼近水寨受箭，一面擂鼓呐喊。待至日高雾散，孔明令收船急回。二十只船两边束草上，排满箭枝。孔明令各船上军士齐声叫曰：“谢丞相箭！”比及曹军寨内报知曹操时，这里船轻水急，已放回二十余里，追之不及。曹操懊悔不已。\n――选自元末明初罗贯中的《三国演义》第四十六回",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f001bcfc3aac51703067309630945584/f001bcfc3aac51703067309630945584.m3u8?auth=a093c60d55aef3eacaa897bfec6e42c0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532376.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "3️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-5-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📝"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第8课",
     "title": "《风筝》（节选）",
     "author": "王丹蕾",
     "reader": "黎春",
     "content": "从小我就欢喜放风筝，故一切风筝好像都同我有一点儿缘分。但一个风筝能到我的手中，不是一件很容易的事情。第一得把零用钱慢慢积存起来，才能买得一个放得起的风筝。第二住在城里没地方可放，等到有风了，还得央求听差替我们爬上房顶，或用叉杆兜起，高高地摇着。有时候父亲有正经事情叫他们做，放风筝自然是儿戏，我们便只好空望着天上的好风了。最不幸的却是末一层，房子左右前后总有许多的高树与电杆，风稍微急一点儿，或忽然转了方向变小了的时候，风筝便会挂到那上面去，许久积下来的钱就这样轻轻地飞去了，纵使舍得，也总有个无能为力的时候，于是青黄不接中，只好背着手，站在院子里，昂头看天上别人家飘扬着的东西，点点它，批评它，确也有一种不可形容的滋味。风筝从你房角里斜刺飞起，如一面顺风的船帆，你便不能不看，于是升到极高的天上去了，之后会看见有彩色的纸条飘然系上去，有时有玲珑的小人、灯笼、纸球……，这些都一直高飞，飞到与风筝在一起而有些看不清了，于是你又看见收线，风筝愈来愈大，渐渐地什么都鲜明了，先下来的是小人、灯笼、纸球……，后来又有彩色的纸条从屋脊上掠过，最后是一个风筝翩然一闪地落到墙那边去了，这在心上是希望呢，是嫉妒呢，欣悦与惋惜似乎占满了一颗童心。空中风筝不见了，傍到门边坐到门限上去，方觉得脖子已发疼了。\n北平前十来年，是还保持着故都盛况的，如旧年新正的看灯，春秋二季的排楼。每到积雪方融的二月，春风正好的时候，天上的风筝常是不计其数，龙睛鱼的尾巴如美髯公的胡须，风一吹，便能听见哗啦哗啦的响声。老鹰照例是会在天上打旋儿的，这是我小时候最羡慕的一种风筝，它只在胸上有一根线索着，飞起来身子是平的，十分灵活。当天上许多风筝都沉静不动的时候，独它扶摇直上雍容回旋着，有时忽然一放线，便会如鹰捕食一般翻身直落，但紧接着又翻回来，这样的风筝在我心中是最理想的，而且我自小见到真鹰时也总是把什么都忘了，站在那里呆看。\n……\n在艳阳天中，许多风筝都不动的时候，有一个风筝比北极星更坚定地直钉在天上的，那便是修长的蜈蚣了。它的头朝下，尾向上，眼睛可以笔直地成一条线直撞入青天的深心去。在忽而一松线的刹那，却如游龙般的矫健，但立刻又坚定得如指着一个方向，把人的心带到无极之境去。\n风筝在传说中被认为是放晦气的，所以落到谁家院子里，那家必定赶快把它撕掉。但在我放风筝以来，此说大约已被玩的人忘记了，小孩子有风筝自然拿去放，没有风筝呢，心里总很希望凭空能掉下一个来。记得好像是在正月，有一个绿色的水桶样子的风筝，底下垂着一条绿绒线的细长尾巴，每天清早必定从我家屋角斜飞过去。我真想把那“水桶”拿过来，好像那上面拴着青青的童心飞入如碧海的晴天中去。\n――选自林庚的《风筝》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/c77b088fd03721703066089717990556/c77b088fd03721703066089717990556.m3u8?auth=c969202f64c89cc3779cc42f354b6730",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532373.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "💨"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-8-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "🌀"
   },
   {
     "lesson_number": "语文园地",
@@ -3619,20 +3318,18 @@ const articlesData =
     "author": "王丹蕾",
     "reader": "原杰",
     "content": "鸟鸣涧\n[唐]王维\n人闲桂花落，\n夜静春山空。\n月出惊山鸟，\n时鸣春涧中。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/a6447415b3abe1703065196879264832/a6447415b3abe1703065196879264832.m3u8?auth=0ff7375e52edc82cd7da5bfee50354ed",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532372.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-7.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "🐦"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第11课",
     "title": "丰碑",
     "author": "李楠",
     "reader": "傅�A",
     "content": "红军队伍在冰天雪地里艰难地前进。严寒把群山冻成了一个大冰坨。狂风呼啸，大雪纷飞，似乎要吞掉这支装备很差的队伍。\n军长早把他的马让给了重伤员。他率领战士们向前挺进，在冰雪中为后续部队开辟一条通路。等待着他们的将是恶劣的环境和残酷的战斗，可能三天两头吃不上饭，可能睡雪窝，可能一天要走一百多里路，可能遭到敌人的突然袭击。这支队伍能不能经受住这样严峻的考验呢？军长思索着……\n队伍忽然放慢了行军的速度，前面有许多人围在一起，不知在干什么。\n军长边走边喊：“不要停下来，快速前进！”\n“……前面……有人冻死了……”警卫员跑回来告诉他。\n军长愣了一下，什么话也没说，快步朝前走去。风雪太大了。他步履有些踉跄，眼睛有点儿迷离。\n一位冻僵的老战士，倚靠一棵光秃秃的树干坐着，一动不动，好似一尊塑像。他浑身都落满了雪，无法辨认他的面目，但可以看出，他的神态十分镇定，十分安详：右手的中指和食指间还夹着半截纸卷的旱烟，火已被雪打灭；左手微微向前伸着，好像在向战友借火。单薄破旧的衣服紧紧地贴在他的身上。\n军长的脸上顿时阴云密布，嘴角的肌肉抽动了一下。他忽然转过脸向身边的人吼道：“叫军需处长来！”\n一阵呼啸的狂风淹没了军长的话音。没有人回答他，也没有人走开。他红着眼睛，像一头发怒的豹子，样子十分可怕。\n“听见没有？警卫员！叫军需处长跑步过来！”军长两腮的肌肉抖动着，不知是由于冷，还是由于愤怒。\n终于，有人小声告诉军长：“他就是军需处长……”\n军长愣住了，他怔怔地伫立了足有一分钟。雪花无声地落在他的眼睑上，融化成了闪烁的泪珠……他深深地呼了一口气，缓缓地举起右手，举到齐眉处，向那位跟巍巍群山化为一体的牺牲者敬了一个军礼。\n风更狂了，雪更大了。大雪很快覆盖了军需处长的身体，他成了一座晶莹的丰碑。\n――本文作者李本深，选用时有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/bb7ae991132d21703071458041725103/bb7ae991132d21703071458041725103.m3u8?auth=b3e19e3982475d96d62eb847a8b9d825",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532370.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-11-1.mp3",
     "grade": "5",
     "semester": "2",
     "emoji": "📖"
@@ -3643,10 +3340,9 @@ const articlesData =
     "author": "李楠",
     "reader": "傅�A",
     "content": "凉州词\n[唐]  王之涣\n黄河远上白云间，\n一片孤城万仞山。\n羌笛何须怨杨柳,\n春风不度玉门关。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/306490cf3e8ba170307113782275890/306490cf3e8ba170307113782275890.m3u8?auth=d654a3d8deffdaaa5d3e6d1d85faf73b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532369.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-6.mp3",
+    "grade": "5",
+    "semester": "2",
     "emoji": "📝"
   },
   {
@@ -3655,11 +3351,10 @@ const articlesData =
     "author": "李楠",
     "reader": "任志宏",
     "content": "黄鹤楼送孟浩然之广陵\n[唐]  李白\n故人西辞黄鹤楼，\n烟花三月下扬州。\n孤帆远影碧空尽，\n唯见长江天际流。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/e64a9b42584761703070813804284224/e64a9b42584761703070813804284224.m3u8?auth=e5596897b9222e6a39eaa6f657c96bd3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532367.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🟡"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-4.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "🏢"
   },
   {
     "lesson_number": "习作例文",
@@ -3667,11 +3362,10 @@ const articlesData =
     "author": "李楠",
     "reader": "小草",
     "content": "我的朋友容容是一个助人为乐的人。\n我订了一份报纸，每天早上，容容总是搬着椅子，爬上去，踮起脚，从大门口的邮箱里取出报纸来，然后爬下椅子，奔来把报纸交给我：“任叔叔，报纸来啦！”\n不知从什么时候开始，这已经成了她的习惯，而且她认为这是一项“权利”，是绝不能让别人侵犯的。\n有一天，我忘了尊重她的权利，自己去把报纸取来了。我正在看报，容容走来，她看看我手里的报纸，忽然噘起嘴，挺委屈地走了。过了一会儿，我听到她的哭声和奶奶又骂又哄的声音。起初我没在意，后来忽然感到这似乎跟报纸的事有些关系，过去一打听，果然，她是为了报纸的事在发脾气。我连忙把报纸送回大门口去。容容就不哭了，又搬着椅子去把报纸取来交给我，才又高兴起来。容容就是这么忠于职守。\n一天我下班回家，容容给我拿来一封信，是我的一个老同学从外地寄来的。容容似乎对信产生了浓厚的兴趣，等我看完信，她好奇地问：“任叔叔，这是什么？”\n“这是信。”\n“信是什么？”\n“信就是信。譬如说，我有个好朋友，我有话跟他讲，我就可以写一封信寄给他。信封上写个名字，就可以寄了。”\n“那么我也可以寄信给好朋友吗？”\n“当然可以，如果你有好朋友的话。”我笑着说。\n“就拿这样的信封寄吗？”\n“对！”\n“到哪儿去寄呢？”\n“往邮筒里一塞就行。我们大门外边不就有个邮筒吗？”\n“知道啦！知道啦！”她高兴地说。\n不知什么时候，她把我的信封拿去玩了，我也没在意。不料过了一天，邮递员通知我说有一封“欠资待领”的信，叫我到邮局去领。我连忙上邮局付了邮资，领出信来一看，啊，原来又是那位老同学寄来的。这家伙开什么玩笑，信封上贴了张用过的旧邮票。拆开信一看，啊？难道他疯了？信封里连半张纸也没有，却装着一片梧桐树叶。真是奇怪！我把叶子翻来覆去看了半天，怎么也猜不出它藏着什么奥妙。\n我十分纳闷。回到家里，容容却跟在我旁边，老用一种异样的眼光看着我，似乎准备告诉我什么秘密。过了一会儿，她似乎忍不住了，就拉住我，在我耳边轻轻地说：“任叔叔，我告诉你，我给你寄了一封信！真正的信！”\n“什么？”我好奇地问。\n“我今天给你寄了一封信，就用那个信封寄的。里面藏着一片叶子……”\n不等她说完，我就大笑起来，几乎把肚子都笑疼了。原来那封“欠资待领”的信就是她寄的啊！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/f40d5ab2c49341703069989376450205/f40d5ab2c49341703069989376450205.m3u8?auth=312f56490e73d507d3e3701e03083e10",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532366.html",
-    "grade": "3",
-    "semester": "1",
-    "emoji": "👫"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-1.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "习作例文",
@@ -3679,11 +3373,10 @@ const articlesData =
     "author": "李楠",
     "reader": "长悦",
     "content": "放学以后，孩子们又来到这片空地。他们分成两拨儿，把书包和帽子堆起来当球门，就摆开阵势赛起来。小弟弟小妹妹被吸引过来了，路过的大个子叔叔也坐到场边，欣赏他们这场球赛。\n看那个留平头的小守门员，他身着深蓝色的运动衣，浅蓝色的短裤，脚穿运动鞋，戴着手套。只见他分腿弯腰，上身前倾，目光警惕地注视着前方，膝盖磕破了也毫不在意，真像个专业的足球守门员！他想着自己可千万不能大意，绝不让对手冲破最后一道防线。站在小守门员身后的，是个腆着肚子的小男孩。他好像是候补的，一心想着快点儿上场，好显一显身手，扑住几个险球。\n比赛进入白热化阶段，小守门员和观众们紧紧盯着球场中的足球。那个戴红帽子的小女孩生怕别人挡住她，往外探着身子。那个扎蝴蝶结的女孩索性站了起来。搂着小弟弟的“红领巾”可能来迟了，他坐在最边上，也全神贯注地注视着局势的发展。不知谁家的漂亮白狗跟主人一块儿来了，它对球赛没兴趣，正卧在场边闭目养神呢。\n那个抱着洋娃娃的小女孩跟别人不大一样，腰挺得直直的，脸上没有什么表情，好像胜负都跟她不相干。旁边的那个戴帽子的小男孩却显得挺紧张，也许是头一回看到这样激烈的球赛。\n那位大个子叔叔始终面带笑容，看得津津有味。孩子们踢得太精彩了，也许勾起了他小时候踢球的美好回忆。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/b3a83172757f170306916757322348/b3a83172757f170306916757322348.m3u8?auth=d950f59ede418ea0b5dbd72f0a1f90b5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532364.html",
-    "grade": "3",
-    "semester": "1",
-    "emoji": "🔵"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-2.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "🥅"
   },
   {
     "lesson_number": "语文园地",
@@ -3691,11 +3384,10 @@ const articlesData =
     "author": "李楠",
     "reader": "柴璐",
     "content": "豆蔻年华：指女子十三四岁的年纪。\n及笄：指女子年满十五岁。\n弱冠：指男子二十岁左右的年纪。\n而立：指人三十岁。\n不惑：指人四十岁.\n花甲：指人六十岁。\n古稀：指人七十岁。\n期颐：指人一百岁。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/5af5f3cbd4a381703059852378743473/5af5f3cbd4a381703059852378743473.m3u8?auth=86be7ba33c4d41b0046025865134fda5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231223/t20231223_526532363.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-3.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -3703,23 +3395,21 @@ const articlesData =
     "author": "冯仪",
     "reader": "张悦",
     "content": "乡村四月\n[宋]翁卷\n绿遍山原白满川，\n子规声里雨如烟。\n乡村四月闲人少，\n才了蚕桑又插田。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/41f5f1688ba891703037703559276870/41f5f1688ba891703037703559276870.m3u8?auth=c6df0a3b9fba6dd940b017272273e219",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231226/t20231226_526534525.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌙"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-8.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "语文园地",
+    "lesson_number": "第13课",
     "title": "君子喻于义，小人喻于利",
     "author": "冯仪",
     "reader": "靳强",
     "content": "君子喻于义，小人喻于利。――《论语》\n君子坦荡荡，小人长戚戚。――《论语》\n恻隐之心，仁之端也。――《孟子》\n多行不义，必自毙。――《左传》\n人有耻，则能有所不为。――《朱子语类》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/5fdf686645c3c170303726422362117/5fdf686645c3c170303726422362117.m3u8?auth=0e09be15de30f8881953cffb284f07ef",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/wnjxc/20231226/t20231226_526534523.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔵"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/5-2-99-5.mp3",
+    "grade": "5",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -3727,9 +3417,8 @@ const articlesData =
     "author": "张泽昕",
     "reader": "刚强",
     "content": "这次，我看到了草原。那里的天比别处的更可爱，空气是那么清鲜，天空是那么明朗，使我总想高歌一曲，表示我满心的愉快。在天底下，一碧千里，而并不茫茫。四面都有小丘，平地是绿的，小丘也是绿的。羊群一会儿上了小丘，  一会儿又下来，走在哪里都像给无边的绿毯绣上了白色的大花。那些小丘的线条是那么柔美，就像只用绿色渲染，不用墨线勾勒的中国画那样，到处翠色欲流，轻轻流入云际。这种境界，既使人惊叹，又叫人舒服，既愿久立四望，又想坐下低吟一首奇丽的小诗。在这境界里，连骏马和大牛都有时候静立不动，好像回味着草原的无限乐趣。\n我们访问的是陈巴尔虎旗。汽车走了一百五十里，才到达目的地。一百五十里全是草原。再走一百五十里，也还是草原。草原上行车十分洒脱，只要方向不错，怎么走都可以。初入草原，听不见一点儿声音，也看不见什么东西，除了一些忽飞忽落的小鸟。走了许久，远远地望见了一条迂回的明如玻璃的带子――河！  牛羊多起来，也看到了马群，隐隐有鞭子的轻响。快了，快到了。忽然，像被一阵风吹来似的，远处的小丘上出现了一群马，马上的男女老少穿着各色的衣裳，群马疾驰，襟飘带舞，像一条彩虹向我们飞过来。这是主人来到几十里外欢迎远客。见到我们，主人们立刻拨转马头，欢呼着，飞驰着，  在汽车左右与前面引路。静寂的草原热闹起来：欢呼声，车声，马蹄声，响成一片。车跟着马飞过小丘，看见了几座蒙古包。\n蒙古包外，许多匹马，许多辆车。人很多，都是从几十里外乘马或坐车来看我们的。主人们下了马，我们下了车。也不知道是谁的手，总是热乎乎地握着，握住不放。大家的语言不同，心可是一样。你说你的，我说我的，总的意思是民族团结互助。\n也不知怎的，就进了蒙古包。奶茶倒上了，奶豆腐摆上了，主客都盘腿坐下，谁都有礼貌，谁都又那么亲热，一点儿不拘束。不大一会儿，好客的主人端进来大盘的手抓羊肉。干部向我们敬酒，七十岁的老翁向我们敬酒。我们回敬，主人再举杯，我们再回敬。这时候，鄂温克族姑娘们戴着尖尖的帽子，既大方，又稍有点儿羞涩，来给客人们唱民歌。我们同行的歌手也赶紧唱起来，歌声似乎比什么语言都更响亮，都更感人，不管唱的是什么，听者总会露出会心的微笑。\n饭后，小伙子们表演套马、摔跤，姑娘们表演了民族舞蹈。客人们也舞的舞，唱的唱，还要骑一骑蒙古马。太阳已经偏西，谁也不肯走。是啊！蒙汉情深何忍别，天涯碧草话斜阳！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/c836d7cdacb611702974802201821652/c836d7cdacb611702974802201821652.m3u8?auth=15164854e5dd105fc7baac806128c3bd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534818.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-1-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "🌱"
   },
@@ -3739,11 +3428,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "于芳",
     "content": "宿建德江\n[唐]  孟浩然\n移舟泊烟渚，\n日暮客愁新。\n野旷天低树，\n江清月近人。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/8becf9dd493ca1703055665711120694/8becf9dd493ca1703055665711120694.m3u8?auth=f99e2efcb5c48014f53a6a2b0fa7a1a6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534814.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-3-2.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第3课",
@@ -3751,11 +3439,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "于芳",
     "content": "六月二十七日望湖楼醉书\n[宋]  苏轼\n黑云翻墨未遮山，\n白雨跳珠乱入船。\n卷地风来忽吹散，\n望湖楼下水如天。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/1769a0bfa6c691703055871129681697/1769a0bfa6c691703055871129681697.m3u8?auth=ed9a50da6209224945076f030c087f43",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534813.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-3-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "🏞️"
   },
   {
     "lesson_number": "第3课",
@@ -3763,21 +3450,19 @@ const articlesData =
     "author": "张泽昕",
     "reader": "于芳",
     "content": "西江月・夜行黄沙道中\n[宋]  辛弃疾\n明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年，听取蛙声一片。\n七八个星天外，两三点雨山前。旧时茅店社林边，路转溪桥忽见。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/3d66cdef5cb3b1703055971487704816/3d66cdef5cb3b1703055971487704816.m3u8?auth=44fa7e197bbd067da185f863a0d7c222",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534811.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-3-3.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "🌙"
+    "emoji": "🟡"
   },
   {
-    "lesson_number": "第4课",
+    "lesson_number": "第19课",
     "title": "花之歌",
     "author": "张泽昕",
     "reader": "林溪",
     "content": "我是大自然的话语，大自然说出来，又收回去，藏在心间，然后又说一遍……\n我是星星，从苍穹坠落在绿茵中。\n我是诸元素之女：冬将我孕育，春使我开放，夏让我成长，秋令我昏昏睡去。\n我是亲友之间交往的礼品，我是婚礼的冠冕，我是生者赠予死者最后的祭献。\n清早，我同晨风一道将光明欢迎；傍晚，我又与群鸟一起为它送行。\n我在原野上摇曳，使原野风光更加旖旎；我在清风中呼吸，使清风芬芳馥郁。我微睡时，黑夜星空的千万颗亮晶晶的眼睛对我察看；我醒来时，白昼的那只硕大无朋的独眼向我凝视。\n我饮着朝露酿成的琼浆，听着小鸟的鸣啭、歌唱；我婆娑起舞，芳草为我鼓掌。我总是仰望高空，对光明心驰神往；我从不顾影自怜，也不孤芳自赏。而这些哲理，人类尚未完全领悟。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/34da9f1d10e6a1703056133785478650/34da9f1d10e6a1703056133785478650.m3u8?auth=69777e7b4da46df2a520850d0a935d27",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534810.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-4-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "🌺"
   },
@@ -3787,11 +3472,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "陆洋",
     "content": "七律・长征\n红军不怕远征难，\n万水千山只等闲。\n五岭逶迤腾细浪，\n乌蒙磅礴走泥丸。\n金沙水拍云崖暖，\n大渡桥横铁索寒。\n更喜岷山千里雪，\n三军过后尽开颜。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/9689b819aa4d71703056429456161432/9689b819aa4d71703056429456161432.m3u8?auth=18700e577de748880807046bdd73b396",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534809.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-5-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "7️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第6课",
@@ -3799,9 +3483,8 @@ const articlesData =
     "author": "张泽昕",
     "reader": "马晓勇",
     "content": "1941年秋，日寇集中兵力，向我晋察冀根据地大举进犯。当时，七连奉命在狼牙山一带坚持游击战争。经过一个多月英勇奋战，七连决定向龙王庙转移，把掩护群众和连队转移的任务交给了六班。\n为了拖住敌人，七连六班的五个战士一边痛击追上来的敌人，一边有计划地把大批敌人引上了狼牙山。他们利用险要的地形，把冲上来的敌人一次又一次地打了下去。班长马宝玉沉着地指挥战斗，让敌人走近了，才下命令狠狠地打。副班长葛振林打一枪就大吼一声，好像细小的枪口喷不完他的满腔怒火。战土宋学义扔手榴弹总要把胳膊抡一个圈，好使出浑身的力气。胡德林和胡福才这两个小战士把脸绷得紧紧的，全神贯注地瞄准敌人射击。敌人始终不能前进一步。在崎岖的山路上，横七竖八地躺着许多敌人的尸体。\n五位战士胜利地完成了掩护任务，准备转移。面前有两条路：一条通往主力转移的方向，走这条路可以很快追上连队，可是敌人紧跟在身后；另一条是通向狼牙山的顶峰棋盘陀，那儿三面都是悬崖绝壁。走哪条路呢？为了不让敌人发现群众和连队主力，班长马宝玉斩钉截铁地说了一声：“走！”带头向棋盘陀走去。战士们热血沸腾，紧跟在班长后面。他们知道班长要把敌人引上绝路。\n五位壮士一面向顶峰攀登，一面依托大树和岩石向敌人射击。山路上又留下了许多具敌人的尸体。到了狼牙山峰顶，五位壮士居高临下，继续向紧跟在身后的敌人射击。不少敌人坠落山涧，粉身碎骨。班长马宝玉负伤了，子弹都打完了，只有胡福才手里还剩下一颗手榴弹。他刚要拧开盖子，马宝玉抢前一步，夺过手榴弹插在腰间，猛地举起一块大石头，大声喊道：“同志们！用石头砸！”顿时，石头像雹子一样，带着五位壮士的决心，带着中国人民的仇恨，向敌人头上砸去。山坡上传来一阵叽里呱啦的叫声，敌人纷纷滚落深谷。\n又一群敌人扑上来了。马宝玉嗖的一声拔出手榴弹，拧开盖子，用尽全身气力扔向敌人。随着一声巨响，手榴弹在敌群中开了花。\n五位壮士屹立在狼牙山顶峰，眺望着群众和部队主力远去的方向。他们回头望望还在向上爬的敌人，脸上露出胜利的喜悦。班长马宝玉激动地说：“同志们，我们的任务胜利完成了！”说罢，他把那支从敌人手里夺来的枪砸碎了，然后走到悬崖边上，像每次发起冲锋一样，第一个纵身跳下深谷。战士们也昂首挺胸，相继从悬崖往下跳。狼牙山上响起了他们壮烈豪迈的口号声：\n“打倒日本帝国主义！”\n“中国共产党万岁！”\n这是英雄的中国人民坚强不屈的声音！这声音惊天动地，气壮山河！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/45576397493521703056588319106240/45576397493521703056588319106240.m3u8?auth=11428ead36c2426362b30d7d340c2ba6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534807.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-6-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "⛰️"
   },
@@ -3811,33 +3494,30 @@ const articlesData =
     "author": "张泽昕",
     "reader": "任志宏",
     "content": "我爱到天安门广场走走，尤其是晚上。广场上千万盏灯静静地照耀着周围的宏伟建筑，令人心头光明而又温暖。\n清明节前的一个晚上，我又漫步在广场上，忽然背后传来一声赞叹：“多好啊！”我心头微微一震，是什么时候听到过这句话来着？噢，对了，那是很久以前了。于是，我沉入了深深的回忆。\n1947年的初秋，当时我是战地记者。挺进豫皖苏平原的我军部队，把国民党军五十七师紧紧地包围在一个叫沙土集的村子里。  激烈的围歼战就要开始了。天黑的时候，我摸进一片茂密的沙柳林，在匆匆挖成的交通沟里找到了突击连，来到了郝副营长的身边。\n郝副营长是一位著名的战斗英雄，虽然只有二十二岁，已经打过不少仗了。今晚就由他带领突击连去攻破守敌的围墙，为全军打通歼灭敌军的道路。大约一切准备工作都完成了，这会儿，他正倚着交通沟的胸墙坐着，一手拿着火柴盒，  夹着自制的烟卷，一手轻轻地划着火柴。他并没有点烟，却借着微弱的亮光看摆在双膝上的一本破旧的书。书上有一幅插图，画的是一盏吊着的电灯，一个孩子正在灯下聚精会神地读书。他注视着那幅图，默默地沉思着。\n“多好啊！”他在自言自语。突然，他凑到我的耳朵边轻轻地问：“记者，你见过电灯吗？”\n我不由得一愣，摇了摇头，说：“没见过。”我说的是真话。我从小生活在农村，真的没见过电灯。\n“听说一按电钮，那玩意儿就亮了，很亮很亮。”他又划着一根火柴，点燃了烟，又望了一眼图画，深情地说：“赶明儿胜利了，咱们也能用上电灯，让孩子们都在那样亮的灯光底下学习，该多好啊！”他把头靠在胸墙上，望着漆黑的夜空，完全陷入了对未来的憧憬里。\n半个小时以后，我刚回到团指挥所，战斗就打响了。三发绿色的信号弹升上天空，接着就是震天动地的炸药包爆炸声。守敌的围墙被炸开一个缺口，突击连马上冲了进去。没想到后续部队遭到敌人炮火的猛烈阻击，在黑暗里找不到突破口，和突击连失去了联系。\n整个团指挥所的人都焦急地钻出了地堡，望着黑�q�q的围墙。突然，黑暗里出现一星火光，一闪，又一闪。这火光虽然微弱，对于寻找突破口的部队来说已经足够亮了，战士们靠着这微弱的火光冲进了围墙。围墙里响起了一片喊杀声。\n后来才知道，在这千钧一发的时刻，是郝副营长划着了火柴，点燃了那本书，举得高高的，为后续部队照亮了前进的路。可是，火光暴露了他自己，他被敌人的机枪打中了。\n这一仗，我们消灭了敌人的一个整编师。战斗结束后，我们把郝副营长埋在茂密的沙柳丛里。这位年轻的战友为了让孩子们能够在电灯底下学习，不惜牺牲自己的生命，他自己却没有来得及见一见电灯。\n事情已经过去很长时间了。在天安门前璀璨的华灯下面，我又想起这位亲爱的战友来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/dadca687de4081703058988752621550/dadca687de4081703058988752621550.m3u8?auth=0b744b1798cc5e610d3fe2d90f113861",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534804.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-8-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "💡"
   },
   {
-    "lesson_number": "第12课",
+    "lesson_number": "汉语拼音",
     "title": "桥",
     "author": "张泽昕",
     "reader": "田龙",
     "content": "黎明的时候，雨突然大了。像泼。像倒。\n山洪咆哮着，像一群受惊的野马，从山谷里狂奔而来，势不可当。\n村庄惊醒了。人们翻身下床，却一脚踩进水里。是谁惊慌地喊了一嗓子，一百多号人你拥我挤地往南跑。近一米高的洪水已经在路面上跳舞了。人们又疯了似的折回来。\n东面、西面没有路。只有北面有座窄窄的木桥。\n死亡在洪水的狞笑声中逼近。\n人们跌跌撞撞地向那木桥拥去。\n木桥前，没腿深的水里，站着他们的党支部书记，那个全村人都拥戴的老汉。\n老汉清瘦的脸上淌着雨水。他不说话，盯着乱哄哄的人们。他像一座山。\n人们停住脚，望着老汉。\n老汉沙哑地喊话：“桥窄！排成一队，不要挤！党员排在后边！”\n有人喊了一声：“党员也是人。”\n老汉冷冷地说：“可以退党，到我这儿报名。”\n竟没人再喊。一百多人很快排成队，依次从老汉身边奔上木桥。\n水渐渐蹿上来，放肆地舔着人们的腰。\n老汉突然冲上前，从队伍里揪出一个小伙子，吼道：“你还算是个党员吗？排到后面去！”老汉凶得像只豹子。\n小伙子瞪了老汉一眼，站到了后面。\n木桥开始发抖，开始痛苦地呻吟。\n水，爬上了老汉的胸膛。最后，只剩下了他和小伙子。\n小伙子推了老汉一把，说：“你先走。”\n老汉吼道：“少废话，快走。”他用力把小伙子推上木桥。\n突然，那木桥轰的一声塌了。小伙子被洪水吞没了。\n老汉似乎要喊什么，猛然间，一个浪头也吞没了他。\n一片白茫茫的世界。\n五天以后，洪水退了。\n一个老太太，被人搀扶着，来这里祭奠。\n她来祭奠两个人。\n她丈夫和她儿子。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/455a953d32ebe1703142702972978479/455a953d32ebe1703142702972978479.m3u8?auth=00a325557ae7aa306e795b561781a693",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534799.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-7.mp3",
     "grade": "1",
-    "semester": "2",
+    "semester": "1",
     "emoji": "🌉"
   },
   {
-    "lesson_number": "第13课",
+    "lesson_number": "语文园地2",
     "title": "穷人",
     "author": "张泽昕",
     "reader": "黎春",
     "content": "渔夫的妻子桑娜坐在火炉旁补一张破帆。屋外寒风呼啸，汹涌澎湃的海浪拍击着海岸，溅起一阵阵浪花。海上正起着风暴，外面又黑又冷，这间渔家的小屋里却温暖而舒适。地扫得干干净净，炉子里的火还没有熄，食具在搁板上闪闪发亮。挂着白色帐子的床上，五个孩子正在海风呼啸声中安静地睡着。丈夫清早驾着小船出海，这时候还没有回来。桑娜听着波涛的轰鸣和狂风的怒吼，感到心惊肉跳。\n古老的钟发哑地敲了十下，十一下……始终不见丈夫回来。桑娜沉思：丈夫不顾惜身体，冒着寒冷和风暴出去打鱼，她自己也从早到晚地干活，还只能勉强填饱肚子。孩子们没有鞋穿，不论冬夏都光着脚跑来跑去；吃的是黑面包，菜只有鱼。不过，孩子们都还健康，没什么可抱怨的。桑娜倾听着风暴的声音。“他现在在哪儿？老天啊，保佑他，救救他，开开恩吧！”她自言自语着。\n睡觉还早。桑娜站起身来，把一块很厚的围巾包在头上，提着马灯走出门去。她想看看灯塔上的灯是不是亮着，丈夫的小船能不能望见。海面上什么也看不见。风掀起她的围巾，卷着被刮断的什么东西敲打着邻居小屋的门。桑娜想起了傍晚就想去探望的那个生病的女邻居。“没有一个人照顾她啊！”桑娜一边想一边敲了敲门。她侧着耳朵听，没有人答应。\n“寡妇的日子真困难啊！”桑娜站在门口想，“孩子虽然不算多――只有两个，可是全靠她一个人张罗，如今又加上病。唉，寡妇的日子真难过啊！进去看看吧！”\n桑娜一次又一次地敲门，仍旧没有人答应。\n“喂，西蒙！”桑娜喊了一声，心想，莫不是出什么事了？她猛地推开门。\n屋子里没有生炉子，又潮湿又阴冷。桑娜举起马灯，想看看病人在什么地方。首先投入眼帘的是对着门的一张床，床上仰面躺着她的女邻居。她一动不动。桑娜把马灯举得更近一些，不错，是西蒙。她头往后仰着，冰冷发青的脸上显出死的宁静，一只苍白僵硬的手像要抓住什么似的，从稻草铺上垂下来。就在这死去的母亲旁边，睡着两个很小的孩子，都是卷头发、圆脸蛋，身上盖着旧衣服，蜷缩着身子，两个浅黄头发的小脑袋紧紧地靠在一起。显然，母亲在临死的时候，拿自己的衣服盖在他们身上，还用旧头巾包住他们的小脚。孩子呼吸均匀而平静，睡得正香甜。\n桑娜用头巾裹住睡着的孩子，把他们抱回家里。她的心跳得很厉害，自己也不知道为什么要这样做，但是觉得非这样做不可。她把这两个熟睡的孩子放在床上，让他们同自己的孩子睡在一起，又连忙把帐子拉好。\n桑娜脸色苍白，神情激动。她忐忑不安地想：“他会说什么呢？这是闹着玩的吗？自己的五个孩子已经够他受的了……是他来啦？……不，还没来！……为什么把他们抱过来啊？……他会揍我的！那也活该，我自作自受……嗯，揍我一顿也好！”\n门吱嘎一声，仿佛有人进来了。桑娜一惊，从椅子上站起来。\n“不，没有人！天啊，我为什么要这样做？……如今叫我怎么对他说呢？……”桑娜沉思着，久久地坐在床前。\n门突然开了，一股清新的海风冲进屋子。魁梧黧黑的渔夫拖着湿淋淋的被撕破了的渔网，一边走进来，一边说：“嘿，我回来啦，桑娜！”\n“哦，是你！”桑娜站起来，不敢抬起眼睛看他。\n“瞧，这样的夜晚！真可怕！”\n“是啊，是啊，天气坏透了！哦，鱼打得怎么样？”\n“糟糕，真糟糕！什么也没有打到，还把网给撕破了。倒霉，倒霉！天气可真厉害！我简直记不起几时有过这样的夜晚了，还谈得上什么打鱼！还好，总算活着回来啦。……我不在，你在家里做些什么呢？”\n渔夫说着，把网拖进屋里，坐在炉子旁边。\n“我？”桑娜脸色发白，说，“我嘛……缝缝补补……风吼得这么凶，真叫人害怕。我可替你担心呢！”\n“是啊，是啊，”丈夫喃喃地说，“这天气真是活见鬼！可是有什么办法呢！”\n两个人沉默了一阵。\n“你知道吗？”桑娜说，“咱们的邻居西蒙死了。”\n“哦？什么时候？”\n“我也不知道，大概是昨天。唉！她死得好惨啊！两个孩子都在她身边，睡着了。他们那么小……一个还不会说话，另一个刚会爬……”桑娜沉默了。\n渔夫皱起眉，他的脸变得严肃、忧虑。“嗯，是个问题！”他搔搔后脑勺说，“嗯，你看怎么办？得把他们抱来，同死人待在一起怎么行！哦，我们，我们总能熬过去的！快去！别等他们醒来。”\n但桑娜坐着一动不动。\n“你怎么啦？不愿意吗？你怎么啦，桑娜？”\n“你瞧，他们在这里啦。”桑娜拉开了帐子。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/56f9e09f1f7cd1703144160355664750/56f9e09f1f7cd1703144160355664750.m3u8?auth=5b134b7a039c76ce9b59edd01d3310a7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534798.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-13-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "📖"
   },
@@ -3847,11 +3527,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "杜月媚",
     "content": "夏天是万物迅速生长的季节。\n生物从小到大，本来是天天长的，不过夏天的长是飞快的长，跳跃的长，活生生的看得见的长。你在棚架上看瓜藤，一天可以长出几寸；你到竹子林、高粱地里听声音，在叭叭的声响里，一夜可以多出半节。昨天是苞蕾，今天是鲜花，明天就变成了小果实。一块白石头，几天不见，就长满了苔藓；一片黄泥土，几天不见，就变成了草坪菜畦。邻家的小猫小狗小鸡小鸭，个把月不过来，再见面，它已经有了妈妈的一半大。\n草长，树木长，山是一天一天地变丰满。稻秧长，甘蔗长，地是一天一天地高起来。水长，瀑布长，河也是一天一天地变宽变深。俗话说：“不热不长，不热不大。”随着太阳威力的增加，温度的增加，什么都在生长。最热的时候，连铁路的铁轨也长，把连接处的缝隙几乎填满。柏油路也软绵绵的，像是高起来。\n一过夏天，小学生有的成了中学生，中学生有的成了大学生。升级、跳班，快点儿，慢点儿，总是要长。北方农家的谚语说：“六月六，看谷秀。”又说：“处暑不出头，割谷喂老牛。”农作物到了该长的时候不长，或是长得太慢，就没有收成的希望。人也是一样，要赶时候，赶热天，尽量地用力地长。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/9dd3ed7d5cfc71703146215152784847/9dd3ed7d5cfc71703146215152784847.m3u8?auth=461017662c409adf6906f2714e6f47a1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534796.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "☀️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-15-1.mp3",
+    "grade": "6",
+    "semester": "1",
+    "emoji": "🌱"
   },
   {
     "lesson_number": "第16课",
@@ -3859,10 +3538,9 @@ const articlesData =
     "author": "张泽昕",
     "reader": "孙小梅",
     "content": "有一天，妈妈下班回来，递给我一个扁扁的纸盒子。我打开一看，是一件淡绿色的、透明的新雨衣。我立刻就抖开雨衣往身上穿。怎么？雨衣上竟然还长着两只袖筒，不像那种斗篷式的：手在雨衣里缩着，什么也干不了。穿上这件情况就不同了，管你下雨不下雨，想干什么就干什么。\n我一边想，一边在屋里走来走去，戴上雨帽，又抖抖袖子，把雨衣弄得�O�O�@�@响。直到妈妈一声喊：“蕾蕾，你疯啦？嫌身上没长痱子吗？”我才赶忙把雨衣脱下来。摸摸后背，衬衫已经让汗水浸湿了，浑身凉冰冰的。\n我开始盼着变天。可是一连好多天，白天天上都是瓦蓝瓦蓝的，夜晚又变成满天星斗。我的雨衣一直安安静静地躺在盒子里，盒子一直安安静静地躺在衣柜里。每天放学路上我都在想：太阳把天烤得这样干，还能长云彩吗？为什么我一有了雨衣，天气预报就总是“晴”呢？\n有一天，快到家时，路边的小杨树忽然沙啦啦地喧闹起来，就像在嘻嘻地笑。还用问，这是起了风。一会儿，几朵厚墩墩的云彩飘游过来，把太阳也给遮盖住了。天一下子变了脸色。路上行人都加快了走路的速度，我却放慢了脚步，心想，雨点儿打在头上，才是世界上最美的事呢！果然，随着几声闷雷，头顶上真的落上了几个雨点儿。我又伸手试了试周围，手心里也落上了两三个雨点儿。我兴奋地仰起头，甩打着书包就大步跑进了楼门。\n“妈妈！”我嚷着奔进厨房。\n“蕾蕾回来得正好，快把头发擦擦，准备听英语讲座！”\n“可是……还差半小时啊。”我嘟囔着，心想，你怎么就不向窗外看一眼呢？\n“那就休息一下。”妈妈说完，只听吱的一声响，原来她正往热油锅里放蒜薹呢。\n“我今天特别特别不累。妈妈，我给你买酱油去吧，啊？”我央求着。\n“你看，酱油我下班带回来了。”妈妈冲我笑了笑，好像猜着了我的心思。\n“可是……不是还要炖肉吗？炖肉得放好多好多酱油呢。”我一边说，一边用眼瞟着窗外，生怕雨停了。\n“我什么时候说过要炖肉？”妈妈焖上米饭，转过身来看了我两眼。\n“你没说，爸爸可说过。”这话一出口，我就脸红了。因为我没见爸爸，也没人告诉我要炖什么肉。\n“真的吗？”妈妈问。\n我不再说话，也不敢再去看妈妈，急忙背过身子盯住碗架，上边的瓶瓶罐罐确实满满当当，看来不会有出去买东西的希望了。再看看屋里的闹钟，六点二十，我只好打开电视，不声不响地听英语讲座。\n吃过晚饭，雨还在不停地下着，嗒嗒嗒地打着玻璃窗，好像是敲着鼓点逗引我出去。我跑到窗前，不住地朝街上张望着。望着望着又担心起来：要是今天雨都下完了，那明天还有雨可下吗？最好还是留到明天吧。\n说来也怪，雨果真像我希望的那样停了。四周一下子变得那样安静。我推开窗子，凉爽的空气扑了过来，还带点儿腥味。路灯照着大雨冲刷过的马路，马路上像铺了一层明晃晃的玻璃；路灯照着路旁的小杨树，小杨树上像挂满了珍珠玛瑙。可雨点儿要是淋在淡绿色的雨衣上呢，那一定比珍珠玛瑙还好看。我扑到自己的床上，一心想着明天雨点儿打在雨衣上的事。\n第二天早晨一睁眼，四周还是静悄悄的。我决心不再想什么雨不雨的。谁知等我背着书包走到街上，脑门又落上了几滴水珠。我还以为是树上掉下来的，直到我仰着头躲开树，甜丝丝的雨点儿又滴到我嘴唇上时，我的心才又像要从嗓子里蹦出来一样。我几步跑回家，理直气壮地打开柜门，拿出雨衣冲妈妈说：“妈妈，下呢，还在下呢！”\n妈妈一歪头冲我笑了笑，帮我系好扣，戴上帽子。我挺着脖子，小心翼翼地跑下了楼梯。\n我走在街上，甩着两只透明的绿袖子，觉得好像雨点儿都特别爱往我的雨衣上落。它们在我的头顶和肩膀上起劲儿地跳跃：滴答，滴答滴答……",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/eb2d260d4f27d1703146587548560548/eb2d260d4f27d1703146587548560548.m3u8?auth=a4660044269dfc1416580c7be182a3e4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534795.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-16-1.mp3",
+    "grade": "6",
+    "semester": "1",
     "emoji": "📖"
   },
   {
@@ -3871,11 +3549,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "任志宏",
     "content": "浪淘沙（其一）\n[唐]  刘禹锡\n九曲黄河万里沙，\n浪淘风簸自天涯。\n如今直上银河去，\n同到牵牛织女家。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/c1dfcc473b9bf1703147512399814841/c1dfcc473b9bf1703147512399814841.m3u8?auth=894cc1f743f5f6525d2d76ed93b33fb5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534793.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-17-2.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "1️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第17课",
@@ -3883,9 +3560,8 @@ const articlesData =
     "author": "张泽昕",
     "reader": "黎江",
     "content": "江南春\n[唐]  杜牧\n千里莺啼绿映红，\n水村山郭酒旗风。\n南朝四百八十寺，\n多少楼台烟雨中。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/01200ec18eb21703147616173597643/01200ec18eb21703147616173597643.m3u8?auth=9f58f81e6d5de1c27b42bd814b5f7471",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534792.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-17-1.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "🌸"
   },
@@ -3895,11 +3571,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "任志宏",
     "content": "书湖阴先生壁\n[宋]  王安石\n茅檐长扫净无苔，\n花木成畦手自栽。\n一水护田将绿绕，\n两山排闼送青来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/4cbec2df5efe11703147808486923863/4cbec2df5efe11703147808486923863.m3u8?auth=115eda43fa1dc8f420fd33ba7afb9288",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534791.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-17-3.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "🏞️"
   },
   {
     "lesson_number": "第18课",
@@ -3907,11 +3582,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "刘静",
     "content": "据有幸飞上太空的宇航员介绍，他们在天际遨游时遥望地球，映入眼帘的是一个晶莹的球体，上面蓝色和白色的纹痕相互交错，周围�Y着一层薄薄的水蓝色“纱衣”。地球，这位人类的母亲，这个生命的摇篮，是那样美丽壮观，和蔼可亲。\n但是，在群星璀璨的宇宙中，地球是一个半径约为6400千米的星球。同茫茫宇宙相比，地球是渺小的。它只有这么大，不会再长大。\n地球所拥有的自然资源也是有限的。拿矿产资源来说，它不是谁的恩赐，而是经过几百万年，甚至几亿年的地质变化才形成的。地球是无私的，它向人类慷慨地提供矿产资源。但是，如果不加节制地开采，必将加速地球上矿产资源的枯竭。\n人类生活所需要的水资源、土地资源、生物资源等，本来是可以不断再生，长期给人类作贡献的。但是，因为人们随意毁坏自然资源，不顾后果地滥用化学品，不但使它们不能再生，还造成了一系列生态灾难，给人类生存带来了严重的威胁。\n有人会说，宇宙空间不是大得很吗，那里有数不清的星球，在地球资源枯竭的时候，我们不能移居到别的星球上去吗？\n科学家已经证明，至少在以地球为中心的40万亿千米的范围内，没有适合人类居住的第二个星球。人类不能指望地球被破坏以后再移居到别的星球上去。\n不错，科学家们提出了许多设想，例如，在火星或者月球上建造移民基地。但是，即使这些设想能实现，也是遥远的事情。再说，又有多少人能够去居住呢？\n“我们这个地球太可爱了，同时又太容易破碎了！”这是宇航员遨游太空目睹地球时发出的感叹。\n只有一个地球，如果它被破坏了，我们别无去处。如果地球上的各种资源都枯竭了，我们很难从别的地方得到补充。我们要精心地保护地球，保护地球的生态环境。让地球更好地造福于我们的子孙后代吧！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/9c3bb7efef58f1703147923697730789/9c3bb7efef58f1703147923697730789.m3u8?auth=fa906b51a1049f41c40741cc61cdb8fc",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534789.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🌍"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-18-1.mp3",
+    "grade": "6",
+    "semester": "1",
+    "emoji": "⚽"
   },
   {
     "lesson_number": "第19课",
@@ -3919,10 +3593,9 @@ const articlesData =
     "author": "张泽昕",
     "reader": "小草",
     "content": "窗外是参天的杨柳。院子在山沟里，山上全是树。我们盘腿坐在土炕上，就像坐在船上，四周全是绿色的波浪，风一吹，树梢卷过涛声，叶间闪着粼粼的波光。\n我知道这条山沟所处的大环境。这是中国的晋西北，是西伯利亚大风常来肆虐的地方，是干旱、霜冻、沙尘暴等与生命作对的怪物盘踞之地。过去，这里风吹沙起，能一直埋到城头。当地县志记载：“风大作时，能逆吹牛马使倒行，或擎之高二三丈而坠。”就在如此险恶的地方，我对面这个手端一杆旱烟袋的瘦小老头，竟创造了这块绿洲。\n我还知道这个院子里的小环境。一排三间房，就剩下老者一人。老人每天早晨抓把柴煮饭，带上干粮扛上铁锹进沟上山；晚上回来，吃过饭，抽袋烟睡觉。六十五岁那年，他组织了七位老汉开始治理这条沟，现在已有五人离世。他可敬的老伴，与他风雨同舟一生；一天他栽树回来时，发现她已静静地躺在炕上过世了。他已经八十一岁，知道终有一天自己也会爬不起来。他唯一的女儿三番五次地从城里回来，要接他去享清福，他不走。他觉得种树是命运的选择，屋后的青山就是生命的归宿。\n他敲着早烟锅不紧不慢地说着，村干部在旁边恭敬地补充着……十五年啊，绿化了八条沟，造了七条防风林带，三千七百亩林网，这是多么了不起的奇迹。去年冬天，他用林业收入资助每户村民买了一台电视机――他还有宏伟设想，还要栽树，直到自己爬不起来为止。\n在屋里说完话，老人陪我们到沟里去看树。杨树、柳树，如臂如股，劲挺在山洼、山腰。看不见它们的根，山洪涌下的泥埋住了树的下半截，树却勇敢地顶住了山洪的凶猛。这山已失去了原来的坡形，依着一层层的树形成一层层的梯。老人说：“这树下的淤泥有两米厚，都是好土啊！”是的，保住了这黄土，我们才有这绿树；有了这绿树，我们才守住了这片土。\n看完树，我们在村口道别。老人拄着拐杖，慢慢迈进他那个绿风荡漾的小院。我不禁鼻子一酸――也许老人进去后就再也出不来了。作为一个山野老农，他就这样来实现自己的价值。他已经将自己的生命转化为另一种东西。他是真正与山川共存、与日月同辉了。\n这位普通老人让我领悟到：青山是不会老的。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/39b1cbb99211b1703148783501797730/39b1cbb99211b1703148783501797730.m3u8?auth=d787b90dd5dee1cb15cb4f0c8117f249",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534787.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-19-1.mp3",
+    "grade": "6",
+    "semester": "1",
     "emoji": "⛰️"
   },
   {
@@ -3931,11 +3604,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "任志宏",
     "content": "伯牙鼓琴，锺子期听之。方鼓琴而志在太山，锺子期曰：“善哉乎鼓琴，巍巍乎若太山。”少选之间而志在流水，锺子期又曰：“善哉乎鼓琴，汤汤乎若流水。”锺子期死，伯牙破琴绝弦，终身不复鼓琴，以为世无足复为鼓琴者。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/7868f067356a11703152550451790350/7868f067356a11703152550451790350.m3u8?auth=20013e3ec98c262a85c39961cee7b5fd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534784.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-21-1.mp3",
+    "grade": "6",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第21课",
@@ -3943,10 +3615,9 @@ const articlesData =
     "author": "张泽昕",
     "reader": "任志宏",
     "content": "蜀中有杜处士，好书画，所宝以百数。有戴嵩《牛》一轴，尤所爱，锦囊玉轴，常以自随。\n一日曝书画，有一牧童见之，拊掌大笑，曰：“此画斗牛也。牛斗，力在角，尾搐入两股间，今乃掉尾而斗，谬矣。”处士笑而然之。古语有云：“耕当问奴，织当问婢。”不可改也。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/e06048b00ca7b1703152700768564215/e06048b00ca7b1703152700768564215.m3u8?auth=3d1fc9316b7460f85ce3feb82fa730d0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534783.html",
-    "grade": "1",
-    "semester": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-21-2.mp3",
+    "grade": "6",
+    "semester": "1",
     "emoji": "🐄"
   },
   {
@@ -3955,11 +3626,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "姚科",
     "content": "深蓝的天空中挂着一轮金黄的圆月，下面是海边的沙地，都种着一望无际的碧绿的西瓜，其间有一个十一二岁的少年，项带银圈，手捏一柄钢叉，向一匹猹尽力的刺去。那猹却将身一扭，反从他的胯下逃走了。\n这少年便是闰土。我认识他时，也不过十多岁，离现在将有三十年了；那时我的父亲还在世，家景也好，我正是一个少爷。那一年，我家是一件大祭祀的值年。这祭祀，说是三十多年才能轮到一回，所以很郑重；正月里供祖像，供品很多，祭器很讲究，拜的人也很多，祭器也很要防偷去。我家只有一个忙月（我们这里给人做工的分三种：整年给一定人家做工的叫长年；按日给人做工的叫短工；自己也种地，只在过年过节以及收租时候来给一定的人家做工的称忙月），忙不过来，他便对父亲说，可以叫他的儿子闰土来管祭器的。\n我的父亲允许了；我也很高兴，因为我早听到闰土这名字，而且知道他和我仿佛年纪，闰月生的，五行缺土，所以他的父亲叫他闰土。他是能装��捉小鸟雀的。\n我于是日日盼望新年，新年到，闰土也就到了。好容易到了年末，有一日，母亲告诉我，闰土来了，我便飞跑地去看。他正在厨房里，紫色的圆脸，头戴一顶小毡帽，颈上套一个明晃晃的银项圈，这可见他的父亲十分爱他，怕他死去，所以在神佛面前许下愿心，用圈子将他套住了。他见人很怕羞，只是不怕我，没有旁人的时候，便和我说话，于是不到半日，我们便熟识了。\n我们那时候不知道谈些什么，只记得闰土很高兴，说是上城之后，见了许多没有见过的东西。\n第二日，我便要他捕鸟。他说：\n“这不能。须大雪下了才好。我们沙地上，下了雪，我扫出一块空地来，用短棒支起一个大竹匾，撒下秕谷，看鸟雀来吃时，我远远地将缚在棒上的绳子只一拉，那鸟雀就罩在竹匾下了。什么都有：稻鸡，角鸡，鹁鸪，蓝背……”\n我于是又很盼望下雪。\n闰土又对我说：\n“现在太冷，你夏天到我们这里来。我们日里到海边检贝壳去，红的绿的都有，鬼见怕也有，观音手也有。晚上我和爹管西瓜去，你也去。”\n“管贼么？”\n“不是。走路的人口渴了摘一个瓜吃，我们这里是不算偷的。要管的是獾猪，刺猬，猹。月亮地下，你听，啦啦的响了，猹在咬瓜了。你便捏了胡叉，轻轻地走去……”\n我那时并不知道这所谓猹的是怎么一件东西――便是现在也没有知道――只是无端的觉得状如小狗而很凶猛。\n“他不咬人吗？”\n“有胡叉呢。走到了，看见猹了，你便刺。这畜生很伶俐，倒向你奔来，反从胯下窜了。他的皮毛是油一般的滑……”\n我素不知道天下有这许多新鲜事：海边有如许五色的贝壳；西瓜有这样危险的经历，我先前单知道他在水果店里出卖罢了。\n“我们沙地里，潮汛要来的时候，就有许多跳鱼儿只是跳，都有青蛙似的两个脚……”\n阿！闰土的心里有无穷无尽的希奇的事，都是我往常的朋友所不知道的。他们不知道一些事，闰土在海边时，他们都和我一样只看见院子里高墙上的四角的天空。\n可惜正月过去了，闰土须回家里去，我急得大哭，他也躲到厨房里，哭着不肯出门，但终于被他父亲带走了。他后来还托他的父亲带给我一包贝壳和几支很好看的鸟毛，我也曾送他一两次东西，但从此没有再见面。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/c4e509e9c92e5170320966911019831/c4e509e9c92e5170320966911019831.m3u8?auth=612bac0f8e22a240cdcd41fbf63ffe48",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534776.html",
-    "grade": "2",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-24-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第25课",
@@ -3967,11 +3637,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "付淳",
     "content": "灯火渐渐地缩小了，在预告石油的已经不多；石油又不是老牌，早熏得灯罩很昏暗。鞭爆的繁响在四近，烟草的烟雾在身边：是昏沉的夜。\n我闭了眼睛，向后一仰，靠在椅背上；捏着《初学记》的手搁在膝髁上。\n我在朦胧中，看见一个好的故事。\n这故事很美丽，幽雅，有趣。许多美的人和美的事，错综起来像一天云锦，而且万颗奔星似的飞动着，同时又展开去，以至于无穷。\n我仿佛记得曾坐小船经过山阴道，两岸边的乌桕，新禾，野花，鸡，狗，丛树和枯树，茅屋，塔，伽蓝，农夫和村妇，村女，晒着的衣裳，和尚，蓑笠，天，云，竹，……都倒影在澄碧的小河中，随着每一打桨，各各夹带了闪烁的日光，并水里的萍藻游鱼，一同荡漾。诸影诸物，无不解散，而且摇动，扩大，互相融和；刚一融和，却又退缩，复近于原形。边缘都参差如夏云头，镶着日光，发出水银色焰。凡是我所经过的河，都是如此。\n现在我所见的故事也如此。水中的青天的底子，一切事物统在上面交错，织成一篇，永是生动，永是展开，我看不见这一篇的结束。\n河边枯柳树下的几株瘦削的一丈红，该是村女种的罢。大红花和斑红花，都在水里面浮动，忽而碎散，拉长了，如缕缕的胭脂水，然而没有晕。茅屋，狗，塔，村女，云，……也都浮动着。大红花一朵朵全被拉长了，这时是泼剌奔迸的红锦带。带织入狗中，狗织入白云中，白云织入村女中……。在一瞬间，他们又将退缩了。但斑红花影也已碎散，伸长，就要织进塔，村女，狗，茅屋，云里去。\n现在我所见的故事清楚起来了，美丽，幽雅，有趣，而且分明。青天上面，有无数美的人和美的事，我一一看见，一一知道。\n我就要凝视他们……。\n我正要凝视他们时，骤然一惊，睁开眼，云锦也已皱蹙，凌乱，仿佛有谁掷一块大石下河水中，水波陡然起立，将整篇的影子撕成片片了。我无意识地赶忙捏住几乎坠地的《初学记》，眼前还剩着几点虹霓色的碎影。\n我真爱这一篇好的故事，趁碎影还在，我要追回他，完成他，留下他。我抛了书，欠身伸手去取笔，――何尝有一丝碎影，只见昏暗的灯光，我不在小船里了。\n但我总记得见过这一篇好的故事，在昏沉的夜……。\n一九二五年二月二十四日。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/48ddbe455b98117032112062169009/48ddbe455b98117032112062169009.m3u8?auth=7b57b47c775f85a25f026a54629b8913",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534773.html",
-    "grade": "4",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-25-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📚"
+    "emoji": "📖"
   },
   {
     "lesson_number": "第26课",
@@ -3979,11 +3648,10 @@ const articlesData =
     "author": "张泽昕",
     "reader": "王大民",
     "content": "伯父鲁迅先生在世的时候，我年纪还小，根本不知道鲁迅是谁，以为伯父就是伯父，跟任何人的伯父一样。伯父去世了，他的遗体躺在万国殡仪馆的礼堂里，许多人都来追悼他，向他致敬，有的甚至失声痛哭。数不清的挽联挂满了墙壁，大大小小的花圈堆满了整间屋子。送挽联送花圈的有工人，有学生，各色各样的人都有。那时候我有点儿惊异了，为什么伯父得到这么多人的爱戴？我呆呆地望着来来往往吊唁的人，想到我永远见不到伯父的面了，听不到他的声音了，也得不到他的爱抚了，泪珠就一滴一滴地掉下来。\n就在伯父去世那一年的正月里，一个星期六的下午，爸爸妈妈带我到伯父家里去。那时候每到周末，我们姐妹三个轮流跟随着爸爸妈妈到伯父家去团聚。这一天在晚餐桌上，伯父跟我谈起《水浒传》里的故事和人物。不知道伯父怎么会知道我读了《水浒传》，大概是爸爸告诉他的吧。老实说，我读《水浒传》不过囫囵吞枣地看一遍，只注意紧张动人的情节；那些好汉的个性，那些复杂的内容，全搞不清楚，有时候还把这个人做的事情安在那个人身上。伯父问我的时候，我就张冠李戴地乱说一气。伯父摸着胡子，笑了笑，说：“哈哈！还是我的记性好。”听了伯父这句话，我又羞愧，又悔恨，比挨打挨骂还难受。从此，我读什么书都不再马马虎虎了。\n那天临走的时候，伯父送我两本书，一本是《表》，一本是《小约翰》。伯父已经去世多年了，这两本书我还保存着。\n有一次，在伯父家里，大伙儿围着一张桌子吃晚饭。我望望爸爸的鼻子，又望望伯父的鼻子，对他说：“大伯，您跟爸爸哪儿都像，就是有一点不像。”\n“哪一点不像呢？”伯父转过头来，微笑着问我。他嚼着东西，嘴唇上的胡子跟着一动一动的。\n“爸爸的鼻子又高又直，您的呢，又扁又平。”我望了他们半天才说。\n“你不知道，”伯父摸了摸自己的鼻子，笑着说，“我小的时候，鼻子跟你爸爸的一样，也是又高又直的。”\n“那怎么――”\n“可是到了后来，碰了几次壁，把鼻子碰扁了。”\n“碰壁？”我说，“您怎么会碰壁呢？是不是您走路不小心？”\n“你想，四周黑洞洞的，还不容易碰壁吗？”\n“哦！”我恍然大悟，“墙壁当然比鼻子硬得多了，怪不得您把鼻子碰扁了。”\n在座的人都哈哈大笑起来。\n有一年的除夕，我们全家都到伯父家里去了。伯父买了许多爆竹和花筒给我们。我们都胆小得很，没有一个人敢放，伯父和爸爸就替我们放。他们每人捧了一大堆，走到天井里去。我们掩着耳朵，躲在玻璃门后面，睁大了眼睛望着他们。四扇玻璃门，我们三个和海婴一人占一扇。伯母和妈妈站在我们旁边。\n爸爸放的是爆竹，声音真大，可怕极了，虽然关紧了门，掩住了耳朵，也照样听得见。我们紧张极了，气都不敢透一口。\n爸爸放完爆竹，轮到伯父放花筒了。火花在我们眼前飞舞，艳丽的色彩映照在伯父的脸上。我突然注意到他脸上的表情，那么慈祥，那么愉快，眉毛，眼睛，还有额上一条条的皱纹，都现出他心底的欢笑来。那时候，他的脸上充满了自然而和谐的美，是我从来没看见过的。\n有一天黄昏，呼呼的北风怒号着，天色十分阴暗。街上的人都匆匆忙忙赶着回家。爸爸妈妈拉着我的手，到伯父家去。走到离伯父家门口不远的地方，看见一个拉黄包车的坐在地上呻吟，车子扔在一边。\n我们走过去，看见他两只手捧着脚，脚上没穿鞋，地上淌了一摊血。他听见脚步声，抬起头来，饱经风霜的脸上现出难以忍受的痛苦。\n“怎么了？”爸爸问他。\n“先生，”他那灰白的抽动着的嘴唇里发出低微的声音，“没留心，踩在碎玻璃上，玻璃片插进脚底了。疼得厉害，回不了家啦！”\n爸爸跑到伯父家里，不一会儿，就跟伯父拿了药和纱布出来。他们把那个拉车的扶上车子，一个蹲着，一个半跪着，爸爸拿镊子夹出碎玻璃片，伯父拿硼酸水给他洗干净。他们又给他敷上药，扎好绷带。\n拉车的感激地说：“我家离这儿不远，这就可以支持着回去了。两位好心的先生，我真不知道怎么谢你们！”\n伯父又掏出一些钱来给他，叫他在家里休养几天，把剩下的药和绷带也给了他。\n天黑了，路灯发出微弱的光。我站在伯父家门口看着他们，突然感到深深的寒意，摸摸自己的鼻尖，冷得像冰，脚和手也有些麻木了。我想，这么冷的天，那个拉车的怎么能光着脚拉着车在路上跑呢？\n伯父和爸爸回来的时候，我就问他们。伯父的回答我现在记不清了，只记得他的话很深奥，不容易懂。我抬起头来，要求他给我详细地解说。这时候，我清清楚楚地看见，而且现在也清清楚楚地记得，他的脸上不再有那种慈祥的愉快的表情了，他变得那么严肃。他没有回答我，只把枯瘦的手按在我的头上，半天没动，最后深深地叹了一口气。\n伯父逝世以后，我见到他家的女佣阿三。阿三是个工人的妻子，她丈夫失了业，她愁得两只眼睛起了蒙，看东西不清楚，模模糊糊的像隔着雾。她跟我谈起伯父生前的事情。她说：“周先生自己病得那么厉害，还三更半夜地写文章。有时候我听着他一阵阵接连不断地咳嗽，真替他难受。他对自己的病一点儿也不在乎，倒常常劝我多休息，不叫我干重活儿。”\n的确，伯父就是这样的一个人，他为自己想得少，为别人想得多。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/aa6f02a80b78e1703211924196307292/aa6f02a80b78e1703211924196307292.m3u8?auth=41deb0951af78bd6296649126a77db9f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534771.html",
-    "grade": "3",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-26-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "👨"
   },
   {
     "lesson_number": "第27课",
@@ -3991,20 +3659,18 @@ const articlesData =
     "author": "张泽昕",
     "reader": "安然",
     "content": "有的人活着，\n他已经死了；\n有的人死了，\n他还活着。\n有的人\n骑在人民头上：“啊，我多伟大！”\n有的人\n俯下身子给人民当牛马。\n有的人\n把名字刻入石头，想“不朽”；\n有的人\n情愿作野草，等着地下的火烧。\n有的人\n他活着别人就不能活；\n有的人\n他活着为了多数人更好地活。\n骑在人民头上的\n人民把他摔垮；\n给人民作牛马的\n人民永远记住他！\n把名字刻入石头的\n名字比尸首烂得更早；\n只要春风吹到的地方\n到处是青青的野草。\n他活着别人就不能活的人，\n他的下场可以看到；\n他活着为了多数人更好地活的人，\n群众把他抬举得很高，很高。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/74e3b38bf955d1703213224116533765/74e3b38bf955d1703213224116533765.m3u8?auth=7458428d74549594ae01af600958220e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534768.html",
-    "grade": "4",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-27-1.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "阅读链接",
+    "lesson_number": "第2课",
     "title": "古诗节选",
     "author": "袁帅",
     "reader": "冬艳",
     "content": "芭蕉不展丁香结，同向春风各自愁。\n――  李商隐《代赠》\n殷勤解却丁香结，纵放繁枝散诞春。\n――  陆龟蒙《丁香》\n霜树尽空枝，肠断丁香结。\n――  冯延巳《醉花间》\n青鸟不传云外信，丁香空结雨中愁。\n――  李�Z《摊破浣溪沙》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/b83bb5f1784871703057641434970693/b83bb5f1784871703057641434970693.m3u8?auth=967188bc12a50477c42abe67e292dc4c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534671.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-2-1.mp3",
     "grade": "6",
     "semester": "1",
     "emoji": "📜"
@@ -4015,11 +3681,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "肖玉",
     "content": "过故人庄\n[  唐  ]  孟浩然\n故人具鸡黍，邀我至田家。\n绿树村边合，青山郭外斜。\n开轩面场圃，把酒话桑麻。\n待到重阳日，还来就菊花。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/bc29a24b725d21703058122114422848/bc29a24b725d21703058122114422848.m3u8?auth=c4e8a8ec6c5802cade2f1d0a7bf26a1f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534692.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-5.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第5课",
@@ -4027,11 +3692,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "陆洋",
     "content": "菩萨蛮・大柏地\n毛泽东\n赤橙黄绿青蓝紫，\n谁持彩练当空舞？\n雨后复斜阳，\n关山阵阵苍。\n当年鏖战急，\n弹洞前村壁。\n装点此关山，\n今朝更好看。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/7282f34065d731703058326148689506/7282f34065d731703058326148689506.m3u8?auth=53903ca6841502b20b1fb2c143212b57",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534693.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-5-2.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "🔴"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -4039,9 +3703,8 @@ const articlesData =
     "author": "袁帅",
     "reader": "雅坤",
     "content": "春  日\n[  宋  ]  朱熹\n胜日寻芳泗水滨，\n无边光景一时新。\n等闲识得东风面，\n万紫千红总是春。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1220/5315704a197661703061931721574003/5315704a197661703061931721574003.m3u8?auth=78b616bedcf9014b34e154b89aa04a54",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534698.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-3.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "🌸"
   },
@@ -4051,23 +3714,21 @@ const articlesData =
     "author": "袁帅",
     "reader": "原杰",
     "content": "回乡偶书\n[  唐  ]  贺知章\n少小离家老大回，\n乡音无改鬓毛衰。\n儿童相见不相识，\n笑问客从何处来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/6430ddb811b191703139555113684175/6430ddb811b191703139555113684175.m3u8?auth=e1951bff51efd0c5e5a5f5d51af59e99",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534700.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-6.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "📖"
   },
   {
-    "lesson_number": "快乐读书吧",
+    "lesson_number": "古诗词诵读",
     "title": "童年（节选）",
     "author": "袁帅",
     "reader": "李修平",
     "content": "那时我病得很重，刚能勉强起身。我清楚地记得，我病着的时候，开始是父亲开开心心地照顾着我，后来他突然不见了，照顾我的人换成了外祖母，一个很奇怪的人。\n“你从哪儿过来啊？”我问她。\n她回答：“从上面来，从下城来，不是过来，是坐船来！人怎么能自己从水上过来呢，真是个小迷糊！”\n这真可笑，又是上又是下的，让人糊涂。上面，楼上住的是几个染了大胡子的波斯人，而地下室住了一个卖羊皮的黄皮肤卡尔梅克老头。下楼梯可以从扶手上滑下去，要是摔倒的话就滚下去，这我一清二楚。可是这关水什么事？简直都乱套了。\n“我怎么就迷糊呢？”\n“因为你吵得人迷糊啊。”她说完也笑了起来。\n――选自高尔基的《童年》，黄玫译",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/d3abbcdb6c985170313950511533581/d3abbcdb6c985170313950511533581.m3u8?auth=ece43ceabef8736c341ca546a10bf39f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534702.html",
-    "grade": "3",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-1.mp3",
+    "grade": "6",
+    "semester": "1",
+    "emoji": "📄"
   },
   {
     "lesson_number": "习作例文",
@@ -4075,11 +3736,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "林溪",
     "content": "这是一个铁路线上的小站，只有慢车才停靠两三分钟。快车转瞬间疾驰而过，旅客们甚至连站名还来不及看清楚。\n就在这转瞬间，你也许看到一间红瓦灰墙的小屋，月台上几根漆成淡蓝色的木栅栏，或者还有三五个人影。而这一切又立即消失了，火车两旁依然是逼人而来的山崖和巨石。\n这是一个在北方山区常见的小站。月台左面有一张红榜，上面用大字标明了二百四十一天安全无事故的记录，贴着竞赛优胜者的照片。红榜旁边是一块小黑板，上面用白粉笔写着当天的天气预报和早晨的报纸摘要。出站口的旁边贴着一张讲卫生的宣传画。月台上，有两三个挑着箩筐的农民，正准备上车进城。几步以外，站上的两位工作人员正在商量着什么。\n月台中间有一个小小的喷水池，显然是经过精心设计的。喷水池中间堆起一座小小的假山，假山上栽着一棵尺把高的小树。喷泉从小树下面的石孔喷出来，水珠四射，把假山上的小宝塔洗得一尘不染。\n月台的两头种了几株杏树，花开得正艳，引来一群蜜蜂。蜜蜂嗡嗡地边歌边舞，点缀着这个宁静的小站。\n小站上没有钟，也没有电铃。站长吹一长声哨子，刚到站的火车跟着长啸一声，缓缓地离开小站，继续自己的征途。\n这个小站坐落在山坳里。站在月台上向四周望去，只看到光秃秃的石头山，没有什么秀丽的景色。可是就在这儿，就在这个小站上，却出现了一股活泼的喷泉，几树灿烂的杏花。\n这喷泉，这杏花，给旅客们带来了温暖的春意。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/00572c7a6bb441703140343939185068/00572c7a6bb441703140343939185068.m3u8?auth=5d5601cf8b997c227e337c7dbb624053",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534704.html",
-    "grade": "3",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-2.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "🔵"
+    "emoji": "📖"
   },
   {
     "lesson_number": "语文园地",
@@ -4087,11 +3747,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "贾际",
     "content": "五行：金、木、水、火、土\n五谷：稻、麦、黍、菽、稷\n五音：宫、商、角、徵、羽\n五彩：黄、青、赤、白、黑",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/b493f9ac5c00c1703141414488345767/b493f9ac5c00c1703141414488345767.m3u8?auth=d12777b259431dc045908141ec2fdfdd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534707.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-8.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "5️⃣"
+    "emoji": "📖"
   },
   {
     "lesson_number": "第21课",
@@ -4099,11 +3758,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "任志宏",
     "content": "伯牙、锺子期相传为春秋时期人，关于他们二人成为知音的传说，《吕氏春秋》《列子》等古书均有记载，也流传于民间。由于这个传说，人们把真正了解自己的人叫作“知音”，用“高山流水”比喻知音难觅或乐曲高妙。\n我国古诗常提及伯牙、锺子期的传说，如：\n锺期一见知，山水千秋闻。――孟浩然《示孟郊》\n锺期久已没，世上无知音。――李白《月夜听卢子顺弹琴》\n故人舍我归黄壤，流水高山心自知。――王安石《伯牙》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/8a4fc40b9d70f1703141590846311819/8a4fc40b9d70f1703141590846311819.m3u8?auth=5512f9ccf713ab9dd651931383e1b7d2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534708.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-21-3.mp3",
+    "grade": "6",
+    "semester": "1",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -4111,9 +3769,8 @@ const articlesData =
     "author": "袁帅",
     "reader": "智鹏",
     "content": "高山流水          天籁之音          余音绕梁          黄钟大吕\n轻歌曼舞          行云流水          巧夺天工          惟妙惟肖\n画龙点睛          笔走龙蛇          妙笔生花          栩栩如生",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/3a9b1d80763321703141826780496563/3a9b1d80763321703141826780496563.m3u8?auth=bbb4560aa900daa627d2ed63d83b696a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534709.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-4.mp3",
+    "grade": "6",
     "semester": "1",
     "emoji": "⛰️"
   },
@@ -4123,11 +3780,10 @@ const articlesData =
     "author": "袁帅",
     "reader": "安然",
     "content": "无情未必真豪杰，怜子如何不丈夫。――鲁迅《答客诮》\n其实地上本没有路，走的人多了，也便成了路。――鲁迅《故乡》\n惟有民魂是值得宝贵的，惟有他发扬起来，中国才有真进步。――鲁迅《学界的三魂》\n我们从古以来，就有埋头苦干的人，有拼命硬干的人，有为民请命的人，有舍身求法的人……这就是中国的脊梁。――鲁迅《中国人失掉自信力了吗》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/f63c19a6543371703142493063896689/f63c19a6543371703142493063896689.m3u8?auth=75b91066c2afbf078cb05c79772bf7ac",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjsc/20231226/t20231226_526534714.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-1-99-7.mp3",
+    "grade": "6",
     "semester": "1",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第2课",
@@ -4135,11 +3791,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "肖玉",
     "content": "初学喊爸爸的小孩子，会出门叫洋车了的大孩子，嘴巴上长了许多白胡胡的老孩子，提到腊八粥，谁不是嘴里就立时生一种甜甜的腻腻的感觉呢。把小米、饭豆、枣、栗、白糖、花生仁儿合拢来，糊糊涂涂煮成一锅，让它在锅中叹气似的沸腾着，单看它那叹气样儿，闻闻那种香味，就够咽三口以上的唾沫了，何况是，大碗大碗地装着，大匙大匙朝嘴里塞灌呢!\n住方家大院的八儿，今天喜得快要发疯了。他一个人进进出出灶房，看到那一大锅粥正在叹气，碗盏都已预备整齐，摆到灶边好久了，但妈妈总是说时候还早。\n他妈妈正拿起一把锅铲在粥里搅和。锅里的粥也像是益发浓稠了。\n“妈，妈，要到什么时候才……”\n“要到夜里！”其实他妈妈所说的夜里，并不是上灯以后。但八儿听了这种松劲的话，眼睛可急红了。锅中的粥，有声无力的叹气还在继续。\n“那我饿了！”八儿要哭的样子。\n“饿了，也得到太阳落下时才准吃。”\n饿了，也得到太阳落下时才准吃。你们想，妈妈的命令，看羊还不够资格的八儿，难道还能设什么法来反抗吗？并且八儿所说的饿，也不可靠，不过因为一进灶房，  就听到那锅中叹气又像是正在嘟囔的声音，因好奇而急于想尝尝这奇怪东西罢了。\n“妈，妈，等一下我要吃三碗！我们只准大哥吃一碗。大哥同爹都吃不得甜的，我们俩光吃甜的也行……妈，妈，你吃三碗我也吃三碗，大哥同爹只准各吃一碗，一共八碗，是吗？”\n“是啊！孥孥说得对。”\n“要不然我吃三碗半，你就吃两碗半……”\n“噗……”锅内又叹了声气。八儿回过头来，也不过是看到一股淡淡烟气往上一冲而已！\n锅中的一切，对八儿来说，只能猜想：栗子已稀烂到认不清楚了吧，饭豆会煮得浑身肿胀了吧，花生仁儿吃来总已是面面的了！枣子必大了三四倍――要是真的干红枣也有那么大，那就妙极了！糖若放多了，它会起锅巴……“妈，妈，你抱我起来看看吧！”于是妈妈就如八儿所求的把他抱了起来。\n“呃……”他惊异得喊起来了，锅中的一切已进了他的眼中。\n这不能不说是奇怪呀，栗子跌进锅里，不久就得粉碎，那是他知道的。他曾见过跌进黄焖鸡锅子里的一群栗子，不久就融掉了。饭豆煮得肿胀，那也是往常熬粥时常见的事。花生仁儿脱了他的红外套，这是不消说的事。锅巴，正是围了锅边成一圈儿。总之，一切都成了如他所猜的样子了，但他却没想到今日粥的颜色是深褐。\n“怎么，黑的！”八儿同时想起了染缸里的脏水。\n“枣子同赤豆搁多了。”妈妈解释的结果，是拣了一枚大得特别吓人的赤枣给了八儿。\n虽说是枣子同饭豆搁得多了一点儿，但大家都承认味道是比普通的粥要好吃得多了。\n晚饭桌边，靠着妈妈斜立着的八儿，肚子已成了一面小鼓了。他身边桌上那两支筷子，很浪漫地摆成一个十字。桌上那大青花碗中的半碗陈腊肉，八儿的爹同妈也都奈何它不来了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/860bab966c5a41703226042557912080/860bab966c5a41703226042557912080.m3u8?auth=d14b22eb69e80a52b9d301270de5c1d4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531421.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "8️⃣"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-2-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第3课",
@@ -4147,10 +3802,9 @@ const articlesData =
     "author": "吴海波",
     "reader": "姚科",
     "content": "[唐]  韩��\n春城无处不飞花，\n寒食东风御柳斜。\n日暮汉宫传蜡烛，\n轻烟散入五侯家。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/12147d00934621703226085339159348/12147d00934621703226085339159348.m3u8?auth=89637611214a20c3e4f0da3fb1f1eeef",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531419.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-3-2.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -4159,10 +3813,9 @@ const articlesData =
     "author": "吴海波",
     "reader": "闻齐",
     "content": "迢迢牵牛星\n迢迢牵牛星，皎皎河汉女。\n纤纤擢素手，札札弄机杼。\n终日不成章，泣涕零如雨。\n河汉清且浅，相去复几许。\n盈盈一水间，脉脉不得语。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/632557368449c1703226125438557762/632557368449c1703226125438557762.m3u8?auth=1cafca96c5d3068b64e58f99fb182c48",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531418.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-3-3.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "⭐"
   },
   {
@@ -4171,11 +3824,10 @@ const articlesData =
     "author": "吴海波",
     "reader": "忠诚",
     "content": "[唐]  王建\n中庭地白树栖鸦，\n冷露无声湿桂花。\n今夜月明人尽望，\n不知秋思落谁家。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/053a7c79e11451703226148823913230/053a7c79e11451703226148823913230.m3u8?auth=1ec30dae95f349e428f7db8e4e35b854",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531416.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌙"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-3-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "第6课",
@@ -4183,23 +3835,21 @@ const articlesData =
     "author": "吴海波",
     "reader": "成亚",
     "content": "男孩简直不敢相信他会变成小狐仙。“这大概是一场梦、一种幻觉吧！”他想，“过一会儿我肯定还会再变成一个人。”\n他站在镜子前面闭上眼睛，过了好几分钟才睁开。当时他估计怪样子肯定消失了。可是怪样子并没有消失，他仍然像刚才一样小。从别的方面看，他和以前完全一样。他那淡黄的头发、鼻子上的雀斑、皮裤和袜子上的补丁都和过去一模一样，只不过变得很小很小罢了。\n他发现，光那样站着等待是无济于事的，一定得想别的办法。他觉得最聪明的做法就是去找小狐仙讲和。\n他忽然想起，曾听母亲讲过，小狐仙平时都是住在牛棚里的。他立刻决定到那里去看看是否能找到小狐仙。幸好房门半开着，不然他还够不到锁，无法开门呢，而现在他没碰到任何障碍就跑了出去。\n门廊外面的地板上有一只麻雀在跳来跳去。他一看见男孩就叫了起来：“叽叽，叽叽，快看放鹅娃尼尔斯！快看拇指大的小人儿！快看拇指大的小人儿尼尔斯・豪尔耶松！”\n院子里的鹅和鸡立即掉过头来盯着男孩，并发出了一阵使人无法忍受的咯咯声。“咯咯里咕，”公鸡叫道，“他活该，咯咯里咕，他扯过我的鸡冠！”\n然而最奇怪的是男孩听懂了他们说的话。他感到大为吃惊，竟一动不动地站在台阶上听了起来。“这可能是因为我变成了小狐仙的缘故吧！”他自语着，“肯定是由于这个原因，我才听懂了禽兽说的话。”\n那些鸡没完没了地叫着“他活该，他活该……”他实在无法忍受。捡起一块石头朝他们扔了过去，并骂道：“住嘴，你们这群乌合之众！”\n但是他没有想到，他已不再是原来的样子，鸡根本就不怕他。整群鸡都跑到他身边，站在他周围叫着：“咕咕咕，你活该！咕咕咕，你活该！”\n男孩想摆脱他们，但是那些鸡在他后面追着叫着，都快把他的耳朵吵聋了。如果不是家里养的那只猫走了出来，他是怎么也溜不掉的。哪些鸡一看见猫便住了嘴，装着聚精会神地在地上刨虫子吃。\n男孩马上跑到猫跟前。“亲爱的猫咪，”他说，“院子里各个角落和暗洞你不是都很熟悉吗？请你告诉我，在哪里能找到小狐仙？”\n猫没有立刻回答。他坐下来，把尾巴精心地在腿前盘成了一个圆圈，两眼盯着男孩。那是一只大黑猫，脖子下面有个白斑点。他的皮毛平滑，在阳光下闪闪发亮。他的爪子收缩着，灰白的眼睛眯成了一条细缝，样子十分温柔。\n“我知道小狐仙住在什么地方，”他低声说，“但是这并不等于说我愿意告诉你。”\n“亲爱的猫咪，你可得帮我的忙呀！”男孩说，“你没看见他把我变成什么样子了吗？”\n猫稍稍睁了睁眼睛，里面射出了一道寒光。他先得意扬扬地念了一阵经，然后才回答。“要我帮你的忙？是不是因为你经常揪我的尾巴？”\n这时男孩恼怒了。他已经完全忘记他现在是多么弱小无力。“怎么着？我还要揪你的尾巴！”他说着便向猫扑了过去。\n转眼间，猫摇身一变，男孩几乎不敢相信他还是刚才那个动物。他全身的毛都竖了起来，拱起腰，伸直了腿，四脚抓地，尾巴变得粗而短，两耳朝后，嘴里嘶叫着，瞪大的眼睛冒着火星。\n男孩对猫并不示弱，反而向前逼近了一步。这时猫突然一跃，径直朝他扑了过去，把他摔倒在地，跳到他身上，前爪按住他的胸口，对着他的咽喉张开了大嘴。\n男孩感觉到猫的爪子穿过他的背心和衬衣刺进了他的皮肤，锋利的犬牙触到了他的咽喉。他拼命地喊着救命。\n可是一个人也没有来。他断定，他死亡的时刻到了。正在这时，他又觉得猫把爪子收了回去，松开了他的喉咙。\n“好了，”猫说，“这回够了，看在女主人的面上，这次我饶了你。我只想让你知道，咱们俩现在究竟谁厉害。”\n接着，猫就走开了，看上去像他来的时候一样温柔和善。男孩羞得连一句话也说不出来，赶紧溜到牛棚里去找小狐仙了。\n牛棚里只有三头牛。但男孩进去的时候，却是吼声四起，一片混乱，听起来至少是三十头。\n“你过来，”名叫五月玫瑰的牛说，“我给你一蹄子，让你永远不能忘记！”\n“你过来，”名叫金百合的牛说，“我要让你在我的角上跳舞。”\n“你过来，我也叫你尝尝你去年夏天你经常用木鞋打我的滋味！”名叫星星的牛吼道。\n“你过来，你曾经把马蜂放进我的耳朵，现在我要报仇！”金百合叫着。\n五月玫瑰在她们中间年纪最大、最聪明，而且也最生气。“你过来，”她说，“你做的事都应该遭报应了。你曾多次从你母亲腿下抽走她挤奶时坐的小凳，你多次在你母亲提着奶桶走过时伸脚绊倒她，你多次气得她站在这里流眼泪！”\n男孩想对她们说，过去他对她们不好，现在后悔了，只要告诉他小狐仙在哪里，以后他就再不捣蛋。但是牛都不听他说话。她们吵闹得非常凶，他真担心哪头牛会挣断缰绳，所以他觉得还是趁早溜掉为妙。\n他垂头丧气地从牛棚里走了出来。院子里不会有人帮他寻找小狐仙，这他是能够理解的。在这种情况下，即使找到小狐仙，可能也没有多大用处。\n他爬到了长满荆棘和黑莓藤蔓攀缘的厚石头围墙上，他坐在那里环顾着自己的家。那是一座用石头砌墙、木头做支架的白色小房，其他附属的房屋也很小，耕地窄得几乎连马都无法在上面打滚。可是这地方无论怎么小怎么穷，对他来说已经够好的了。他现在除了在牛棚的地上找个洞以外，再也不能要求更好的住所了。\n这天天气好极了。水渠里流水潺潺，树上嫩芽满枝，小鸟在耳边欢唱。而他却坐在那里十分难过，再也没有什么东西能引起他的兴致。\n他从来没有见过天空像这样蓝。候鸟都回来了。他们从海外飞来，越过了波罗的海直奔斯密格虎克，正向北飞行。鸟的种类很多，但是别的鸟他都不认识，只认识那些排成“人”字形的大雁。\n有几群大雁已经飞了过去。他们飞得很高，但是仍然能够听见他们的叫声：“现在飞向高山，现在飞向高山。”\n当大雁们看到在院子里漫游的家鹅时，就一边朝大地低飞，一边喊着：“跟我们来吧！跟我们来吧！现在飞向高山。”\n家鹅不由得都抬起头，听着大雁的叫声。他们回答说：“我们在这里生活得很好！我们在这里生活得很好！”\n如前所说，这天天气格外晴朗，空气清新，春风拂面，这时飞行真是一种享受。随着一群一群的大雁飞过，家鹅越来越动心了。他们中间有几只扇着翅膀跃跃欲试，但是一只老母鹅总是说：“别犯傻！你们一定会受冻挨饿的。”\n大雁的呼叫却使一只年轻的雄鹅真的动了心。“再过来一群我就跟着飞去。”他说。\n真的又过来一群大雁，他们照样呼唤。这时那只年轻的雄鹅答道：“等一等！等一等！我就来。”\n他张开翅膀朝天空飞去。但是他没有飞行的习惯，于是又落到了地上。\n但大雁们还是听到了他的叫声。他们掉过头来慢慢地朝回飞，看他是不是真要跟着去。\n“等一等！等一等！”他一面叫着一面进行新的尝试。\n男孩坐在围墙上，这一切都听得一清二楚。\n“如果这只大雄鹅飞走，可是一个很大的损失，”他想，“父母从教堂回来时，发现雄鹅不见了，他们会伤心的。”\n当他这样想的时候，他又忘记了他是多么弱小无力。他一下子从墙上跳下来，跑进鹅群里，用双臂抱住了雄鹅的脖子。“你可千万不要飞走啊！”他喊道。\n恰恰就在这一瞬间，雄鹅学会了怎样腾空而起。他来不及抖掉男孩就飞向了天空。\n雄鹅飞得那么快，男孩都感到头晕目眩了。等他想到应该放开雄鹅的脖子时，已经到了高空。如果他现在一松手，肯定会掉到地上摔死。\n要想舒服一点，他唯一能做的就是设法爬到鹅背上去。他费了九牛二虎之力总算爬上去了。然而要在翅膀中间光滑的脊背上坐稳，也不是一件容易的事，何况翅膀还在不停的扇动。为了不滑下来，他不得不用两手紧紧地抓住雄鹅的羽毛。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/569855a36145117032262541931653/569855a36145117032262541931653.m3u8?auth=b114c77d35e015813483d495f9a482a5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531409.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🦆"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-6-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "🦢"
   },
   {
-    "lesson_number": "第7课",
+    "lesson_number": "第17课",
     "title": "汤姆・索亚历险记（节选）",
     "author": "吴海波",
     "reader": "王大民",
     "content": "到了星期二的黄昏，圣彼得堡镇仍然笼罩在一片悲伤之中，两个走失的孩子还没有找到。镇上的人们已经为他们作了公开的祈祷，还有许许多多的人私下里为这两个孩子作了祈祷，诚心诚意地祈求他们平平安安，但是依旧没有从洞里传来好消息。大多数搜索的人已经放弃了搜寻孩子这件事，回到镇上继续干他们平日的活儿去了，他们认为孩子明摆着是找不回来了。撒切尔太太病得厉害，大部分时间都在说胡话。人们听见她呼喊孩子，看见她每次抬起头侧耳听上好久，然后一边呻吟着一边软弱无力地垂下头去，那情景真是让人心碎。波莉姨妈已经陷人了悲痛和绝望之中，她那满头的灰发几乎全变白了。到了晚上，镇上停止了一切活动，整个小镇被蒙上了悲伤与凄惨的阴影。\n半夜时分，镇上传来了发疯般的钟声。不一会儿，街道上就挤满了衣衫不整却欣喜若狂的人，他们高声喊着：“快来看！找到他俩了！”人们叮叮当当地敲响了铁碗铜盆，嘀嘀嗒嗒的喇叭声与人们的喧嚷声汇成了一片。大家成群结队地拥向河岸，去迎接那两个乘敞篷车归来的孩子。车子由欢呼着的村民拉着，簇拥着。前来迎接的人们加入了这支回小镇的队伍，他们迈着雄壮有力的步伐，浩浩荡荡地穿过大街，欢呼声一浪高过一浪。\n整个小镇灯火通明，谁也没有再回去睡觉。这是这个小镇前所未有的最辉煌的一个夜晚。在孩子们回来后的半个小时，镇上的人排着队来到撒切尔法官家，搂着两个获救的孩子又亲又吻，同时还使劲握住撒切尔太太的手，满肚子的话想说又不出，泪水如雨，洒了一地。\n波莉姨妈真是高兴到了极点，撒切尔太太也是如此。然而，等派到山洞里的信使把这个喜讯报告给她的丈夫时，快乐才会变得十全十美。汤姆躺在一张沙发上，身边围满了热切的听众。他给他们讲着这次精彩的历险过程，同时还夸张地吹嘘了一番，最后又描述了他怎样离开贝琪去探险，如何在风筝线能达到的情况下顺着那两条通道向前探路，又是怎么去探索第三条通道，直到风筝线不够用了为止。正当他转身往回走时，突然发现远处有一小块亮光，好像是太阳光，于是他放下风筝线朝它摸索着走了过去。他把肩和头从一个小洞中探了出来，竟看见宽阔的密西西比河正从下面滚滚流过！如果碰巧是晚上，他绝不会看见那一小块太阳光，也就找不到这条通道了。他又讲述了他怎样回去找贝琪，告诉了她这个好消息，而她却让他别拿这些无聊的谎话来烦她，因为她很累，知道自己快要死了，她也愿意死掉。他还讲了自己如何费尽口舌说服了贝琪，当她摸索着爬到洞口，看见那一小块太阳光时，怎样兴奋得不得了，简直就要高兴死了。他还说自己怎样先爬出洞口，然后又帮助贝琪爬了出来，他们是如何坐在那里高兴得大声哭了起来，一些人怎样乘着小船打那儿经过，他俩又是怎样呼喊着他们，告诉他们自己的遭遇。他也描述了起初这些人如何不相信这荒唐离奇的故事，因为他们说：“你们是在河的下游，离那个峡谷里的山洞有五英里远呢。”然后他们就将他俩扶上船，划到一户人家，给他俩吃了晚饭，让他们歇息了两三个小时，随后便把他们送回了家。\n汤姆和贝琪很快发现，在洞里所遭受的三天三夜的疲劳和饥饿，是不可能马上恢复过来的。星期三和星期四整整两天，他们一直卧床不起，好像越躺越难受，浑身没有一点儿力气。汤姆星期四稍微能下地活动一会儿，星期五就能到镇上逛逛了，到了星期六差不多完全恢复正常了。但贝琪直到星期天才能够到户外走走，看上去好像刚得了一场大病似的。\n汤姆听说哈克病了，星期五便去看他，谁知道被挡在了门外，星期六、星期天一连两天也都没让他进去。过了星期天，他可以每天去看哈克了，但是哈克的家人告诫他不能透露他的探险经过，也不要谈及任何令人兴奋的话题。道格拉斯寡妇守在旁边，看汤姆是否遵守规定。回到家里。汤姆才听说卡迪夫山发生的事，还得知那个“衣衫褴褛的人”的尸体最后在渡船码头附近被发现了，很可能是在逃跑途中溺水而死的。\n汤姆从山洞里获救两个星期之后，哈克已经强壮多了，也不怕听令人激动的话题了。汤姆又去看望哈克，他想，有一些话题正是哈克感兴趣的。撒切尔法官的家离哈克住的地方不远，于是汤姆就顺道去看了看贝琪。法官和他的几个朋友逗他滔滔不绝地讲了起来，有的人还用嘲弄的口吻问他是否还想再去那个山洞走一趟。汤姆说，他认为他不会在意的。法官说:\n“还有一些人和你一样想去山洞看看呢，汤姆，这一点是毫无疑问的。但是我们已经采取了防范措施，以后谁也不会再在那个山洞里迷路了。”\n“为什么？”\n“因为两周前我就找人用锅炉钢板把山洞的洞口封上了，然后又上了三道锁，钥匙在我这里。”\n汤姆的脸立刻变得煞白。\n“怎么了，孩子！喂，快来人哪！快拿杯水来！”\n有人拿过一杯水，一下子泼在了汤姆的脸上。\n“啊，现在没事了。你怎么了，汤姆？”\n“哎呀，法官，印江・乔埃还在洞里呢！”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/37805f8b1d37b1703226299763640471/37805f8b1d37b1703226299763640471.m3u8?auth=a9ce67526b708efd288808627c1c5a52",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531408.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-7-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📄"
   },
   {
     "lesson_number": "第9课",
@@ -4207,10 +3857,9 @@ const articlesData =
     "author": "郑皓月",
     "reader": "王言",
     "content": "我还记得我的第一次盼望。那是一个星期天，从早晨到下午，一直到天色昏暗下去。\n那个星期天母亲答应带我出去，去哪儿已经记不清了，可能是动物园，也可能是别的什么地方。总之她很久之前就答应了，就在那个星期天带我出去玩，这不会错。一个人平生第一次盼一个日子，都不会错。而且就在那天早晨，母亲也还是这样答应的：去，当然去。我想到底是让我盼来了。\n起床，刷牙，吃饭，那是个春天的早晨，阳光明媚。走吗？等一会儿，等一会儿再走。我跑出去，站在街门口，等一会儿就等一会儿。我藏在大门后，藏了很久。我知道不会是那么简单的一会儿，我得不出声地多藏一会儿。母亲出来了，可我忘了吓唬她，她手里怎么提着菜篮？您说了去！等等，买完菜，买完菜就去。买完菜马上就去吗？嗯。\n这段时光不好挨。我踏着一块块方砖跳，跳房子，等母亲回来。我看着天看着云彩走，等母亲回来，焦急又兴奋。我蹲在院子的地上，用树枝拨弄着一个蚁穴，爬着去找更多的蚁穴。院子里就我一个孩子，没人跟我玩。我坐在草从里翻看一本画报，那是一本看了多少回的电影画报。那上面有一群比我大的女孩子，一个个都非常漂亮。我坐在草从里看她们，想象她们的家，想象她们此刻在干什么，想象她们的兄弟姐妹和她们的父母，想象她们的声音。去年的荒草丛里又有了绿色，院子很大，空空落落。\n母亲买菜回来却又翻箱倒柜忙开了。走吧，您不是说买菜回来就走吗？好啦好啦，没看我正忙呢吗？真奇怪，该是我有理的事啊？不是吗，我不是一直在等着，母亲不是答应过了吗？整个上午我就跟在母亲腿底下：去吗？去吧，走吧，怎么还不走呀？走吧……我就这样念念叨叨地追在母亲的腿底下，看她做完一件事又去做一件事。我还没有她的腿高，那两条不停顿的腿至今走在我眼前晃动，它们不停下来，它们好几次绊在我身上，我好几次差点儿绞在它们中间把它们碰倒。\n下午吧，母亲说，下午，睡醒午觉再去。去，母亲说，下午，准去。但这次怨我，怨我自己，我把午觉睡过了头。醒来时我看见母亲在洗衣服。要是那时就走还不晚。我看看天，还不晚。还去吗？去。走吧？洗完衣服。这一次不能原谅。我不知道那堆衣服要洗多久，可母亲应该知道。我蹲在她身边，看着她洗。我一声不吭，盼着。我想我再不离开半步，再不把觉睡过头。我想衣服一洗完我马上拉起她就走，决不许她再耽搁。我看着盆里的衣服和盆外的衣服，我看着太阳，看着光线，我一声不吭。看着盆里揉动的衣服和绽开的泡沫，我感觉到周围的光线渐渐暗下去，渐渐地凉下去沉郁下去，越来越远越来越缥缈，我一声不吭，忽然有点儿明白了。\n我现在还能感觉到那光线漫长而急遽的变化，孤独而惆怅的黄昏到来，并且听得见母亲咔嚓咔嚓搓衣服的声音，那声音永无休止就像时光的脚步。那个星期天。就在那天。母亲发现男孩儿蹲在那儿一动不动，发现他在哭，在不出声地流泪。我感到母亲惊惶地甩了甩手上的水，把我拉过去拉进她的怀里。我听见母亲在说，一边亲吻着我一边不停地说：“噢，对不起，噢，对不起……”那个星期天，本该是出去的，去哪儿记不得了。男孩儿蹲在那个又大又重的洗衣盆旁，依偎在母亲怀里，闭上眼睛不再看太阳，光线正无可挽回地消逝，一派荒凉。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/9d4971c4e6e3c1703226046417935888/9d4971c4e6e3c1703226046417935888.m3u8?auth=1ed15a4df7b1f7d461fd73341e9c226f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531396.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-9-1.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "⭐"
   },
   {
@@ -4219,10 +3868,9 @@ const articlesData =
     "author": "郑皓月",
     "reader": "安然",
     "content": "马诗\n[唐]  李贺\n大漠沙如雪，\n燕山月似钩。\n何当金络脑，\n快走踏清秋。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/c596346df17511703229625308647873/c596346df17511703229625308647873.m3u8?auth=1aea408c45fda102735a0de43f65dc00",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531394.html",
-    "grade": "4",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-10-1.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "🐎"
   },
   {
@@ -4231,22 +3879,20 @@ const articlesData =
     "author": "郑皓月",
     "reader": "安然",
     "content": "石灰吟\n[明]  于谦\n千锤万凿出深山，\n烈火焚烧若等闲。\n粉骨碎身浑不怕，\n要留清白在人间。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/60ed2b3d3ab1e1703229742643463377/60ed2b3d3ab1e1703229742643463377.m3u8?auth=a1e1829275ffcd20f8083f00badd16ff",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531393.html",
-    "grade": "4",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-10-2.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "第10课",
+    "lesson_number": "第 10 课",
     "title": "竹石",
     "author": "郑皓月",
     "reader": "安然",
     "content": "竹石\n[清]  郑燮\n咬定青山不放松，\n立根原在破岩中。\n千磨万击还坚劲，\n任尔东西南北风。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/e639f089892331703229895579162845/e639f089892331703229895579162845.m3u8?auth=4ef3f161558b6e85eab654c02a19586c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531392.html",
-    "grade": "4",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-10-3.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "🎋"
   },
   {
@@ -4255,11 +3901,10 @@ const articlesData =
     "author": "郑皓月",
     "reader": "原杰",
     "content": "弈秋，通国之善弈者也。使弈秋诲二人弈，其一人专心致志，惟弈秋之为听；一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之。虽与之俱学，弗若之矣。为是其智弗若与？曰：非然也。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/16a16c8de1f231703232108498902718/16a16c8de1f231703232108498902718.m3u8?auth=7a6c735459c9032e22172f9435ec561a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531382.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📚"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-14-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📖"
   },
   {
     "lesson_number": "第16课",
@@ -4267,11 +3912,10 @@ const articlesData =
     "author": "郭雨密",
     "reader": "付淳",
     "content": "我小时候住在一座小城里，城里没有工厂，所以也没有机器的声音。我那时以为凡能发出声音的，都是活的生物。早晨有鸟叫得很好听，夜里有狗吠得很怕人，夏天蝉在绿树上叫，秋晚有各种的虫在草丛中唱不同的歌曲。钟楼上的钟不是活的，有时却洪亮地响起来，那是有一个老人在敲；街心有时响着三弦的声音，那是一个盲人在弹。哪里有死的东西会自己走动，并且能自动地发出和谐的声音呢？\n可是父亲怀里的表有时放在桌子上，不但它的秒针会自己走动，并且它坚硬的表盖里还会发出清脆的声音：嘀嗒，嘀嗒……没有一刻的休息，这声音比蝉鸣要柔和些，比虫的歌曲要单调些。\n一天，我对父亲说：\n“我爱听这表的声音。”\n我一边说一边向着表伸出手去。父亲立刻把我的手拦住了，他说：\n“只许听，不许动。”\n停了一会儿，他又添上一句：\n“小孩儿不许动表。”\n他这么说，就更增加了表的神秘。“不许动”，里边该是什么东西在响呢？我对于它的好奇心一天比一天增加。树上的蝉，草里的虫，都不会轻易被人看见，我想：表里边一定也有一个蝉或虫一类的生物吧。这生物被父亲关在表里，不许小孩子动。\n越不许我动，我越想动，但是我又不敢，因此很痛苦。这样过了许多天。父亲一把表放在桌子上，我的眼睛就再也离不开它。有一次，父亲也许看我的样子太可怜了，也许自己有什么高兴的事，他对我笑着说：“你来，我给你看看表里是什么在响，可是只许看，不许动。”\n没有请求，父亲就自动给我看，我高兴极了，同时我的心也加速跳动。父亲取出一把小刀，把表盖拨开，我的面前立即呈现出一个美丽的世界：蓝色的、红色的小宝石，钉住几个金黄色的齿轮，里边还有一个小尾巴似的东西不停地摆来摆去。这小世界不但被表盖保护着，还被一层玻璃蒙着。我看得入神，唯恐父亲再把这美丽的世界盖上。但是，过了一会儿，父亲还是把表盖上了。父亲的表里边真是好看。\n此后我就常常请求父亲把他的表打开给我看，有时父亲答应我，有时也拒绝我，这要看他高兴不高兴。有一回，父亲又把表打开了，我问：\n“为什么还蒙着一层玻璃呢？”\n“这就是叫你只许看，不许动。”父亲回答。\n“为什么呢？”我又问。\n“这摆来摆去的是一个小蝎子的尾巴，一动就要螫你。”\n我吓了一跳，蝎子是多么丑恶而恐怖的东西，为什么把它放在这样一个美丽的世界里呢？但是我也感到愉快，证实我的猜测没有错：表里边有一个活的生物。我继续问：\n“为什么把那样可怕的东西放在这么好的表里？”\n父亲没有回答。我只想，大半因为它有好听的声音吧。但是一般的蝎子都没有这么好听的声音，也许这里边的蝎子与一般的不同。\n后来我见人就说：“我有蟋蟀在钵子里，蝈蝈儿在葫芦里，鸟儿在笼子里；父亲却有一个小蝎子在表里。”\n这样的话我不知说了多久，也不知道到什么时候才不说了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/aa9ed3988cc771703225648423784354/aa9ed3988cc771703225648423784354.m3u8?auth=fc318070dbc7f183dc24e58ac995aeeb",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531364.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-16-1.mp3",
+    "grade": "6",
     "semester": "2",
-    "emoji": "⌚"
+    "emoji": "📚"
   },
   {
     "lesson_number": "第1课",
@@ -4279,11 +3923,10 @@ const articlesData =
     "author": "杜静",
     "reader": "姚科",
     "content": "我于是猛地想起今天是一个特别的日子。记忆中这个日子在老外婆手里是从凌晨三点开始的。凌晨三点外婆就赤着脚下床，然后开始佝偻着腰紧张而麻利地忙着。\n今天是腊月廿九。是围炉的日子，迎新送旧的日子。\n在闽南老家，这一天是大忙特忙的日子。要擦桌擦床擦门洗地板，要蒸桌面那样大的白糖年糕、红糖年糕、咸味年糕，要炸成缸的“炸枣”，做整盆的五香肠，还要换上新浆洗的窗帘床单铺上雪白的台布。然后，要开始热气腾腾地忙围炉的年饭。\n夜幕降临时，大家便团团围坐在圆桌前。外婆开始祷告，舅舅们开始祝酒，小孩子们开始整段整段地往嘴里塞五香肠。\n妈妈和老外公开始悠悠扬扬地哼起乡剧来。\n于是，除夕噼哩啪啦大笑着走来，又噼哩啪啦大笑着离去。\n――选自斯妤的《除夕》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/ab6a9d573d41a1703225111434548443/ab6a9d573d41a1703225111434548443.m3u8?auth=c1c2c9022c09d03542206f68ff9f93c5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531356.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-1-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📄"
   },
   {
     "lesson_number": "语文园地",
@@ -4291,11 +3934,10 @@ const articlesData =
     "author": "杜静",
     "reader": "康辉",
     "content": "汉乐府\n青青园中葵，朝露待日��。\n阳春布德泽，万物生光辉。\n常恐秋节至，�j黄华叶衰。\n百川东到海，何时复西归？\n少壮不努力，老大徒伤悲。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/28fdf7692d9521703225796969116166/28fdf7692d9521703225796969116166.m3u8?auth=0038ae70fbbe0d21dd539f78ea617ac3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531354.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🎤"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-18.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -4303,10 +3945,9 @@ const articlesData =
     "author": "杜静",
     "reader": "贾际",
     "content": "读书须用意，一字值千金。\n莫道君行早，更有早行人。\n听君一席话，胜读十年书。\n路遥知马力，日久见人心。\n近水知鱼性，近山识鸟音。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/93172a41192a7170322635172064544/93172a41192a7170322635172064544.m3u8?auth=3fbd6625892f4394514979c0ebe68ac2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531345.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-16.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "📖"
   },
   {
@@ -4315,11 +3956,10 @@ const articlesData =
     "author": "杜静",
     "reader": "敬一丹",
     "content": "童年的大院里，住的都是引车卖浆者流，生活不大富，日子各有各的过法。\n冬天，屋子里冷，特别是晚上睡觉的时候，被窝里冰凉如铁，那时家里连个暖水袋都没有。母亲有主意，中午的时候，她把被子抱到院子里，晾到太阳底下。其实，这样的法子很古老，几平各家都会这样做。有意思的是，母亲把被子从绳子上取下来，抱回屋里，赶紧就把被子叠好，铺成被窝状，晚上睡觉我钻进去时，被子里还是暖乎乎的，连被套的棉花味道都烤了出来，很香的感觉。母亲对我说：“我这是把老阳儿叠起来了。”  母亲一直用老家话，把太阳叫老阳儿。“阳儿”读成“爷儿”音。\n从母亲那里，我总能听到好多新词。把老阳儿叠起来，让我觉得新鲜。太阳也可以如卷尺或纸或布一样，能够折叠自如吗?在母亲那里，可以。阳光便能够从中午最热烈的时候，一直储存到晚上我钻进被窝里，温暖的气息和味道，让我感觉到阳光的另一种形态，如同母亲大手的抚摸，比暖水袋温馨许多。\n街坊毕大妈，靠摆摊儿养活一家老小。她家门口有一口半人多高的大水缸，冬天用它来储存大白菜，夏天它还有特殊的用处。夏天到来时，每天中午，毕大妈都要接满一缸自来水，骄阳似火，毒辣辣地照到下午，晒得缸里的水都有些烫手了。水能够溶解糖，溶解盐，水还能够溶解阳光，这大概是童年时候我最大的发现了。解糖的水变甜，溶解盐的水变咸，溶解了阳光的水变暖，变得犹如母亲温暖的怀抱。\n毕大妈的孩子多。黄昏，她家的孩子放学了，毕大妈把孩子们都叫过来，一个个排队洗澡。毕大妈用盆的就是缸里的水，正温乎，孩子们连玩带洗，大呼小叫，噼里啪啦的，溅起一盆的水花，个个演出一场哪吒闹海。\n那时候，各家都没有现在普及的热水器，洗澡一般都是用火烧热水，像毕大妈这样给孩子洗澡，在我们大院是独一份。母亲对我说:“看人家毕大妈，把老阳儿煮在水里面了!”\n我得佩服母亲用词的准确和生动，一个“煮”字，让太阳成了居家过日子必备的一种物件，柴米油盐酱醋茶，这开门七件事之后，还得加上一件，即母亲说的老阳儿。\n真的，谁家都离不开柴米油盐酱醋茶，但是，谁家又离得开老阳儿呢?如同清风朗月不用一文钱一样，老阳儿也不用花一分钱，对所有人都大方且一视同仁，而柴米油盐酱醋茶却样样都得花钱买才行。不过，如母亲和毕大妈这样将阳光派上如此用法的人家，也不多。这样的用法，需要一点儿智慧和温暖的心，更需要在艰苦日子里磨炼出的一点儿本事。阳光成了居家过日子的一把好手，陪伴着母亲和毕大妈一起，让那些庸常而艰辛的琐碎日子变得有滋有味。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/7f8126ed33b4e1703227498255624162/7f8126ed33b4e1703227498255624162.m3u8?auth=6d424a258c8e61023ea7f07163fdad87",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531343.html",
-    "grade": "3",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-14.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "✨"
   },
   {
     "lesson_number": "语文园地",
@@ -4327,10 +3967,9 @@ const articlesData =
     "author": "苏晓静",
     "reader": "宝晓峰",
     "content": "有意栽花花不发，无心插柳柳成荫。\n良药苦口利于病，忠言逆耳利于行。\n树欲静而风不止，子欲养而亲不待。\n常将有日思无日，莫把无时当有时。\n书到用时方恨少，事非经过不知难。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/68a906d28f0851703230031765450462/68a906d28f0851703230031765450462.m3u8?auth=dbbecbb4a29bf8fa8be4af0874bad9b1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531334.html",
-    "grade": "1",
-    "semester": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-15.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "🌺"
   },
   {
@@ -4339,11 +3978,10 @@ const articlesData =
     "author": "苏晓静",
     "reader": "刘沙",
     "content": "詹天佑是我国杰出的爱国工程师。从北京到张家口这一段铁路，最早是在他的主持下修筑成功的。这是第一条完全由我国的工程技术人员设计施工的铁路干线。\n从北京到张家口的铁路长两百千米，是联结华北和西北的交通要道。当时，清政府刚提出修筑的计划，一些帝国主义国家就出来阻挠，他们都要争夺这条铁路的修筑权，想进一步控制我国的北部。帝国主义者谁也不肯让谁，事情争持了好久得不到解决。他们最后提出一个条件，清政府如果用本国的工程师来修筑铁路，他们就不再过问。他们以为这样一要挟，铁路就无法动工，最后还得求助于他们。帝国主义者完全想错了，中国那时候已经有了自己的工程师，詹天佑就是其中一位。\n1905年，清政府任命詹天佑为总工程师，修筑从北京到张家口的铁路。消息一传出来，全国轰动，大家说这一回咱们可争了一口气。帝国主义者却认为这是个笑话。有一家外国报纸轻蔑地说:“能在南口以北修筑铁路的中国工程师还没有出世呢。”原来，从南口往北过居庸关到八达岭，一路都是高山深涧、悬崖峭壁。他们认为，这样艰巨的工程，外国著名的工程师也不敢轻易尝试，至于中国人，是无论如何也完成不了的。\n詹天佑不怕困难，也不怕嘲笑，毅然接受了任务，马上开始勘测线路。哪里要开山，哪里要架桥，哪里要把陡坡铲平，哪里要把弯度改小，都要经过勘测，进行周密计算。詹天佑经常对工作人员说:“我们的工作首先要精密，不能有一点儿马虎。“大概’“差不多’这类说法不应该出自工程人员之口。”他亲自带着学生和工人，扛着标杆，背着经纬仪，在峭壁上定点制图。塞外常常狂风怒号，黄沙满天，一不小心还有坠入深谷的危险。不管条件怎样恶劣，詹天佑始终坚持在野外工作。白天，他攀山越岭，勘测线路；晚上，他就在油灯下绘图、计算。为了寻找一条合适的线路，他常常请教当地的农民。遇到困难，他总是想:  这是中国人自己修筑的第一条铁路，一定要把它修好，否则，不但惹外国人讥笑，还会使中国的工程师失掉信心。\n铁路要经过很多高山，不得不开凿隧道，其中数居庸关和八达岭两条隧道的工程最艰巨。居庸关山势高，岩层厚，詹天佑决定采用从两端同时向中间凿进的办法。山顶的泉水往下渗，隧道里满是泥浆，工地上没有抽水机，詹天佑就带头挑着水桶去排水。八达岭隧道有居庸关隧道的三倍长。他跟老工人一起商量，决定采用中部凿井法，先从山顶往下打一口大的坚井和一口小的竖井，再分别向两头开凿，外面两端也同时施工，把工期缩短了一半。\n铁路经过青龙桥附近，坡度特别大。火车怎样才能爬上这样的陡坡呢?  詹天佑顺着山势，设计了一种“人”字形线路。北上的列车到了南口就用两个火车头，一个在前边拉，一个在后边推。过青龙桥之后，列车向东北前进，过了“人”字形线路的岔道口就倒过来，原先推的火车头拉，原先拉的火车头推，使列车折向西北前进。这样一来，火车上山就容易多了。\n京张铁路不满四年就全线竣工了，比计划提早了两年。这件事给了藐视中国的帝国主义者一个有力的回击。今天，我们乘火车去八达岭，过青龙桥车站，可以看到一座铜像，那就是詹天佑的塑像。\n――本文选自《十年制学校小学课本（试用本）语文第十册》，有改动",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/e250ffd3484481703230148865481964/e250ffd3484481703230148865481964.m3u8?auth=7cfddf1144ee8f4dce3904b20547780a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531328.html",
-    "grade": "1",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-15-1.mp3",
+    "grade": "6",
     "semester": "2",
-    "emoji": "🌤️"
+    "emoji": "📚"
   },
   {
     "lesson_number": "语文园地",
@@ -4351,47 +3989,43 @@ const articlesData =
     "author": "苏晓静",
     "reader": "贺红梅",
     "content": "穷则变，变则通，通则久。\n――《周易》\n苟日新，日日新，又日新。\n――《礼记》\n青，取之于蓝而青于蓝。\n――《苟子》\n苟利于民，不必法古；苟周于事，不必循旧。\n――《淮南子》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/61cd0cf32920b170323032347594137/61cd0cf32920b170323032347594137.m3u8?auth=4dc20dec4c3ffcfa7b64081158fd5988",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531327.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-17.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "阅读材料",
+    "lesson_number": "第六单元综合性学习",
     "title": "作文上的红双圈",
     "author": "苏晓静",
     "reader": "纪萌",
     "content": "1972年的5月，我正上高二。学校里举办“红五月”征文比赛，我投了稿，是一篇很长的作文，题目叫“补考”。\n一天上午，我们正在操场劳动，有同学跑过来告诉我：“获奖征文在报栏里贴出来了，有你的!上面打满了红双圈。”那时候，老师们批阅作文，喜欢在认为最好的词句下面画红双圈。我很兴奋，立刻就想去看看，却又矜持，不愿在同学面前显出我的迫不及待。挨到中午，校园里寂静无人时，我像做贼一样地溜到报栏前，傻乎乎地笑着，独自欣赏我的打满了红双圈的作文。我的心怦怦跳着，从头到尾一个个数下来，一共是九十八个红双圈。这就是语文老师给我的评价。\n带着红双圈的作文在报栏里贴了很久。一天，县文化馆的同志来到学校看见了报栏里的这篇作文，就揭下来带走了。不久，我的作文刊登在了县办刊物上。县办刊物送到扬州地区，被地区刊物选中，第二次发表。几经周转，次年，《补考》竟发表在上海一家出版社的正式刊物上。\n那时，我已经下乡插队。父亲鼓励我：既有一，何不能有二？于是，我就接着“折腾”，陆续发表了很多小说，成了作家。\n没有当年作文上的九十八个红双圈，会有我今天的一切吗？人生有无数条轨道可走、之所以选择了其中的一条，是偶然，更是必然。\n永远感谢我的老师，感谢母校的报栏，感谢挂在我生命之树上的红双圈。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/1d67bdf5d0b22170323055944254563/1d67bdf5d0b22170323055944254563.m3u8?auth=8eaa8f5dd419cfccbe45a726aced7887",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531325.html",
-    "grade": "",
-    "semester": "",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-1.mp3",
+    "grade": "6",
+    "semester": "2",
     "emoji": "🔴"
   },
   {
-    "lesson_number": "阅读材料",
+    "lesson_number": "第15课",
     "title": "我为少男少女们歌唱",
     "author": "苏晓静",
     "reader": "杜月媚",
     "content": "我为少男少女们歌唱。\n我歌唱早晨，\n我歌唱希望，\n我歌唱那些属于未来的事物，\n我歌唱那些正在生长的力量。\n我的歌呵，\n你飞吧，\n飞到那些年轻人的心中\n去找你停留的地方。\n所有使我像草一样颤抖过的\n快乐或者好的思想，\n都变成声音飞到四方八面去吧，\n不管它像一阵微风\n或者一片阳光。\n轻轻地从我琴弦上\n失掉了成年的忧伤，\n我重新变得年轻了，\n我的血流得很快，\n对于生活我又充满了梦想，充满了渴望。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/4084a140e3b3b1703230660526875736/4084a140e3b3b1703230660526875736.m3u8?auth=0d15b80e9da2a710ca520b7929b509b9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531324.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🎵"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/8-1-15-1.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📚"
   },
   {
-    "lesson_number": "阅读材料",
+    "lesson_number": "第六单元综合性学习",
     "title": "聪明在于学习  天才在于积累",
     "author": "苏晓静",
     "reader": "鲁健",
     "content": "有的人在工作、学习中缺乏耐性和韧性，他们一旦碰了钉子，走了弯路就开始怀疑自己是否有研究才能。其实，我可以告诉大家，许多有名的科学家和作家，都是经过很多次失败，走过很多弯路才成功的。有人看见一个作家写出一本好小说，或者看见一个科学家发表几篇有分量的论文，便仰慕不已，很想自己能够信手拈来，妙手成章，一觉醒来，誉满天下。其实，成功的作品和论文只不过是作家、学者们整个创作和研究中的极小部分，甚至数量上还不及失败作品的十分之一。大家看到的只是他们成功的作品，而失败的作品是不会公开发表出来的。\n要知道，一个科学家在攻克科学堡垒的长征中，失败的次数和经验，远比成功的经验要丰富、深刻得多。失败虽然不是什么令人快乐的事情，但也决不应该因此气馁。在进行研究时，研究方向不正确，走了些岔路，白费了许多精力，这也是常有的事。但不要紧，可以再调换方向进行研究。更重要的是要善于吸取失败的教训，总结已有的经验，再继续前进。\n根据我自己的体会，所谓天才，就是坚持不断的努力。有些人也许觉得我在数学方面有什么天分，其实从我身上是找不到这种天分的。我读小学时，因为成绩不好，没有拿到毕业证书，只拿到一张修业证书。初中一年级时，我的数学也是经过补考才及格的。但是说来奇怪，从初中二年级以后，我就发生了一个根本转变，因为我认识到既然我的资质差些，就应该多用点儿时间来学习。别人学一小时，我就学两小时，这样，我的数学成绩得以不断提高。\n一直到现在我也贯彻这个原则：别人看一篇东西要三小时，我就花三个半小时。经过长期积累，就多少可以看出成绩来。并且在基本技巧烂熟之后，往往能够一个钟头就看懂一篇人家看十天半月也解不透的文章。所以，前一段时间的加倍努力，在后一段时间能收到预想不到的效果。\n是的，聪明在于学习，天才在于积累。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/2512ba001a3c11703230771748716133/2512ba001a3c11703230771748716133.m3u8?auth=1f7117bc2aa49c3f33ed311dc3cb28e6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531323.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌤️"
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-2.mp3",
+    "grade": "6",
+    "semester": "2",
+    "emoji": "📖"
   },
   {
     "lesson_number": "古诗词诵读",
@@ -4399,11 +4033,10 @@ const articlesData =
     "author": "苏晓静",
     "reader": "黎江",
     "content": "采薇（节选）\n昔我往矣，\n杨柳依依。\n今我来思，\n雨雪霏霏。\n行道迟迟，\n载渴载饥。\n我心伤悲，\n莫知我哀！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/1e895a083b051703233668034248553/1e895a083b051703233668034248553.m3u8?auth=3d033bde3887ba4780d237c7e0c3e6d1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531319.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-5.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📄"
   },
   {
     "lesson_number": "古诗词诵读",
@@ -4411,11 +4044,10 @@ const articlesData =
     "author": "杜静",
     "reader": "贾际",
     "content": "送元二使安西\n[唐]  王维\n渭城朝雨�徘岢荆�\n客舍青青柳色新。\n劝君更尽一杯酒，\n西出阳关无故人。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/fc8f4486817e31703229258308659312/fc8f4486817e31703229258308659312.m3u8?auth=1f134f0e54c628fee828e79aae6466f2",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531305.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-6.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "2️⃣"
+    "emoji": "📚"
   },
   {
     "lesson_number": "古诗词诵读",
@@ -4423,8 +4055,7 @@ const articlesData =
     "author": "杜静",
     "reader": "黎江",
     "content": "春夜喜雨\n[唐]  杜甫\n好雨知时节，当春乃发生。\n随风潜入夜，润物细无声。\n野径云俱黑，江船火独明。\n晓看红湿处，花重锦官城。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/de00bd29e597b1703575618880642360/de00bd29e597b1703575618880642360.m3u8?auth=c6f4919aaa6b67d5b6ee418b11c28809",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531304.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-7.mp3",
     "grade": "6",
     "semester": "2",
     "emoji": "🌸"
@@ -4435,8 +4066,7 @@ const articlesData =
     "author": "杜静",
     "reader": "王言",
     "content": "早春呈水部张十八员外\n[唐]  韩愈\n天街小雨润如酥，\n草色遥看近却无。\n最是一年春好处，\n绝胜烟柳满皇都。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/e120fb436982a1703230809944864136/e120fb436982a1703230809944864136.m3u8?auth=4ae99b0a32167a2fe5d3e7d29302d3c3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531303.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-8.mp3",
     "grade": "6",
     "semester": "2",
     "emoji": "🌸"
@@ -4447,11 +4077,10 @@ const articlesData =
     "author": "杜静",
     "reader": "陈星",
     "content": "江上渔者\n[宋]  范仲淹\n江上往来人，\n但爱鲈鱼美。\n君看一叶舟，\n出没风波里。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/7b33487a4529e1703577168882603627/7b33487a4529e1703577168882603627.m3u8?auth=2d0f405dd0ce8ff0573c23ca9823f3f9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531301.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-9.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
     "lesson_number": "古诗词诵读",
@@ -4459,8 +4088,7 @@ const articlesData =
     "author": "杜静",
     "reader": "沙晨",
     "content": "泊船瓜洲\n[宋]  王安石\n京口瓜洲一水间，\n钟山只隔数重山。\n春风又绿江南岸，\n明月何时照我还。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/b3db5b3c527041703577231411780940/b3db5b3c527041703577231411780940.m3u8?auth=d0b36af099f176db62283d815f820700",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531300.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-10.mp3",
     "grade": "6",
     "semester": "2",
     "emoji": "⛵"
@@ -4471,11 +4099,10 @@ const articlesData =
     "author": "杜静",
     "reader": "黎江",
     "content": "游园不值\n[宋]  叶绍翁\n应怜屐齿印苍苔，\n小扣柴扉久不开。\n春色满园关不住，\n一枝红杏出墙来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/c40bca5e8cdc81703577364801991232/c40bca5e8cdc81703577364801991232.m3u8?auth=2efa0617a50f42f949c7435e2d0bb68f",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531299.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-11.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "🏊"
+    "emoji": "📚"
   },
   {
     "lesson_number": "古诗词诵读",
@@ -4483,2086 +4110,31 @@ const articlesData =
     "author": "杜静",
     "reader": "王言",
     "content": "卜算子・送鲍浩然之浙东\n[宋]  王观\n水是眼波横，山是眉峰聚。欲问行人去那边？  眉眼盈盈处。\n才始送春归，又送君归去。若到江南赶上春，千万和春住。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1222/21cf70e9f595a170323177449943175/21cf70e9f595a170323177449943175.m3u8?auth=b547bdf08e207ac7380547cb79030f64",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531297.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-12.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "📖"
+    "emoji": "📚"
   },
   {
-    "lesson_number": "古诗词诵读",
-    "title": "浣溪沙  （游蕲水清泉寺……）",
+    "lesson_number": "课外古诗词诵读",
+    "title": "浣溪沙 ",
     "author": "杜静",
     "reader": "肖玉",
     "content": "浣溪沙\n[宋]  苏轼\n游蕲水清泉寺，寺临兰溪，溪水西流。\n山下兰芽短浸溪，松间沙路净无泥，萧萧暮雨子规啼。\n谁道人生无再少？门前流水尚能西！休将白发唱黄鸡。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/1addc43f2f9931703577417149931788/1addc43f2f9931703577417149931788.m3u8?auth=b9e1b36d49410296ee06a3ec9ba18336",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531288.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-13.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "💧"
+    "emoji": "📚"
   },
   {
     "lesson_number": "古诗词诵读",
-    "title": "清平乐  （春归何处……）",
+    "title": "清平乐",
     "author": "杜静",
     "reader": "沙晨",
     "content": "清平乐\n[宋]  黄庭坚\n春归何处？寂寞无行路。若有人知春去处。唤取归来同住。\n春无踪迹谁知？除非问取黄鹂。百啭无人能解，因风飞过蔷薇。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/74e6962eb0a521703577495752131078/74e6962eb0a521703577495752131078.m3u8?auth=aeb324e296032c18d0108cba43b278d4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/lnjxc/20231222/t20231222_526531265.html",
+    "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/6-2-99-4.mp3",
     "grade": "6",
     "semester": "2",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "第2课",
-    "title": "济南的冬天",
-    "author": "郑洁怡",
-    "reader": "方明",
-    "content": "老舍\n对于一个在北平住惯的人，像我，冬天要是不刮大风，便觉得是奇迹；济南的冬天是没有风声的。对于一个刚由伦敦回来的人，像我，冬天要能看得见日光，便觉得是怪事；济南的冬天是响睛的。自然，在热带的地方，日光是永远那么毒，响亮的天气反有点儿叫人害怕。可是，在北中国的冬天，而能有温晴的天气，济南真得算个宝地。\n设若单单是有阳光，那也算不了出奇。请闭上眼想：一个老城，有山有水，全在蓝天下很暖和安适地睡着，只等春风来把他们唤醒，这是不是个理想的境界?\n小山整把济南围了个圈儿，只有北边缺着点儿口儿。这一圈小山在冬天特别可爱，好像是把济南放在一个小摇篮里，他们全安静不动地低声地说：”你们放心吧，这儿准保暖和。”真的，济南的人们在冬天是面上含笑的。他们一看那些小山，心中便觉得有了着落，有了依靠。他们由天上看到山上，便不觉地想起:“明天也许就是春天了吧？这样的温暖，今天夜里山草也许就绿起来了吧?“就是这点儿幻想不能一时实现，他们也并不着急，因为有这样慈善的冬天，干啥还希望别的呢！\n最妙的是下点儿小雪呀。看吧，山上的矮松越发的青黑，树尖儿上顶着一髻儿白花，好像日本看护妇。山尖全白了，给蓝天镶上一道银边。山坡上有的地方雪厚点儿，有的地方草色还露着；这样，一道儿白，一道儿暗黄，给山们穿上一件带水纹的花衣；看着看着，这件花衣好像被风儿吹动，叫你希望看见一点儿更美的山的肌肤。等到快日落的时候，微黄的阳光斜射在山腰上，那点儿薄雪好像忽然害了羞，微微露出点儿粉色。就是下小雪吧，济南是受不住大雪的，那些小山太秀气!\n古老的济南，城内那么狭窄，城外又那么宽敞，山坡上卧着些小村庄，小村庄的房顶上卧着点儿雪，对，这是张小水墨画，也许是唐代的名手画的吧。\n那水呢，不但不结冰，反倒在绿萍上冒着点儿热气。水藻真绿，把终年贮蓄的绿色全拿出来了。天儿越晴，水藻越绿，就凭这些绿的精神，水也不忍得冻上；况且那长枝的垂柳还要在水里照个影儿呢。看吧，由澄清的河水慢慢往上看吧，空中，半空中，天上，自上而下全是那么清亮，那么蓝汪汪的，整个的是块空灵的蓝水晶。这块水晶里，包着红屋顶、黄草山，像地毯上的小团花的小灰色树影。这就是冬天的济南。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/cb13ba573fc31170296662490311868/cb13ba573fc31170296662490311868.m3u8?auth=0cf2ff5d8cbf0ba69936e9e4006f4a8a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231227/t20231227_526536120.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "❄️"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "雨的四季",
-    "author": "郑洁怡",
-    "reader": "闻齐",
-    "content": "刘湛秋\n我喜欢雨，无论什么季节的雨，我都喜欢。她给我的形象和记忆，永远是美的。\n春天，树叶开始闪出黄青，花苞轻轻地在风中摆动，似乎还带着一种冬天的昏黄。可是只要经过一场春雨的洗淋，那种颜色和神态是难以想象的。每一棵树仿佛都睁开特别明亮的眼睛，树枝的手臂也顿时柔软了，而那萌发的叶子，简直就像起伏着一层绿茵茵的波浪。水珠子从花苞里滴下来，比少女的眼泪还娇媚。半空中似乎总挂着透明的水雾的丝帘，牵动着阳光的彩棱镜。这时，整个大地是美丽的。小草似乎像复苏的蚯蚓一样翻动，发出一种春天才能听到的沙沙声。呼吸变得畅快，空气里像有无数芳甜的果子，在诱惑着鼻子和嘴唇。真的，只有这一场雨，才完全驱走了冬天，才使世界改变了姿容。\n而夏天，就更是别有一番风情了。夏天的雨也有夏天的性格，热烈而又粗犷。天上聚集几朵乌云，有时连一点儿雷的预告也没有，你还来不及思索，豆粒大的雨点就打来了。可这时雨并不可怕，因为你浑身的毛孔都热得张开了嘴，巴望着那清凉的甘露。打伞、戴斗笠固然能保持身上的干爽，可光头浇、洗个雨澡更有滋味，只是淋湿的头发、额头、睫毛滴着水，挡着眼睛的视线耳朵也有些痒嗦嗦的。这时，你会更喜欢一切。如果说，春雨给大地披上美丽的衣裳，而经过几场夏天的透雨的浇灌，大地就以自己的丰满而展示它全部的诱惑了。一切都毫不掩饰地敞开了。花朵怒放着，树叶鼓着浆汁，数不清的杂草争先恐后地成长，暑气被一片绿的海绵吸收着。而荷叶铺满了河面，迫切地等待着雨点，和远方的蝉声、近处的蛙鼓一起奏起夏天的雨的交响曲。\n当田野染上一层金黄，各种各样的果实摇着铃铛的时候，雨，似乎也像出嫁生了孩子的妇人，显得端庄而又沉静了。这时候，雨不大出门。田野上几乎总是金黄的太阳。也许，人们都忘记了雨。成熟的庄稼等待收割，金灿灿的种子需要晒干，甚至红透了的山果也希望最后的晒甜。忽然，在一个夜晚，窗玻璃上发出了响声，那是雨，是使人静谧、使人怀想、使人动情的秋雨啊！天空是暗的，但雨却闪着光；田野是静的，但雨在倾诉着。顿时，你会产生一脉悠远的情思。也许，在人们劳累了一个春夏，收获已经在大门口的时候，多么需要安静和沉思啊！雨变得更轻，也更深情了，水声在屋檐下，水花在窗玻璃上，会陪伴着你的夜梦。如果你怀着那种快乐感的话，那白天的秋雨也不会使人厌烦。你只会感到更高邈  、深远，并让凄冷的雨滴，去纯净你的灵魂，而且一定会遥望到一场秋雨后将出现的一个更净美、开阔的大地。\n也许，到冬天来临，人们会讨厌雨吧！但这时候，雨已经化了妆，它经常变成美丽的雪花，飘然莅临人间。但在南国，雨仍然偶尔造访大地，但它变得更吝啬了。它既不倾盆瓢泼，又不绵绵如丝，或淅淅沥沥，它显出一种自然、平静。在冬日灰蒙蒙的天空中，雨变得透明，甚至有些干巴，几乎没有春、夏、秋那样富有色彩。但是，人们受够了冷冽的风的刺激，讨厌那干涩而苦的气息，当雨在头顶上飘落的时候，似乎又降临了一种特殊的温暖，仿佛从那湿润中又漾出花和树叶的气息。那种清冷是柔和的，没有北风那样咄咄逼人。远远地望过去，收割过的田野变得很亮，没有叶的枝干、淋着雨的草垛，对着瓷色的天空，像一幅干净利落的木刻。而近处池畦里的油菜，经这冬雨一洗，甚至忘记了严冬。忽然到了晚间，水银柱降下来，黎明提前敲着窗户，你睁眼一看，屋顶、树枝、街道，都已经盖上柔软的雪被，地上的光亮比天上还亮。这雨的精灵，雨的公主，给南国城市和田野带来异常的蜜情，是它送给人们一年中最后的一份礼物。\n啊，雨，我爱恋的雨啊，你一年四季常在我的眼前流动，你给我的生命带来活跃，你给我的感情带来滋润，你给我的思想带来流动。只有在雨中，我才真正感到这世界是活的，是有欢乐和泪水的。但在北方干燥的城市，我们的相逢是多么稀少！只希望日益增多的绿色，能把你请回我们的生活之中。\n啊，总是美丽而使人爱恋的雨啊！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/a2eb1e49898671702967862765469057/a2eb1e49898671702967862765469057.m3u8?auth=407568194168ea522d84dc31272b683b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534781.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌧️"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "闻王昌龄左迁龙标遥有此寄",
-    "author": "郑洁怡",
-    "reader": "安然",
-    "content": "闻王昌龄左迁龙标遥有此寄\n李白\n杨花落尽子规啼，\n闻道龙标过五溪。\n我寄愁心与明月，\n随君直到夜郎西。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/2fba5e62ccc591702968620795332176/2fba5e62ccc591702968620795332176.m3u8?auth=418c685a144ab0bc083250cb1ce8fc1a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534777.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐉"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "次北固山下",
-    "author": "郑洁怡",
-    "reader": "安然",
-    "content": "次北固山下\n王湾\n客路青山外，行舟绿水前。\n潮平两岸阔，风正一帆悬。\n海日生残夜，江春入旧年。\n乡书何处达？归雁洛阳边。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/049b0c9e14fd31702969086597256456/049b0c9e14fd31702969086597256456.m3u8?auth=dce22078c4f2aad2fc5dc96cf15b7610",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534772.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "第7课",
-    "title": "金色花",
-    "author": "郑洁怡",
-    "reader": "贾际",
-    "content": "泰戈尔\n假如我变成了一朵金色花，只是为了好玩，长在那棵树的高枝上，笑嘻嘻地在风中摇摆，又在新叶上跳舞，妈妈，你会认识我吗?\n你要是叫道:“孩子，你在哪里呀?”我暗暗地在那里匿笑，却一声儿不响。\n我要悄悄地开放花瓣儿，看着你工作。\n当你沐浴后，湿发披在两肩，穿过金色花的林荫，走到你做祷告的小庭院时，你会嗅到这花香，却不知道这香气是从我身上来的。\n当你吃过中饭，坐在窗前读《罗摩衍那》，那棵树的阴影落在你的头发与膝上时，我便要投我的小小的影子在你的书页上，正投在你所读的地方。\n但是你会猜得出这就是你的孩子的小小影子吗？\n当你黄昏时拿了灯到牛棚里去，我便要突然地再落到地上来，又成了你的孩子，求你讲个故事给我听。\n“你到哪里去了，你这坏孩子?”\n“我不告诉你，妈妈。”这就是你同我那时所要说的话了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/a58019d7d02531702971728453702577/a58019d7d02531702971728453702577.m3u8?auth=8793c6c022997408c13d03deb069e2be",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534766.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
-  },
-  {
-    "lesson_number": "第8课",
-    "title": "咏雪",
-    "author": "郑洁怡",
-    "reader": "原杰",
-    "content": "谢太傅寒雪日内集，与儿女讲论文义。俄而雪骤，公欣然曰：“白雪纷纷何所似？”兄子胡儿曰：“撒盐空中差可拟。”兄女曰：“未若柳絮因风起。”公大笑乐。即公大兄无奕女，左将军王凝之妻也。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/b168261132359170297227483992785/b168261132359170297227483992785.m3u8?auth=1e9abf752425bd84e12e502274acf0c8",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534764.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "❄️"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "峨眉山月歌",
-    "author": "郑洁怡",
-    "reader": "马晓勇",
-    "content": "峨眉山月歌\n李白\n峨眉山月半轮秋，\n影入平羌江水流。\n夜发清溪向三峡，\n思君不见下渝州。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/0f5a13e35f7be1702973932283784729/0f5a13e35f7be1702973932283784729.m3u8?auth=4615de10ed1263deedeee3990f947eb0",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534759.html",
-    "grade": "7",
-    "semester": "1",
-    "emoji": "🌙"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "秋词（其一）",
-    "author": "郑洁怡",
-    "reader": "刘明亮",
-    "content": "秋词（其一）\n刘禹锡\n自古逢秋悲寂寥，\n我言秋日胜春朝。\n晴空一鹤排云上，\n便引诗情到碧霄。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d79b0700b5ad51702974368671300229/d79b0700b5ad51702974368671300229.m3u8?auth=329d3b5767caffd17bae240fb4528917",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534758.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🍂"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "十一月四日风雨大作（其二）",
-    "author": "郑洁怡",
-    "reader": "刘明亮",
-    "content": "十一月四日风雨大作（其二）\n陆游\n僵卧孤村不自哀，\n尚思为国戍轮台。\n夜阑卧听风吹雨，\n铁马冰河入梦来。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/f4eecc52a42f71702974558923366011/f4eecc52a42f71702974558923366011.m3u8?auth=b0900e119f108be93f88202ec5cf805c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20231226/t20231226_526534757.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌧️"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "春",
-    "author": "朱敬一",
-    "reader": "肖玉",
-    "content": "作者：朱自清\n盼望着，盼望着，东风来了，春天的脚步近了。\n一切都像刚睡醒的样子，欣欣然张开了眼。山朗润起来了，水涨起来了，太阳的脸红起来了。\n小草偷偷地从土里钻出来，嫩嫩的，绿绿的。园子里，田野里，瞧去，一大片一大片满是的。坐着，躺着，打两个滚，踢几脚球，赛几趟跑，捉几回迷藏。风轻悄悄的，草软绵绵的。\n桃树、杏树、梨树，你不让我，我不让你，都开满了花赶趟儿。红的像火，粉的像霞，白的像雪。花里带着甜味儿；闭了眼，树上仿佛已经满是桃儿、杏儿、梨儿。花下成千成百的蜜蜂嗡嗡地闹着，大小的蝴蝶飞来飞去。野花遍地是：杂样儿，有名字的，没名字的，散在草丛里，像眼睛，像星星，还眨呀眨的。\n“吹面不寒杨柳风”，不错的，像母亲的手抚摸着你。风里带来些新翻的泥土的气息，混着青草味儿，还有各种花的香，都在微微润湿的空气里酝酿。鸟儿将窠巢安在繁花嫩叶当中，高兴起来了，呼朋引伴地卖弄清脆的喉咙，唱出宛转的曲子，与轻风流水应和着。牛背上牧童的短笛，这时候也成天在嘹亮地响。\n雨是最寻常的，一下就是三两天。可别恼。看，像牛毛，像花针，像细丝，密密地斜织着，人家屋顶上全笼着一层薄烟。树叶子却绿得发亮，小草也青得逼你的眼。傍晚时候，上灯了，一点点黄晕的光，烘托出一片安静而和平的夜。乡下去，小路上，石桥边，有撑起伞慢慢走着的人；还有地里工作的农夫，披着蓑，戴着笠的。他们的草屋，稀稀疏疏的，在雨里静默着。\n天上风筝渐渐多了，地上孩子也多了。城里乡下，家家户户，老老小小，他们也赶趟儿似的，一个个都出来了。舒活舒活筋骨，抖擞抖擞精神，各做各的一份事去。“一年之计在于春”，刚起头儿，有的是工夫，有的是希望。\n春天像刚落地的娃娃，从头到脚都是新的，他生长着。\n春天像小姑娘，花枝招展的，笑着，走着。\n春天像健壮的青年，有铁一般的胳膊和腰脚，他领着我们上前去。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D7D-9AE4-41A1-BE3C-2E590A141C1A_2018-05-1118_17_11_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231232.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "观沧海",
-    "author": "李周圆",
-    "reader": "安然",
-    "content": "观沧海\n曹操\n东临碣石，以观沧海。\n水何澹澹，山岛竦峙。\n树木丛生，百草丰茂。\n秋风萧瑟，洪波涌起。\n日月之行，若出其中；\n星汉灿烂，若出其里。\n幸甚至哉，歌以咏志。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBD7-BAF8-40A7-89F2-4FC60A141C1A_2018-12-0712_46_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450327.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌊"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "天净沙・秋思",
-    "author": "朱敬一",
-    "reader": "安然",
-    "content": "天净沙・秋思\n马致远\n枯藤老树昏鸦，\n小桥流水人家，\n古道西风瘦马。\n夕阳西下，\n断肠人在天涯。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D7D-FAF4-48A9-A6A0-2E590A141C1A_2018-05-1118_17_23_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231352.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🍂"
-  },
-  {
-    "lesson_number": "第5课",
-    "title": "秋天的怀念",
-    "author": "朱敬一",
-    "reader": "陈智鹏",
-    "content": "作者：史铁生\n双腿瘫痪后，我的脾气变得暴怒无常。望着望着天上北归的雁阵，我会突然把面前的玻璃砸碎；听着听着李谷一甜美的歌声，我会猛地把手边的东西摔向四周的墙壁。母亲就悄悄地躲出去，在我看不见的地方偷偷地听着我的动静。当一切恢复沉寂，她又悄悄地进来，眼边儿红红的，看着我。“听说北海的花都开了，我推着你去走走。”她总是这么说。母亲喜欢花，可自从我的腿瘫痪后，她侍弄的那些花都死了。“不，我不去！”我狠命地捶打这两条可恨的腿，喊着，“我可活什么劲儿！”母亲扑过来抓住我的手，忍住哭声说：“咱娘儿俩在一块儿，好好儿活，好好儿活……”\n可我却一直都不知道，她的病已经到了那步田地。后来妹妹告诉我，她常常肝疼得整宿整宿翻来覆去地睡不了觉。\n那天我又独自坐在屋里，看着窗外的树叶“唰唰啦啦”地飘落。母亲进来了，挡在窗前：“北海的菊花开了，我推着你去看看吧。”她憔悴的脸上现出央求般的神色。“什么时候？”“你要是愿意，就明天？”她说。我的回答已经让她喜出望外了。“好吧，就明天。”我说。她高兴得一会儿坐下，一会儿站起：“那就赶紧准备准备。”“哎呀，烦不烦？几步路，有什么好准备的！”她也笑了，坐在我身边，絮絮叨叨地说着：“看完菊花，咱们就去‘仿膳’，你小时候最爱吃那儿的豌豆黄儿。还记得那回我带你去北海吗？你偏说那杨树花是毛毛虫，跑着，一脚踩扁一个……”她忽然不说了。对于“跑”和“踩”一类的字眼儿，她比我还敏感。她又悄悄地出去了。\n她出去了，就再也没回来。\n邻居们把她抬上车时，她还在大口大口地吐着鲜血。我没想到她已经病成那样。看着三轮车远去，也绝没有想到那竟是永远的诀别。\n邻居的小伙子背着我去看她的时候，她正艰难地呼吸着，像她那一生艰难的生活。别人告诉我，她昏迷前的最后一句话是：“我那个有病的儿子和我那个还未成年的女儿……”\n又是秋天，妹妹推着我去北海看了菊花。黄色的花淡雅，白色的花高洁，紫红色的花热烈而深沉，泼泼洒洒，秋风中正开得烂漫。我懂得母亲没有说完的话。妹妹也懂。我俩在一块儿，要好好儿活……",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D7D-62C8-48D4-A8E9-2E590A141C1A_2018-05-1118_17_19_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231350.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🍂"
-  },
-  {
-    "lesson_number": "第8课",
-    "title": "陈太丘与友期行",
-    "author": "朱敬一",
-    "reader": "原杰",
-    "content": "陈太丘与友期行，期日中。过中不至，太丘舍去，去后乃至。元方时年七岁，门外戏。客问元方：“尊君在不？”答曰：“待君久不至，已去。”友人便怒曰：“非人哉！与人期行，相委而去。”元方曰：“君与家君期日中。日中不至，则是无信；对子骂父，则是无礼。”友人惭，下车引之。元方入门不顾。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D8E-9E60-417F-A451-2E590A141C1A_2018-05-1118_17_49_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231340.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "从百草园到三味书屋",
-    "author": "朱敬一",
-    "reader": "杨波",
-    "content": "作者：鲁迅\n我家的后面有一个很大的园，相传叫作百草园。现在是早已并屋子一起卖给朱文公的子孙了，连那最末次的相见也已经隔了七八年，其中似乎确凿只有一些野草；但那时却是我的乐园。\n不必说碧绿的菜畦，光滑的石井栏，高大的皂荚树，紫红的桑椹；也不必说鸣蝉在树叶里长吟，肥胖的黄蜂伏在菜花上，轻捷的叫天子（云雀）忽然从草间直窜向云霄里去了。单是周围的短短的泥墙根一带，就有无限趣味。油蛉在这里低唱，蟋蟀们在这里弹琴。翻开断砖来，有时会遇见蜈蚣；还有斑蝥，倘若用手指按住它的脊梁，便会拍的一声，从后窍喷出一阵烟雾。何首乌藤和木莲藤缠络着，木莲有莲房一般的果实，何首乌有拥肿的根。有人说，何首乌根是有像人形的，吃了便可以成仙，我于是常常拔它起来，牵连不断地拔起来，也曾因此弄坏了泥墙，却从来没有见过有一块根像人样。如果不怕刺，还可以摘到覆盆子，象小珊瑚珠攒成的小球，又酸又甜，色味都比桑椹要好得远。\n长的草里是不去的，因为相传这园里有一条很大的赤练蛇。\n长妈妈曾经讲给我一个故事听：先前，有一个读书人住在古庙里用功，晚间，在院子里纳凉的时候，突然听到有人在叫他。答应着，四面看时，却见一个美女的脸露在墙头上，向他一笑，隐去了。他很高兴；但竟给那走来夜谈的老和尚识破了机关。说他脸上有些妖气，一定遇见“美女蛇”了；这是人首蛇身的怪物，能唤人名，倘一答应，夜间便要来吃这人的肉的。他自然吓得要死，而那老和尚却道无妨，给他一个小盒子，说只要放在枕边，便可高枕而卧。他虽然照样办，却总是睡不着，――当然睡不着的。到半夜，果然来了，沙沙沙！门外像是风雨声。他正抖作一团时，却听得豁的一声，一道金光从枕边飞出，外面便什么声音也没有了，那金光也就飞回来，敛在盒子里。后来呢？后来，老和尚说，这是飞蜈蚣，它能吸蛇的脑髓，美女蛇就被它治死了。\n结末的教训是：所以倘有陌生的声音叫你的名字，你万不可答应他。\n这故事很使我觉得做人之险，夏夜乘凉，往往有些担心，不敢去看墙上，而且极想得到一盒老和尚那样的飞蜈蚣。走到百草园的草丛旁边时，也常常这样想。但直到现在，总还是没有得到，但也没有遇见过赤练蛇和美女蛇。叫我名字的陌生声音自然是常有的，然而都不是美女蛇。\n冬天的百草园比较的无味；雪一下，可就两样了。拍雪人（将自己的全形印在雪上）和塑雪罗汉需要人们鉴赏，这是荒园，人迹罕至，所以不相宜，只好来捕鸟。薄薄的雪，是不行的；总须积雪盖了地面一两天，鸟雀们久已无处觅食的时候才好。扫开一块雪，露出地面，用一支短棒支起一面大的竹筛来，下面撒些秕谷，棒上系一条长绳，人远远地牵着，看鸟雀下来啄食，走到竹筛底下的时候，将绳子一拉，便罩住了。但所得的是麻雀居多，也有白颊的“张飞鸟”，性子很躁，养不过夜的。\n这是闰土的父亲所传授的方法，我却不大能用。明明见它们进去了，拉了绳，跑去一看，却什么都没有，费了半天力，捉住的不过三四只。闰土的父亲是小半天便能捕获几十只，装在叉袋里叫着撞着的。我曾经问他得失的缘由，他只静静地笑道：“你太性急，来不及等它走到中间去。”\n我不知道为什么家里的人要将我送进书塾里去了，而且还是全城中称为最严厉的书塾。也许是因为拔何首乌毁了泥墙罢，也许是因为将砖头抛到间壁的梁家去了罢，也许是因为站在石井栏上跳了下来罢，……都无从知道。总而言之：我将不能常到百草园了。Ade，我的蟋蟀们！Ade，我的覆盆子们和木莲们！……\n出门向东，不上半里，走过一道石桥，便是我的先生的家了。从一扇黑油的竹门进去，第三间是书房。中间挂着一块扁道：三味书屋；扁下面是一幅画，画着一只很肥大的梅花鹿伏在古树下。没有孔子牌位，我们便对着那扁和鹿行礼。第一次算是拜孔子，第二次算是拜先生。\n第二次行礼时，先生便和蔼地在一旁答礼。他是一个高而瘦的老人，须发都花白了，还戴着大眼镜。我对他很恭敬，因为我早听到，他是本城中极方正，质朴，博学的人。\n不知从那里听来的，东方朔也很渊博，他认识一种虫，名曰“怪哉”，冤气所化，用酒一浇，就消释了。我很想详细地知道这故事，但阿长是不知道的，因为她毕竟不渊博。现在得到机会了，可以问先生。\n“先生，‘怪哉’这虫，是怎么一回事？……”我上了生书，将要退下来的时候，赶忙问。\n“不知道！”他似乎很不高兴，脸上还有怒色了。\n我才知道做学生是不应该问这些事的，只要读书，因为他是渊博的宿儒，决不至于不知道，所谓不知道者，乃是不愿意说。年纪比我大的人，往往如此，我遇见过好几回了。\n我就只读书，正午习字，晚上对课。先生最初这几天对我很严厉，后来却好起来了，不过给我读的书渐渐加多，对课也渐渐地加上字去，从三言到五言，终于到七言。\n三味书屋后面也有一个园，虽然小，但在那里也可以爬上花坛去折蜡梅花，在地上或桂花树上寻蝉蜕。最好的工作是捉了苍蝇喂蚂蚁，静悄悄地没有声音。然而同窗们到园里的太多，太久，可就不行了，先生在书房里便大叫起来：\n“人都到那里去了？！”\n人们便一个一个陆续走回去；一同回去，也不行的。他有一条戒尺，但是不常用，也有罚跪的规则，但也不常用，普通总不过瞪几眼，大声道：\n“读书！”\n于是大家放开喉咙读一阵书，真是人声鼎沸。有念“仁远乎哉我欲仁斯仁至矣”的，有念“笑人齿缺曰狗窦大开”的，有念“上九潜龙勿用”的，有念“厥土下上上错厥贡苞茅橘柚”的……。先生自己也念书。后来，我们的声音便低下去，静下去了，只有他还大声朗读着：\n“铁如意，指挥倜傥，一座皆惊呢～～；金叵罗，颠倒淋漓噫，千杯未醉嗬～～……。”\n我疑心这是极好的文章，因为读到这里，他总是微笑起来，而且将头仰起，摇着，向后面拗过去，拗过去。\n先生读书入神的时候，于我们是很相宜的。有几个便用纸糊的盔甲套在指甲上做戏。我是画画儿，用一种叫作“荆川纸”的，蒙在小说的绣像上一个个描下来，像习字时候的影写一样。读的书多起来，画的画也多起来；书没有读成，画的成绩却不少了，最成片断的是《荡寇志》和《西游记》的绣像，都有一大本。后来，因为要钱用，卖给一个有钱的同窗了。他的父亲是开锡箔店的；听说现在自己已经做了店主，而且快要升到绅士的地位了。这东西早已没有了罢。\n九月十八日。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D8F-0FD4-4002-8CDF-2E590A141C1A_2018-05-1118_17_55_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231336.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌱"
-  },
-  {
-    "lesson_number": "第11课",
-    "title": "〈论语〉十二章",
-    "author": "朱敬一",
-    "reader": "方明",
-    "content": "子曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”(《学而》)\n曾子曰：“吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？”(《学而》)\n子曰：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”(《为政》)\n子曰：“温故而知新，可以为师矣。”(《为政》)\n子曰：“学而不思则罔，思而不学则殆。”(《为政》)\n子曰：“贤哉，回也！一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤哉，回也！”(《雍也》)\n子曰：“知之者不如好之者，好之者不如乐之者。”(《雍也》)\n子曰：“饭疏食，饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”(《述而》)\n子曰：“三人行，必有我师焉。择其善者而从之，其不善者而改之。”(《述而》)\n子在川上曰：“逝者如斯夫，不舍昼夜。”(《子罕》)\n子曰：“三军可夺帅也，匹夫不可夺志也。”(《子罕》)\n子夏曰：“博学而笃志，切问而近思，仁在其中矣。”(《子张》)",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56D90-315C-4023-8FE8-2E590A141C1A_2018-05-1117_50_48_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231330.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "2️⃣"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "纪念白求恩",
-    "author": "朱敬一",
-    "reader": "雷鹏",
-    "content": "（1939年12月21日）\n作者：毛泽东\n白求恩同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣，不远万里，来到中国。去年春上到延安，后来到五台山工作，不幸以身殉职。一个外国人，毫无利己的动机，把中国人民的解放事业当作他自己的事业，这是什么精神？这是国际主义的精神，这是共产主义的精神，每一个中国共产党员都要学习这种精神。列宁主义认为：资本主义国家的无产阶级要拥护殖民地半殖民地人民的解放斗争，殖民地半殖民地的无产阶级要拥护资本主义国家的无产阶级的解放斗争，世界革命才能胜利。白求恩同志是实践了这一条列宁主义路线的。我们中国共产党员也要实践这一条路线。我们要和一切资本主义国家的无产阶级联合起来，要和日本的、英国的、美国的、德国的、意大利的以及一切资本主义国家的无产阶级联合起来，才能打倒帝国主义，解放我们的民族和人民，解放世界的民族和人民。这就是我们的国际主义，这就是我们用以反对狭隘民族主义和狭隘爱国主义的国际主义。\n白求恩同志毫不利己专门利人的精神，表现在他对工作的极端的负责任，对同志对人民的极端的热忱。每个共产党员都要学习他。不少的人对工作不负责任，拈轻怕重，把重担子推给人家，自己挑轻的。一事当前，先替自己打算，然后再替别人打算。出了一点力就觉得了不起，喜欢自吹，生怕人家不知道。对同志对人民不是满腔热忱，而是冷冷清清，漠不关心，麻木不仁。这种人其实不是共产党员，至少不能算一个纯粹的共产党员。从前线回来的人说到白求恩，没有一个不佩服，没有一个不为他的精神所感动。晋察冀边区的军民，凡亲身受过白求恩医生的治疗和亲眼看过白求恩医生的工作的，无不为之感动。每一个共产党员，一定要学习白求恩同志的这种真正共产主义者的精神。\n白求恩同志是个医生，他以医疗为职业，对技术精益求精；在整个八路军医务系统中，他的医术是很高明的。这对于一班见异思迁的人，对于一班鄙薄技术工作以为不足道、以为无出路的人，也是一个极好的教训。\n我和白求恩同志只见过一面。后来他给我来过许多信。可是因为忙，仅回过他一封信，还不知他收到没有。对于他的死，我是很悲痛的。现在大家纪念他，可见他的精神感人之深。我们大家要学习他毫无自私自利之心的精神。从这点出发，就可以变为大有利于人民的人。一个人能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DBD-30B0-4539-AF3B-2E6A0A141C1A_2018-05-1117_51_04_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231324.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第15课",
-    "title": "诫子书",
-    "author": "朱敬一",
-    "reader": "姚科",
-    "content": "作者：诸葛亮\n夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DBE-68D0-4DC5-99C1-2E6A0A141C1A_2018-05-1118_18_22_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231309.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "猫",
-    "author": "朱敬一",
-    "reader": "杨昶",
-    "content": "作者：郑振铎\n我家养了好几次的猫，结局总是失踪或死亡。三妹是最喜欢猫的，她常在课后回家时，逗着猫玩。有一次，从隔壁要了一只新生的猫来。花白的毛，很活泼，常如带着泥土的白雪球似的，在廊前太阳光里滚来滚去。三妹常常地，取了一条红带，或一根绳子，在它面前来回地拖摇着，它便扑过来抢，又扑过去抢。我坐在藤椅上看着他们，可以微笑着消耗过一二小时的光阴，那时太阳光暖暖地照着，心上感着生命的新鲜与快乐。后来这只猫不知怎地忽然消瘦了，也不肯吃东西，光泽的毛也污涩了，终日躺在厅上的椅下，不肯出来。三妹想着种种方法去逗它，它都不理会。我们都很替它忧郁。三妹特地买了一个很小很小的铜铃，用红绫带穿了，挂在它颈下，但只显得不相称，它只是毫无生意地、懒惰地、郁闷地躺着。有一天中午，我从编译所回来，三妹很难过地说道:“哥哥，小猫死了！”\n我心里也感着一缕的酸辛，可怜这两月来相伴的小侣！当时只得安慰着三妹道：“不要紧，我再向别处要一只来给你。”\n隔了几天，二妹从虹口舅舅家里回来，她道，舅舅那里有三四只小猫，很有趣，正要送给人家。三妹便怂恿着她去拿一只来。礼拜天，母亲回来了，却带了一只浑身黄色的小猫同来。立刻三妹一部分的注意，又被这只黄色小猫吸引去了。这只小猫较第一只更有趣，更活泼。它在园中乱跑，又会爬树，有时蝴蝶安详地飞过时，它也会扑过去捉。它似乎太活泼了，一点也儿不怕生人，有时由树上跃到墙上，又跑到街上，在那里晒太阳。我们都很为它提心吊胆，一天都要“小猫呢？小猫呢？”地查问好几次。每次总要寻找了一回，方才寻到。三妹常指它笑着骂道：“你这小猫呀，要被乞丐捉去后才不会乱跑呢！”我回家吃中饭，总看见它坐在铁门外边，一见我进门，便飞也似的跑进去了。饭后的娱乐，是看它在爬树。隐身在阳光隐约里的绿叶中，好像在等待着要捕捉什么似的。把它捉了下来，又极快地爬上去了。过了二三个月，它会捉鼠了。有一次，居然捉到一只很肥大的鼠，自此，夜间便不再听见讨厌的吱吱的声了。\n某一日清晨，我起床来，披了衣下楼，没有看见小猫，在小园里找了一遍，也不见。心里便有些亡失的预警。\n“三妹，小猫呢？”\n她慌忙地跑下楼来，答道：“我刚才也寻了一遍，没有看见。”\n家里的人都忙乱地在寻找，但终于不见。\n李妈道：“我一早起来开门，还见它在厅上。烧饭时，才不见了它。”\n大家都不高兴，好像亡失了一个亲爱的同伴，连向来不大喜欢它的张妈也说，“可惜，可惜，这样好的一只小猫。”\n我心里还有一线希望，以为它偶然跑到远处去，也许会认得归途的。\n午饭时，张妈诉说道：“刚才遇到隔壁周家的丫头，她说，早上看见我家的小猫在门外，被一个过路的人捉去了。”\n于是这个亡失证实了。三妹很不高兴的，咕噜着道：“他们看见了，为什么不出来阻止？他们明晓得它是我家的！”\n我也怅然地，愤恨地，在诅骂着那个不知名的夺去我们所爱的东西的人。\n自此，我家好久不养猫。\n冬天的早晨，门口蜷伏着一只很可怜的小猫。毛色是花白，但并不好看，又很瘦。它伏着不去。我们如不取来留养，至少也要为冬寒与饥饿所杀。张妈把它拾了进来，每天给它饭吃。但大家都不喜欢它，它不活泼，也不像别的小猫之喜欢玩游，好像是具着天生的忧郁性似的，连三妹那样爱猫的，对于它，也不加注意。如此地，过了几个月，它在我家仍是一只若有若无的动物。它渐渐地肥胖了，但仍不活泼。大家在廊前晒太阳闲谈着时，它也常来蜷伏在母亲或三妹的足下。三妹有时也逗着它玩，但没有像对前几只小猫那样感兴趣。有一天，它因夜里冷，钻到火炉底下去，毛被烧脱好几块，更觉得难看了。\n春天来了，它成了一只壮猫了，却仍不改它的忧郁性，也不去捉鼠，终日懒惰地伏着，吃得胖胖的。\n这时，妻买了一对黄色的芙蓉鸟来，挂在廊前，叫得很好听。妻常常叮嘱着张妈换水，加鸟粮，洗刷笼子。那只花白猫对于这一对黄鸟，似乎也特别注意，常常跳在桌上，对鸟笼凝望着。\n妻道：“张妈，留心猫，它会吃鸟呢。”\n张妈便跑来把猫捉了去。隔一会儿，它又跳上桌子对鸟笼凝望着了。\n一天，我下楼时，听见张妈在叫道：“鸟死了一只，一条腿被咬去了，笼板上都是血。是什么东西把它咬死的？”\n我匆匆跑下去看，果然一只鸟是死了，羽毛松散着，好像曾与它的敌人挣扎了许久。\n我很愤怒，叫道：“一定是猫，一定是猫！”于是立刻便去找它。\n妻听见了，也匆匆地跑下来，看了死鸟，很难过，便道：“不是这猫咬死的还有谁？它常常对鸟笼望着，我早就叫张妈要小心了。张妈！你为什么不小心？！”\n张妈默默无言，不能有什么话来辩护。\n于是猫的罪状证实了。大家都去找这可厌的猫，想给它以一顿惩戒。找了半天，却没找到。真是“畏罪潜逃”了，我以为。\n三妹在楼上叫道：“猫在这里了。”\n它躺在露台板上晒太阳，态度很安详，嘴里好象还在吃着什么。我想，它一定是在吃着这可怜的鸟的腿了，一时怒气冲天，拿起楼门旁倚着的一根木棒，追过去打了一下。它很悲楚地叫了一声“咪呜”，便逃到屋瓦上了。\n我心里还愤愤的，以为惩戒得还没有快意。\n隔了几天，李妈在楼下叫道：“猫，猫！又来吃鸟了！”同时我看见一只黑猫飞快地逃过露台，嘴里衔着一只黄鸟。我开始觉得我是错了！\n我心里十分地难过，真的，我的良心受伤了，我没有判断明白，便妄下断语，冤枉了一只不能说话辩诉的动物。想到它的无抵抗的逃避，益使我感到我的暴怒、我的虐待，都是针，刺我良心的针！\n我很想补救我的过失，但它是不能说话的，我将怎样地对它表白我的误解呢？\n两个月后，我们的猫忽然死在邻家的屋脊上。我对于它的亡失，比以前的两只猫的亡失，更难过得多。\n我永无改正我的过失的机会了！\n自此，我家永不养猫。\n1925年11月7日于上海",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DBF-46E4-4E90-B2E8-2E6A0A141C1A_2018-05-1118_19_06_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231306.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🐱"
-  },
-  {
-    "lesson_number": "第18课",
-    "title": "狼",
-    "author": "李周圆",
-    "reader": "贾旭东",
-    "content": "作者：蒲松龄\n一屠晚归，担中肉尽，止有剩骨。途中两狼，缀行甚远。\n屠惧，投以骨。一狼得骨止，一狼仍从。复投之，后狼止而前狼又至。骨已尽矣，而两狼之并驱如故。\n屠大窘，恐前后受其敌。顾野有麦场，场主积薪其中，苫蔽成丘。屠乃奔倚其下，弛担持刀。狼不敢前，眈眈相向。\n少时，一狼径去，其一犬坐于前。久之，目似瞑，意暇甚。屠暴起，以刀劈狼首，又数刀毙之。方欲行，转视积薪后，一狼洞其中，意将隧入以攻其后也。身已半入，止露尻尾。屠自后断其股，亦毙之。乃悟前狼假寐，盖以诱敌。\n狼亦黠矣，而顷刻两毙，禽兽之变诈几何哉？止增笑耳。",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450330.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "天上的街市",
-    "author": "朱敬一",
-    "reader": "雷鹏",
-    "content": "天上的街市\n郭沫若\n远远的街灯明了，\n好像闪着无数的明星。\n天上的明星现了，\n好像点着无数的街灯。\n我想那缥缈的空中，\n定然有美丽的街市。\n街市上陈列的一些物品，\n定然是世上没有的珍奇。\n你看，那浅浅的天河，\n定然是不甚宽广。\n那隔着河的牛郎织女，\n定能够骑着牛儿来往。\n我想他们此刻，\n定然在天街闲游。\n不信，请看那朵流星，\n是他们提着灯笼在走。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DBF-A460-4D8B-B408-2E6A0A141C1A_2018-05-1118_20_00_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231280.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🌤️"
-  },
-  {
-    "lesson_number": "第22课",
-    "title": "穿井得一人",
-    "author": "李周圆",
-    "reader": "阿杰",
-    "content": "宋之丁氏，家无井而出溉汲，常一人居外。及其家穿井，告人曰：“吾穿井得一人。”有闻而传之者：“丁氏穿井得一人。”国人道之，闻之于宋君。宋君令人问之于丁氏。丁氏对曰：“得一人之使，非得一人于井中也。”求闻之若此，不若无闻也。",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450331.html",
-    "grade": "4",
-    "semester": "2",
-    "emoji": "1️⃣"
-  },
-  {
-    "lesson_number": "第22课",
-    "title": "杞人忧天",
-    "author": "李周圆",
-    "reader": "林溪",
-    "content": "杞国有人忧天地崩坠，身亡所寄，废寝食者。\n又有忧彼之所忧者，因往晓之，曰：“天，积气耳，亡处亡气。若屈伸呼吸，终日在天中行止，奈何忧崩坠乎？”\n其人曰：“天果积气，日月星宿，不当坠耶？”\n晓之者曰：“日月星宿，亦积气中之有光耀者，只使坠，亦不能有所中伤。”\n其人曰：“奈地坏何？”\n晓之者曰：“地，积块耳，充塞四虚，亡处亡块。若躇步��蹈，终日在地上行止，奈何忧其坏？”\n其人舍然大喜，晓之者亦舍然大喜。",
-    "audio_url": "",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450332.html",
-    "grade": "4",
-    "semester": "2",
-    "emoji": "🌤️"
-  },
-  {
-    "lesson_number": "第22课",
-    "title": "蚊子和狮子",
-    "author": "朱敬一",
-    "reader": "王纪春",
-    "content": "《伊索寓言》\n蚊子飞到狮子面前，对他说：“我不怕你，你并不比我强。若说不是这样，你到底有什么力量呢？是用爪子抓，牙齿咬吗？女人同男人打架，也会这么干。我比你强得多。你要是愿意，我们来较量较量吧！”蚊子吹着喇叭冲过去，专咬狮子鼻子周围没有毛的地方。狮子气得用爪子把自己的脸都抓破了。蚊子战胜了狮子，又吹起喇叭，唱着凯歌飞走，却被蜘蛛网粘住了。蚊子将要被吃掉时，叹息说，自己同最强大的动物都较量过，不料被这小小的蜘蛛消灭了。\n这故事适用于那些打败过大人物，却被小人物打败的人。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DD9-C794-4C30-845C-2E770A141C1A_2018-05-1118_20_38_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231253.html",
-    "grade": "4",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "行军九日思长安故园",
-    "author": "李周圆",
-    "reader": "马晓勇",
-    "content": "行军九日思长安故园\n岑参\n强欲登高去，无人送酒来。\n遥怜故园菊，应傍战场开。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBD8-DC0C-44FD-98AC-4FC60A141C1A_2018-12-0712_49_43_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450328.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "9️⃣"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "夜上受降城闻笛",
-    "author": "李周圆",
-    "reader": "刘静",
-    "content": "夜上受降城闻笛\n李益\n回乐烽前沙似雪，受降城外月如霜。\n不知何处吹芦管，一夜征人尽望乡。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBD8-2394-41A9-925D-4FC60A141C1A_2018-12-0712_46_31_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450329.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "江南逢李龟年",
-    "author": "朱敬一",
-    "reader": "刘静",
-    "content": "江南逢李龟年\n杜甫\n岐王宅里寻常见，崔九堂前几度闻。\n正是江南好风景，落花时节又逢君。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DBD-DEBC-4D6E-B7EC-2E6A0A141C1A_2018-05-1118_18_16_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231326.html",
-    "grade": "7",
-    "semester": "1",
-    "emoji": "🍃"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "夜雨寄北",
-    "author": "李周圆",
-    "reader": "于芳",
-    "content": "夜雨寄北\n李商隐\n君问归期未有期，巴山夜雨涨秋池。\n何当共剪西窗烛，却话巴山夜雨时。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBE9-B950-4327-8292-4F7F0A141C1A_2018-12-0712_47_18_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20181214/t20181214_524450333.html",
-    "grade": "7",
-    "semester": "1",
-    "emoji": "🌧️"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "潼关",
-    "author": "朱敬一",
-    "reader": "于芳",
-    "content": "潼关谭嗣同\n终古高云簇此城，秋风吹散马蹄声。\n河流大野犹嫌束，山入潼关不解平。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF56DDA-70E0-4D64-9A40-2E770A141C1A_2018-05-1118_20_14_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjsc/20180513/t20180513_524231246.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第15课",
-    "title": "最苦与最乐",
-    "author": "郭彦伟",
-    "reader": "杨富江",
-    "content": "梁启超\n人生什么事最苦呢？贫吗？不是。失意吗？不是。老吗？死吗？都不是。我说人生最苦的事，莫苦于身上背着一种未来的责任。\n人若能知足，虽贫不苦；若能安分（不多做分外希望），虽失意不苦；老、病、死，乃人生难免的事，达观的人看得很平常，也不算什么苦。独是凡人在世间一天，便有一天应该做的事；该做的事没有做完，便像是有几千斤重担压在肩头，再苦是没有的了。为什么呢？因为受那良心责备不过，要逃躲也没处逃躲呀。\n答应人办一件事没有办，欠了人的钱没有还，受了人的恩惠没有报答，得罪了人没有赔礼，这就连这个人的面也几乎不敢见他；纵然不见他的面，睡里梦里都像有他的影子来缠着我。为什么呢？因为觉得对不住他呀，因为自己对于他的责任还没有解除呀！不独是对于一个人如此，就是对于家庭，对于社会，对于国家，乃至对于自己，都是如此。凡属我应该做的事，而且力量能够做得到的，我对于这件事便有了责任。凡属我自己打主意要做一件事，便是现在的自己和将来的自己立了一种契约，便是自己对于自己加一层责任。有了这责任，那良心便时时刻刻监督在后头，一日应尽的责任没有尽，到夜里头便是过的苦痛日子。一生应尽的责任没有尽，便死也是带著痛苦往坟墓里去。这种苦痛却比不得普通的贫、病、老，可以达观排解得开。所以我说，人生没有苦痛便罢；若有苦痛，当然没有比这个更加重的了。\n翻过来看，什么事最快乐呢？自然责任完了，算是人生第一件乐事。古语说得好，“如释重负”；俗语亦说的是，“心上一块石头落了地”。人到这个时候，那种轻松愉快，直是不可以言语形容。责任越重大，负责的日子越久长，到责任完了时，海阔天空，心安理得，那快乐还要加几倍哩！大抵天下事，从苦中得来的乐，才算是真乐。人生须知道负责任的苦处，才能知道有尽责任的乐处。这种苦乐循环，便是这有活力的人间一种趣味。不尽责任，受良心责备，这些苦都是自己找来的。一翻过去，处处尽责任，便处处快乐；时时尽责任，便时时快乐。快乐之权操之在己，孔子所以说“无入而不自得”，正是这种作用。\n然则为什么孟子又说“君子有终身之忧”呢？因为越是圣贤豪杰，他负的责任便越是重大；而且他常要把种种责任来揽在身上，肩头的担子，从没有放下的时节。曾子还说哩：“任重而道远，死而后已，不亦远乎？”那仁人志士的忧民忧国，那诸圣诸佛的悲天悯人，虽说他是一辈子苦痛，也都可以。但是他日日在那里尽责任，便日日在那里得苦中真乐，所以他到底还是乐不是苦呀！\n有人说：“既然这苦是从负责任生来，我若是将责任卸却，岂不就永远没有苦了吗？”这却不然，责任是要解除了才没有，并不是卸了就没有。人生若能永远像两三岁小孩，本来没有责任，那就本来没有苦。到了长成，那责任自然压在你头上，如何能躲？不过有大小的分别罢了。尽得大的责任，就得大快乐；尽得小的责任，就得小快乐。你若是要躲，倒是自投苦海，永远不能解除了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/7df49c443cfad1702971301680427061/7df49c443cfad1702971301680427061.m3u8?auth=cac76b2f47e76e56e5c715f0d10aab87",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20231225/t20231225_526533638.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第17课",
-    "title": "紫藤萝瀑布",
-    "author": "郭彦伟",
-    "reader": "林溪",
-    "content": "宗璞\n我不由得停住了脚步。\n从未见过开得这样盛的藤萝，只见一片辉煌的淡紫色，像一条瀑布，从空中垂下，不见其发端，也不见其终极。只是深深浅浅的紫，仿佛在流动，在欢笑，在不停地生长。紫色的大条幅上，泛着点点银光，就像迸溅的水花。仔细看时，才知道那是每一朵紫花中的最浅淡的部分，在和阳光互相挑逗。\n这里春红已谢，没有赏花的人群，也没有蜂围蝶阵。有的就是这一树闪光的、盛开的藤萝。花朵儿一串挨着一串，一朵接着一朵，彼此推着挤着，好不活泼热闹！\n“我在开花！”它们在笑。\n“我在开花！”它们嚷嚷。\n每一穗花都是上面的盛开，下面的待放。颜色便上浅下深，好像那紫色沉淀下来了，沉淀在最嫩最小的花苞里。每一朵盛开的花就像是一个小小的张满了的帆，帆下带着尖底的舱，船舱鼓鼓的；又像一个忍俊不禁的笑容，就要绽开似的。那里装的是什么仙露琼浆？我凑上去，想摘一朵。\n但是我没有摘。我没有摘花的习惯。我只是伫立凝望，觉得这一条紫藤萝瀑布不只在我眼前，也在我心上缓缓流过。流着流着，它带走了这些时一直压在我心上的关于生死的疑惑，关于疾病的痛楚。我浸在这繁密的花朵的光辉中，别的一切暂时都不存在，有的只是精神的宁静和生的喜悦。\n这里除了光彩，还有淡淡的芳香，香气似乎也是浅紫色的，梦幻一般轻轻地笼罩着我。忽然记起十多年前家门外也曾有过一大株紫藤萝，它依傍一株枯槐爬得很高，但花朵从来都稀落，东一穗西一串伶仃地挂在树梢，好像在察言观色，试探什么。后来索性连那稀零的花串也没有了。园中别的紫藤花架也都拆掉，改种了果树。那时的说法是，花和生活腐化有什么必然关系。我曾遗憾地想：这里再也看不见藤萝花了。\n过了这么多年，藤萝又开花了，而且开得这样盛，这样密，紫色的瀑布遮住了粗壮的盘虬卧龙般的枝干，不断地流着，流着，流向人的心底。\n花和人都会遇到各种各样的不幸，但是生命的长河是无止境的。我抚摸了一下那小小的紫色的花舱，那里满装生命的酒酿，它张满了帆，在这闪光的花的河流上航行。它是万花中的一朵，也正是一朵一朵花，组成了万花灿烂的流动的瀑布。\n在这浅紫色的光辉和浅紫色的芳香中，我不觉加快了脚步。\n1982年5月6日",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/003f1ee8eeece1702971781925280256/003f1ee8eeece1702971781925280256.m3u8?auth=956fcbe56704ec405789756dfd3dca1e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20231223/t20231223_526532009.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "贾生",
-    "author": "郭彦伟",
-    "reader": "于芳",
-    "content": "贾生\n李商隐\n宣室求贤访逐臣，贾生才调更无伦。\n可怜夜半虚前席，不问苍生问鬼神。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/d1702cb54f26a1702973772396391195/d1702cb54f26a1702973772396391195.m3u8?auth=697f48a4db1bee0f82c03c5481690f1d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20231223/t20231223_526532177.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "邓稼先",
-    "author": "王启慧",
-    "reader": "黎江",
-    "content": "作者：杨振宁\n从“任人宰割”到“站起来了”\n一百年以前，甲午战争和八国联军时代，恐怕是中华民族五千年历史上最黑暗最悲惨的时代，只举1898年为例：\n德国强占山东胶州湾，“租借”99年。\n俄国强占辽宁旅顺大连，“租借”25年。\n法国强占广东广州湾，“租借”99年。\n英国强占山东威海卫与香港新界，前者“租借”25年，后者“租借”99年。\n那是中华民族任人宰割的时代，是有亡国灭种的危险的时代。\n今天，一个世纪以后，中国人民站起来了。\n这是千千万万人努力的结果，是许许多多可歌可泣的英雄人物创造出来的伟大胜利。在20世纪人类历史上，这可能是最重要的、影响最深远的巨大转变。\n对这一转变做出了巨大贡献的，有一位长期以来鲜为人知的科学家――邓稼先。\n“两弹”元勋\n邓稼先1924年出生在安徽省怀宁县。在北平上了小学和中学，于1945年自昆明西南联大毕业。1948年到1950年赴美国普渡大学读理论物理，获得博士学位后立即乘船回国。1950年10月到中国科学院工作。1958年8月奉命带领几十个大学毕业生开始研究原子弹制造的理论。\n这以后的28年间，邓稼先始终站在中国原子武器设计制造和研究的第一线，领导许多学者和技术人员，成功地设计了中国的原子弹和氢弹，把中华民族国防自卫武器引导到了世界先进水平。\n1964年10月16日中国爆炸了第一颗原子弹。\n1967年6月17日中国爆炸了第一颗氢弹。\n这些日子是中华民族五千年历史上的重要日子，是中华民族完全摆脱任人宰割危机的新生日子!\n1967年以后邓稼先继续他的工作，至死不懈，对国防武器做出了许多新的巨大贡献。\n1985年8月邓稼先做了切除直肠癌的手术。次年3月又做了第二次手术。在这期间他和于敏联合署名写了一份关于中华人民共和国核武器发展的建议书。1986年5月邓稼先做了第三次手术，7月29日因全身大出血而逝世。\n“鞠躬尽瘁，死而后已”正好准确地描述了他的一生。\n邓稼先是中华民族核武器事业的奠基人和开拓者。张爱萍将军称他为“‘两弹’元勋”，他是当之无愧的。\n邓稼先与奥本海默\n1936年到1937年，稼先和我在北平崇德中学同学一年；后来在西南联大我们又是同学；以后他在美国留学的两年期间我们曾住同屋。50年的友谊，亲如兄弟。\n1949年到1966年我在普林斯顿高等学术研究所工作，前后17年的时间里所长都是物理学家奥本海默。当时，他是美国家喻户晓的人物，因为他曾成功地领导战时美国的原子弹制造工作。高等学术研究所是一个很小的研究所，物理教授最多的时候只有五个人，奥本海默是其中之一，所以我和他很熟识。\n奥本海默和邓稼先分别是美国和中国原子弹设计的领导人，各是本国的功臣，可是他们的性格和为人却截然不同――甚至可以说他们走向了两个相反的极端。\n奥本海默是一个拔尖的人物，锋芒毕露。他二十几岁的时候在德国哥廷根镇做玻恩的研究生。玻恩在他晚年所写的自传中说，研究生奥本海默常常在别人做学术报告时(包括玻恩做学术报告时)打断报告，走上讲台拿起粉笔说：“这可以用底下的办法做得更好……”我认识奥本海默时他已四十多岁了，已经是妇孺皆知的人物了，打断别人的报告，使演讲者难堪的事仍然时有发生，不过比起以前要少一些。佩服他、仰慕他的人很多，不喜欢他的人也不少。\n邓稼先则是一个最不要引人注目的人物。和他谈话几分钟，就看出他是忠厚平实的人。他真诚坦白，从不骄人。他没有小心眼儿，一生喜欢“纯”字所代表的品格。在我所认识的知识分子当中，包括中国人和外国人，他是最有中国农民的朴实气质的人。\n我想邓稼先的气质和品格是他所以能成功地领导各阶层许许多多工作者，为中华民族做了历史性贡献的原因：人们知道他没有私心，人们绝对相信他。\n“文革”初期，他所在的研究院(九院)和当时全国其他单位一样，成立了两派群众组织，对吵对打。而邓稼先竟有能力说服两派继续工作，于1967年6月成功地制成了氢弹。\n1971年，在他和他的同事们被“四人帮”批判围攻的时候，如果别人去和工宣队、军宣队讲理，恐怕要出惨案。而邓稼先去了，竟能说服工宣队、军宣队的队员。这是真正的奇迹。\n邓稼先是中国几千年传统文化所孕育出来的有最高奉献精神的儿子。\n邓稼先是中国共产党的理想党员。\n我以为邓稼先如果是美国人，不可能成功地领导美国原子弹工程；奥本海默如果是中国人，也不可能成功地领导中国原子弹工程。当初选聘他们的人，钱三强和葛罗夫斯，可谓真正有知人之明，而且对中国社会、美国社会各有深入的认识。\n民族感情？友情？\n1971年，我第一次访问中华人民共和国。在北京，见到阔别了22年的稼先。在那以前，也就是1964年中国原子弹试爆以后，美国报章上就已经再三提到稼先是这项事业的重要领导人。与此同时还有一些谣言说，1948年3月去了中国的寒春曾参与中国原子弹工程。（寒春曾于40年代初在洛斯阿拉姆斯武器试验室做费米的助手，参加了美国原子弹的制造，那时她是年轻的研究生。）\n1971年8月，我在北京看到稼先时，避免问他的工作地点，他自己只说“在外地工作”。但我曾问他，寒春是不是参加了中国原子弹工作，像美国谣言所说的那样。他说他觉得没有，但是确切的情况他会再去证实一下，然后告诉我。\n1971年8月16日，在我离开上海经巴黎回美国的前夕，上海市领导人在上海大厦请我吃饭。席中有人送了一封信给我，是稼先写的，说他已证实了，中国原子武器工程中，除了最早于1959年底以前曾得到苏联的极少“援助”以外，没有任何外国人参加。\n这封短短的信给了我极大的感情震荡。一时热泪满眶，不得不起身去洗手间整容。事后我追想为什么会有那样大的感情震荡：是为了民族而自豪，还是为了稼先而感到骄傲？----我始终想不清楚。\n“我不能走”\n青海、新疆，神秘的古罗布泊，马革裹尸的战场，不知道稼先有没有想起过我们在昆明时一起背诵的《吊古战场文》：\n浩浩乎！平沙无垠，�椴患�人。河水萦带，群山纠纷。黯兮惨悴，风悲日曛。蓬断草枯，凛若霜晨。鸟飞不下，兽铤亡群。亭长告余曰：“此古战场也！常覆三军。往往鬼哭，天阴则闻！”\n也不知道稼先在蓬断草枯的沙漠中埋葬同事、埋葬下属的时候是什么心情?\n“粗估”参数的时候，要有物理直觉；昼夜不断地筹划计算时，要有数学见地；决定方案时，要有勇进的胆识和稳健的判断。可是理论是否准确永远是一个问题。不知稼先在关键性的方案上签字的时候，手有没有颤抖？\n戈壁滩上常常风沙呼啸，气温往往在零下三十多摄氏度。核武器试验时大大小小突发的问题必层出不穷，稼先虽有“福将”之称，意外总是不能完全避免的。1982年，他做了核武器研究院院长以后，一次井下突然有一个信号测不到了，大家十分焦虑，人们劝他回去，他只说了一句话：“我不能走。”\n假如有一天哪位导演要摄制《邓稼先传》，我要向他建议采用“五四”时代的一首歌作为背景音乐，那是我儿时从父亲口中学到的：\n中国男儿 中国男儿\n要将只手撑天空\n长江大河 亚洲之东 峨峨昆仑\n古今多少奇丈夫\n碎首黄尘 燕然勒功 至今热血犹殷红\n我父亲诞生于1896年，那是中华民族任人宰割的时代。他一生都喜欢这首歌曲。\n永恒的骄傲\n稼先逝世以后，在我写给他夫人许鹿希的电报与书信中有下面几段话：\n――稼先为人忠诚纯正，是我最敬爱的挚友。他的无私的精神与巨大的贡献是你的也是我的永恒的骄傲。\n――稼先去世的消息使我想起了他和我半个世纪的友情，我知道我将永远珍惜这些记忆。希望你在此沉痛的日子里多从长远的历史角度去看稼先和你的一生，只有真正永恒的才是有价值的。\n――邓稼先的一生是有方向、有意识地前进的。没有彷徨，没有矛盾。\n――是的，如果稼先再次选择他的人生的话，他仍会走他已走过的道路。这是他的性格与品质。能这样估价自己一生的人不多，我们应为稼先庆幸！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5916F-5494-42C9-8540-30AB0A141C1A_2018-05-1120_33_39_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231230.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第2课",
-    "title": "说和做--记闻一多先生言行片段",
-    "author": "王启慧",
-    "reader": "姚科",
-    "content": "作者：臧克家\n“人家说了再做，我是做了再说。”\n“人家说了也不一定做，我是做了也不一定说。”\n作为学者和诗人的闻一多先生，在30年代国立青岛大学的两年时间，我对他是有着深刻印象的。那时候，他已经诗兴不作而研究志趣正浓。他正向古代典籍钻探，有如向地壳寻求宝藏。仰之弥高，越高，攀得越起劲；钻之弥坚，越坚，钻得越锲而不舍。他想吃尽、消化尽我们中华民族几千年来的文化史，炯炯目光，一直远射到有史以前。他要给我们衰微的民族开一剂救济的文化药方。1930年到1932年，“望闻问切”也还只是在“望”的初级阶段。他从唐诗下手，目不窥园，足不下楼，兀兀穷年，沥尽心血。杜甫晚年，疏懒得“一月不梳头”。闻先生也总是头发凌乱，他是无暇及此。闻先生的书桌，零乱不堪，众物腾怨，闻先生心不在焉，抱歉地道一声：“秩序不在我的范围以内。”饭，几乎忘记了吃，他贪的是精神食粮；夜间睡得很少，为了研究，他惜寸阴、分阴。深宵灯火是他的伴侣，因它大开光明之路，“漂白了四壁”。\n不动不响，无声无闻。一个又一个大的四方竹纸本子，写满了密密麻麻的小楷，如群蚁排衙。几年辛苦，凝结而成《唐诗杂论》的硕果。\n他并没有先“说”，但他“做”了，做出了卓越的成绩。\n“做”了，他自己也没有“说”。他又由唐诗转到楚辞。十年艰辛，一部《校补》赫然而出。别人在赞美，在惊叹，而闻一多先生个人呢，也没有“说”。他又向“古典新义”迈进了。他潜心贯注，心会神凝，成了“何妨一下楼”的主人。\n做了再说，做了不说，这仅是闻一多先生的一个方面，――作为学者的方面。\n闻一多先生还有另外一个方面，――作为革命家的方面。\n这个方面，情况就迥乎不同，而且一反既往了。\n作为争取民主的战士，青年运动的领导人，闻一多先生“说”了。起先，小声说，只有昆明的青年听得到；后来，声音越来越大，他向全国人民呼喊，叫人民起来，反对独裁，争取民主！\n他在给我的信上说：“此身别无长处，即然有一颗心，有一张嘴，讲话定要讲个痛快！”\n他“说”了，跟着的是“做”。这不再是“做了再说”或“做了也不一定说”了。现在，他“说”了就“做。言论与行动完全一致，这是人格的写照，而且是以生命作为代价的。\n1944年10月12日，他给了我一封信，最后一行说：“另函寄上油印物二张，代表我最近的工作之一，请传观。”\n这是为争取民主，反对独裁，他起稿的一张政治传单！\n在李公朴同志被害之后，警报迭起，形势紧张，明知凶多吉少，而闻先生大无畏地在群众大会上，大骂特务，慷慨淋漓，并指着这群败类说：“你们站出来！你们站出来！”\n他“说”了。说得真痛快，动人心，鼓壮志，气冲斗牛，声震天地！\n他“说”了：“我们要准备像李先生一样，前脚跨出大门，后脚就不准备再跨进大门。”\n他“做”了，在情况紧急的生死关头，他走到游行示威队伍的前头，昂首挺胸，长须飘飘。他终于以宝贵的生命，实证了他的“言”和“行”。\n闻一多先生，是卓越的学者，热情澎湃的优秀诗人，大勇的革命烈士。\n他，是口的巨人，他，是行的高标。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59170-54BC-4080-8403-30AB0A141C1A_2018-05-1120_49_58_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231243.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "1️⃣"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "孙权劝学",
-    "author": "李周圆",
-    "reader": "陆洋",
-    "content": "孙权劝学\n资治通鉴\n初,权谓吕蒙曰:“卿今当涂掌事,不可不学!”蒙辞以军中多务。权曰:“孤岂欲卿治经为博士邪!但当涉猎,见往事耳。卿言多务,孰若孤?孤常读书,自以为大有所益。”蒙乃始就学。及鲁肃过寻阳,与蒙论议,大惊曰:“卿今者才略,非复吴下阿蒙!”蒙曰:“士别三日,即更刮目相待,大兄何见事之晚乎!”肃遂拜蒙母,结友而别。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBEA-8EF4-405F-9D8E-4F7F0A141C1A_2018-12-0712_47_14_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450335.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📚"
-  },
-  {
-    "lesson_number": "第5课",
-    "title": "黄河颂",
-    "author": "王启慧",
-    "reader": "贾际",
-    "content": "作者：光未然\n(朗诵词)\n啊，朋友！\n黄河以它英雄的气魄，\n出现在亚洲的原野；\n它表现出我们民族的精神：\n伟大而又坚强！\n这里，\n我们向着黄河，\n唱出我们的赞歌。\n(歌词)\n我站在高山之巅，\n望黄河滚滚，\n奔向东南。\n惊涛澎湃，\n掀起万丈狂澜；\n浊流宛转，\n结成九曲连环；\n从昆仑山下\n奔向黄海之边；\n把中原大地\n劈成南北两面。\n啊！黄河！\n你是中华民族的摇篮！\n五千年的古国文化，\n从你这儿发源；\n多少英雄的故事，\n在你的身边扮演！\n啊！黄河！\n你是伟大坚强，\n像一个巨人\n出现在亚洲平原之上，\n用你那英雄的体魄\n筑成我们民族的屏障。\n啊！黄河！\n你一泻万丈，\n浩浩荡荡，\n向南北两岸\n伸出千万条铁的臂膀。\n我们民族的伟大精神，\n将要在你的哺育下\n发扬滋长！\n我们祖国的英雄儿女，\n将要学习你的榜样，\n像你一样的伟大坚强！\n像你一样的伟大坚强！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59170-B960-4C4E-9267-30AB0A141C1A_2018-05-1120_34_05_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231258.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🏞️"
-  },
-  {
-    "lesson_number": "第7课",
-    "title": "土地的誓言",
-    "author": "王启慧",
-    "reader": "方亮",
-    "content": "作者：端木蕻良\n对于广大的关东原野，我心里怀着挚痛的热爱。我无时无刻不听见她呼唤我的名字，无时无刻不听见她召唤我回去。我有时把手放在胸膛上，知道我的心是跳跃的。我的心还在喷涌着血液吧，因为我常常感到它在泛滥着一种热情。当我躺在土地上的时候，当我仰望天上的星星，手里握着一把泥土的时候，或者当我回想起儿时的往事的时候，我想起那参天碧绿的白桦林，标直漂亮的白桦树在原野上呻吟；我看见奔流似的马群，听见蒙古狗深夜的嗥鸣和皮鞭滚落在山涧里的脆响；我想起红布似的高粱，金黄的豆粒，黑色的土地，红玉的脸庞，黑玉的眼睛，斑斓的山雕，奔驰的鹿群，带着松香气味的煤块，带着赤色的足金；我想起幽远的车铃，晴天里马儿戴着串铃在溜直的大道上跑着，狐仙姑深夜的谰语，原野上怪诞的狂风……这时我听到故乡在召唤我，故乡有一种声音在召唤着我。她低低地呼唤着我的名字，声音是那样的急切，使我不得不回去。我总是被这种声音所缠绕，不管我走到哪里，即使我睡得很沉，或者在睡梦中突然惊醒的时候，我都会突然想到是我应该回去的时候了。我必须回去，我从来没想过离开她。这种声音是不可阻止的，是不能选择的。这种声音已经和我的心取得了永远的沟通。当我记起故乡的时候，我便能看见那大地的深层，在翻滚着一种红熟的浆液，这声音便是从那里来的。在那亘古的地层里，有着一股燃烧的洪流，像我的心喷涌着血液一样。这个我是知道的，我常常把手放在大地上，我会感到她在跳跃，和我的心的跳跃是一样的。它们从来没有停息，它们的热血一直在流，在热情的默契里它们彼此呼唤着，终有一天它们要汇合在一起。\n土地是我的母亲，我的每一寸皮肤，都有着土粒；我的手掌一接近土地，心就变得平静。我是土地的族系，我不能离开她。在故乡的土地上，我印下无数的脚印。在那田垄里埋葬过我的欢笑，在那稻棵上我捉过蚱蜢，在那沉重的镐头上有我的手印。我吃过我自己种的白菜。故乡的土壤是香的。在春天，东风吹起的时候，土壤的香气便在田野里飘起。河流浅浅地流过，柳条像一阵烟雨似的窜出来，空气里都有一种欢喜的声音。原野到处有一种鸣叫，天空清亮透明，劳动的声音从这头响到那头。秋天，银线似的蛛丝在牛角上挂着，粮车拉粮回来，麻雀吃厌了，这里那里到处飞。禾稻的香气是强烈的，碾着新谷的场院辘辘地响着，多么美丽，多么丰饶……没有人能够忘记她。我必定为她而战斗到底。土地，原野，我的家乡，你必须被解放！你必须站立！夜夜我听见马蹄奔驰的声音，草原的儿子在黎明的天边呼唤。这时我起来，找寻天空中北方的大熊，在它金色的光芒之下，是我的家乡。我向那边注视着，注视着，直到天边破晓。我永不能忘记，因为我答应过她，我要回到她的身边，我答应过我一定会回去。为了她，我愿付出一切。我必须看见一个更美丽的故乡出现在我的面前――或者我的坟前，而我将用我的泪水，洗去她一切的污秽和耻辱。\n“九一八”十周年写。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59194-5E90-4E86-9F7C-30C40A141C1A_2018-05-1120_34_47_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231283.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "卖油翁",
-    "author": "王启慧",
-    "reader": "潘涛",
-    "content": "卖油翁\n欧阳修\n陈康肃公善射，当世无双 ，公亦以此自矜。尝射于家圃，有卖油翁释担而立，睨之久而不去。见其发矢十中八九，但微颔之。\n康肃问曰：“汝亦知射乎？吾射不亦精乎？”翁曰：“无他， 但手熟尔。”康肃忿然曰：“尔安敢轻吾射！”翁曰：“以我酌油知之。”乃取一葫芦置于地，以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：“我亦无他， 惟手熟尔。”康肃笑而遣之。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59196-EE0C-489C-874E-30C40A141C1A_2018-05-1120_51_34_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231305.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🏪"
-  },
-  {
-    "lesson_number": "第14课",
-    "title": "驿路梨花",
-    "author": "王启慧",
-    "reader": "肖玉",
-    "content": "作者：彭荆风\n山，好大的山啊！起伏的青山一座挨一座，延伸到远方，消失在迷茫的暮色中。\n这是哀牢山南段的最高处。这么陡峭的山，这么茂密的树林，走上一天，路上也难得遇见几个人。夕阳西下，我们有点儿着急了，今夜要是赶不到山那边的太阳寨，只有在这深山中露宿了。\n同行老余是在边境地区生活过多年的人。正走着，他突然指着前面叫了起来：“看，梨花！”\n白色梨花开满枝头，多么美丽的一片梨树林啊！\n老余说：“这里有梨树，前边就会有人家。”\n一弯新月升起了，我们借助淡淡的月光，在忽明忽暗的梨树林里走着。山间的夜风吹得人脸上凉凉的，梨花的白色花瓣轻轻飘落在我们身上。\n“快看，有人家了。”\n一座草顶、竹篾泥墙的小屋出现在梨树林边。屋里漆黑，没有灯也没有人声。这是什么人的房子呢？\n老余打着电筒走过去，发现门是从外扣着的。白木门板上用黑炭写着两个字：“请进！”\n我们推开门进去。火塘里的灰是冷的，显然，好多天没人住过了。一张简陋的大竹床铺着厚厚的稻草。倚在墙边的大竹筒里装满了水，我尝了一口，水清凉可口。我们走累了，决定在这里过夜。\n老余用电筒在屋里上上下下扫射了一圈，又发现墙上写着几行粗大的字：“屋后边有干柴，梁上竹筒里有米，有盐巴，有辣子。”\n我们开始烧火做饭。温暖的火、喷香的米饭和滚热的洗脚水，把我们身上的疲劳、饥饿都撵走了。我们躺在软软的干草铺上，对小茅屋的主人有说不尽的感激。我问老余：“你猜这家主人是干什么的？”老余说：“可能是一位守山护林的老人。”\n正说着，门被推开了。一个须眉花白的瑶族老人站在门前，手里提着一杆明火枪，肩上扛着一袋米。\n“主人”回来了。我和老余同时抓住老人的手，抢着说感谢的话；老人眼睛瞪得大大的，几次想说话插不上嘴。直到我们不作声了，老人才笑道：“我不是主人，也是过路人呢！”\n我们把老人请到火塘前坐下，看他也是又累又饿，赶紧给他端来了热水、热饭。老人笑了笑：“多谢，多谢，说了半天还得多谢你们。”\n看来他是个很有穿山走林经验的人。吃完饭，他燃起一袋旱烟笑着说：“我是给主人家送粮食来的。”\n“主人家是谁？”\n“不晓得。”\n“粮食交给谁呢？”\n“挂在屋梁上。”\n“老人家，你真会开玩笑。”\n他悠闲地吐着烟，说：“我不是开玩笑。”停了一会儿，又接着说：“我是红河边上过山岩的瑶家，平常爱打猎。上个月，我追赶一群麂子，在老林里东转西转迷失了方向，不知怎么插到这个山头来了。那时候，人走累了，干粮也吃完了，想找个寨子歇歇，偏偏这一带没有人家。我正失望的时候，突然看到了这片梨花林和这小屋，屋里有柴、有米、有水，就是没有主人。吃了用了人家的东西，不说清楚还行？我只好撕了片头巾上的红布，插了根羽毛在门上，告诉主人，有个瑶家人来打扰了，过几天再来道谢……”\n说到这里，他用手指了指门背后：“你们看，那东西还在呢！”\n一根白羽毛钉在红布上，红白相衬很好看。老人家说到这里，停了一会儿，又接着说下去：“我到处打听小茅屋的主人是哪个，好不容易才从一个赶马人那里知道个大概，原来对门山头上有个名叫梨花的哈尼小姑娘，她说这大山坡上，前不着村后不挨寨，她要用为人民服务的精神来帮助过路人。”\n我们这才明白，屋里的米、水、干柴，以及那充满了热情的“请进”二字，都是出自那哈尼小姑娘的手。多好的梨花啊！\n瑶族老人又说：“过路人受到照料，都很感激，也都尽力把用了的柴、米补上，好让后来人方便。我这次是专门送粮食来的。”\n这天夜里，我睡得十分香甜，梦中恍惚在那香气四溢的梨花林里漫步，还看见一个身穿着花衫的哈尼小姑娘在梨花丛中歌唱……\n第二天早上，我们没有立即上路，老人也没有离开，我们决定把小茅屋修葺一下，给屋顶加点儿草，把房前屋后的排水沟再挖深一些。一个哈尼小姑娘都能为群众着想，我们真应该向她学习。\n我们正在劳动，突然梨树丛中闪出了一群哈尼小姑娘。走在前边的约莫十四五岁，红润的脸上有两道弯弯的修长的眉毛和一对晶莹的大眼睛。我想：“她一定是梨花。”\n瑶族老人立即走到她们面前，深深弯下腰去，行了个大礼，吓得小姑娘们像小雀似的蹦开了，接着就哈哈大笑起来：“老爷爷，你给我们行这样大的礼，不怕折损我们吗？”\n老人严肃地说：“我感谢你们盖了这间小草房。”\n为头的那个小姑娘赶紧摇手：“不要谢我们！不要谢我们！房子是解放军叔叔盖的。”\n接着，小姑娘向我们讲述了房子的来历。十多年前，有一队解放军路过这里，在树林里过夜，半夜淋了大雨。他们想，这里要有一间给过路人避风雨的小屋就好了，第二天早上就砍树割草盖起了房子。她姐姐恰好过这边山上来拾菌子，好奇地问解放军叔叔：“你们要在这里长住？”解放军说：“不，我们是为了方便过路人。是雷锋同志教我们这样做的。”她姐姐很受感动。从那以后，常常趁砍柴、拾菌子、找草药的机会来照料这小茅屋。\n原来她还不是梨花。我问：“梨花呢？”\n“前几年出嫁到山那边了。”\n不用说，姐姐出嫁后，是小姑娘接过任务，常来照管这小茅屋。\n我望着这群充满朝气的哈尼小姑娘和那洁白的梨花，不由得想起了一句诗：“驿路梨花处处开”。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59197-FEF8-4BD7-9B70-30C40A141C1A_2018-05-1120_25_03_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231313.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "陋室铭",
-    "author": "李周圆",
-    "reader": "贾际",
-    "content": "陋室铭\n刘禹锡\n山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05D9-5E5C-4B7B-9D5F-512F0A141C1A_2018-12-0713_32_20_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450339.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "爱莲说",
-    "author": "王启慧",
-    "reader": "雅坤",
-    "content": "爱莲说\n周敦颐\n水陆草木之花，可爱者甚蕃。晋陶渊明独爱菊。自李唐来，世人甚爱牡丹。予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉。\n予谓菊，花之隐逸者也；牡丹，花之富贵者也；莲，花之君子者也。噫！菊之爱，陶后鲜有闻。莲之爱，同予者何人？牡丹之爱，宜乎众矣。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591B0-6364-47A2-A084-30C70A141C1A_2018-05-1120_52_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231323.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🪷"
-  },
-  {
-    "lesson_number": "第19课",
-    "title": "未选择的路",
-    "author": "李周圆",
-    "reader": "贾际",
-    "content": "未选择的路\n弗罗斯特\n黄色的树林里分出两条路，\n可惜我不能同时去涉足，\n我在那路口久久伫立，\n我向着一条路极目望去，\n直到它消失在丛林深处。\n但我却选了另外一条路，\n它荒草萋萋，十分幽寂，\n显得更诱人，更美丽；\n虽然在这条小路上，\n很少留下旅人的足迹。\n那天清晨落叶满地，\n两条路都未经脚印污染。\n啊，留下一条路等改日再见！\n但我知道路径延绵无尽头，\n恐怕我难以再回返。\n也许多少年后在某个地方，\n我将轻声叹息将往事回顾：\n一片树林里分出两条路――\n而我选择了人迹更少的一条，\n从此决定了我一生的道路。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05D9-DB8C-4A26-88D2-512F0A141C1A_2018-12-0713_36_10_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450340.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🛤️"
-  },
-  {
-    "lesson_number": "第19课",
-    "title": "假如生活欺骗了你",
-    "author": "王启慧",
-    "reader": "贾际",
-    "content": "假如生活欺骗了你\n普希金\n假如生活欺骗了你，\n不要悲伤，不要心急！\n忧郁的日子里须要镇静：\n相信吧，快乐的日子将会来临。\n心儿永远向往着未来；\n现在却常是忧郁：\n一切都是瞬息，一切都将会过去；\n而那过去了的，就会成为亲切的怀恋。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591B0-4EE4-4E5F-9387-30C70A141C1A_2018-05-1120_52_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231328.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "登飞来峰",
-    "author": "王启慧",
-    "reader": "陆洋",
-    "content": "登飞来峰\n王安石\n飞来山上千寻塔，\n闻说鸡鸣见日升。\n不畏浮云遮望眼，\n自缘身在最高层。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591C4-DD90-4701-A60B-30C70A141C1A_2018-05-1120_53_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231332.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🕊️"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "游山西村",
-    "author": "王启慧",
-    "reader": "忠诚",
-    "content": "游山西村\n陆游\n莫笑农家腊酒浑，丰年留客足鸡豚。\n山重水复疑无路，柳暗花明又一村。\n箫鼓追随春社近，衣冠简朴古风存。\n从今若许闲乘月，拄杖无时夜叩门。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591C4-9814-4161-9FB3-30C70A141C1A_2018-05-1120_53_04_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231338.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "登幽州台歌",
-    "author": "李周圆",
-    "reader": "忠诚",
-    "content": "登幽州台歌\n陈子昂\n前不见古人，后不见来者。\n念天地之悠悠，独怆然而涕下！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DA-58C8-4D47-8780-512F0A141C1A_2018-12-0713_31_13_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450342.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🎤"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "己亥杂诗",
-    "author": "李周圆",
-    "reader": "弥亚牛",
-    "content": "己亥杂诗（其五）\n龚自珍\n浩荡离愁白日斜，吟鞭东指即天涯。\n落红不是无情物，化作春泥更护花。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DA-A978-4050-BE1C-512F0A141C1A_2018-12-0713_31_11_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450341.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📜"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "望岳",
-    "author": "李周圆",
-    "reader": "方亮",
-    "content": "望岳\n杜甫\n岱宗夫如何？齐鲁青未了。\n造化钟神秀，阴阳割昏晓。\n荡胸生曾云，决眦入归鸟。\n会当凌绝顶，一览众山小。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DB-AC68-4280-83D4-512F0A141C1A_2018-12-0713_34_32_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450343.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第23课",
-    "title": "带上她的眼睛",
-    "author": "王启慧",
-    "reader": "章莹莹",
-    "content": "作者：刘慈欣\n我要去度假，主任让我再带一双眼睛去。\n主任递给我一双眼睛，指指前面的大屏幕，把眼睛的主人介绍给我，是一个好像刚毕业的小姑娘，在肥大的太空服中，显得很娇小，她面前有一支失重的铅笔飘在空中。\n我问她想去哪里。\n这个决定对她似乎很艰难，她的双手在太空服的手套里，握在胸前，双眼半闭着，似乎认为地球在我们这次短暂的旅行后就要爆炸了，我不由笑出声来。\n“那就去我们起航前去过的地方吧。” 她说。\n这是高山与草原的交接处，大草原从我面前一直延伸到天边，背后的群山覆盖着绿色的森林，几座山顶还有银色的雪冠。\n我掏出她的眼睛戴上。\n所谓眼睛就是一副传感眼镜，当你戴上它时，你所看到的一切图像由超高频信息波发射出去，可以被远方的另一个戴同样传感眼镜的人接收到，于是他就能看到你所看到的一切，就像你带着他的眼睛一样；它还能通过采集戴着它的人的脑电波，把触觉和味觉一同发射出去。现在，每个长时间在太空中工作的宇航员在地球上都有了另一双眼睛，由这里真正能去度假的幸运儿带上这双眼睛，让身处外太空的那个思乡者分享他的快乐。\n“这里真好！”她轻柔的声音从她的眼睛中传出来，“我现在就像从很深很深的水底冲出来呼吸到空气，我太怕封闭了。”\n我从眼睛中真的听到她在做深呼吸，我说：“可你现在并不封闭，同你周围的太空比起来，这草原太小了。”\n她沉默了，似乎连呼吸都停止了，但几秒钟后，她突然惊叫：“呀，花，有花啊！上次我来时没有的！”\n是的，广阔的草原上到处点缀着星星点点的小花。“能近些看看那朵花吗？”我蹲下来看。“呀，真美！能闻闻它吗？不，别拔下它！”我只好趴到地上闻，一缕淡淡的清香，“啊，我也闻到了，真像一首隐隐传来的小夜曲呢……”\n我在草原上漫步，很快来到一条隐没在草丛中的小溪旁。她叫住了我说：“我真想把手伸到小河里。”我蹲下来把手伸进溪水，一股清凉流遍全身，她的眼睛用超高频信息波把这感觉传给远在太空中的她，我又听到了她的感叹。\n“你那儿很热吧？”我想起了从屏幕上看到的她那窄小的控制舱和隔热系统异常发达的太空服。\n“热，热得像……地狱。呀，天啊，这是什么？草原的风？！”这时我刚把手从水中拿出来，微风吹在湿手上凉丝丝的。她让我把双手举在草原的微风中，直到手被吹干。\n……\n我带着她的眼睛在草原上转了一天，她渴望看草原上的每一朵野花，每一棵小草，看草丛中跃动的每一缕阳光；一条突然出现的小溪，一阵不期而至的微风，都会令她激动不已……我感到，她对这个世界的情感已丰富到不正常的程度。\n日落前，我走到了草原中一间孤零零的白色小屋，那是为旅游者准备的一间小旅店，只有一个迟钝的老式机器人照看着旅店里的一切。\n夜里我刚睡着，她就通过眼睛叫醒了我：“请带我出去好吗？我们去看月亮，月亮该升起来了！”\n我睡眼朦胧中很不情愿地起了床。到外面后发现月亮真的刚升起来，月光下的草原也在沉睡。\n我伸了个懒腰，对着夜空说：“你在太空中不也一样能看到月亮？喂，告诉我你的飞船的大概方位，说不定我还能看到呢。”\n她没有回答我的话，而是自己轻轻哼起了一首曲子，哼了一小段后，她说：“这是德彪西的《月光》。”直到一个小时后我回去躺到床上，她还在哼着《月光》，那轻柔的旋律一直在我的梦中飘荡着。\n第二天清晨，阴云布满了天空，草原笼罩在蒙蒙的小雨中，我从眼睛中听到了她轻轻的叹息声。\n“看不到日出了，好想看草原的日出……听，这是今天的第一声鸟叫，雨中也有鸟呢！”\n又回到了灰色的生活和忙碌的工作中, 以上的经历很快就淡忘了。很长时间后, 当我想起洗那些那次旅行时穿的衣服时, 在裤脚上发现了两三颗草籽。同时, 在我的意识深处, 也有一颗小小的种子留了下来。在我孤独寂寞的精神沙漠中, 那颗种子已长出了令人难以察觉的绿芽。虽然是无意识的, 当一天的劳累结束后, 我已能感觉到晚风吹到脸上时那淡淡的诗意, 鸟儿的鸣叫已能引起我的注意, 我甚至黄昏时站在天桥上, 看着夜幕降临城市……世界在我的眼中仍是灰色的, 但星星点点的嫩绿在其中出现, 并在增多。当这种变化发展到让我觉察出来时, 我又想起了她。\n也是无意识的, 在闲暇时甚至睡梦中, 她身处的环境常在我的脑海中出现, 那封闭窄小的控制舱, 奇怪的隔热太空服……后来这些东西在我的意识中都隐去了，只有一样东西凸现出来, 这就是那在她头顶上打转的失重的铅笔。不知为什么，一闭上眼睛，这支铅笔总在我的眼前漂浮。终于有一天, 上班时我走进航天中心高大的门厅, 一幅见过无数次的巨大壁画把我吸引住了, 壁画上是从太空中拍摄的蔚蓝色的地球。那支飘浮的铅笔又在我的眼前出现了, 同壁画叠印在一起, 我又听到了她的声音:“我怕封闭……”一道闪电在我的脑海里出现。\n我发疯似地跑上楼, 猛砸主任办公室的门, 他不在, 我心有灵犀地知道他在哪儿，就飞跑到存放眼睛的那个小房间, 他果然在里面, 看着大屏幕。她在大屏幕上, 还在那个封闭的控制舱中, 穿着那件“太空服”, 画面凝固着, 是以前录下来的。“是为了她来的吧。” 主任说, 眼睛还看着屏幕。\n“她到底在哪儿？！” 我大声问。\n“你可能已经猜到了, 她是‘落日六号’的领航员。”\n一切都明白了, 我无力地跌坐在地毯上。\n除了太空，还有一个地方会失重！！\n“落日工程”是一系列的探险航行，它的航行程序同航天中心的其他航行几乎一样。 唯一不同的是，“落日”飞船不是飞向太空，而是潜入地球深处。\n第一次太空飞行一个半世纪后, 人类开始了向相反方向的探险, “落日”系列地航飞船就是这种探险的首次尝试。\n我记得“落日一号”发射时的情景。那时正是深夜, 吐鲁番盆地的中央出现了一个如小太阳般的火球, 当火球暗下来时, “落日一号”已潜入地层。只在潜入点留下了一个岩浆的小湖泊，发出耀眼的红光。那一夜, 在几百公里外都能感到飞船穿过地层时传到大地上的微微震动。\n宇宙航行是寂寞的，但宇航员们能看到无限的太空和壮丽的星群；而地航飞船上的地航员们，只能从飞船上的全息后视电视中看到这样的情景：炽热的岩浆刺目地闪亮着，翻滚着，随着飞船的下潜，在船尾飞快地合拢起来，瞬间充满了飞船通过的空间。飞船上方那巨量的地层物质在不断增厚，产生了一种地面上的人难以想象的压抑感。\n“落日工程”的前五艘飞船都成功地完成了地层航行, 安全返回地面。“落日六号”的航行开始很顺利, 但在飞船航行15小时40分钟时, 警报出现了。从地层雷达的探测中得知, 航行区的物质密度急剧增高, 物质成分由硅酸盐类突然变为以铁镍为主的金属, 物质状态也由固态变为液态。飞船显然误入了地核区域。“落日六号”立刻紧急转向, 企图冲出这个危险区域。当飞船在远大于设计密度和设计压力的液态铁镍中转向时, 发动机与主舱结合部断裂, 失去发动机的飞船在地层中失去了动力，“落日六号”在液态的地核物质中向地心沉下去。\n现在的地航飞船误入地核, 就如同20世纪中期的登月飞船偏离月球迷失于外太空, 获救的希望是丝毫不存在的。\n好在“落日六号”主舱的船体是可靠的, 船上的中微子通信系统仍和地面控制中心保持着联系。在以后的一年中, “落日六号”航行组仍坚持工作, 把从地核中得到的大量宝贵资料发送到地面。飞船被裹在6000多公里厚的物质中, 船外别说空气和生命, 连空间都没有, 周围是温度高达5000摄氏度，压力可以把碳在一秒钟内变成金刚石的液态铁镍！它们密密地挤在“落日六号”的周围，密得只有中微子才能穿过，“落日六号”仿佛是处于一个巨大的炼钢炉中！在这样的世界里，生命算什么？仅仅能用脆弱来描述它吗？\n后来，航行组中的另外两名地航员在事故中受伤，不久相继去世，从那以后, 在“落日六号”上, 只剩下她一个人了。\n现在, “落日六号”内部已完全处于失重状态, 飞船已下沉到6300公里深处，那里是地球的最深处，她是第一个到达地心的人。\n她在地心的世界是那个活动范围不到10立方米的闷热的控制舱。飞船上有一个中微子传感眼镜, 这个装置使她同地面世界多少保持着一些感性的联系。但这种如同生命线的联系不能长时间延续下去，飞船里中微子通信设备的能量最后耗尽，这种联系在两个月前就中断了，具体时间是在我从草原返回航天中心的途中。\n那个没有日出的细雨蒙蒙的草原早晨，竟是她最后看到的地面世界。\n“落日六号”的中子材料外壳足以抵抗地心的巨大压力, 而飞船上的生命循环系统还可以运行50至80年，她将在这不到10立方米的地心世界里度过自己的余生。\n我听到了她同地面最后通信的录音，这时来自地心的中微子波束已很弱，她的声音时断时续，但这声音很平静。\n“……今后, 我会按照研究计划努力工作的。将来, 也许会有地心飞船找到“落日六号”并同它对接, 但愿那时我留下的资料会有用。请你们放心, 我现在已适应这里, 不再觉得狭窄和封闭了, 整个世界都围着我呀, 我闭上眼睛就能看见上面的大草原, 还可以清楚地看见那里的每一朵小花呢……”\n在以后的岁月中，地球常常在我脑海中就变得透明了, 在我下面6000多公里深处, 我看到了停泊在地心的“落日六号”地航飞船, 感受到了从地球中心传出的她的心跳，听到了她吟唱的《月光》。\n有一个想法安慰着我：不管走到天涯海角，我离她都不会再远了。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591C4-21FC-47CD-97CC-30C70A141C1A_2018-05-1120_53_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231341.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "👁️"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "逢入京使",
-    "author": "李周圆",
-    "reader": "原杰",
-    "content": "逢入京使\n岑参\n故园东望路漫漫，双袖龙钟泪不干。\n马上相逢无纸笔，凭君传语报平安。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C09FBEB-FEF4-4B4A-82C2-4F7F0A141C1A_2018-12-0712_51_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450336.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "晚春",
-    "author": "李周圆",
-    "reader": "肖玉",
-    "content": "晚春\n韩愈\n草树知春不久归，百般红紫斗芳菲。\n杨花榆荚无才思，惟解漫天作雪飞。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05D8-802C-4A8C-86DF-512F0A141C1A_2018-12-0713_35_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450337.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "约客",
-    "author": "李周圆",
-    "reader": "于芳",
-    "content": "约客\n赵师秀\n黄梅时节家家雨，青草池塘处处蛙。\n有约不来过夜半，闲敲棋子落灯花。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DB-9E50-4C58-90D2-512F0A141C1A_2018-12-0713_34_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450344.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "过松源晨炊漆公店",
-    "author": "李周圆",
-    "reader": "弥亚牛",
-    "content": "过松源晨炊漆公店（其五）\n杨万里\n莫言下岭便无难，赚得行人错喜欢。\n政入万山围子里，一山放出一山拦。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DC-2244-4013-88EE-512F0A141C1A_2018-12-0713_34_41_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20181214/t20181214_524450345.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌲"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "竹里馆",
-    "author": "王启慧",
-    "reader": "原杰",
-    "content": "竹里馆\n王维独坐幽篁里，弹琴复长啸。深林人不知，明月来相照。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59196-FE90-44A1-90C7-30C40A141C1A_2018-05-1120_52_21_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231229.html",
-    "grade": "7",
-    "semester": "2",
-    "emoji": "🎋"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "春夜洛城闻笛",
-    "author": "王启慧",
-    "reader": "肖玉",
-    "content": "春夜洛城闻笛\n李白\n谁家玉笛暗飞声，散入春风满洛城。\n此夜曲中闻折柳，何人不起故园情。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59196-9598-49E4-A243-30C40A141C1A_2018-05-1120_52_26_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231310.html",
-    "grade": "7",
-    "semester": "2",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "泊秦淮",
-    "author": "王启慧",
-    "reader": "弥亚牛",
-    "content": "泊秦淮  杜牧\n烟笼寒水月笼沙，夜泊秦淮近酒家。\n商女不知亡国恨，隔江犹唱后庭花。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591C5-DA90-4B50-9098-30C70A141C1A_2018-05-1120_53_00_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/qnjxc/20180513/t20180513_524231348.html",
-    "grade": "7",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "人民解放军百万大军横渡长江",
-    "author": "郭彦伟",
-    "reader": "于芳",
-    "content": "（一九四九年四月二十二日）\n毛泽东\n新华社长江前线二十二日二十二时电人民解放军百万大军，从一千余华里的战线上，冲破敌阵，横渡长江。西起九江（不含），东至江阴，均是人民解放军的渡江区域。二十日夜起，长江北岸人民解放军中路军首先突破安庆、芜湖线，渡至繁昌、铜陵、青阳、荻港、鲁港地区，二十四小时内即已渡过三十万人。二十一日下午五时起，我西路军开始渡江，地点在九江、安庆段。至发电时止，该路三十五万人民解放军已渡过三分之二，余部二十三日可渡完。这一路现已占领贵池、殷家汇、东流、至德、彭泽之线的广大南岸阵地，正向南扩展中。和中路军所遇敌情一样，我西路军当面之敌亦纷纷溃退，毫无斗志，我军所遇之抵抗，甚为微弱。此种情况，一方面由于人民解放军英勇善战，锐不可当；另一方面，这和国民党反动派拒绝签订和平协定，有很大关系。国民党的广大官兵一致希望和平，不想再打了，听见南京拒绝和平，都很泄气。战犯汤恩伯二十一日到芜湖督战，不起丝毫作用。汤恩伯认为南京、江阴段防线是很巩固的，弱点只存在于南京、九江一线。不料正是汤恩伯到芜湖的那一天，东面防线又被我军突破了。我东路三十五万大军与西路同日同时发起渡江作战。所有预定计划，都已实现。至发电时止，我东路各军已大部渡过南岸，余部二十三日可以渡完。此处敌军抵抗较为顽强，然在二十一日下午至二十二日下午的整天激战中，我已歼灭及击溃一切抵抗之敌，占领扬中、镇江、江阴诸县的广大地区，并控制江阴要塞，封锁长江。我军前锋，业已切断镇江、无锡段铁路线。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/f5dd7a457d1041702974156486760371/f5dd7a457d1041702974156486760371.m3u8?auth=23257a022c5707ed134d423af50d2fa1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532191.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "第7课",
-    "title": "列夫・  托尔斯泰",
-    "author": "郭彦伟",
-    "reader": "王大民",
-    "content": "茨威格\n他生就一副多毛的脸庞，植被多于空地，浓密的胡髭使人难以看清他的内心世界。长髯覆盖了两颊，遮住了嘴唇，遮住了皱似树皮的黝黑脸膛，一根根迎风飘动，颇有长者风度。宽约一指的眉毛像纠缠不清的树根，朝上倒竖。一绺绺灰白的鬈发像泡沫一样堆在额头上。不管从哪个角度看，你都能见到热带森林般茂密的须发。像米开朗琪罗画的摩西一样，托尔斯泰给人留下的难忘形象，来源于他那犹如卷起的滔滔白浪的大胡子。\n人们无不试图用自己的想像除去他那盖着面孔的头发，修剪疯长的胡须，以他年轻时刮去胡须的肖像作为参照，希望用魔法变出一张光洁的脸――这是引向内心世界的路标。这样一来，我们不免开始畏缩起来。因为，无可否认的是，这个出身于名门望族的男子长相粗劣，生就一张乡野村夫的脸孔。天才的灵魂自甘寓居低矮的陋屋，而天才灵魂的工作间，比起吉尔吉斯人搭建的皮帐篷来好不了多少。小屋粗制滥造，出自一个农村木匠之手，而不是由古希腊的能工巧匠建造起来的。架在小窗上方的横梁――小眼睛上方的额头，倒像是用刀胡乱劈成的木柴。皮肤藏污纳垢，缺少光泽，就像用枝条扎成的村舍外墙那样粗糙，在四方脸中间，我们见到的是一个宽宽的、两孔朝天的狮子鼻，仿佛被人一拳打塌了的样子。乱蓬蓬的头发，怎么也遮不住两只难看的招风耳。凹陷的脸颊中间生着两片厚厚的嘴唇。留给人的总印象是失调、崎岖、平庸，甚至粗鄙。\n这副劳动者的忧郁面孔上笼罩着消沉的阴影，滞留着愚钝和压抑：在他脸上找不到一点奋发向上的灵气，找不到精神光彩，找不到陀思妥耶夫斯基眉宇之间那种像大理石穹顶一样缓缓隆起的非凡器宇。他的面容没有一点儿光彩可言。谁不承认这一点谁就没有讲真话。无疑，这张脸平淡无奇，障碍重重，没法弥补，不是传播智慧的庙堂，而是禁锢思想的囚牢；这张脸蒙昧阴沉，郁郁寡欢，丑陋可憎。从青年时代起，托尔斯泰就深深意识到自己这副嘴脸是不讨人喜欢的。他说，他讨厌任何对他长相所抱有的幻想。“像我这么个生着宽鼻子、厚嘴唇、灰色小眼睛的人，难道还能找到幸福吗？”正因为如此，他不久就任凭须发长得满脸都是，把自己的嘴唇隐藏在黑貂皮面具般的胡须里，直到年纪大了以后胡子才变成白色，因而显出几分慈祥可敬。直到生命的最后十年，他脸上笼罩的厚厚一层阴云才消除了；直到人生的晚秋，俊秀之光才使这块悲凉之地解冻。\n永远流浪的天才灵魂，竟然在一个土头土脑的俄国人身上找到了简陋归宿，从这个人身上看不出有任何精神的东西，缺乏诗人、幻想者和创造者的气质。从少年到青壮年，甚至到老年，托尔斯泰一直都是长相平平，混在人群里找都找不出来。对他来说，穿这件大衣，还是那件大衣，戴这顶帽子，还是那顶帽子，都没什么不合适。一个人长着这么一张在俄罗斯随处可见的脸，既有可能在台上主持大臣会议，也有可能在酒肆同一帮酒徒鬼混，还有可能在市场上卖面包。带着这么一张脸，你不管从事什么职业，不管穿什么服饰，也不管在俄国什么地方，都不会有一种鹤立鸡群、引人注目的可能。托尔斯泰做学生的时候，可能属于同龄人的混合体；当军官的时候，没法把他从战友里面分辨出来；而恢复乡间生活以后，他的样子和往常出现在舞台上的乡绅角色再吻合不过了。要是你看到一张他赶着马车外出的照片，还有个白胡子随从与他并排坐着，你也许要动脑筋想上好一阵，才能判断手握缰绳的是马车夫，坐在一旁的是伯爵。再看另一张照片，是他在同一些农民交谈。你假如不明真相，根本就猜不出坐在老农中间的列夫是个有地位有钱财的人，他的门第和身份大大不同于格里高、伊凡、伊利亚、彼得等在场的所有人。他的面相完全没有特征，完全属于普通的俄罗斯人，因此，我们得把他称为普通人，而且此刻会产生这么一种感觉，即天才没有任何特殊的长相，而是一般人的总体现。所以说，托尔斯泰并没有自己独特的面相，他拥有一张俄国普通大众的脸，因为他与全体俄国人民同呼吸共命运。\n因此，那些第一次见到他的人，一开始都无一例外地感到失望。他们有的坐火车旅行漫长的路程，有的从图拉驾车赶来，在客厅里正襟危坐地等待这位大师的接见。他们早就形成了对他的主观概念，希望从他身上找见威严非凡的东西，希望看到一个美髯公，集尊贵、轩昂、伟岸、天才于一身。在即将亲眼见到大活人之前，他们对自己所想象的这位文坛泰斗形象颔首低眉，敬重有加，内心的期望扩大到诚惶诚恐的地步。门终于开了，进来的却是一个矮小敦实的人，由于步子轻快，连胡子都跟着抖动不停。他刚进门，差不多就一路小跑而来，然后突然收住脚步，望着一位惊呆了的来客友好地微笑。他带着轻松愉快的口气，又迅速又随便地讲着表示欢迎的话语，同时主动向客人伸出手来。来访者一边与他握手，一边深感疑惑和惊讶。什么？就这么个侏儒！这么个小巧玲珑的家伙，难道真的是列夫・尼克拉耶维奇・托尔斯泰吗？这位客人不无尴尬地抬起眼皮直勾勾地打量着主人的脸。\n突然，客人惊奇地屏住了呼吸，只见面前的小个子那对浓似灌木丛的眉毛下面，一对灰色的眼睛射出一道黑豹似的目光，虽然每个见过托尔斯泰的人都谈过这种犀利目光，但再好的图片都没法加以反映。这道目光就像一把锃亮的钢刀刺了过来，又稳又准，击中要害，令你无法动弹，无法躲避。仿佛被催眠术控制住了，你只好乖乖地忍受这种目光的探寻，任何掩饰都抵挡不住。它像枪弹穿透了伪装的甲胄，它像金刚刀切开了玻璃。在这种入木三分的审视之下，谁都没法遮遮掩掩。――对此，屠格涅夫和高尔基等上百个人都做过无可置疑的描述。\n这种穿透心灵的审视仅仅持续了一秒钟，接着便刀剑入鞘，代之以柔和的目光与和蔼的笑容。虽然嘴角紧闭，没有变化，但那对眼睛却能满含粲然笑意，犹如神奇的星光。而在优美动人的音乐影响下，它们可以像村妇那样热泪涟涟。精神上感到满足自在时，它们可以闪闪发光，转眼又因忧郁而黯然失色，罩上阴云，顿生凄凉，显得麻木不仁，神秘莫测。它们可以变得冷酷锐利，可以像手术刀、像X射线那样揭开隐藏的秘密，不一会儿意趣盎然地涌出好奇的神色。这是出现人类面部最富感情的一对眼睛，可以抒发各种各样的感情。高尔基对它们恰如其分的描述，说出了我们的心里话：“托尔斯泰这对眼睛里有一百只眼珠。”\n亏得有这么一对眼睛，托尔斯泰的脸上于是透出一股才气来。此人所具有的天赋统统集中在他的眼睛里，就像俊美的陀斯妥耶夫斯基的丰富思想都集中在他的眉峰之间一样。托尔斯泰面部的其他部件――胡子、眉毛、头发，都不过是用以包装、保护这对闪光的珠宝的甲壳而已，这对珠宝有魔力，有磁性，可以把人世间的物质吸进去，然后向我们这个时代放射出精确无误的频波。再小的事物，借助这对眼睛都能看得清清楚楚，像一只猎鹰从高空朝一只胆怯的耗子俯冲下来，这对眼睛不会放过微不足道的细节，同样也能全面揭示广袤无垠的宇宙。它们可以照耀在精神世界的最高处，同样也可以成功地把探照灯光射进最阴暗的灵魂深处。这一对烁烁发光的晶体具有足够的热量和纯度，能够忘我地注视上帝；有足够的勇气注视摧毁一切的虚无，这种虚无犹如蛇发女怪那样，看到她的人就会变成石头。在这对眼睛看来，没有办不到的事情，除非让它们陷入无所事事的白日梦中，在优雅而快活的梦境里默默无声地享乐。眼皮刚一睁开，这对眼睛就必然毫不含糊，清醒而又无情地追寻起猎物来。它们容不得幻影，要把每一片虚假的伪装扯掉，把浅薄的信条撕烂。每件事物都逃不过这一对眼睛，都要露出赤裸裸的真相来。当这一副寒光四射的匕首转而对准它们的主人时是十分可怕的，因为锋刃无情，直戳要害，正好刺中了他的心窝。\n具有这种犀利眼光，能够看清真相的人，可以任意支配整个世界及其知识财富。作为一个始终具有善于观察并能看透事物本质的眼光的人，他肯定缺少一样东西，那就是属于自己的那一份幸福。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/bbdca76ebddfa1702974527900477730/bbdca76ebddfa1702974527900477730.m3u8?auth=5be698c77671a26e976f6e332c54b788",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532226.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "三峡",
-    "author": "郭彦伟",
-    "reader": "马晓勇",
-    "content": "郦道元\n自三峡七百里中，两岸连山，略无阙处。重岩叠嶂，隐天蔽日。自非亭午夜分，不见曦月。\n至于夏水襄陵，沿溯阻绝。或王命急宣，有时朝发白帝，暮到江陵，其间千二百里，虽乘奔御风，不以疾也。\n春冬之时，则素湍绿潭，回清倒影。绝？？多生怪柏，悬泉瀑布，飞漱其间，清荣峻茂，良多趣味。\n每至晴初霜旦，林寒涧肃，常有高猿长啸，属引凄异，空谷传响，哀转久绝。故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/52ab6099ed6291702974715031871517/52ab6099ed6291702974715031871517.m3u8?auth=401c3bed2b51aeda5f5c0ea3c1444df3",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231227/t20231227_526536387.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "3️⃣"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "钱塘湖春行",
-    "author": "郭彦伟",
-    "reader": "贾际",
-    "content": "钱塘湖春行\n白居易\n孤山寺北贾亭西，水面初平云脚低。\n几处早莺争暖树，谁家新燕啄春泥。\n乱花渐欲迷人眼，浅草才能没马蹄。\n最爱湖东行不足，绿杨阴里白沙堤。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/be710c1d020fe1702974822267444802/be710c1d020fe1702974822267444802.m3u8?auth=b50dd59a2023364501c9203818a94907",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532230.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "梁甫行",
-    "author": "郭彦伟",
-    "reader": "常亮",
-    "content": "梁甫行\n曹植\n八方各异气，千里殊风雨。\n剧哉边海民，寄身于草野。\n妻子象禽兽，行止依林阻。\n柴门何萧条，狐兔翔我宇。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/43da7295ca3951702975034242533621/43da7295ca3951702975034242533621.m3u8?auth=f04d363591d752c8deaa6e412719e733",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532231.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "昆明的雨",
-    "author": "郭彦伟",
-    "reader": "刘曼斯",
-    "content": "汪曾祺\n宁坤要我给他画一张画，要有昆明的特点。我想了一些时候，画了一幅：右上角画了一片倒挂着的浓绿的仙人掌，末端开出一朵金黄色的花；左下画了几朵青头菌和牛肝菌。题了这样几行字：\n昆明人家常于门头挂仙人掌一片以辟邪，仙人掌悬空倒挂，尚能存活开花。于此可见仙人掌生命之顽强，亦可见昆明雨季空气之湿润。雨季则有青头菌、牛肝菌，味极鲜腴。\n我想念昆明的雨。\n我以前不知道有所谓的雨季。“雨季”，是到昆明以后才有了具体感受的。\n我不记得昆明的雨季有多长，从几月到几月，好像是相当长的。但是并不使人厌烦。因为是下下停停，停停下下，不是连绵不断，下起来没完，而且并不使人气闷。我觉得昆明雨季气压不低，人很舒服。\n昆明的雨季是明亮的、丰满的，使人动情的。城春草木深，孟夏草木长。昆明的雨季，是浓绿的。草木的枝叶里的水分都到了饱和状态，显示出过分的、近于夸张的旺盛。\n我的那张画是写实的。我确实亲眼看见过倒挂着还能开花的仙人掌。旧日昆明人家门头上用以辟邪的多是这样一些东西：一面小镜子，周围画着八卦，下面便是一片仙人掌，――在仙人掌上扎一个洞，用麻线穿了，挂在钉子上。昆明仙人掌多，且极肥大。有些人家在菜园的周围种了一圈仙人掌以代替篱笆。――种了仙人掌，猪羊便不敢进园吃菜了。仙人掌有刺，猪和羊怕扎。\n昆明菌子极多。雨季逛菜市场，随时可以看到各种菌子。最多，也最便宜的是牛肝菌。牛肝菌下来的时候，家家饭馆卖炒牛肝菌，连西南联大食堂的桌子上都可以有一碗。牛肝菌色如牛肝，滑，嫩，鲜，香，很好吃。炒牛肝菌须多放蒜，否则容易使人晕倒。青头菌比牛肝菌略贵。这种菌子炒熟了也还是浅绿色的，格调比牛肝菌高。菌中之王是鸡枞，味道鲜浓，无可方比。鸡枞是名贵的山珍，但并不真的贵得惊人。一盘红烧鸡枞的价钱和一碗黄焖鸡不相上下，因为这东西在云南并不难得。有一个笑话：有人从昆明坐火车到呈贡，在车上看到地上有一棵鸡枞，他跳下去把鸡枞捡了，紧赶两步，还能爬上火车。这笑话用意在说明昆明到呈贡的火车之慢，但也说明鸡枞随处可见。有一种菌子，中吃不中看，叫做干巴菌。乍一看那样子，真叫人怀疑：这种东西也能吃？！颜色深褐带绿，有点像一堆半干的牛粪或一个被踩破了的马蜂窝。里头还有许多草茎、松毛，乱七八糟！可是下点功夫，把草茎松毛择净，撕成蟹腿肉粗细的丝，和青辣椒同炒，入口便会使你张目结舌：这东西这么好吃？！还有一种菌子，中看不中吃，叫鸡油菌。都是一般大小，有一块银圆那样大，滴溜儿圆，颜色浅黄，恰似鸡油一样。这种菌子只能做菜时配色用，没甚味道。\n雨季的果子，是杨梅。卖杨梅的都是苗族女孩子，戴一顶小花帽子，穿着扳尖的绣了满帮花的鞋，坐在人家阶石的一角，不时吆喝一声：“卖杨梅――”声音娇娇的。她们的声音使得昆明雨季的空气更加柔和了。昆明的杨梅很大，有一个乒乓球那样大，颜色黑红黑红的，叫作“火炭梅”。这个名字起得真好，真是像一球烧得炽红的火炭！一点都不酸！我吃过苏州洞庭山的杨梅、井冈山的杨梅，好像都比不上昆明的火炭梅。\n雨季的花是缅桂花。缅桂花即白兰花，北京叫作“把儿兰”（这个名字真不好听）。云南把这种花叫做缅桂花，可能最初这种花是从缅甸传入的，而花的香味又有点像桂花，其实这跟桂花实在没有什么关系。――不过话又说回来，别处叫它白兰、把儿兰，它和兰花也挨不上呀，也不过是因为它很香，香得像兰花。我在家乡看到的白兰多是一人高，昆明的缅桂是大树！我在若园巷二号住过，院里有一棵大缅桂，密密的叶子，把四周房间都映绿了。缅桂盛开的时候，房东（是一个五十多岁的寡妇）就和她的一个养女，搭了梯子上去摘，每天要摘下来好些，拿到花市上去卖。她大概是怕房客们乱摘她的花，时常给各家送去一些。有时送来一个七寸盘子，里面摆得满满的缅桂花！带着雨珠的缅桂花使我的心软软的，不是怀人，不是思乡。\n雨，有时是会引起人一点淡淡的乡愁的。李商隐的《夜雨寄北》是为许多久客的游子而写的。我有一天在积雨少住的早晨和德熙从联大新校舍到莲花池去。看了池里的满池清水，看了着比丘尼装的陈圆圆的石像（传说陈圆圆随吴三桂到云南后出家，暮年投莲花池而死），雨又下起来了。莲花池边有一条小街，有一个小酒店，我们走进去，要了一碟猪头肉，半市斤酒（装在上了绿釉的土瓷杯里），坐了下来。雨下大了。酒店有几只鸡，都把脑袋反插在翅膀下面，一只脚着地，一动也不动地在檐下站着。酒店院子里有一架大木香花。昆明木香花很多。有的小河沿岸都是木香，但是这样大的木香却不多见。一棵木香，爬在架上，把院子遮得严严的。密匝匝的细碎的绿叶，数不清的半开的白花和饱涨的花骨朵，都被雨水淋得湿透了。我们走不了，就这样一直坐到午后。四十年后，我还忘不了那天的情味，写了一首诗：\n莲花池外少行人，野店苔痕一寸深。\n浊酒一杯天过午，木香花湿雨沉沉。\n我想念昆明的雨。\n1984年5月19日",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/615ce856fad131702975481753194888/615ce856fad131702975481753194888.m3u8?auth=a9d50dfbee13a5a083f235ee4214dc10",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532247.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🌧️"
-  },
-  {
-    "lesson_number": "第18课",
-    "title": "苏州园林",
-    "author": "郭彦伟",
-    "reader": "冬艳",
-    "content": "叶圣陶\n苏州园林据说有一百多处，我到过的不过十多处。其他地方的园林我也到过一些。倘若要我说说总的印象，我觉得苏州园林是我国各地园林的标本，各地园林或多或少都受到苏州园林的影响。因此，谁如果要鉴赏我国的园林，苏州园林就不该错过。\n设计者和匠师们因地制宜，自出心裁，修建成功的园林当然各个不同。可是苏州各个园林在不同之中有个共同点，似乎设计者和匠师们一致追求的是：务必使游览者无论站在哪个点上，眼前总是一幅完美的图画。为了达到这个目的，他们讲究亭台轩榭的布局，讲究假山池沼的配合，讲究花草树木的映衬，讲究近景远景的层次。总之，一切都要为构成完美的图画而存在，决不容许有欠美伤美的败笔。他们唯愿游览者得到“如在画图中”的美感，而他们的成绩实现了他们的愿望，游览者来到园里，没有一个不心里想着口头说着“如在画图中”的。\n我国的建筑，从古代的宫殿到近代的一般住房，绝大部分是对称的，左边怎么样，右边也怎么样。苏州园林可绝不讲究对称，好像故意避免似的。东边有了一个亭子或者一道回廊，西边决不会来一个同样的亭子或者一道同样的回廊。这是为什么？我想，用图画来比方，对称的建筑是图案画，不是美术画，而园林是美术画，美术画要求自然之趣，是不讲究对称的。\n苏州园林里都有假山和池沼。假山的堆叠，可以说是一项艺术而不仅是技术。或者是重峦叠嶂，或者是几座小山配合着竹子花木，全在乎设计者和匠师们生平多阅历，胸中有丘壑，才能使游览者攀登的时候忘却苏州城市，只觉得身在山间。至于池沼，大多引用活水。有些园林池沼宽敞，就把池沼作为全园的中心，其他景物配合着布置。水面假如成河道模样，往往安排桥梁。假如安排两座以上的桥梁，那就一座一个样，决不雷同。池沼或河道的边沿很少砌齐整的石岸，总是高低屈曲任其自然。还在那儿布置几块玲珑的石头，或者种些花草：这也是为了取得从各个角度看都成一幅画的效果。池沼里养着金鱼或各色鲤鱼，夏秋季节荷花或睡莲开放，游览者看“鱼戏莲叶间”，又是入画的一景。\n苏州园林栽种和修剪树木也着眼在画意。高树与低树俯仰生姿。落叶树与常绿树相间，花时不同的多种花树相间，这就一年四季不感到寂寞。没有修剪得像宝塔那样的松柏，没有阅兵式似的道旁树：因为依据中国画的审美观点看，这是不足取的。有几个园里有古老的藤萝，盘曲嶙峋的枝干就是一幅好画。开花的时候满眼的珠光宝气，使游览者感到无限的繁华和欢悦，可是没法说出来。\n游览苏州园林必然会注意到花墙和廊子。有墙壁隔着，有廊子界着，层次多了，景致就见得深了。可是墙壁上有砖砌的各式镂空图案，廊子是两边无所依傍的，实际是隔而不隔，界而未界，因而更增加了景致的深度。有几个园林还在适当的位置装上一面大镜子，层次就更多了，几乎可以说把整个园林翻了一番。\n游览者必然也不会忽略另外一点，就是苏州园林在每一个角落都注意图画美。阶砌旁边栽几丛书带草。墙上蔓延着爬山虎或者蔷薇木香。如果开窗正对着白色墙壁，太单调了，给补上几竿竹子或几棵芭蕉。诸如此类，无非要游览者即使就极小范围的局部看，也能得到美的享受。\n苏州园林里的门和窗，图案设计和雕镂琢磨功夫都是工艺美术的上品。大致说来，那些门和窗尽量工细而决不庸俗，即使简朴而别具匠心。四扇，八扇，十二扇，综合起来看，谁都要赞叹这是高度的图案美。摄影家挺喜欢这些门和窗，他们斟酌着光和影，摄成称心满意的照片。\n苏州园林与北京的园林不同，极少使用彩绘。梁和柱子以及门窗栏杆大多漆广漆，那是不刺眼的颜色。墙壁白色。有些室内墙壁下半截铺水磨方砖，淡灰色和白色对衬。屋瓦和檐漏一律淡灰色。这些颜色与草木的绿色配合，引起人们安静闲适的感觉。花开时节，更显得各种花明艳照眼。\n可以说的当然不止以上这些，这里不再多写了。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/88172c4248d9d1702976317527347059/88172c4248d9d1702976317527347059.m3u8?auth=740a9c2d807713a3b9f1cb5b57e70b7d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231223/t20231223_526532259.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "采桑子",
-    "author": "郭彦伟",
-    "reader": "刘宇菲",
-    "content": "采桑子\n欧阳修\n轻舟短棹西湖好，绿水逶迤。芳草长堤，隐隐笙歌处处随。\n无风水面琉璃滑，不觉船移。微动涟漪，惊起沙禽掠岸飞。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/4f222af2888b61702977543143365070/4f222af2888b61702977543143365070.m3u8?auth=33b0e5e079cc6775528278f8a25244ec",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20231225/t20231225_526533633.html",
-    "grade": "8",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "我三十万大军胜利南渡长江",
-    "author": "安红丽",
-    "reader": "于芳",
-    "content": "我三十万大军胜利南渡长江\n（一九四九年四月二十二日）\n毛泽东\n新华社长江前线二十二日二时电  英勇的人民解放军二十一日已有大约三十万人渡过长江。渡江战斗于二十日午夜开始，地点在芜湖、安庆之间。国民党反动派经营了三个半月的长江防线，遇着人民解放军好似摧枯拉朽，军无斗志，纷纷溃退。长江风平浪静，我军万船齐放，直取对岸，不到二十四小时，三十万人民解放军即已突破敌阵，占领南岸广大地区，现正向繁昌、铜陵、青阳、荻港、鲁港诸城进击中。人民解放军正以自己的英雄式的战斗，坚决地执行毛主席朱总司令的命令。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591C5-C154-4E34-8C5B-30C70A141C1A_2018-05-1120_25_53_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231355.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "“飞天”凌空--跳水姑娘吕伟夺魁记",
-    "author": "李周圆",
-    "reader": "林溪",
-    "content": "作者：夏浩然 樊云芳\n她站在十米高台的前沿，沉静自若，风度优雅，白云似在她的头顶漂浮，飞鸟掠过她的身旁。这是达卡多拉游泳场的八千名观众一齐翘首而望、屏息敛声的一刹那。\n轻舒双臂，向上举起，只见吕伟轻轻一蹬，就向空中飞去。一瞬间，她那修长美妙的身体犹如被空气托住了，衬着蓝天白云，酷似敦煌壁画中凌空翔舞的“飞天”。\n紧接着，是向前翻腾一周半，同时伴随着旋风般地空中转体三周，动作急如流星，又潇洒自如，1.7秒的时间对她似乎特别慷慨，让她从容不迫地展示身体优美的线条，从前伸的手指，一直延续到绷直的足尖。\n还没等观众从眼花缭乱中反映过来，她已经展开身体，像轻盈的、笔直的箭，“哧”地插进碧波之中，几串白色的气泡拥抱了这位自天而降的仙女，四面水花则悄然不惊。\n“妙！妙极了！”站在我们旁边的一名外国记者跳了起来，这时，整个游泳场都沸腾了，如梦初醒的观众用震耳欲聋的掌声和欢呼声，来向他们喜爱的运动员表达由衷的赞赏。\n吕伟精彩的表演，将游泳场的气氛推向了高潮。她的这个动作“5136”，让几位裁判亮出了9.5分的高分。\n这位年方十六的中国姑娘，赢得了金牌。\n当一个印度观众了解到这个姑娘是中国跳水集训队中最年轻的新秀时，惊讶不已。他说：“了不起，你们中国的人才太多了！”",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DD-476C-40A2-BC82-512F0A141C1A_2018-12-0713_34_45_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450347.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌤️"
-  },
-  {
-    "lesson_number": "第5课",
-    "title": "藤野先生",
-    "author": "安红丽",
-    "reader": "陈智鹏",
-    "content": "作者：鲁迅\n东京也无非是这样。上野的樱花烂熳的时节，望去确也像绯红的轻云，但花下也缺不了成群结队的“清国留学生”的速成班，头顶上盘着大辫子，顶得学生制帽的顶上高高耸起，形成一座富士山。也有解散辫子，盘得平的，除下帽来，油光可鉴，宛如小姑娘的发髻一般，还要将脖子扭几扭。实在标致极了。\n中国留学生会馆的门房里有几本书买，有时还值得去一转；倘在上午，里面的几间洋房里倒也还可以坐坐的。但到傍晚，有一间的地板便常不免要咚咚咚地响得震天，兼以满房烟尘斗乱；问问精通时事的人，答道，“那是在学跳舞。”\n到别的地方去看看，如何呢？\n我就往仙台的医学专门学校去。从东京出发，不久便到一处驿站，写道：日暮里。不知怎地，我到现在还记得这名目。其次却只记得水户了，这是明的遗民朱舜水先生客死的地方。仙台是一个市镇，并不大；冬天冷得利害；还没有中国的学生。\n大概是物以希为贵罢。北京的白菜运往浙江，便用红头绳系住菜根，倒挂在水果店头，尊为“胶菜”；福建野生着的芦荟，一到北京就请进温室，且美其名曰“龙舌兰”。我到仙台也颇受了这样的优待，不但学校不收学费，几个职员还为我的食宿操心。我先是住在监狱旁边一个客店里的，初冬已经颇冷，蚊子却还多，后来用被盖了全身，用衣服包了头脸，只留两个鼻孔出气。在这呼吸不息的地方，蚊子竟无从插嘴，居然睡安稳了。饭食也不坏。但一位先生却以为这客店也包办囚人的饭食，我住在那里不相宜，几次三番，几次三番地说。我虽然觉得客店兼办囚人的饭食和我不相干，然而好意难却，也只得别寻相宜的住处了。于是搬到别一家，离监狱也很远，可惜每天总要喝难以下咽的芋梗汤。\n从此就看见许多陌生的先生，听到许多新鲜的讲义。解剖学是两个教授分任的。最初是骨学。其时进来的是一个黑瘦的先生，八字须，戴着眼镜，挟着一叠大大小小的书。一将书放在讲台上，便用了缓慢而很有顿挫的声调，向学生介绍自己道：\n“我就是叫作藤野严九郎的……”\n后面有几个人笑起来了。他接着便讲述解剖学在日本发达的历史，那些大大小小的书，便是从最初到现今关于这一门学问的著作。起初有几本是线装的；还有翻刻中国译本的，他们的翻译和研究新的医学，并不比中国早。\n那坐在后面发笑的是上学年不及格的留级学生，在校已经一年，掌故颇为熟悉的了。他们便给新生讲演每个教授的历史。这藤野先生，据说是穿衣服太模胡了，有时竟会忘记带领结；冬天是一件旧外套，寒颤颤的，有一回上火车去，致使管车的疑心他是扒手，叫车里的客人大家小心些。\n他们的话大概是真的，我就亲见他有一次上讲堂没有带领结。\n过了一星期，大约是星期六，他使助手来叫我了。到得研究室，见他坐在人骨和许多单独的头骨中间，――他其时正在研究着头骨，后来有一篇论文在本校的杂志上发表出来。\n“我的讲义，你能抄下来么？”他问。\n“可以抄一点。”\n“拿来我看！”\n我交出所抄的讲义去，他收下了，第二三天便还我，并且说，此后每一星期要送给他看一回。我拿下来打开看时，很吃了一惊，同时也感到一种不安和感激。原来我的讲义已经从头到末，都用红笔添改过了，不但增加了许多脱漏的地方，连文法的错误，也都一一订正。这样一直继续到教完了他所担任的功课：骨学，血管学，神经学。\n可惜我那时太不用功，有时也很任性。还记得有一回藤野先生将我叫到他的研究室里去，翻出我那讲义上的一个图来，是下臂的血管，指着，向我和蔼的说道：\n“你看，你将这条血管移了一点位置了。――自然，这样一移，的确比较的好看些，然而解剖图不是美术，实物是那么样的，我们没法改换它。现在我给你改好了，以后你要全照着黑板上那样的画。”\n但是我还不服气，口头答应着，心里却想道：\n“图还是我画的不错；至于实在的情形，我心里自然记得的。”\n学年试验完毕之后，我便到东京玩了一夏天，秋初再回学校，成绩早已发表了，同学一百余人之中，我在中间，不过是没有落第。这回藤野先生所担任的功课，是解剖实习和局部解剖学。\n解剖实习了大概一星期，他又叫我去了，很高兴地，仍用了极有抑扬的声调对我说道：\n“我因为听说中国人是很敬重鬼的，所以很担心，怕你不肯解剖尸体。现在总算放心了，没有这回事。”\n但他也偶有使我很为难的时候。他听说中国的女人是裹脚的，但不知道详细，所以要问我怎么裹法，足骨变成怎样的畸形，还叹息道，“总要看一看才知道。究竟是怎么一回事呢？”\n有一天，本级的学生会干事到我寓里来了，要借我的讲义看。我检出来交给他们，却只翻检了一通，并没有带走。但他们一走，邮差就送到一封很厚的信，拆开看时，第一句是：\n“你改悔罢！”\n这是《新约》上的句子罢，但经托尔斯泰新近引用过的。其时正值日俄战争，托老先生便写了一封给俄国和日本的皇帝的信，开首便是这一句。日本报纸上很斥责他的不逊，爱国青年也愤然，然而暗地里却早受了他的影响了。其次的话，大略是说上年解剖学试验的题目，是藤野先生在讲义上做了记号，我预先知道的，所以能有这样的成绩。末尾是匿名。\n我这才回忆到前几天的一件事。因为要开同级会，干事便在黑板上写广告，末一句是“请全数到会勿漏为要”，而且在“漏”字旁边加了一个圈。我当时虽然觉到圈得可笑，但是毫不介意，这回才悟出那字也在讥刺我了，犹言我得了教员漏泄出来的题目。\n我便将这事告知了藤野先生；有几个和我熟识的同学也很不平，一同去诘责干事托辞检查的无礼，并且要求他们将检查的结果，发表出来。终于这流言消灭了，干事却又竭力运动，要收回那一封匿名信去。结末是我便将这托尔斯泰式的信退还了他们。\n中国是弱国，所以中国人当然是低能儿，分数在六十分以上，便不是自己的能力了：也无怪他们疑惑。但我接着便有参观枪毙中国人的命运了。第二年添教霉菌学，细菌的形状是全用电影来显示的，一段落已完而还没有到下课的时候，便影几片时事的片子，自然都是日本战胜俄国的情形。但偏有中国人夹在里边：给俄国人做侦探，被日本军捕获，要枪毙了，围着看的也是一群中国人；在讲堂里的还有一个我。\n“万岁！”他们都拍掌欢呼起来。\n这种欢呼，是每看一片都有的，但在我，这一声却特别听得刺耳。此后回到中国来，我看见那些闲看枪毙犯人的人们，他们也何尝不酒醉似的喝采，―― 呜呼，无法可想！但在那时那地，我的意见却变化了。\n到第二学年的终结，我便去寻藤野先生，告诉他我将不学医学，并且离开这仙台。他的脸色仿佛有些悲哀，似乎想说话，但竟没有说。\n“我想去学生物学，先生教给我的学问，也还有用的。”其实我并没有决意要学生物学，因为看得他有些凄然，便说了一个慰安他的谎话。\n“为医学而教的解剖学之类，怕于生物学也没有什么大帮助。”他叹息说。\n将走的前几天，他叫我到他家里去，交给我一张照相，后面写着两个字道：“惜别”，还说希望将我的也送他。但我这时适值没有照相了；他便叮嘱我将来照了寄给他，并且时时通信告诉他此后的状况。\n我离开仙台之后，就多年没有照过相，又因为状况也无聊，说起来无非使他失望，便连信也怕敢写了。经过的年月一多，话更无从说起，所以虽然有时想写信，却又难以下笔，这样的一直到现在，竟没有寄过一封信和一张照片。从他那一面看起来，是一去之后，杳无消息了。\n但不知怎地，我总还时时记起他，在我所认为我师的之中，他是最使我感激，给我鼓励的一个。有时我常常想：他的对于我的热心的希望，不倦的教诲，小而言之，是为中国，就是希望中国有新的医学；大而言之，是为学术，就是希望新的医学传到中国去。他的性格，在我的眼里和心里是伟大的，虽然他的姓名并不为许多人所知道。\n他所改正的讲义，我曾经订成三厚本，收藏着的，将作为永久的纪念。不幸七年前迁居的时候，中途毁坏了一口书箱，失去半箱书，恰巧这讲义也遗失在内了。责成运送局去找寻，寂无回信。只有他的照相至今还挂在我北京寓居的东墙上，书桌对面。每当夜间疲倦，正想偷懒时，仰面在灯光中瞥见他黑瘦的面貌，似乎正要说出抑扬顿挫的话来，便使我忽又良心发现，而且增加勇气了，于是点上一枝烟，再继续写些为“正人君子”之流所深恶痛疾的文字。\n十月十二日",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF594A3-41D0-48E9-B4A7-314F0A141C1A_2018-05-1121_04_12_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231347.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第6课",
-    "title": "回忆我的母亲",
-    "author": "安红丽",
-    "reader": "姚科",
-    "content": "作者：朱德\n得到母亲去世的消息，我很悲痛。我爱我母亲，特别是她勤劳一生，很多事情是值得我永远回忆的。\n我家是佃农。祖籍广东韶关，客籍人，在＂湖广填四川＂时迁移四川仪陇县马鞍场。世代为地主耕种，家境是贫苦的，和我们来往的朋友也都是老老实实的贫苦农民。\n母亲一共生了十三个儿女。因为家境贫穷，无法全部养活，只留下了八个，以后再生下的被迫溺死了。这在母亲心里是多么惨痛悲哀和无可奈何的事情啊！母亲把八个孩子一手养大成人。可是她的时间大半被家务和耕种占去了，没法多照顾孩子，只好让孩子们在地里爬着。\n母亲是个好劳动。从我能记忆时起，总是天不亮就起床。全家二十多口人，妇女们轮班煮饭，轮到就煮一年。母亲把饭煮了，还要种田，种菜，喂猪，养蚕，纺棉花。因为她身体高大结实，还能挑水挑粪。\n母亲这样地整日劳碌着。我到四五岁时就很自然地在旁边帮她的忙，到八九岁时就不但能挑能背，还会种地了。记得那时我从私塾回家，常见母亲在灶上汗流满面地烧饭，我就悄悄把书一放，挑水或放牛去了。有的季节里，我上午读书，下午种地；一到农忙，便整日在地里跟着母亲劳动。这个时期母亲教给我许多生产知识。\n佃户家庭的生活自然是艰苦的，可是由于母亲的聪明能干，也勉强过得下去。我们用桐子榨油来点灯，吃的是豌豆饭、菜饭、红薯饭、杂粮饭，把菜籽榨出的油放在饭里做调料。这类地主富人家看也不看的饭食，母亲却能做得使一家人吃起来有滋味。赶上丰年，才能缝上一些新衣服，衣服也是自己生产出来的。母亲亲手纺出线，请人织成布，染了颜色，我们叫它＂家织布＂，有铜钱那样厚。一套衣服老大穿过了，老二老三接着穿还穿不烂。\n勤劳的家庭是有规律有组织的。我的祖父是一个中国标本式的农民，到八九十岁还非耕田不可，不耕田就会害病，直到临死前不久还在地里劳动。祖母是家庭的组织者，一切生产事务由她管理分派，每年除夕就分派好一年的工作。每天天还没亮，母亲就第一个起身，接着听见祖父起来的声音，接着大家都离开床铺，喂猪的喂猪，砍柴的砍柴，挑水的挑水。母亲在家庭里极能任劳任怨。她性格和蔼，没有打骂过我们，也没有同任何人吵过架。因此，虽然在这样的大家庭里，长幼、伯叔、妯娌相处都很和睦。母亲同情贫苦的人――这是朴素的阶级意识，虽然自己不富裕，还周济和照顾比自己更穷的亲戚。她自己是很节省的。父亲有时吸点旱烟，喝点酒；母亲管束着我们，不允许我们染上一点。母亲那种勤劳俭朴的习惯，母亲那种宽厚仁慈的态度，至今还在我心中留有深刻的印象。\n但是灾难不因为中国农民的和平就不降临到他们身上。庚子年（１９００）前后，四川连年旱灾，很多的农民饥饿、破产，不得不成群结队地去＂吃大户＂。我亲眼见到，六七百穿得破破烂烂的农民和他们的妻子儿女被所谓官兵一阵凶杀毒打，血溅四五十里，哭声动天。在这样的年月里，我家也遭受更多的困难，仅仅吃些小菜叶、高粱，通年没吃过白米。特别是乙未（１８９５）那一年，地主欺压佃户，要在租种的地上加租子，因为办不到，就趁大年除夕，威胁着我家要退佃，逼着我们搬家。在悲惨的情况下，我们一家人哭泣着连夜分散。从此我家被迫分两处住下。人手少了，又遇天灾，庄稼没收成，这是我家最悲惨的一次遭遇。母亲没有灰心，她对穷苦农民的同情和对为富不仁者的反感却更强烈了。母亲沉痛的三言两语的诉说以及我亲眼见到的许多不平事实，启发了我幼年时期反抗压迫追求光明的思想，使我决心寻找新的生活。\n我不久就离开母亲，因为我读书了。我是一个佃农家庭的子弟，本来是没有钱读书的。那时乡间豪绅地主的欺压，衙门差役的横蛮，逼得母亲和父亲决心节衣缩食培养出一个读书人来＂支撑门户＂。我念过私塾，光绪三十一年（１９０５）考了科举，以后又到更远的顺庆和成都去读书。这个时候的学费都是东挪西借来的，总共用了二百多块钱，直到我后来当护国军旅长时才还清。\n光绪三十四年（１９０８）我从成都回来，在仪陇县办高等小学，一年回家两三次去看母亲。那时新旧思想冲突得很厉害。我们抱了科学民主的思想，想在家乡做点事情，守旧的豪绅们便出来反对我们。我决心瞒着母亲离开家乡，远走云南，参加新军和同盟会。我到云南后，从家信中知道，我母亲对我这一举动不但不反对，还给我许多慰勉。\n从宣统元年（１９０９）到现在，我再没有回过一次家，只在民国八年（１９１９）我曾经把父亲和母亲接出来。但是他俩劳动惯了，离开土地就不舒服，所以还是回了家。父亲就在回家途中死了。母亲回家继续劳动，一直到最后。\n中国革命继续向前发展，我的思想也继续向前发展。当我发现了中国革命的正确道路时，我便加入了中国共产党。大革命失败了，我和家庭完全隔绝了。母亲就靠那三十亩地独立支持一家人的生活。抗战以后，我才能和家里通信。母亲知道我所做的事业，她期望着中国民族解放的成功。她知道我们党的困难，依然在家里过着勤苦的农妇生活。七年中间，我曾寄回几百元钱和几张自己的照片给母亲。母亲年老了，但她永远想念着我，如同我永远想念着她一样。去年收到侄儿的来信说：＂祖母今年已有八十五岁，精神不如昨年之健康，饮食起居亦不如前，甚望见你一面，聊叙别后情景。＂但我献身于民族抗战事业，竟未能报答母亲的希望。\n母亲最大的特点是一生不曾脱离过劳动。母亲生我前一分钟还在灶上煮饭。虽到老年，仍然热爱生产。去年另一封外甥的家信中说：＂外祖母大人因年老关系，今年不比往年健康，但仍不辍劳作，尤喜纺棉。＂\n我应该感谢母亲，她教给我与困难作斗争的经验。我在家庭中已经饱尝艰苦，这使我在三十多年的军事生活和革命生活中再没感到过困难，没被困难吓倒。母亲又给我一个强健的身体，一个勤劳的习惯，使我从来没感到过劳累。\n我应该感谢母亲，她教给我生产的知识和革命的意志，鼓励我以后走上革命的道路。在这条路上，我一天比一天更加认识：只有这种知识，这种意志，才是世界上最可宝贵的财产。\n母亲现在离我而去了，我将永不能再见她一面了，这个哀痛是无法补救的。母亲是一个平凡的人，她只是中国千百万劳动人民中的一员，但是，正是这千百万人创造了和创造着中国的历史。我用什么方法来报答母亲的深恩呢？我将继续尽忠于我们的民族和人民，尽忠于我们的民族和人民的希望――中国共产党，使和母亲同样生活着的人能够过快乐的生活。这是我能做到的，一定能做到的。\n愿母亲在地下安息！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D3-888C-4426-AE77-30C80A141C1A_2018-05-1120_56_08_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231342.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第8课",
-    "title": "美丽的颜色",
-    "author": "李周圆",
-    "reader": "高莉",
-    "content": "作者：艾芙・居里\n玛丽・斯可罗多夫斯卡的学生生活中最愉快的时期，是在顶楼里度过的；玛丽・居里现在又要在一个残破的小屋里，尝到新的极大的快乐了。这是一种奇异的新的开始，这种艰苦而且微妙的快乐（无疑地在玛丽以前没有一个女人体验过），两次都挑选了最简陋的布景。\n娄蒙路的棚屋，可以说是不舒服的典型。在夏天，因为棚顶是玻璃的，棚屋里面燥热得像温室。在冬天，简直不知道是应该希望下霜还是应该希望下雨。若是下雨，雨水就以一种令人厌烦的轻柔声音，一滴一滴地落在地上，落在工作台上，落在这两个物理学家标上记号永远不放仪器的地方；若是下霜，就连人都冻僵了，没有方法补救。那个炉子即使把它烧到炽热的程度，也令人完全失望。走到差不多可以碰着它的地方，才能感受一点儿暖气，可是离开一步，立刻就回到寒带去了。\n然而，玛丽和比埃尔更要习惯忍受室外的严寒。他们炼制沥青铀矿的设备极其简陋，由于没有把有害气体排出去的“通风罩”，炼制的大部分工作就必须在院子的露天地里进行。每逢骤雨猝至，这两位物理学家就匆忙把设备搬进棚屋，大开着门窗让空气流通，以便继续工作，而不至于因烟窒息。\n这种极特殊的治疗结核症的方法，玛丽多半没有对佛提埃大夫吹嘘过！\n后来她写过这样一段话：“我们没有钱，没有实验室，而且几乎没有人帮助我们把这件既重要而又困难的工作做好。这像是要由无中创出有来。假如我过学生生活的几年是卡西密尔・德卢斯基从前说的‘我的姨妹一生中的英勇岁月’，我可以毫不夸大地说，现在这个时期是我丈夫和我的共同生活中的英勇时期。”\n“……然而我们生活中最美好而且最快乐的几年，还是在这个简陋的旧棚屋中度过的，我们把精力完全用在工作上。我常常就在那里做我们吃的饭，以便某种特别重要的工序不至于中断。有时候我整天用差不多和我一般高的铁条，搅动一大堆沸腾着的东西。到了晚上，简直是筋疲力尽。”\n由1898年到1902年，居里先生和夫人就是在这种条件之下工作的。\n第一年里，他们共同从事镭和钋的化学离析工作，并且研究他们所得到的活性产物的放射性。不久，他们认为分工的效率比较高，比埃尔便试着确定镭的特性，以求熟悉这种新金属。玛丽继续炼制，提取纯镭盐。\n在这种分工中，玛丽选了“男子的职务”，做的是壮工的工作。她的丈夫在棚屋里专心做细致的实验。玛丽在院子里穿着满是尘污和酸渍的旧工作服，头发被风吹得飘起来，周围的烟刺激着眼睛和咽喉。\n她独自一个人就是一家工厂。\n她写道：“我一次炼制20公斤材料，结果是棚屋里放满了装着沉淀物和溶液的大瓶子。搬运容器，移注溶液，连续几小时搅动熔化锅里沸腾着的材料，这真是一种极累人的工作。”\n但是镭要保持它的神秘性，丝毫不希望人类认识它。玛丽从前很天真地预料沥青铀矿的残渣里有含有百分之一的镭，那个估计现在到哪里去了？这种新物质的放射性极强，极少量的镭散布在矿石中，就是一些触目的现象的来源，很容易观察或测量。最困难的，或者说几乎不可能的，乃是离析这极小含量的物质，使它从与它密切混合着的杂质中分离出来。\n工作日变成了工作月，工作月变成了工作年。比埃尔和玛丽并没有失掉勇气。这种抵抗他们的材料迷住了他们。他们之间的柔情和他们智力上的热情，把他们结合在一起；他们在这个木板屋里过着“反自然”的生活，他们彼此一样，都是为了过这种生活而降生的。\n玛丽后来写道：“感谢这种意外的发现，在这个时期里，我们完全被那展开在我们面前的新领域吸引住了。虽然我们的工作条件带给我们许多困难，但是我们仍然觉得很快乐。我们的时光就在实验室里度过。在我们十分可怜的棚屋里笼罩着极大的宁静；有时候我们来回踱着，一面密切注意着某种实验的进行，一面谈着目前和将来的工作。觉得冷的时候，我们在炉旁喝一杯热茶，就又舒服了。我们在一种独特的专心景况中过日子，像是在梦里一样。\n“……我们在实验室里只有很少的几个客人。偶尔有几位物理学家或化学家来，或是来看我们的实验，或是来请教比埃尔・居里某些问题，他在物理学的许多分支领域，是很出名的。他们就在黑板前谈话，这种谈话给人留下了清晰的记忆，因为它们是科学兴趣和工作热情的一种提神剂，并不打断思考的进程，也不扰乱平静专注的空气，这是实验室的真正的气氛。”\n比埃尔和玛丽有时候离开仪器，平静地闲谈一会儿，他们谈的总是他们所迷恋的镭，说的话由极高深的到极幼稚的，无一不有。\n有一天，玛丽像期盼别人已经答应给的玩具的小孩一样，怀着热切的好奇心说：“我真想知道‘它’会是什么样子，它的相貌如何。比埃尔，在你的想象中，它是什么形状？”\n这个物理学家和颜悦色地回答：“我不知道……你可以想到，我希望它有很美丽的颜色。”\n…………\n那天他们工作得很辛苦，照道理这两位学者此刻应该休息了。但是比埃尔和玛丽并不总是照道理行事。他们穿上外衣，告诉居里大夫说他们要出去，就溜走了……他们挽臂步行，话说得很少。沿着这个远离市中心的街区的热闹街道，走过工厂、空地和不讲究的住房。他们到了娄蒙路，穿过院子，比埃尔把钥匙插入锁孔，那扇门嘎嘎地响着（它已经这样响过几千次了），他们走进他们的领域，走进他们的梦境。\n玛丽说：“不要点灯！”接着轻轻地笑了笑，再说：“你记得你对我说‘我希望它有很美丽的颜色’的那一天么？”\n几个月以来使比埃尔和玛丽入迷的镭的真相，实际上比他们以前天真地希望着的样子还要可爱。镭不只有“美丽的颜色”，它还自动发光！在这个黑暗的棚屋里没有柜子，这些零星的宝贝装在极小的玻璃容器里，放在钉在墙上的板子或桌子上；它们那些略带蓝色荧光的轮廓闪耀着，悬在夜的黑暗中。\n“看哪……看哪！”这位年轻妇人低声说着。\n她小心翼翼地走向前去找，找到一张有草垫的椅子，坐下了。在黑暗中，在寂静中，两个人的脸都转向这些微光，转向这射线的神秘来源，转向镭，转向他们的镭！玛丽身体前倾，热切地望着，她此时的姿势，就像一小时前在她睡着了的孩子床头看着孩子一样。\n她的伴侣用手轻轻地抚摸她的头发。\n她永远记得看荧光的这一晚，永远记得这种神妙世界的奇观。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DE-6E14-498F-8B93-512F0A141C1A_2018-12-0713_34_54_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450348.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第10课",
-    "title": "答谢中书书",
-    "author": "安红丽",
-    "reader": "刘沙",
-    "content": "作者：陶弘景\n山川之美，古来共谈。高峰入云，清流见底。两岸石壁，五色交辉。青林翠竹，四时俱备。晓雾将歇，猿鸟乱鸣；夕日欲颓，沉鳞竞跃。实是欲界之仙都。自康乐以来，未复有能与其奇者。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D3-0EB4-476C-B1A8-30C80A141C1A_2018-05-1120_53_07_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231337.html",
-    "grade": "4",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第10课",
-    "title": "记承天寺夜游",
-    "author": "李周圆",
-    "reader": "刘沙",
-    "content": "作者：苏轼\n元丰六年十月十二日夜，解衣欲睡，月色入户，欣然起行。念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。庭下如积水空明，水中藻、荇交横，盖竹柏影也。何夜无月？何处无竹柏？但少闲人如吾两人者耳。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DE-6694-45E6-8B18-512F0A141C1A_2018-12-0713_36_18_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450349.html",
-    "grade": "4",
-    "semester": "1",
-    "emoji": "🌤️"
-  },
-  {
-    "lesson_number": "第11课",
-    "title": "与朱元思书",
-    "author": "安红丽",
-    "reader": "陆洋",
-    "content": "作者： 吴均\n风烟俱净，天山共色。从流飘荡，任意东西。自富阳至桐庐一百许里，奇山异水，天下独绝。\n水皆缥碧，千丈见底。游鱼细石，直视无碍。急湍甚箭，猛浪若奔。\n夹岸高山，皆生寒树，负势竞上，互相轩邈，争高直指，千百成峰。泉水激石，泠泠作响；好鸟相鸣，嘤嘤成韵。蝉则千转不穷，猿则百叫无绝。鸢飞戾天者，望峰息心；经纶世务者，窥谷忘反。横柯上蔽，在昼犹昏；疏条交映，有时见日。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D3-D0F8-4008-8098-30C80A141C1A_2018-05-1120_26_28_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231333.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "使至塞上",
-    "author": "李周圆",
-    "reader": "康辉",
-    "content": "使至塞上\n王维\n单车欲问边，属国过居延。\n征蓬出汉塞，归雁入胡天。\n大漠孤烟直，长河落日圆。\n萧关逢候骑，都护在燕然。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E1-8190-4689-8078-512F0A141C1A_2018-12-0713_36_48_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450352.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "黄鹤楼",
-    "author": "安红丽",
-    "reader": "弥亚牛",
-    "content": "黄鹤楼\n崔颢\n昔人已乘黄鹤去，此地空余黄鹤楼。\n黄鹤一去不复返，白云千载空悠悠。\n晴川历历汉阳树，芳草萋萋鹦鹉洲。\n日暮乡关何处是？烟波江上使人愁。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D4-76E4-4CC6-9686-30C80A141C1A_2018-05-1120_53_24_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231327.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🟡"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "渡荆门送别",
-    "author": "安红丽",
-    "reader": "于芳",
-    "content": "渡荆门送别\n李白\n渡远荆门外，来从楚国游。\n山随平野尽，江入大荒流。\n月下飞天镜，云生结海楼。\n仍怜故乡水，万里送行舟。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D4-E4BC-4C83-822C-30C80A141C1A_2018-05-1120_53_33_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231321.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🚪"
-  },
-  {
-    "lesson_number": "第13课",
-    "title": "背影",
-    "author": "安红丽",
-    "reader": "方明",
-    "content": "作者：朱自清\n我与父亲不相见已二年余了，我最不能忘记的是他的背影。\n那年冬天，祖母死了，父亲的差使也交卸了，正是祸不单行的日子。我从北京到徐州，打算跟着父亲奔丧回家。到徐州见着父亲，看见满院狼藉的东西，又想起祖母，不禁簌簌地流下眼泪。父亲说：“事已如此，不必难过，好在天无绝人之路！”\n回家变卖典质，父亲还了亏空；又借钱办了丧事。这些日子，家中光景很是惨淡，一半为了丧事，一半为了父亲赋闲。丧事完毕，父亲要到南京谋事，我也要回北京念书，我们便同行。\n到南京时，有朋友约去游逛，勾留了一日；第二日上午便须渡江到浦口，下午上车北去。父亲因为事忙，本已说定不送我，叫旅馆里一个熟识的茶房陪我同去。他再三嘱咐茶房，甚是仔细。但他终于不放心，怕茶房不妥帖；颇踌躇了一会。其实我那年已二十岁，北京已来往过两三次，是没有什么要紧的了。他踌躇了一会，终于决定还是自己送我去。我再三劝他不必去；他只说：“不要紧，他们去不好！”\n我们过了江，进了车站。我买票，他忙着照看行李。行李太多了，得向脚夫行些小费才可过去。他便又忙着和他们讲价钱。我那时真是聪明过分，总觉他说话不大漂亮，非自己插嘴不可，但他终于讲定了价钱；就送我上车。他给我拣定了靠车门的一张椅子；我将他给我做的紫毛大衣铺好座位。他嘱我路上小心，夜里要警醒些，不要受凉。又嘱托茶房好好照应我。我心里暗笑他的迂；他们只认得钱，托他们只是白托！而且我这样大年纪的人，难道还不能料理自己么？唉，我现在想想，那时真是太聪明了！\n我说道：“爸爸，你走吧。”他往车外看了看说：“我买几个橘子去。你就在此地，不要走动。”我看那边月台的栅栏外有几个卖东西的等着顾客。走到那边月台，须穿过铁道，须跳下去又爬上去。父亲是一个胖子，走过去自然要费事些。我本来要去的，他不肯，只好让他去。我看见他戴着黑布小帽，穿着黑布大马褂，深青布棉袍，蹒跚地走到铁道边，慢慢探身下去，尚不大难。可是他穿过铁道，要爬上那边月台，就不容易了。他用两手攀着上面，两脚再向上缩；他肥胖的身子向左微倾，显出努力的样子。这时我看见他的背影，我的泪很快地流下来了。我赶紧拭干了泪。怕他看见，也怕别人看见。我再向外看时，他已抱了朱红的橘子往回走了。过铁道时，他先将橘子散放在地上，自己慢慢爬下，再抱起橘子走。到这边时，我赶紧去搀他。他和我走到车上，将橘子一股脑儿放在我的皮大衣上。于是扑扑衣上的泥土，心里很轻松似的。过一会说：“我走了，到那边来信！”我望着他走出去。他走了几步，回过头看见我，说：“进去吧，里边没人。”等他的背影混入来来往往的人里，再找不着了，我便进来坐下，我的眼泪又来了。\n近几年来，父亲和我都是东奔西走，家中光景是一日不如一日。他少年出外谋生，独力支持，做了许多大事。哪知老境却如此颓唐！他触目伤怀，自然情不能自已。情郁于中，自然要发之于外；家庭琐屑便往往触他之怒。他待我渐渐不同往日。但最近两年的不见，他终于忘却我的不好，只是惦记着我，惦记着我的儿子。我北来后，他写了一信给我，信中说道：“我身体平安，唯膀子疼痛厉害，举箸提笔，诸多不便，大约大去之期不远矣。”我读到此处，在晶莹的泪光中，又看见那肥胖的、青布棉袍黑布马褂的背影。唉！我不知何时再能与他相见！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591E1-95C4-4B43-809C-30D30A141C1A_2018-05-1120_26_53_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231314.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第14课",
-    "title": "白杨礼赞",
-    "author": "安红丽",
-    "reader": "于芳",
-    "content": "作者：茅盾\n白杨树实在不是平凡的，我赞美白杨树!\n当汽车在望不到边际的高原上奔驰，扑入你的视野的，是黄绿错综的一条大毯子。黄的是土，未开垦的荒地，几百万年前由伟大的自然力堆积成功的黄土高原的外壳；绿的呢，是人类劳力战胜自然的成果，是麦田，和风吹送，翻起了一轮一轮的绿波，――这时你会真心佩服昔人所造的两个字\"麦浪\"，若不是妙手偶得，便确是经过锤炼的语言的精华。黄与绿主宰着，无边无垠，坦荡如砥，这时如果不是宛若并肩的远山的连峰提醒了你(这些山峰凭你的肉眼来判断，就知道是在你脚底下的)，你会忘记了汽车是在高原上行驶。这时你涌起来的感想也许是\"雄壮\"，也许是\"伟大\"，诸如此类的形容词；然而同时你的眼睛也许觉得有点倦怠，你对当前的\"雄壮\"或\"伟大\"闭了眼，而另一种的味儿在你心头潜滋暗长了――\"单调\"！可不是，单调，有一点儿吧?\n然而刹那间，要是你猛抬眼看见了前面远远有一排――不，或者只是三五株，一株，傲然地耸立，像哨兵似的树木的话，那你的恹恹欲睡的情绪又将如何？我那时是惊奇地叫了一声的！\n那就是白杨树，西北极普通的一种树，然而实在是不平凡的一种树！\n那是力争上游的一种树，笔直的干，笔直的枝。它的干通常是丈把高，像加过人工似的，一丈以内绝无旁枝。它所有的丫枝一律向上，而且紧紧靠拢，也像加过人工似的，成为一束，绝不旁逸斜出；它的宽大的叶子也是片片向上，几乎没有斜生的，更不用说倒垂了；它的皮光滑而有银色的晕圈，微微泛出淡青色。这是虽在北方风雪的压迫下却保持着倔强挺立的一种树！哪怕只有碗那样粗细，它却努力向上发展，高到丈许，两丈，参天耸立，不折不挠，对抗着西北风。\n这就是白杨树，西北极普通的一种树，然而决不是平凡的树！\n它没有婆娑的姿态，没有屈曲盘旋的虬枝。也许你要说它不美。如果美是专指\"婆娑\"或\"旁逸斜出\"之类而言，那么，白杨树算不得树中的好女子。但是它伟岸，正直，朴质，严肃，也不缺乏温和，更不用提它的坚强不屈与挺拔，它是树中的伟丈夫！当你在积雪初融的高原上走过，看见平坦的大地上傲然挺立这么一株或一排白杨树，难道你就觉得它只是树？难道你就不想到它的朴质，严肃，坚强不屈，至少也象征了北方的农民？难道你竟一点也不联想到，在敌后的广大土地上，到处有坚强不屈，就像这白杨树一样傲然挺立的守卫他们家乡的哨兵？难道你又不更远一点想到，这样枝枝叶叶靠紧团结，力求上进的白杨树，宛然象征了今天在华北平原纵横决荡，用血写出新中国历史的那种精神和意志？\n白杨不是平凡的树。它在西北极普遍，不被人重视，就跟北方的农民相似；它有极强的生命力，磨折不了，压迫不倒，也跟北方的农民相似。我赞美白杨树，就因为它不但象征了北方的农民，尤其象征了今天我们民族解放斗争中所不可缺的朴质、坚强、力求上进的精神。\n让那些看不起民众、贱视民众、顽固的倒退的人们去赞美那贵族化的楠木(那也是直挺秀颀的)，去鄙视这极常见、极易生长的白杨树吧，我要高声赞美白杨树！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59478-ABF8-4B8C-9890-31450A141C1A_2018-05-1120_49_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231308.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第15课",
-    "title": "永久的生命",
-    "author": "安红丽",
-    "reader": "雅坤",
-    "content": "作者：严文井\n过去了的时间永不再回来。一个人到了三十岁的边头就会发现自己丢失了一些什么：一颗臼齿，一段盲肠，一些头发，一点点和人开玩笑的兴味，这意味着他已经失去了那大半个青春。有限的岁月只能一度为你所有，它们既然离开，就永远不会再返回。智者对此也无能为力！个人生命不像一件衬衣，当你发现它脏了、破了的时候，就可以脱下它来洗涤，把它再补好。那存在过的忧愁，也许你能忘却，但却不能取消它遗留下的印迹。我们都非常可怜！\n人们却不应该为此感到悲观。我们没有时间悲观。我们应该看到生命自身的神奇，生命流动着，永远不朽。地面上的小草，它们是那样卑微，那样柔弱，每个严寒的冬天过去后，它们依然一根根从土壤里钻出来，欢乐地迎着春天的风，好像那刚刚过去的寒冷从未存在。一万年前是这样，一万年以后也是这样！在春天，我们以同样感动的眼光看着山坡上那些小牛犊，它们跳跳蹦蹦，炫耀它们遍身金黄的茸毛。永远的小牛犊，永远的金黄色茸毛！\n感谢生命的奇迹，它分开来是暂时，合起来却是永久。它是一个不懂疲倦的旅客，总是只暂时在哪一个个体内住一会儿，便又离开前去。那些个体消逝了，它却永远存在。它充满了希望，永不休止地繁殖着，蔓延着，随处宣示它的快乐和威势。\n我的伙伴们，我们的心应该感到舒畅。那些暴君们能够杀害许多许多人，但是他们消灭不了生命。让我们赞美生命，赞美那毁灭不掉的生命吧！我们将要以不声不响的爱情来赞美它。生命在那些终于要凋谢的花朵里永存，不断给世界以色彩，不断给世界以芬芳。\n凋谢和不朽混为一体，这就是奇迹。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59478-D31C-4D66-8E7E-31450A141C1A_2018-05-1120_35_39_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231303.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第15课",
-    "title": "我为什么而活着",
-    "author": "安红丽",
-    "reader": "贾际",
-    "content": "作者：罗素\n对爱情的渴望，对知识的追求，对人类苦难不可遏制的同情，这三种纯洁而无比强烈的感情支配着我的一生。这三种感情就像飓风一样，在深深的苦海上，肆意地把我吹来吹去，吹到濒临绝望的边缘。\n我寻求爱情，首先是因为爱情给我带来狂喜，它如此强烈以致我经常愿意为了几小时的欢愉而牺牲生命中的其他一切。我寻求爱情，其次是因为爱情解除孤寂一―那是一颗震颤的心，在世界的边缘，俯瞰那冰冷死寂、深不可测的深渊。我寻求爱情，最后是因为在爱情的结合中，我看到圣贤和诗人们所想像的仙境的神秘缩影。这就是我所寻求的，虽然它对人生似乎过于美好，然而最终我还是得到了它。\n我以同样的热情寻求知识，我希望了解人的心灵。我希望知道星辰为什么闪闪发光，我试图理解毕达哥拉斯的思想威力，即数字支配着万物流转。这方面我获得一些成就，然而并不多。\n爱情和知识，尽其可能地把我引上云霄，但是同情心总把我带回尘世。痛苦的呼号的回声在我心中回荡，饥饿的儿童，被压迫者折磨的受害者，被儿女视为负担的无助的老人，以及充满孤寂、贫穷和痛苦的整个世界，都是对人类应有生活的嘲讽。我渴望减轻这些不幸，但是我无能为力，而且我自己也深受其害。\n这就是我的一生，我觉得我活着值得。如果有机会的话，我还乐意再活一次。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59479-8004-4941-A5A3-31450A141C1A_2018-05-1120_46_42_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231296.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第23课",
-    "title": "周亚夫军细柳",
-    "author": "李周圆",
-    "reader": "陈智鹏",
-    "content": "文帝之后六年，匈奴大入边。乃以宗正刘礼为将军，军霸上；祝兹侯徐厉为将军，军棘门；以河内守亚夫为将军，军细柳：以备胡。\n上自劳军。至霸上及棘门军，直驰入，将以下骑送迎。已而之细柳军，军士吏被甲，锐兵刃，彀弓弩，持满。天子先驱至，不得入。先驱曰：“天子且至！”军门都尉曰：“将军令曰：‘军中闻将军令，不闻天子之诏。‘“居无何，上至，又不得入。于是上乃使使持节诏将军：“吾欲入劳军。”亚夫乃传言开壁门。壁门士吏谓从属车骑曰：“将军约，军中不得驱驰。”于是天子乃按辔徐行。至营，将军亚夫持兵揖曰：“介胄之士不拜，请以军礼见。”天子为动，改容式车。使人称谢：“皇帝敬劳将军。”成礼而去。\n既出军门，群臣皆惊。文帝曰：“嗟乎，此真将军矣！曩者霸上、棘门军，若儿戏耳，其将固可袭而虏也。至于亚夫，可得而犯邪！”称善者久之。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E2-DC64-47DB-823C-512F0A141C1A_2018-12-0713_33_59_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450354.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "野望",
-    "author": "李周圆",
-    "reader": "于芳",
-    "content": "野望\n王绩东皋薄暮望，徙倚欲何依。树树皆秋色，山山唯落晖。牧人驱犊返，猎马带禽归。相顾无相识，长歌怀采薇。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E1-EB70-4F4F-8670-512F0A141C1A_2018-12-0713_37_00_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450358.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "饮酒",
-    "author": "安红丽",
-    "reader": "任杰",
-    "content": "饮酒（其五）\n陶渊明\n结庐在人境，而无车马喧。\n问君何能尔？心远地自偏。\n采菊东篱下，悠然见南山。\n山气日夕佳，飞鸟相与还。\n此中有真意，欲辨已忘言。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5947A-2710-4103-88CE-31450A141C1A_2018-05-1121_03_42_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231254.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "春望",
-    "author": "安红丽",
-    "reader": "海霞",
-    "content": "春望\n杜甫\n国破山河在，城春草木深。\n感时花溅泪，恨别鸟惊心。\n烽火连三月，家书抵万金。\n白头搔更短，浑欲不胜簪。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF5947A-831C-4F5B-9413-31450A141C1A_2018-05-1121_03_35_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231249.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "赤壁",
-    "author": "安红丽",
-    "reader": "姚科",
-    "content": "赤壁\n杜牧\n折戟沉沙铁未销，自将磨洗认前朝。\n东风不与周郎便，铜雀春深锁二乔。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59492-B754-493F-8662-314A0A141C1A_2018-05-1121_03_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231239.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "雁门太守行",
-    "author": "李周圆",
-    "reader": "杨昶",
-    "content": "雁门太守行\n李贺\n黑云压城城欲摧，甲光向日金鳞开。\n角声满天秋色里，塞上燕脂凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E4-13A8-49EF-B731-512F0A141C1A_2018-12-0713_34_27_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450356.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🚪"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "渔家傲",
-    "author": "李周圆",
-    "reader": "贺红梅",
-    "content": "渔家傲\n李清照\n天接云涛连晓雾，星河欲转千帆舞。仿佛梦魂归帝所，闻天语，殷勤问我归何处。\n我报路长嗟日暮，学诗谩有惊人句。九万里风鹏正举。风休住，蓬舟吹取三山去！",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E3-C110-4873-86CE-512F0A141C1A_2018-12-0713_34_06_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450355.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🏠"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "龟虽寿",
-    "author": "李周圆",
-    "reader": "常亮",
-    "content": "龟虽寿\n曹操\n神龟虽寿，犹有竟时；\n腾蛇乘雾，终为土灰。\n老骥伏枥，志在千里；\n烈士暮年，壮心不已。\n盈缩之期，不但在天；\n养怡之福，可得永年。\n幸甚至哉，歌以咏志。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05DF-4158-49EA-A7BA-512F0A141C1A_2018-12-0713_36_32_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450350.html",
-    "grade": "8",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "赠从弟（其二）",
-    "author": "李周圆",
-    "reader": "常亮",
-    "content": "赠从弟（其二）\n刘桢\n亭亭山上松，瑟瑟谷中风。\n风声一何盛，松枝一何劲！\n冰霜正惨凄，终岁常端正。\n岂不罹凝寒？松柏有本性。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201812/5C0A05E0-C99C-4187-9D49-512F0A141C1A_2018-12-0713_36_17_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20181214/t20181214_524450351.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "2️⃣"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "庭中有奇树",
-    "author": "安红丽",
-    "reader": "常亮",
-    "content": "庭中有奇树\n《古诗十九首》\n庭中有奇树，绿叶发华滋。\n攀条折其荣，将以遗所思。\n馨香盈怀袖，路远莫致之。\n此物何足贵？但感别经时。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF591D4-25E4-4684-8265-30C80A141C1A_2018-05-1120_53_36_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231319.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌳"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "相见欢",
-    "author": "安红丽",
-    "reader": "贺红梅",
-    "content": "相见欢\n朱敦儒\n金陵城上西楼，倚清秋。万里夕阳垂地大江流。\n中原乱，簪缨散，几时收？试倩悲风吹泪过扬州。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59493-3040-41C1-9B68-314A0A141C1A_2018-05-1120_47_57_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231236.html",
-    "grade": "8",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外阅读",
-    "title": "如梦令",
-    "author": "安红丽",
-    "reader": "海霞",
-    "content": "如梦令\n李清照\n常记溪亭日暮，沉醉不知归路。\n兴尽晚回舟，误入藕花深处。\n争渡，争渡，惊起一滩鸥鹭。",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201805/5AF59493-F21C-4CF0-BDC2-314A0A141C1A_2018-05-1120_47_29_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bnjsc/20180513/t20180513_524231231.html",
-    "grade": "8",
-    "semester": "1",
-    "emoji": "💤"
-  },
-  {
-    "lesson_number": "第6课",
-    "title": "恐龙无处不有",
-    "author": "智陈阳",
-    "reader": "富赜",
-    "content": "不同科学领域之间是紧密相连的。在一个科学领域的发现肯定会对其他领域产生影响。\n例如，在  1986  年  1  月，阿根廷南极研究所宣布在詹姆斯罗斯岛发现了一些骨骼化石。该岛是离南极海岸不远的一小片冰冻陆地，非常靠近南美的南端。这些骨头毫无疑问属于鸟臀目恐龙  。\n在地球的其他大陆上也都发现有恐龙化石。这些古老的爬行动物在南极的出现，说明恐龙确实遍布于世界各地。\n如果把这个发现与南极大陆联系起来，这比仅考虑恐龙来说重要得多。恐龙如何能在南极地区生存呢？恐龙实际上并不适应寒冷的气候，但  1986  年在南极确实发现了这种古老的动物的化石。\n恐龙不可能在每一块大陆上独立生存，那么它们是如何越过大洋到另一个大陆上去的呢？\n这一问题的答案是：是大陆在漂移而不是恐龙自己在迁移。几十年前，人们发现地壳是由一些紧密拼合在一起但又在缓慢运动的大板块构成的。一些板块被拉开，而另一些则挤压在一起，一个板块也许会缓慢地向另一板块下面俯冲。“板块构造”理论很快为地质界几乎所有的问题提供了答案，如火山、地震、岛屿链  、海洋深渊等等，这些在以前一直是不解之谜。\n可以这样比喻，板块背上驮着许多大陆，当板块向一个或另一个方向运动时，大陆也随之一起运动。每隔一段时期，板块会将所有的大陆汇聚在一起，地球此时仅由一个主要陆地构成，称为“泛大陆”。当板块继续运动时，大陆又重新被分离开。\n在四十多亿年的地球发展史中，泛大陆形成和分裂过多次，最后一次完整的泛大陆大约是在  2.25  亿年前形成的。这个泛大陆存在了数百万年以后，又开始显示出破裂的迹象。\n早期恐龙在那时已经开始出现，并且有机会分散到泛大陆的各个地方。所有陆地似乎都处在热带和温带环境内，所以恐龙可以在泛大陆的不同地区舒适地生活。\n大约在两亿年前，泛大陆分裂出四部分。北部就是现在的北美、欧洲和亚洲，南部是由现在的南美和非洲构成，最南部是现在的南极洲和澳大利亚，印度是剩余的一小部分。\n随着时间的流逝，北美又与亚洲和欧洲分开，南美也与非洲相离。（如果看一张地图，并假定把非洲和南美洲拼合在一起，你就会看到它们拼合得多么天衣无缝。）印度向北移动，并且大约在  5  000  万年前与亚洲相碰撞，形成巨大的喜马拉雅山脉。两个陆块在那里聚合并缓慢地褶皱变形。南极和澳大利亚也已相互分离。\n当大陆相互分离时，每一个大陆都携带着自己的恐龙而去。到  6500  万年以前，由于这样或那样的原因，所有的恐龙都灭绝了，大陆也已完全分开。现在的每一个大陆都有自己的恐龙化石。\n南极也有自己的恐龙、两栖动物和其他在恐龙时代繁盛的植物和动物。然而，这些生物的命运比其他同类要悲惨得多，因为板块把它们向南携带到了极地。大约经历了一亿年，气候逐渐变冷，植物慢慢越来越稀少，动物的种类和数量也大量减少。气候变得越来越寒冷，夏天短而且冷，最后成为冰天雪地。\n位于南极中心部位的南极洲是全球的大冰箱，地球上所有冰的十分之九都在南极冰盖。那里的冰有数英里厚，覆盖着丰富的化石。如果南极的冰雪层再薄一些的话，我们就可以找到它们。\n因此，南极洲恐龙化石的发现，为支持地壳在进行缓慢但又不可抗拒的运动这一理论提供了另一个强有力的证据。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e34d6ebb89e0c1702973277252171546/e34d6ebb89e0c1702973277252171546.m3u8?auth=ef1a4203617707205519e23c9c860107",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20231226/t20231226_526535082.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐉"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "桃花源记",
-    "author": "智陈阳",
-    "reader": "雅坤",
-    "content": "陶渊明\n晋太元中，武陵人捕鱼为业。缘溪行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。渔人甚异之。复前行，欲穷其林。\n林尽水源，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，才通人。复行数十步，豁然开朗。土地平旷，屋舍俨然，有良田美池桑竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人。黄发垂髫，并怡然自乐。\n见渔人，乃大惊，问所从来，具答之。便要还家，设酒杀鸡作食。村中闻有此人，咸来问讯。自云先世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。问今是何世，乃不知有汉，无论魏晋。此人一一为具言所闻，皆叹惋。余人各复延至其家，皆出酒食。停数日，辞去。此中人语云：“不足为外人道也。”\n既出，得其船，便扶向路，处处志之。及郡下，诣太守，说如此。太守即遣人随其往，寻向所志，遂迷，不复得路。\n南阳刘子骥，高尚士也，闻之，欣然规往。未果，寻病终，后遂无问津者。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e1e4c0344b642170297446625473315/e1e4c0344b642170297446625473315.m3u8?auth=2234916490bba580286c5c8ca11845d5",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20231226/t20231226_526535080.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌺"
-  },
-  {
-    "lesson_number": "第10课",
-    "title": "小石潭记",
-    "author": "智陈阳",
-    "reader": "黎江",
-    "content": "小石潭记\n柳宗元\n从小丘西行百二十步，隔篁竹，闻水声，如鸣��环，心乐之。伐竹取道，下见小潭，水尤清冽。全石以为底，近岸，卷石底以出，为坻，为屿，为��，为岩。青树翠蔓，蒙络摇缀，参差披拂。\n潭中鱼可百许头，皆若空游无所依。日光下澈，影布石上，�倘徊欢�，�m尔远逝，往来翕忽。似与游者相乐。\n潭西南而望，斗折蛇行，明灭可见。其岸势犬牙差互，不可知其源。\n坐潭上，四面竹树环合，寂寥无人，凄神寒骨，悄怆幽邃。以其境过清，不可久居，乃记之而去。\n同游者：吴武陵，龚古，余弟宗玄。隶而从者，崔氏二小生，曰恕己，曰奉壹。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e1e2f8821abc1702974935848537383/e1e2f8821abc1702974935848537383.m3u8?auth=dedf15bb7e1fe97101028ef6be6c3f93",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20231226/t20231226_526535079.html",
-    "grade": "4",
-    "semester": "1",
-    "emoji": "🔵"
-  },
-  {
-    "lesson_number": "第14课",
-    "title": "应有格物致知精神",
-    "author": "智陈阳",
-    "reader": "陈智鹏",
-    "content": "丁肇中\n我非常荣幸地接受《�t望》周刊授予我的“情系中华”征文特别荣誉奖。我父亲是受中国传统教育长大的，我受的教育的一部分是传统教育，一部分是西方教育。缅怀我的父亲，我写了《怀念》这篇文章。多年来，我在学校里接触到不少中国学生，因此，我想借这个机会向大家谈谈学习自然科学的中国学生应该怎样了解自然科学。\n在中国传统教育里，最重要的书是“四书”。“四书”之一的《大学》里这样说：一个人教育的出发点是“格物”和“致知”。就是说，从探察物体而得到知识。用这两个词语描写现代学术发展是再恰当也没有的了。现代学术的基础就是实地的探察，就是我们现在所谓的实验。\n但是传统的中国教育并不重视真正的格物和致知。这可能是因为传统教育的目的并不是寻求新知识，而是适应一个固定的社会制度。《大学》本身就说，格物致知的目的，是使人能达到诚意、正心、修身、齐家、治国的田地，从而追求儒家的最高理想――平天下。因为这样，格物致知的真正意义便被埋没了。\n大家都知道明朝的大理论家王阳明，他的思想可以代表传统儒家对实验的态度。有一天王阳明要依照《大学》的指示，先从“格物”做起。他决定要“格”院子里的竹子。于是他搬了一条凳子坐在院子里，面对着竹子硬想了七天，结果因为头痛而宣告失败。这位先生明明是把探察外界误认为探讨自己。\n王阳明的观点，在当时的社会环境里是可以理解的。因为儒家传统的看法认为天下有不变的真理，而真理是“圣人”从内心领悟的。圣人知道真理以后，就传给一般人。所以经书上的道理是可“推之于四海，传之于万世”的。经验告诉我们，这种观点是不适用于现在的世界的。\n我是研究科学的人，所以重视实验精神在科学上的重要性。\n科学发展的历史告诉我们，新的知识只能通过实地实验而得到，不是由自我检讨或哲理的清谈就可求到的。\n实验的过程不是消极的观察，而是积极的探测。比如，我们要知道竹子的性质，就要特地栽种竹子，以研究它生长的过程，要把叶子切下来拿到显微镜下去观察，绝不是袖手旁观就可以得到知识的。\n实验不是毫无选择的测量，它需要有细致具体的计划。特别重要的，是要有一个适当的目标，以作为整个探索过程的向导。至于这目标怎样选定，就要靠实验者的判断力和灵感。一个成功的实验需要的是眼光、勇气和毅力。\n由此我们可以了解，为什么基本知识上的突破是不常有的事情。我们也可以了解，为什么历史上学术的进展只靠少数人关键性的发现。\n时至今天，王阳明的思想还在继续地支配着一些中国读书人的头脑。因为这个文化背景，中国学生大部偏向于理论而轻视实验，偏向于抽象的思维而不愿动手。中国学生往往念功课成绩很好，考试都得近100分，但是在研究工作中需要拿主意时，就常常不知所措了。\n在这方面，我有个人的经验为证。我是受传统教育长大的。到美国大学念物理的时候，起先以为只要很“用功”，什么都遵照老师的指导，就可以一帆风顺了，但是事实并不是这样。一开始做研究便马上发现不能光靠教师，需要自己做主张、出主意。当时因为事先没有准备，不知吃了多少苦。最使我彷徨恐慌的，是当时的唯一  一办法――以埋头读书应付一切，对于实际的需要毫无帮助。\n我觉得真正的格物致知精神，不但研究学术不可缺少，而且对应付今天的世界环境也是不可少的。我们需要培养实验的精神。就是说，不论是研究自然科学，研究人文科学，还是在个人行动上，我们都要保留一个怀疑求真的态度，要靠实践来发现事物的真相。现在世界和社会的环境变化得很快。世界上不同文化的交流也越来越密切。我们不能盲目地接受过去认定的真理，也不能等待“学术权威”的指示。我们要自己有判断力。在环境激变的今天，我们应该重新体会几千年前经书里说的格物致知真正的意义。这意义有两个方面：第一，寻求真理的唯一途径是对事物客观的探索；第二，探索应该有想象力、有计划，不能消极地袖手旁观。希望我们这一代对于格物和致知有新的认识和思考，使得实验精神真正变成中国文化的一部分。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/ae919718e438170297560269076314/ae919718e438170297560269076314.m3u8?auth=f5fad96e9aa6573fae45aef52adbe7e1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20231226/t20231226_526535076.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第22课",
-    "title": "大道之行也",
-    "author": "智陈阳",
-    "reader": "方明",
-    "content": "大道之行也\n大道之行也，天下为公。选贤与能，讲信修睦。故人不独亲其亲，不独子其子，使老有所终，壮有所用，幼有所长，矜、寡、孤、独、废疾者皆有所养，男有分，女有归。货恶其弃于地也，不必藏于己；力恶其不出于身也，不必为己。是故谋闭而不兴，盗窃乱贼而不作，故外户而不闭。是谓大同。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1221/b739a4c7f28371703157447007545942/b739a4c7f28371703157447007545942.m3u8?auth=eb9bc859406c3bffc31befa69417b2f9",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20231226/t20231226_526535070.html",
-    "grade": "4",
-    "semester": "2",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "第2课",
-    "title": "回延安",
-    "author": "夏青",
-    "reader": "方明",
-    "content": "作者：贺敬之\n心口呀莫要这么厉害地跳，\n灰尘呀莫把我眼睛挡住了……\n手抓黄土我不放，\n紧紧儿贴在心窝上。\n……几回回梦里回延安，\n双手搂定宝塔山。\n千声万声呼唤你，\n――母亲延安就在这里！\n杜甫川唱来柳林铺笑，\n红旗飘飘把手招。\n白羊肚手巾红腰带，\n亲人们迎过延河来。\n满心话登时说不出来，\n一头扑在亲人怀……\n二\n……二十里铺送过柳林铺迎，\n分别十年又回家中。\n树梢树枝树根根，\n亲山亲水有亲人。\n羊羔羔吃奶眼望着妈，\n小米饭养活我长大。\n东山的糜子西山的谷，\n肩膀上的红旗手中的书。\n手把手儿教会了我，\n母亲打发我们过黄河。\n革命的道路千万里，\n天南海北想着你……\n三\n米酒油馍木炭火，\n团团围定炕上坐。\n满窑里围得不透风，\n脑畔上还响着脚步声。\n老爷爷进门气喘得紧：\n“我梦见鸡毛信来――可真见亲人……”\n亲人见了亲人面，\n欢喜的眼泪眼眶里转。\n“保卫延安你们费了心，\n白头发添了几根根。”\n团支书又领进社主任，\n当年的放羊娃如今长成人。\n白生生的窗纸红窗花，\n娃娃们争抢来把手拉。\n一口口的米酒千万句话，\n长江大河起浪花。\n十年来革命大发展，\n说不尽这三千六百天……\n四\n千万条腿来千万只眼，\n也不够我走来也不够我看！\n头顶着蓝天大明镜，\n延安城照在我心中：\n一条条街道宽又平，\n一座座楼房披彩虹；\n一盏盏电灯亮又明，\n一排排绿树迎春风……\n对照过去我认不出了你，\n母亲延安换新衣。\n五\n杨家岭的红旗啊高高地飘，\n革命万里起高潮！\n宝塔山下留脚印，\n毛主席登上了天安门！\n枣园的灯光照人心，\n延河滚滚喊“前进”！\n赤卫军，青年团，红领巾，\n走着咱英雄几辈辈人……\n社会主义路上大踏步走，\n光荣的延河还要在前头！\n身长翅膀吧脚生云，\n再回延安看母亲！\n1956年3月9日，延安\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359E8-973C-407E-9C0C-51470A141C1A_2019-09-1918_25_17_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785921.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "安塞腰鼓",
-    "author": "夏青",
-    "reader": "陆洋",
-    "content": "作者：刘成章\n一群茂腾腾的后生。\n他们的身后是一片高粱地。他们朴实得就像那片高粱。\n咝溜溜的南风吹动了高粱叶子，也吹动了他们的衣衫。\n他们的神情沉稳而安静。紧贴在他们身体一侧的腰鼓，呆呆的，似乎从来不曾响过。\n但是：\n看！――\n一捶起来就发狠了，忘情了，没命了！百十个斜背响鼓的后生，如百十块被强震不断击起的石头，狂舞在你的面前。骤雨一样，是急促的鼓点；旋风一样，是飞扬的流苏；乱蛙一样，是蹦跳的脚步；火花一样，是闪射的瞳仁；斗虎一样，是强健的风姿。黄土高原上，爆出一场多么壮阔、多么豪放、多么火烈的舞蹈哇――安塞腰鼓！\n这腰鼓，使冰冷的空气立即变得燥热了，使恬静的阳光立即变得飞溅了，使困倦的世界立即变得亢奋了。\n使人想起：落日照大旗，马鸣风萧萧！\n使人想起：千里的雷声万里的闪！\n使人想起：晦暗了又明晰，明晰了又晦暗，尔后最终永远明晰了的大彻大悟！\n容不得束缚，容不得羁绊，容不得闭塞。是挣脱了、冲破了、撞开了的那么一股劲！\n好一个安塞腰鼓！\n百十个腰鼓发出的沉重响声，碰撞在四野长着酸枣树的山崖上，山崖蓦然变成牛皮鼓面了，只听见隆隆，隆隆，隆隆。\n百十个腰鼓发出的沉重响声，碰撞在遗落了一切冗杂的观众的心上，观众的心也蓦然变成牛皮鼓面了，也是隆隆，隆隆，隆隆。\n隆隆隆隆的豪壮的抒情，隆隆隆隆的严峻的思索，隆隆隆隆的犁尖翻起的杂着草根的土浪，隆隆隆隆的阵痛的发生和排解……\n好一个安塞腰鼓！\n后生们的胳膊、腿、全身，有力地搏击着，疾速地搏击着，大起大落地搏击着。它震撼着你，烧灼着你，威逼着你。它使你从来没有如此鲜明地感受到生命的存在、活跃和强盛。它使你惊异于那农民衣着包裹着的躯体，那消化着红豆角角老南瓜的躯体，居然可以释放出那么奇伟磅礴的能量！\n黄土高原啊，你生养了这些元气淋漓的后生；也只有你，才能承受如此惊心动魄的搏击！\n多水的江南是易碎的玻璃，在那儿，打不得这样的腰鼓。\n除了黄土高原，哪里再有这么厚这么厚的土层啊！\n好一个黄土高原！好一个安塞腰鼓！\n每一个舞姿都充满了力量。每一个舞姿都呼呼作响。每一个舞姿都是光和影的匆匆变幻。每一个舞姿都使人战栗在浓烈的艺术享受中，使人叹为观止。\n好一个痛快了山河、蓬勃了想象力的安塞腰鼓！\n愈捶愈烈！形体成了沉重而又纷飞的思绪！\n愈捶愈烈！思绪中不存任何隐秘！\n愈捶愈烈！痛苦和欢乐，生活和梦幻，摆脱和追求，都在这舞姿和鼓点中，交织！旋转！凝聚！奔突！辐射！翻飞！升华！人，成了茫茫一片；声，成了茫茫一片……\n当它戛然而止的时候，世界出奇地寂静，以至使人感到对她十分陌生了。\n简直像来到另一个星球。\n耳畔是一声渺远的鸡啼。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359E8-F454-4776-8431-51470A141C1A_2019-09-1918_36_55_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785844.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "灯笼",
-    "author": "夏青",
-    "reader": "弥亚牛",
-    "content": "作者：吴伯箫\n虽不像扑灯蛾，爱光明而至焚身，小孩子喜欢火，喜欢亮光，却仿佛是天性。放在暗屋子里就哭的宝儿，点亮了灯哭声就止住了。岁梢寒夜，玩火玩灯，除夕燃滴滴金，放焰火，是孩子群里少有例外的事。尽管大人们怕火火烛烛的危险，要说“玩火黑夜溺炕”那种迹近恐吓的话，但偷偷还要在神龛里点起烛来。\n连活活的太阳算着，一切亮光之中，我爱皎洁的月华，如沸的繁星，同一支夜晚来挑着照路的灯笼。提起灯笼，就会想起三家村的犬吠，村中老头呵狗的声音；就会想起庞大的晃荡着的影子,夜行人咕咕噜噜的私语；想起祖父雪白的胡须，同洪亮大方的谈吐；坡野里想起跳跳的磷火，村边社戏台下想起闹嚷嚷的观众，花生篮，冰糖葫芦；台上的小丑，花脸，《司马懿探山》。真的，灯笼的缘结得太多了，记忆的网里挤着的就都是。\n记得，做着公正乡绅的祖父，晚年每每被邀去五里遥的城里说事，一去一整天。回家总是很晚的。凑巧若是没有月亮的夜，长工李五和我便须应差去接。伴着我们的除了李老五的叙家常，便是一把腰刀、一具灯笼。那时自己对人情世故还不懂，好听点说，心还像素丝样纯洁，什么争讼吃官司，是不在自己意识领域的。祖父好，在路上轻易不提斡旋着的情事，倒是一路数着牵牛织女星谈些进京赶考的掌故――雪夜驰马，荒郊店宿，每每令人忘路之远近。村犬遥遥向灯笼吠了，认得了是主人，近前来却又大摇其尾巴。到家常是二更时分。不是夜饭吃完，灯笼还在院子里亮着吗？那种熙熙然庭院的静穆，是一辈子思慕着的。\n“路上黑，打了灯笼去吧。”\n自从远离乡井，为了生活在外面孤单地挣扎之后，像这样慈母口中吩咐的话也很久听不到了。每每想起小时候在村里上灯学，要挑了灯笼走去挑了灯笼走回的事，便深深感到怅惘。母亲给留着的消夜食品便都是在亲手接过了灯笼去后递给自己的。为自己特别预备的那支小的纱灯，样子也还清清楚楚记在心里。虽然人已经是站在青春尾梢上的人，母亲的头发也全白了。\n乡俗还愿，唱戏、挂神袍而外,常在村头高挑一挂红灯。仿佛灯柱上还照例有些松柏枝叶做点缀。挂红灯，自然同盛伏舍茶、腊八施粥一样，有着行好的意思；松柏枝叶的点缀，用意却不甚了然。真是，若有孤行客，黑夜摸路，正自四面虚惊的时候，忽然发现星天下红灯高照，总会以去村不远而默默高兴起来的吧。\n唐明皇在东宫结绘彩为高五十尺的灯楼，遍悬珠玉金银而风至锵然的那种盛事太古远了，恨无缘观赏。金吾不禁的那元宵节张灯结彩，却曾于太平丰年在几处山城小县里凑过热闹：跟了一条龙灯在人海里跑半夜，不觉疲乏是什么，还要去看庆丰酒店的跑马灯，猜源亨油坊出的灯谜。家来睡，不是还将一挂小灯悬在床头吗？梦都随了蜡火开花。\n想起来，族姊远嫁，大送大迎，曾听过彻夜的鼓吹，看满街的灯火；轿前轿后虽不像《宋史・仪卫志》载，准有打灯笼子亲事官八十人，但辉煌景象已够华贵了。那时姊家仿佛还是什么京官，于今是破落户了。进士第的官衔灯该还有吧，垂珠联珑的朱门却早已褪色了。\n用朱红在纱灯上描宋体字，从前很引起过自己的喜悦；现在想，当时该并不是传统思想，或羡慕什么富贵荣华，而是根本就爱那种玩意，如同黑漆大门上过年贴丹红春联一样。自然，若是纱灯上的字是“尚书府”或“某某县正堂”之类，懂得了意思，也会觉得不凡的；但普普通通一家纯德堂的家用灯笼，可也未始勾不起爱好来。\n宫灯，还没见过；总该有翠羽流苏的装饰吧。假定是暖融融的春宵，西宫南内有人在趁了灯光调绿嘴鹦鹉，也有人在秋千索下缓步寻一脉幽悄，意味应是深长的。虽然，“……好一似扬子江，驾小舟，风狂浪大，浪大风狂”的汉献帝也许有灯笼做伴，但那时人的处境可悯，蜡泪就怕数不着长了。\n最壮的是塞外点兵，吹角连营，夜深星阑时候，将军在挑灯看剑，那灯笼上你不希望写的几个斗方大字是霍骠姚，是汉将李广，是唐朝裴公吗？雪夜入蔡，与胡人不敢南下牧马的故事是同日月一样亮起了人的耳目的。你听，正萧萧班马鸣也，我愿就是那灯笼下的马前卒。\n唉，壮，于今灯笼又不够了。应该数火把，数探海灯，数燎原的一把烈火！\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359E9-5F4C-4F08-BC06-51470A141C1A_2019-09-1918_28_25_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785810.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🏮"
-  },
-  {
-    "lesson_number": "第5课",
-    "title": "大自然的语言",
-    "author": "夏青",
-    "reader": "刘静",
-    "content": "作者：竺可桢\n立春过后，大地渐渐从沉睡中苏醒过来。冰雪融化，草木萌发，各种花次第开放。再过两个月，燕子翩然归来。不久，布谷鸟也来了。于是转入炎热的夏季，这是植物孕育果实的时期。到了秋天，果实成熟，植物的叶子渐渐变黄，在秋风中簌簌地落下来。北雁南飞，活跃在田间草际的昆虫也都销声匿迹。到处呈现一片衰草连天的景象，准备迎接风雪载途的寒冬。在地球上温带和亚热带区域里，年年如是，周而复始。\n几千年来，劳动人民注意了草木荣枯、候鸟去来等自然现象同气候的关系，据以安排农事。杏花开了，就好像大自然在传语要赶快耕地；桃花开了，又好像在暗示要赶快种谷子。布谷鸟开始唱歌，劳动人民懂得它在唱什么：“阿公阿婆，割麦插禾。”这样看来，花香鸟语，草长莺飞，都是大自然的语言。\n这些自然现象，我国古代劳动人民称它为物候。物候知识在我国起源很早。古代流传下来的许多农谚就包含了丰富的物候知识。到了近代，利用物候知识来研究农业生产，已经发展为一门科学，就是物候学。物候学记录植物的生长荣枯，动物的养育往来，如桃花开、燕子来等自然现象，从而了解随着时节推移的气候变化和这种变化对动植物的影响。\n物候观测使用的是“活的仪器”，是活生生的生物。它比气象仪器复杂得多，灵敏得多。物候观测的数据反映气温、湿度等气候条件的综合，也反映气候条件对于生物的影响。应用在农事活动里，比较简便，容易掌握。物候对于农业的重要性就在这里。下面是一个例子。\n北京的物候记录，1962年的山桃、杏花、苹果、榆叶梅、西府海棠、丁香、刺槐的花期比1961年迟十天左右，比1960年迟五六天。根据这些物候观测资料，可以判断北京地区1962年农业季节来得较晚。而那年春初种的花生等作物仍然是按照往年日期播种的，结果受到低温的损害。如果能注意到物候延迟，选择适宜的播种日期，这种损失就可能避免。\n物候现象的来临决定于哪些因素呢？\n首先是纬度。越往北桃花开得越迟，候鸟也来得越晚。值得指出的是物候现象南北差异的日数因季节的差别而不同。我国大陆性气候显著，冬冷夏热。冬季南北温度悬殊，夏季却相差不大。在春天，早春跟晚春也不相同。如在早春三四月间，南京桃花要比北京早开20天，但是到晚春五月初，南京刺槐开花只比北京早10天。所以在华北常感觉到春季短促，冬天结束，夏天就到了。\n经度的差异是影响物候的第二个因素。凡是近海的地方，比同纬度的内陆，冬天温和，春天反而寒冷。所以沿海地区的春天的来临比内陆要迟若干天。如大连纬度在北京以南约1°，但是在大连，连翘和榆叶梅的盛开都比北京要迟一个星期。又如济南苹果开花在四月中或谷雨节，烟台要到立夏。两地纬度相差无几，但烟台靠海，春天便来得迟了。\n影响物候的第三个因素是高下的差异。植物的抽青、开花等物候现象在春夏两季越往高处越迟，而到秋天乔木的落叶则越往高处越早。不过研究这个因素要考虑到特殊的情况。例如秋冬之交，天气晴朗的空中，在一定高度上气温反比低处高。这叫逆温层。由于冷空气比较重，在无风的夜晚，冷空气便向低处流。这种现象在山地秋冬两季，特别是这两季的早晨，极为显著，常会发现山脚有霜而山腰反无霜。在华南丘陵区把热带作物引种在山腰很成功，在山脚反不适宜，就是这个道理。\n此外，物候现象来临的迟早还有古今的差异。根据英国南部物候的一种长期记录，拿1741到1750年十年平均的春初七种乔木抽青和开花日期同1921到1930年十年的平均值相比较，可以看出后者比前者早九天。就是说，春天提前九天。\n物候学这门科学接近生物学中的生态学和气象学中的农业气象学。物候学的研究首先是为了预报农时，选择播种日期。此外还有多方面的意义。物候资料对于安排农作物区划，确定造林和采集树木种子的日期，很有参考价值，还可以利用来引种植物到物候条件相同的地区，也可以利用来避免或减轻害虫的侵害。我国有很大面积的山区土地可以耕种，而山区的气候、土壤对农作物的适应情况，有很多地方还有待调查。为了便利山区的农业发展，开展山区物候观测是必要的。\n物候学是关系到农业丰产的科学，我们要进一步加强物候观测，懂得大自然的语言，争取农业更大的丰收。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359E9-2ACC-4DA4-B632-51470A141C1A_2019-09-1918_25_26_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785745.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "第6课",
-    "title": "被压扁的沙子",
-    "author": "夏青",
-    "reader": "付淳",
-    "content": "作者：阿西莫夫\n在过去的9年里，科学家们一直对6 500万年前恐龙灭绝的一个新观点争论不休，这个问题最终也许会得到解决。\n1980年，曾经有报道说，在一个6 500万年前形成的沉积物薄层中，发现了稀有金属铱，它的含量异常丰富。一些人认为，这可能是一个巨大的小行星或彗星撞击地球的结果。这种撞击也许深入到了地壳内部，引起火山喷发，造成大火和潮汐大浪，许多尘埃进入了平流层中，结果造成在很长一段时间内阳光无法抵达地球表面。这也许是导致包括所有恐龙在内的许多地球生物灭绝的原因。\n毫无疑问，6 500万年前地球上曾经有过一次“大灭绝”，发生过一次“大劫难”。然而，并不是所有的科学家都认为这是由巨大撞击引起的。例如，1987年就有人指出，如果地球突然经历了一个火山爆发期，许多火山大致同时喷发，那么也能造成一个足以使生物大量灭绝的巨大灾难。\n因此，目前存在两种对立的理论，即“撞击说”和“火山说”。\n这不仅仅是一个学术问题，因为我们将来也许还会遇到这样或那样的大灾难（万一哪天某个星体要撞击地球，我们也许会知道如何来避免这种撞击）。我们需要尽可能多地了解这种事件所产生的影响，希望将来一旦面临这种事件，我们可以采取某种应急措施。\n为此，科学家们一直都在努力寻找证据来验证这两种理论。\n1961年，一位名叫S.M.斯季绍夫的苏联科学家发现，如果二氧化硅（即非常纯的沙子）处于超高压的状态，那么它的原子相距很近，从而变得极为致密。一立方英寸被压扁的沙子比一立方英寸普通的沙子要重得多。这种被压扁的沙子因此被称为“斯石英”。\n斯石英并不十分稳定，原子之间靠得太近以至于它们又出现相互排斥的趋势，最后又变为普通沙子。然而，由于原子之间结合得极为致密，所以这种反弹变化进行得非常缓慢，从而使斯石英可保持数百万年。\n金刚石的形成与此相同。金刚石中的碳原子被挤压得异常紧密，它们同样存在一个向外扩散并且恢复为普通碳的趋势。在通常条件下，这也需要数百万年。\n如果你把温度升得足够高，就可使这种变化加快。增温可以增加原子的能量，使它们之间能够相互分离，返回到原始状态。因此，如果在850°C的温度下把斯石英加热30分钟，它将变为普通沙子。（你也可以在真空中对金刚石加热，从而把它恢复到原始碳的状态，但谁愿意这样做呢？）\n斯石英可以在实验室里制造，但它们在自然界中存在吗？回答是肯定的。然而它们只出现在沙子被强烈挤压的地方。\n在一些地方已经发现了斯石英，而且有证据显示，这些地区曾经受到巨大陨石的撞击。撞击所产生的巨大压力形成了斯石英。另外，在进行过原子弹爆炸实验的场地也发现了斯石英，它是由膨胀火球的巨大压力形成的。\n似乎可以肯定地说，斯石英也应该出现在压力极高的地壳深处。在这种情况下，它可通过火山喷发被携带到地表。然而，喷发温度极高，岩石会被熔化，所以任何由火山携带而来的斯石英都被转化为普通的二氧化硅。事实上，在火山活动地区至今没有发现过斯石英。\n那么，你可能会说在斯石英出现的地方肯定发生过撞击，而且肯定没有发生过火山活动。\n亚利桑那大学的麦克霍恩和几位合作者研究了新墨西哥州拉顿地区的岩层。岩层的年龄为6 500万年，因此可以追溯到恐龙灭绝的年代。\n他们在1989年3月1日宣布，利用测试固体物质中的原子排列的现代技术，即核磁共振和X光衍射，他们确实检测到了在斯石英中存在的一种原子排列。\n这种情况显示，在6 500万年以前曾有一次巨大的撞击并形成了数吨重的斯石英。这些斯石英在沉降之前曾被溅到了平流层中。那么，造成恐龙灭绝的原因不是火山活动，而应该是撞击。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359EA-F8D8-4165-B94F-51470A141C1A_2019-09-1918_28_40_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785718.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第8课",
-    "title": "时间的脚印",
-    "author": "夏青",
-    "reader": "忠诚",
-    "content": "作者：陶世龙\n时间伯伯，\n你是最伟大的旅行家，\n你从不犹豫你的脚步，\n你走过历史的每一个时代。\n――高士其《时间伯伯》\n时间一年一年地过去。\n时间是没有脚的，而人们却想出了许多法子记录下它的踪迹，用钟表，用日历……但是，在地球上还没有出现人的时候，或者在人还不知道记录时间的时候，到哪里去找寻时间的踪迹呢？\n然而，时间仍然被记下来了。在大自然中保存着许多种时间的记录，那躺在山野里的岩石，就是其中重要的一种。每1厘米厚的岩层便代表着几十年到上百年的时间。\n在北京故宫，我们还可以看到一种古老的计时装置：铜壶滴漏――水从一个铜壶缓缓地滴进另一个铜壶，时间过去了，这个壶里的水空了，那个壶里的水却又多了起来。时间是看不见的，但是我们用水滴记下了逝去的时间。\n岩石是怎样记下时间的呢？\n大自然中的各种物质都时时刻刻在运动着：这里在死亡，那里在生长；这里在建设，那里在破坏。就在我们读这篇文章的时候，地球上某些地方的岩石在被破坏，同时它们又被陆续搬运到低洼的地方堆积起来，开始了重新生成岩石的过程。\n真的有“海枯石烂”的时候。\n到过山里的人都看见过，在那悬崖绝壁下面，往往堆积着一大摊碎石块。碎石是从哪里来的呢？还不是从那些山崖上崩落下来的！再仔细瞧瞧，还会发现有些还没有崩落的山崖也已经有了裂缝。\n不要认为岩石是坚固不坏的。它无时无刻不经受着从各方面来的“攻击”：炎热的阳光烘烤着它，严寒的霜雪冷冻着它，风吹着它，雨打着它……\n空气和水中的酸类，腐蚀了岩石中的一部分物质。水流和风还不断地冲刷、吹拂着它。特别是刮风沙的时候，就像砂轮在有力地转动，岩石被磨损得光溜溜的，造成了许多奇形怪状的石头。\n水和空气还能够进入岩石内部的孔隙中造成破坏。\n雨水落到河湖里，渗入到地下，都对岩石有破坏作用。即使在海洋中，海水也在不断地冲击着岸上的石壁。如果大量的水结成了冰，形成冰河，它缓慢地移动着，破坏作用就更大了，就好像一柄铁扫帚从地上扫过，刨刮着所遇到的一些石头。\n地面上和地下的生物，也没有放弃对岩石的破坏。\n当然我们也不能忘掉人的作用。例如，在建筑兰新铁路的时候，一个山头在几分钟内就被炸掉了，这相对地质作用的速度可要快多了。\n大块的石头破碎成小块的石子，小块的石子再分裂成细微的沙砾、泥土。狂风吹来了，洪水冲来了，冰河爬来了，碎石、沙砾、泥土被它们带着，开始了旅行。\n越是笨重的石块越跑不远，越是轻小的沙砾越能旅行到遥远的地方。它们被风吹向高空，被水带入大海。蒙古高原发生了风暴之后，北京的居民便忙着掸去身上的尘土。黄河中下游河水变得浑浊，谁都知道这是西北黄土高原被破坏的结果。在山麓、沟壑、河谷、湖泊、海洋等比较低洼的地方，有许多泥沙不断地被留下来，它们填充着湖泊，垫高了河床。我国洞庭湖的面积逐渐缩小，黄河下游的水面比地面还高，就是有许多泥沙沉淀下来的结果。\n一年过去了，两年过去了……泥沙越积越厚。堆得厚了，对下层泥沙的压力也逐渐加重，泥沙中的水分被压出了许多，颗粒与颗粒之间压得很紧，甚至可以有分子间的引力。在受到重压的时候，有一些物质填充到泥沙中的孔隙里去，就使泥沙胶结得更紧密了。\n经过长期的重压和胶结，那些碎石和泥沙重新形成了岩石。\n根据计算，大约3 000到10 000年的时间，可以形成1米厚的岩石。岩石在最初生成的时候，像书页一样平卧着，一层层地叠在一起，最早形成的“躺”在最下面。因为水面是平的，如果湖底也是水平的，那么从水中分离出来的沉淀物就也是水平地分布着的。\n当然，如果海洋或湖泊的底是倾斜的，那么沉淀物堆积的面也就随着倾斜。在湖边、海边形成的岩石就常常是这样的。\n岩石生成以后不断地改变着自己的样子。由于地壳的运动，原来平卧的岩层变得歪斜甚至直立了，但是层与层之间的顺序还不致打乱，根据这些我们仍然可以知道过去的年月。\n岩石保存了远比上面所说的多得多的历史痕迹。\n有一种很粗糙的石头，叫作“砾岩”。你可以清楚地看到，砾岩中包含着从前的鹅卵石。这说明了岩石生成的地方，是当时陆地的边缘，较大的石子不能被搬到海或湖的中央，便在岸边留下了。可是，有时候，在粗糙的岩石上覆盖着的岩层，它里面的物质颗粒却逐渐变细了，这是什么道理呢？这是因为地壳下沉，使原来靠岸的地方变成了海洋的中心。\n从“死”的石头上，我们看到了地壳的活动。\n石头颜色的不同，也常常说明着地球上的变化。红色的岩石意味着当时气候非常炎热，而灰黑色常常是寒冷的表示。如果这里的石头有光滑的擦痕，那很可能从前这里有冰河经过。\n古代生物的状况，在岩石中更有着丰富的记录。许多生物的尸体由于和泥沙埋在一起，被泥沙紧紧包裹住，没有毁灭消失，而让别的矿物质填充了它的遗体，保留了它的外形甚至内部的构造。在特殊的情况下，某些生物的尸体竟完整地保存下来了，如北极冻土带中的长毛象、琥珀中的昆虫。所有这些都叫作“化石”。\n化石是历史的证人，它帮助我们认识地球历史的发展过程。\n例如，很多地方都发现了一种海洋生物三叶虫的化石。它告诉我们，在6亿多年前到5亿多年前的那个叫作“寒武纪”的时代，地球上的海洋是多么宽广。许多高大树木的化石告诉我们，有一个时期地球上的气候是温暖而潮湿的，这是叫作“石炭纪”的时代的特征。还有一些“象”和“犀牛”都长上了长长的毛，这准是天气冷了，说明了“第四纪”冰河时期的来临。\n自然界某些转眼就消逝的活动，在石头上也留下了痕迹。如雨打沙滩的遗迹，水波使水底泥沙掀起的波痕，古代动物走过的脚印和天旱时候泥土龟裂的形象……\n瞧！大自然给我们保留了多好的记录。实际上，地球上的记录比这篇文章所介绍的还要丰富得多，这里不过是拉开了帷幕的一角而已。\n当然，读懂这些记录要比认识甲骨文、钟鼎文或者楔形文字更困难些。但是，不管有多么困难，我们总有办法来读懂它。而在读懂以后，不仅使我们增加了知识，而且还非常有助于我们去找寻地下的宝藏。例如，“寒武纪”以前形成的古老陆块内藏有许多铁矿，“石炭纪”时期又造成了许多煤矿。如果我们熟悉了这些石头的历史，便有可能踏着历史的脚印，一步一步地走向地下的宝库。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8359EA-8678-471E-A2A8-51470A141C1A_2019-09-1918_35_50_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785682.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🦶"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "关雎",
-    "author": "夏青",
-    "reader": "方明",
-    "content": "关关雎鸠，在河之洲。窈窕淑女，君子好逑。\n参差荇菜，左右流之。窈窕淑女，寤寐求之。求之不得，寤寐思服。悠哉悠哉，辗转反侧。\n参差荇菜，左右采之。窈窕淑女，琴瑟友之。参差荇菜，左右�d之。窈窕淑女，钟鼓乐之。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D842656-10E4-45DC-ADED-5D840A141C1A_2019-09-2008_57_30_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785613.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "蒹葭",
-    "author": "夏青",
-    "reader": "肖玉",
-    "content": "蒹葭苍苍，白露为霜。所谓伊人，在水一方。溯洄从之，道阻且长。溯游从之，宛在水中央。\n蒹葭萋萋，白露未��。所谓伊人，在水之湄。溯洄从之，道阻且跻。溯游从之，宛在水中坻。\n蒹葭采采，白露未已。所谓伊人，在水之�濉�溯洄从之，道阻且右。溯游从之，宛在水中�b。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D842657-8694-4657-B56F-5D840A141C1A_2019-09-2009_00_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785611.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "式微",
-    "author": "夏青",
-    "reader": "方明",
-    "content": "《诗经・邶风》\n式微式微，胡不归？微君之故，胡为乎中露？\n式微式微，胡不归？微君之躬，胡为乎泥中？\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D842657-E4D4-423D-977A-5D840A141C1A_2019-09-2008_57_33_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785600.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "子衿",
-    "author": "夏青",
-    "reader": "雅坤",
-    "content": "《诗经・郑风》\n青青子衿，悠悠我心。纵我不往，子宁不嗣音？\n青青子佩，悠悠我思。纵我不往，子宁不来？\n挑兮达兮，在城阙兮。一日不见，如三月兮！\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D842658-B65C-43AD-8B3D-5D840A141C1A_2019-09-2008_57_37_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785594.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "送杜少府之任蜀州",
-    "author": "夏青",
-    "reader": "黎江",
-    "content": "送杜少府之任蜀州王勃\n城阙辅三秦，风烟望五津。与君离别意，同是宦游人。海内存知己，天涯若比邻。无为在歧路，儿女共沾巾。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D842659-92B4-4FD9-9959-5D840A141C1A_2019-09-2009_08_44_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785590.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "望洞庭湖赠张丞相",
-    "author": "夏青",
-    "reader": "常亮",
-    "content": "望洞庭湖赠张丞相孟浩然\n八月湖水平，涵虚混太清。气蒸云梦泽，波撼岳阳城。欲济无舟楫，端居耻圣明。坐观垂钓者，徒有羡鱼情。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446A1-B00C-4777-8314-61060A141C1A_2019-09-2011_31_48_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785584.html",
-    "grade": "8",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "庆祝奥林匹克运动复兴25周年",
-    "author": "夏青",
-    "reader": "贾际",
-    "content": "作者：顾拜旦\n联邦主席、女士们、先生们：\n5年前，在巴黎，在1894年我宣布恢复奥林匹克运动会的地方，世界各国的代表们共聚一堂，同我们一起庆祝奥林匹克运动复兴20周年。5年过去了，在这期间，整个世界分崩离析。所幸，奥林匹克主义并没有成为这场浩劫的牺牲品，而是无所畏惧、无可指摘地挺了过来。而今，它的眼前突然呈现出更为开阔的视野，这凸显了它即将扮演的崭新角色的意义。\n奥林匹克精神开始为渐趋平和而又充满自信的青少年所推崇。古文明的魅力，时有衰退，平和与自信正日益成为其有力的支撑。同时，它们也是那些即将在暴风骤雨中诞生的新生文明必不可少的支柱。然而，人类并非生而就平和自信。还在襁褓中的婴儿，就已开始担惊受怕。恐惧伴随着他成长的各个阶段，并在他行将就木时，给他致命一击使其崩溃。恐惧是人类工作和休息的天敌，面对它，人类学会用勇气来针锋相对。有些人认为，勇气这一高贵美德只有在我们的祖先身上才能看到，他们因此非常尊重先人。在他们的想象中，勇气之花在我们当代人的手中早已残败凋零了。但是如今，我们知道该在将来采取何种态度了。\n勇气是战争中的美德，它能够在时势中造就英雄。正如我最近在一篇关于教育学的文章中所暗示的那样，根除恐惧真正的、能持久发挥效用的良药，更多的是自信而非勇气。自信与它的姊妹平和总是携手并进，相辅相成。这样，我们又回到了适才我提到的奥林匹克主义的实质上来，这也正是奥林匹克主义区别于一般体育运动的地方，奥林匹克主义包括但又远远超越了一般的体育运动。\n请允许我详细阐述一下二者的区别。运动员非常享受努力拼搏的乐趣。他喜欢施加于肌肉和神经上的那种压力感，因为压力往往给人一种胜利在望的感觉，即便有时到最后他未能获胜。这种享受，深入运动员的内心，某种程度上甚至可以说只涉及自身。请想象一下，当这种愉悦向外喷涌，并与对大自然的热爱之情和对艺术的奔放激情融为一体；当它为灿烂阳光所萦绕，为音乐所振奋，或被嵌入圆柱式大厅时，会是怎样的情景。许久以前，就是在这般情景下，古代奥林匹克主义的绚丽梦想在阿尔弗斯河的两岸诞生了。奥林匹克主义曾在许多个世纪里，一直主导着古希腊社会。\n然后，我们来到了历史的转折关头。渴求进步但又常常因夸大某种正确思想而误入歧途的人类精神，开始致力于将青少年从平衡状态中挣脱出来。于是，青少年开始为呆板而复杂的教育枷锁所套牢，被在愚蠢的放纵和不明智的严厉交互作用下的道德说教以及拙劣肤浅的世界观所束缚。这就是为何我们要重启奥林匹克时代，并为体格训练的复兴隆重庆祝。我们不断推动盎格鲁-撒克逊人的运动功利思想向古希腊遗留下来的一呼百应的体育观靠拢，两者逐渐融合为一体。当我在纽约和伦敦对举办奥运会的可能性做出评估之后，我向不朽的古希腊精神祈祷，希望它给这意外中诞生的结合体一剂理想主义的良药。先生们，这25年来我们成功兴建的事业大厦，便是这副模样。诸位适才不断向其表达敬意，若这敬意是针对我这建筑师而来的话，那我着实愧不敢当。它的建筑师不应受到如此赞美，他不过是听从了一种比个人意志更为强大的内心直觉的召唤。他愿意愉快地接受诸位对奥林匹克精神的赞美之词，而他个人，不过是这一理想的第一个仆从。\n之前我曾提及1914年6月所举办的周年庆典。当时我们认为，我们庆祝的是奥林匹克主义的完美实现。然而今天，我的印象反而是我正目睹它再次含苞欲放。一项运动，倘若只有有限一部分人被包含在内，在当今时代又怎能称得上完美呢？在当时，有这么多人可能确实是足够的，但今天则不然。它必须要面向大众。的确如此，有什么名义能将大众排除在奥林匹克精神之外呢？有什么样的贵族特权能令一个青年人身上的形体美、肌肉力量、锻炼的毅力以及获胜的意志非得同他的家谱或钱包挂钩呢？上述种种毫无法律依据的矛盾，存活在萌生它们的这个社会秩序里。在野蛮的军国主义协助下的极权姿态，给了它们致命一击。从道义上讲，这反而是可以自圆其说的。\n面对一个需要用基本原则来整顿的全新世界，某些过去一直被视为乌托邦的原则，如今却变得切实可行。人类必须吸收古文明遗留下来的全部精华，用以构筑未来，其中就包括奥林匹克精神。当然，仅靠奥林匹克精神，并不足以保障社会层面的和平以及更公平、公正地分配人类生产劳动，分配满足物质生活需要的消费必需品，甚至不足以向青少年提供与他们的能力相当而与其家庭出身无关的才智培训机会。但是，奥林匹克精神致力于让社会底层的人们接触到现代工业所塑造的各种锻炼形式，享受到强身健体的乐趣。这就是完美的、民主的奥林匹克精神，今天我们要为它奠定基础。\n本次庆典是在欢乐祥和的气氛下举行的。古老的赫尔维蒂联邦最高委员会及其尊敬的主席，深得人类挚爱的瓦莱州派出的首席代表，这座美丽而又好客的城市的领导们，远近闻名的歌手，以及历经千挑万选、朝气蓬勃的体操团队，齐聚于此地，为这次盛会赋予了历史自觉性、公民精神、自然性、青春、艺术性等五重声誉。\n愿钟爱勇敢者的幸运之神，厚待刚刚决定申办第7届现代奥林匹克运动会的比利时人民的美好愿望。\n目前的形势，依然严峻。狂风骤雨之后，我们迎来破晓的黎明。待到中午时分，湛蓝的天空必将万里无云；收获者的双臂，捧满沉甸甸的金黄麦穗。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446A2-CAB0-4E5A-98DC-61060A141C1A_2019-09-2011_24_39_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785580.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第17课",
-    "title": "壶口瀑布",
-    "author": "夏青",
-    "reader": "于芳",
-    "content": "壶口在晋陕两省的边境上，我曾两次到过那里。\n第一次是雨季，临出发时有人告诫：“这个时节看壶口最危险，千万不要到河滩里去，赶巧上游下雨，一个洪峰下来，根本来不及上岸。”果然，车还在半山腰就听见涛声隐隐如雷，河谷里雾气弥漫，我们大着胆子下到滩里，那河就像一锅正沸着的水。壶口瀑布不是从高处落下，让人们仰观垂空的水幕，而是由平地向更低的沟里跌去，人们只能俯视被急急吸去的水流。其时，正是雨季，那沟已被灌得浪沫横溢，但上面的水还是一股劲地冲进去，冲进去……我在雾中想寻找想象中的飞瀑，但水浸沟岸，雾罩乱石，除了扑面而来的水汽，震耳欲聋的涛声，什么也看不见，什么也听不见，只有一个可怕的警觉：仿佛突然就要出现一个洪峰将我们吞没。于是，只急慌慌地扫了几眼，我便匆匆逃离，到了岸上回望那团白烟，心还在不住地跳……\n第二次我专选了个枯水季节。春寒刚过，山还未青，谷底显得异常开阔。我们从从容容地下到沟底，这时的黄河像是一张极大的石床，上面铺了一层软软的细沙，踏上去坚实而又松软。我一直走到河心，原来河心还有一条河，是突然凹下去的一条深沟，当地人叫“龙槽”，槽头入水处深不可测，这便是“壶口”。我依在一块大石头上向上游看去，这龙槽顶着宽宽的河面，正好形成一个“丁”字。河水从五百米宽的河道上排排涌来，其势如千军万马，互相挤着、撞着，推推搡搡，前呼后拥，撞向石壁，排排黄浪霎时碎成堆堆白雪。山是青冷的灰，天是寂寂的蓝，宇宙间仿佛只有这水的存在。当河水正这般畅畅快快地驰骋着时，突然脚下出现一条四十多米宽的深沟，它们还来不及想一下，便一齐跌了进去，更闹，更挤，更急。沟底飞转着一个个漩涡，当地人说，曾有一头黑猪掉进去，再漂上来时，浑身的毛竟被拔得一根不剩。我听了不觉打了一个寒噤。\n黄河在这里由宽而窄，由高到低，只见那平坦如席的大水像是被一个无形的大洞吸着，顿然拢成一束，向龙槽里隆隆冲去，先跌在石上，翻个身再跌下去，三跌，四跌，一川大水硬是这样被跌得粉碎，碎成点，碎成雾。从沟底升起一道彩虹，横跨龙槽，穿过雾霭，消失在远山青色的背景中。当然这么窄的壶口一时容不下这么多的水，于是洪流便向两边涌去，沿着龙槽的边沿轰然而下，平平的，大大的，浑厚庄重如一卷飞毯从空抖落。不，简直如一卷钢板出轧，的确有那种凝重，那种猛烈。尽管这样，壶口还是不能尽收这一川黄浪，于是又有一些各自夺路而走的，乘隙而进的，折返迂回的，它们在龙槽两边的滩壁上散开来，或钻石觅缝，汩汩如泉；或淌过石板，潺潺成溪；或被夹在石间，哀哀打旋。还有那顺壁挂下的，亮晶晶的如丝如缕……而这一切都隐在湿漉漉的水雾中，罩在七色彩虹中，像一曲交响乐，一幅写意画。我突然陷入沉思，眼前这个小小的壶口，怎么一下子集纳了海、河、瀑、泉、雾所有水的形态，兼容了喜、怒、哀、怨、愁――人的各种感情。造物者难道是要在这壶口中浓缩一个世界吗？\n看罢水，我再细观脚下的石。这些如钢似铁的顽物竟被水凿得窟窟窍窍，如蜂窝杂陈，更有一些地方被旋出一个个光溜溜的大坑，而整个龙槽就是这样被水齐齐地切下去，切出一道深沟。人常以柔情比水，但至柔至和的水一旦被压迫竟会这样怒不可遏。原来这柔和之中只有宽厚绝无软弱，当她忍耐到一定程度时就会以力相较，奋力抗争。据《元和郡县图志》中所载，当年壶口的位置还在这下游一千五百米处。你看，日夜不止，这柔和的水硬将铁硬的石寸寸地剁去。\n黄河博大宽厚，柔中有刚；挟而不服，压而不弯；不平则呼，遇强则抗；死地必生，勇往直前。正像一个人，经了许多磨难便有了自己的个性；黄河被两岸的山、地下的石逼得忽上忽下、忽左忽右时，也就铸成了自己伟大的性格。这伟大只在冲过壶口的一刹那才闪现出来被我们看见。\n1986年6月\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446A2-8850-40E3-9CE5-61060A141C1A_2019-09-2011_24_57_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785551.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第19课",
-    "title": "登勃朗峰",
-    "author": "夏青",
-    "reader": "忠诚",
-    "content": "前往勃朗峰的途中，我们先坐火车去了马蒂尼，翌日早晨八点多，便徒步出发。路上有很多人结伴而行，乘坐马车的，骑骡的――因而扬起阵阵尘埃。队伍分散开去，络绎不绝，前后长达一英里左右。路为上坡――一路都为上坡――且相当陡峭。天气灼热难当，乘坐在缓慢爬行的骡子背上和辚辚前进的马车里的男男女女，焦炙于火辣辣的艳阳之下，真是可怜可悯。我们可在树林中避暑纳凉，稍作歇息，可那些人不行。既然花了钱坐车，就一定要使他们的旅行物有所值。\n我们取道黑首，抵达高地，沿途不乏秀色美景。有一处需经隧道，穿山而过；俯瞰脚下峡谷，只见其间一股清流急湍，环顾四周，岩壁�f峻，丘岗葱绿，美不胜收。整个黑首道上，到处瀑布倾泻，轰鸣作响。\n抵达阿冉提村前约莫半小时，在一道呈Ｖ字形的山口中间，一座巨大的白雪穹顶骤然映入眼帘，日照其上，光艳耀目。原来我们已目睹了被称为“阿尔卑斯之王”的勃朗峰。我们拾级而上，威严的穹顶也随之愈升愈高，耸入蓝天，最后仿佛独踞苍穹。\n勃朗峰周围的一些山峰奇形怪状――都为浅棕色的光秃尖岩。有些顶端尖峭，并微微倾向一旁，宛如美女的纤指；有一怪峰，形如塔糖。因�f岩太过陡峭，皑皑白雪无法堆积，只能在分野处偶见几堆。\n在逗留高地、向山下的阿冉提村进发之前，我们曾仰面遥望附近的一座峰巅，但见色彩斑斓，彩霞满天，白云缭绕，轻歌曼舞，那朵朵白云精美柔细，宛如游丝蛛网一般。五光十色中的粉红嫩绿，尤为妩媚动人，所有色彩轻淡柔和，交相辉映，妖媚迷人。我们干脆就地而坐，饱览独特美景。这一彩幻只是稍作驻留，顷刻间便飘忽不定，相互交融，暗淡隐去，可又骤然反光灼灼，瞬息万变，真是无穷变幻，纷至沓来；洁白轻薄的云朵，微光闪烁，仿佛身披霓裳羽衣的纯洁天使。\n良久，我们终于感悟到，眼前的绚丽色彩以及它们的无穷变幻便是我们从飘浮的肥皂泡中看到的一切，泡泡所到之处，种种色彩变幻，尽被摄入其中。自然界中最美丽最精致的造物，莫过于肥皂泡泡了：刚才空中的华丽色彩，天衣云锦，恰如那在阳光下破裂并蔓延开去的肥皂泡。我想，假如世上只有一个肥皂泡，其价值会是多少呢？\n从马蒂尼到阿冉提，历时八个小时。有好几次，我们把所有的车骑甩在身后。沿河谷前往沙蒙尼途中，我们雇了一辆敞篷马车，又花上一小时美餐了一顿，那车夫也得以有了纵饮的机会，略显醉意。他有一朋友同行，于是这友人也有暇畅饮一番。\n上路后，车夫说我们用饭之际，所有的游客都已赶到，甚至还抢在了我们前面。“但是，”他把握十足地说，“不必为此烦恼――静下心来――不要浮躁――他们虽已扬尘远去，可不久就会消失在我们身后的。你就放下心坐好吧，一切包在我身上――我是车夫之王啊。你看着吧！”\n他扬鞭一挥，车便辚辚向前。如此颠簸，我生平从未有过。近来的几场暴雨冲毁了几处路面，但我们不停不歇，一如既往地保持着速度，疾驰向前，什么乱石废物，沟壑旷野，一概不顾――有时一两个轮子着地，但大多数时候腾空而起。那位镇定而善良的狂车夫还时不时地掉转头来，神情威严地冲我们说道：“哈，看到了吗？如我所说吧――我可是名副其实的车夫之王啊。”每当我们险遭不测时，他总是面不改色，和颜悦色地说：“只当是种乐趣吧，先生们，这种情况不常见，  很不寻常――能坐上车王的车的人，可是少之又少啊――看到了吧，正如我说的，我就是车王。”\n他说的是法语，还不时地打嗝，像是在加标点符号。他朋友也是法国人，说的却是德语――但标点系统毫无两样。那朋友自称“勃朗队长”，要求我们和他一同登山。他说他爬山的次数比谁都多――47次――而他兄弟只有37次。除他外，他兄弟是世上最佳的向导――可他自己，对了，请别忘了――他是“勃朗队长”――这个尊号是非他莫属的。\n那车王果然信守诺言――像疾风般赶上并超过了那长长的游客车队。结果，到达沙蒙尼旅馆后，我们住进了上等的房间。如果这位王爷的车技略欠敏捷――或者说，不是老天有意安排，让他在离开阿冉提时喝得酒气醺醺――结果就不会是这样的了。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446B3-0E7C-4AA3-8150-60FF0A141C1A_2019-09-2011_21_19_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785519.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "一滴水经过丽江",
-    "author": "夏青",
-    "reader": "付淳",
-    "content": "我是一片雪，轻盈地落在了玉龙雪山顶上。\n有一天，我醒来，发现自己变成了坚硬的冰，和更多的冰挤在一起，缓缓向下流动。在许多年的沉睡里，我变成了玉龙雪山冰川的一部分。我望见了山下绿色的盆地――丽江坝，望见了森林、田野和村庄。张望的时候，我被阳光融化成了一滴水。我想起来，自己的前生，在从高空的雾气化为一片雪，又凝成一粒冰之前，也是一滴水。\n是的，我又化成了一滴水，和瀑布里另外的水大声喧哗着扑向山下。在高山上，我们沉默了那么久，终于可以敞开喉咙大声喧哗。一路上，经过了许多高大挺拔的树，名叫松与杉。还有更多的树开满鲜花，叫作杜鹃，叫作山茶。经过马帮来往的驿道，经过纳西族村庄里的人们，他们都在说：丽江坝，丽江坝，那真是一个山间美丽的大盆地。从玉龙雪山脚下，一直向南，铺展开去。视线尽头，几座小山前，人们正在建筑一座城。村庄里的木匠与石匠，正往那里出发。后来我知道，视野尽头的那些山叫作象山、狮子山，更远一点，叫作笔架山。后来，我知道，那时是明代，纳西族的首领木氏家族率领百姓筑起了名扬世界的四方街。四方街筑成后，一个名叫徐霞客的远游人来了，把玉龙雪山写进了书里，把丽江古城写进了书里，让它们的名字四处流传。\n我已经奔流到了丽江坝放牧着牛羊的草甸上，我也要去四方街。\n但是，眼前一黑，我就和很多水一起，跌落到地底下去了。丽江人把高山溪流跌落到地下的地方叫作落水洞。落水洞下面，是很深的黑暗。曲折的水道，安静的深潭。在充满寂静和岩石的味道的地下，我又睡去了。\n再次醒来，时间又过去了好几百年。\n我是被亮光惊醒的。我和很多水从象山脚下的黑龙潭冒出来，咕咚一声翻上水面，看见了很多不同模样的人。黑头发的人，黄头发的人。黑眼睛的人，蓝眼睛的人。我看见了潭边的亭台楼阁，看见了花与树。我还顺着人们远眺的目光看见了玉龙雪山，晶莹夺目矗立在蓝天下面。潭水映照雪山，真让人目眩神迷啊。人们在桥上，在堤上，说着不同的语言。在不同的语言里，都有那个词频频出现：丽江，丽江。这时的丽江已经是一座很大的城了。城里也不是只有最初筑城的纳西人了。如今全中国全世界的人都要来丽江，看纳西古城的四方街，看玉龙雪山。\n我记起了跌进落水洞前的心愿：也要流过四方街。\n顺着玉河，我来到了四方街前。\n进城之前，一道闸口出现在前面。过去，把水拦在闸前，是为了在四方街上的市集散去的黄昏开闸放水，古城的五花石的街道上，水流漫溢，洗净了街道。今天，一架大水车来把我们扬到高处，游览古城的人要把这水车和清凉的水做一个美丽的背景摄影留念。我乘水车转轮缓缓升高，看到了古城，看到了狮子山上苍劲的老柏树，看到了依山而起的重重房屋，看到了顺水而去的蜿蜒老街。古城的建筑就这样依止于自然，美丽了自然。\n从水车上哗然一声跌落下来，回到了玉河。在这里，我有些犹豫。因为河流将要一分为三，流过古城。作为一滴水，不可能同时从三条河中穿越同一座古城。因此，所有的水，都在稍作徘徊时，被急匆匆的后来者推着前行。来不及做出选择，我就跌进了三条河中的一条，叫作中河的那一条。\n我穿过了一道又一道小桥。\n我经过叮叮当当敲打着银器的小店。经过挂着水一样碧绿的翡翠的玉器店。经过一座院子，白须垂胸的老者们，在演奏古代的音乐。经过售卖纳西族的东巴象形文字的字画店。我想停下来看看，东巴文的“水”字是怎样的写法。但我停不下来，没有看见。我确实想停下来，想被掺入砚池中，被蘸到笔尖，被写成东巴象形文的“水”，挂在店中，那样，来自全世界的人都看见我了。在又一座桥边，一个浇花人把手中的大壶没进了渠中。我立即投身进去，让这个浇花的妇人，把我带进了纳西人三坊一照壁的院子。院子里，兰花在盛开。浇花时，我落在了一朵香气隐约的兰花上。我看到了，楼下正屋，主人一家在闲话。楼上回廊，寄居的游客端着相机在眺望远山。楼上的客人和楼下的主人大声交谈。客人问主人当地的掌故。主人问客人远方的情形。太阳出来了，我怕被迅速蒸发，借一阵微风跳下花朵，正好跳回浇花壶中。\n黄昏时，主人再去打水浇花时，我又回到了穿城而过的水流之中。这时，古城五彩的灯光把渠水辉映得五彩斑斓。游客聚集的茶楼酒吧中，传来人们的欢笑与歌唱。这些人来自远方，在那些地方，即便是寂静时分，他们的内心也很喧哗；在这里，尽情欢歌处，夜凉如水，他们的心像一滴水一样晶莹。\n好像是因为那些鼓点的催动，水流得越来越快。很快，我就和更多的水一起出了古城，来到了城外的果园和田地里。一些露珠从树叶上落下，加入了我们。在宽广的丽江坝中流淌，穿越大地时，头顶上是满天星光。一些薄云掠过月亮时，就像丽江古城中，一个银匠，正在擦拭一只硕大的银盘。\n黎明时分，作为一滴水，我来到了喧腾奔流的金沙江边，跃入江流，奔向大海。我知道，作为一滴水，我终于以水的方式走过了丽江。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446B4-55C8-45E8-BA40-60FF0A141C1A_2019-09-2011_21_32_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785476.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "💧"
-  },
-  {
-    "lesson_number": "第21课",
-    "title": "北冥有鱼",
-    "author": "夏青",
-    "reader": "原杰",
-    "content": "北冥有鱼，其名为鲲。鲲之大，不知其几千里也；化而为鸟，其名为鹏。鹏之背，不知其几千里也；怒而飞，其翼若垂天之云。是鸟也，海运则将徙于南冥。南冥者，天池也。《齐谐》者，志怪者也。《谐》之言曰：“鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里，去以六月息者也。”野马也，尘埃也，生物之以息相吹也。天之苍苍，其正色邪？其远而无所至极邪？其视下也，亦若是则已矣。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446B4-6C90-4E55-B47D-60FF0A141C1A_2019-09-2011_24_51_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785442.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🐟"
-  },
-  {
-    "lesson_number": "第23课",
-    "title": "马说",
-    "author": "夏青",
-    "reader": "常亮",
-    "content": "世有伯乐，然后有千里马。千里马常有，而伯乐不常有。故虽有名马，祗辱于奴隶人之手，骈死于槽枥之间，不以千里称也。\n马之千里者，一食或尽粟一石。食马者不知其能千里而食也。是马也，虽有千里之能，食不饱，力不足，才美不外见，且欲与常马等不可得，安求其能千里也？\n策之不以其道，食之不能尽其材，鸣之而不能通其意，执策而临之，曰：“天下无马！”呜呼！其真无马邪？其真不知马也！\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D8446B6-7AD0-4817-BD81-60FF0A141C1A_2019-09-2011_32_58_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785425.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "🐎"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "题破山寺后禅院",
-    "author": "夏青",
-    "reader": "肖玉",
-    "content": "题破山寺后禅院常 建\n清晨入古寺，初日照高林。曲径通幽处，禅房花木深。山光悦鸟性，潭影空人心。万籁此都寂，但余钟磬音。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D848D8C-AE08-4637-A8DC-66E00A141C1A_2019-09-2016_21_38_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785090.html",
-    "grade": "8",
-    "semester": "2",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "送友人",
-    "author": "夏青",
-    "reader": "方亮",
-    "content": "送友人李 白\n青山横北郭，白水绕东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D844896-71A4-41F4-A150-61620A141C1A_2019-09-2011_23_39_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785087.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "卜算子・黄州定慧院寓居作",
-    "author": "夏青",
-    "reader": "庞莹",
-    "content": "卜算子・黄州定慧院寓居作苏 轼\n缺月挂疏桐，漏断人初静。谁见幽人独往来，缥缈孤鸿影。惊起却回头，有恨无人省。拣尽寒枝不肯栖，寂寞沙洲冷。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D844897-5940-43CE-8B89-61620A141C1A_2019-09-2011_37_49_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785081.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🟡"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "卜算子・咏梅",
-    "author": "夏青",
-    "reader": "原杰",
-    "content": "卜算子・咏梅陆游\n驿外断桥边，寂寞开无主。已是黄昏独自愁，更着风和雨。无意苦争春，一任群芳妒。零落成泥碾作尘，只有香如故。\n人民教育出版社\n2017年12月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D844898-525C-4CED-B36D-61620A141C1A_2019-09-2011_40_46_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/bs/20190920/t20190920_524785070.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "月夜忆舍弟",
-    "author": "郑洁怡",
-    "reader": "康辉",
-    "content": "月夜忆舍弟\n杜甫\n戍鼓断人行，边秋一雁声。\n露从今夜白，月是故乡明。\n有弟皆分散，无家问死生。\n寄书长不达，况乃未休兵。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/0c54fd3ee468e1702980234336850172/0c54fd3ee468e1702980234336850172.m3u8?auth=22c7a996537dac9caf430fa4338d3d1a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20231226/t20231226_526534752.html",
-    "grade": "9",
-    "semester": "1",
-    "emoji": "🌙"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "无题",
-    "author": "郑洁怡",
-    "reader": "雅坤",
-    "content": "无题\n李商隐\n相见时难别亦难，东风无力百花残。\n春蚕到死丝方尽，蜡炬成灰泪始干。\n晓镜但愁云鬓改，夜吟应觉月光寒。\n蓬山此去无多路，青鸟殷勤为探看。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e0c3d64912dbd1702983092957919619/e0c3d64912dbd1702983092957919619.m3u8?auth=87d6f06ad335c3ee6f33fcb526a57998",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20231226/t20231226_526534741.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "沁园春・雪",
-    "author": "夏青",
-    "reader": "方明",
-    "content": "北国风光，\n千里冰封，\n万里雪飘。\n望长城内外，\n惟余莽莽；\n大河上下，\n顿失滔滔。\n山舞银蛇，\n原驰蜡象，\n欲与天公试比高。\n须晴日，\n看红装素裹，\n分外妖娆。\n江山如此多娇，\n引无数英雄竞折腰。\n惜秦皇汉武，\n略输文采；\n唐宗宋祖，\n稍逊风骚。\n一代天骄，\n成吉思汗，\n只识弯弓射大雕 。\n俱往矣，\n数风流人物，\n还看今朝。\n1936年2月\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D846304-4C30-4C42-80FA-637F0A141C1A_2019-09-2013_19_39_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788924.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "长沙过贾谊宅",
-    "author": "夏青",
-    "reader": "贺红梅",
-    "content": "长沙过贾谊宅\n刘长卿\n三年谪宦此栖迟，万古惟留楚客悲。\n秋草独寻人去后，寒林空见日斜时。\n汉文有道恩犹薄，湘水无情吊岂知？\n寂寂江山摇落处，怜君何事到天涯！\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D846533-5D6C-4157-A817-63AF0A141C1A_2019-09-2013_35_54_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788511.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "左迁至蓝关示侄孙湘",
-    "author": "夏青",
-    "reader": "康辉",
-    "content": "左迁至蓝关示侄孙湘\n韩愈\n一封朝奏九重天，夕贬潮州路八千。\n欲为圣明除弊事，肯将衰朽惜残年！\n云横秦岭家何在？雪拥蓝关马不前。\n知汝远来应有意，好收吾骨瘴江边。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D846534-060C-423B-85B6-63AF0A141C1A_2019-09-2013_36_04_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788509.html",
-    "grade": "9",
-    "semester": "1",
-    "emoji": "🔵"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "咸阳城东楼",
-    "author": "夏青",
-    "reader": "贾际",
-    "content": "咸阳城东楼\n许浑\n一上高城万里愁，蒹葭杨柳似汀洲。\n溪云初起日沉阁，山雨欲来风满楼。\n鸟下绿芜秦苑夕，蝉鸣黄叶汉宫秋。\n行人莫问当年事，故国东来渭水流。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D84671A-4EF8-47EA-A7B7-63EA0A141C1A_2019-09-2013_44_01_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788228.html",
-    "grade": "9",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "行香子",
-    "author": "夏青",
-    "reader": "贾际",
-    "content": "行香子\n秦观\n树绕村庄，水满陂塘。倚东风，豪兴徜徉。小园几许，收尽春光。有桃花红，李花白，菜花黄。\n远远围墙，隐隐茅堂。�r青旗，流水桥旁。偶然乘兴，步过东冈。正莺儿啼，燕儿舞，蝶儿忙。\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D84671B-1F10-4960-BB56-63EA0A141C1A_2019-09-2013_37_43_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788218.html",
-    "grade": "9",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "丑奴儿・书博山道中壁",
-    "author": "夏青",
-    "reader": "雅坤",
-    "content": "丑奴儿・书博山道中壁\n辛弃疾\n少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。\n而今识尽愁滋味，欲说还休。欲说还休，却道“天凉好个秋”！\n人民教育出版社\n2018年6月第1版",
-    "audio_url": "https://cnvod.cnr.cn/audio2017/ondemand/media/1100/201909/5D84671B-65D4-40FE-A2BC-63EA0A141C1A_2019-09-2013_37_46_0.m4a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/js/20190923/t20190923_524788206.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "第1课",
-    "title": "祖国啊，我亲爱的祖国",
-    "author": "安��",
-    "reader": "于芳",
-    "content": "祖国啊，我亲爱的祖国\n舒婷\n我是你河边上破旧的老水车，\n数百年来纺着疲惫的歌；\n我是你额上熏黑的矿灯，\n照你在历史的隧洞里蜗行摸索；\n我是干瘪的稻穗；是失修的路基；\n是淤滩上的驳船\n把纤绳深深\n勒进你的肩膊；\n――祖国啊!\n我是贫困，\n我是悲哀。\n我是你祖祖辈辈\n痛苦的希望啊，\n是“飞天”袖间\n千百年来未落到地面的花朵；\n――祖国啊!\n我是你簇新的理想，\n刚从神话的蛛网里挣脱；\n我是你雪被下古莲的胚芽；\n我是你挂着眼泪的笑涡；\n我是新刷出的雪白的起跑线；\n是绯红的黎明\n正在喷薄；\n――祖国啊!\n我是你的十亿分之一，\n是你九百六十万平方的总和；\n你以伤痕累累的乳房\n喂养了\n迷惘的我、深思的我、沸腾的我；\n那就从我的血肉之躯上\n去取得\n你的富饶、你的荣光、你的自由；\n――祖国啊,\n我亲爱的祖国！\n1979年4月",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/97a196d0193981702950569093987631/97a196d0193981702950569093987631.m3u8?auth=24c6c644980ef577b2155438709b21e6",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231222/t20231222_526531251.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "❤️"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "月夜",
-    "author": "安��",
-    "reader": "雅坤",
-    "content": "月夜\n沈尹默\n霜风呼呼的吹着，\n月光明明的照着。\n我和一株顶高的树并排立着，\n却没有靠着。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/2ba876d1fc0da1702951629064633662/2ba876d1fc0da1702951629064633662.m3u8?auth=e4fd598761acf75a9a5460ebee672082",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231222/t20231222_526531255.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌙"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "萧红墓畔口占",
-    "author": "安��",
-    "reader": "王彤",
-    "content": "萧红墓畔口占\n戴望舒\n走六小时寂寞的长途，\n到你头边放一束红山茶，\n我等待着，长夜漫漫，\n你却卧听着海涛闲话。\n1944年11月20日",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/ee5577aca87071702951843964997917/ee5577aca87071702951843964997917.m3u8?auth=1ac155125e10a66e5d1e6a5fce0d8080",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231222/t20231222_526531256.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "断章",
-    "author": "安��",
-    "reader": "李修平",
-    "content": "断章\n卞之琳\n你站在桥上看风景，\n看风景人在楼上看你。\n明月装饰了你的窗子，\n你装饰了别人的梦。\n1935年10月",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/523e82a874d1e1702952072558742272/523e82a874d1e1702952072558742272.m3u8?auth=bec28827bba7c2798906224505db825b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231222/t20231222_526531258.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "风雨吟",
-    "author": "安��",
-    "reader": "任志宏",
-    "content": "风雨吟\n芦      荻\n风从大地卷来，\n雨从大地奔来。\n郊原如海，\n房舍如舟。\n我有年轻舵手的心，\n在大地风雨的海上。\n1941年12月",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/5783cd0130ddc1702952342789380568/5783cd0130ddc1702952342789380568.m3u8?auth=2fe39ee5d536628b9457e3d0a5e46353",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533626.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌧️"
-  },
-  {
-    "lesson_number": "第3课",
-    "title": "统一",
-    "author": "安��",
-    "reader": "任鲁豫",
-    "content": "统一\n聂鲁达\n所有的叶是这一片，\n所有的花是这一朵，\n繁多是个谎言。\n因为一切果实并无差异，\n所有树木无非一棵，\n整片大地是一朵花。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/0c60d3cffe9781702952563288835654/0c60d3cffe9781702952563288835654.m3u8?auth=f5308ca52b205ccd142f7da28ae2c96a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533627.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "1️⃣"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "海燕",
-    "author": "安��",
-    "reader": "贾际",
-    "content": "高尔基\n在苍茫的大海上，狂风卷集着乌云。在乌云和大海之间，海燕像黑色的闪电，在高傲地飞翔。\n一会儿翅膀碰着波浪，一会儿箭一般地直冲向乌云，它叫喊着，――就在这鸟儿勇敢的叫喊声里，乌云听出了欢乐。\n在这叫喊声里――充满着对暴风雨的渴望！在这叫喊声里，乌云听出了愤怒的力量、热情的火焰和胜利的信心。\n海鸥在暴风雨来临之前呻吟着，――呻吟着，它们在大海上飞窜，想把自己对暴风雨的恐惧，掩藏到大海深处。\n海鸭也在呻吟着，――它们这些海鸭啊，享受不了生活的战斗的欢乐：轰隆隆的雷声就把它们吓坏了。\n蠢笨的企鹅，胆怯地把肥胖的身体躲藏在悬崖底下……只有那高傲的海燕，勇敢地，自由自在地，在泛起白沫的大海上飞翔！\n乌云越来越暗，越来越低，向海面直压下来，而波浪一边歌唱，一边冲向高空，去迎接那雷声。\n雷声轰响。波浪在愤怒的飞沫中呼叫，跟狂风争鸣。看吧，狂风紧紧抱起一层层巨浪，恶狠狠地把它们甩到悬崖上，把这些大块的翡翠摔成尘雾和碎末。\n海燕叫喊着，飞翔着，像黑色的闪电，箭一般地穿过乌云，翅膀掠起波浪的飞沫。\n看吧，它飞舞着，像个精灵，――高傲的、黑色的暴风雨的精灵，――它在大笑，它又在号叫……它笑那些乌云，它因为欢乐而号叫！\n这个敏感的精灵，――它从雷声的震怒里，早就听出了困乏，它深信，乌云遮不住太阳，――是的，遮不住的！\n狂风吼叫……雷声轰响……\n一堆堆乌云，像青色的火焰，在无底的大海上燃烧。大海抓住闪电的箭光，把它们熄灭在自己的深渊里。这些闪电的影子，活像一条条火蛇，在大海里蜿蜒游动，一晃就消失了。\n――暴风雨！暴风雨就要来啦！\n这是勇敢的海燕，在怒吼的大海上，在闪电中间，高傲地飞翔；这是胜利的预言家在叫喊：\n――让暴风雨来得更猛烈些吧！",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/46c0afc4b66261702952772147252654/46c0afc4b66261702952772147252654.m3u8?auth=360f4db01a89d873b82b807da851e714",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533628.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌊"
-  },
-  {
-    "lesson_number": "第5课",
-    "title": "孔乙己",
-    "author": "安��",
-    "reader": "王大民",
-    "content": "鲁迅\n鲁镇的酒店的格局，是和别处不同的：都是当街一个曲尺形的大柜台，柜里面预备着热水，可以随时温酒。做工的人，傍午傍晚散了工，每每花四文铜钱，买一碗酒，――这是二十多年前的事，现在每碗要涨到十文，――靠柜外站着，热热的喝了休息；倘肯多花一文，便可以买一碟盐煮笋，或者茴香豆，做下酒物了，如果出到十几文，那就能买一样荤菜，但这些顾客，多是短衣帮，大抵没有这样阔绰。只有穿长衫的，才踱进店面隔壁的房子里，要酒要菜，慢慢地坐喝。\n我从十二岁起，便在镇口的咸亨酒店里当伙计，掌柜说，样子太傻，怕侍候不了长衫主顾，就在外面做点事罢。外面的短衣主顾，虽然容易说话，但唠唠叨叨缠夹不清的也很不少。他们往往要亲眼看着黄酒从坛子里舀出，看过壶子底里有水没有，又亲看将壶子放在热水里，然后放心：在这严重监督之下，羼水也很为难。所以过了几天，掌柜又说我干不了这事。幸亏荐头的情面大，辞退不得，便改为专管温酒的一种无聊职务了。\n我从此便整天的站在柜台里，专管我的职务。虽然没有什么失职，但总觉有些单调，有些无聊。掌柜是一副凶脸孔，主顾也没有好声气，教人活泼不得；只有孔乙己到店，才可以笑几声，所以至今还记得。\n孔乙己是站着喝酒而穿长衫的唯一的人。他身材很高大；青白脸色，皱纹间时常夹些伤痕；一部乱蓬蓬的花白的胡子。穿的虽然是长衫，可是又脏又破，似乎十多年没有补，也没有洗。他对人说话，总是满口之乎者也，教人半懂不懂的。因为他姓孔，别人便从描红纸上的“上大人孔乙己”这半懂不懂的话里，替他取下一个绰号，叫作孔乙己。孔乙己一到店，所有喝酒的人便都看着他笑，有的叫道：“孔乙己，你脸上又添上新伤疤了！”他不回答，对柜里说：“温两碗酒，要一碟茴香豆。”便排出九文大钱。他们又故意的高声嚷道：“你一定又偷了人家的东西了！”孔乙已睁大眼睛说：“你怎么这样凭空污人清白……”“什么清白？我前天亲眼见你偷了何家的书，吊着打。”孔乙己便涨红了脸，额上的青筋条条绽出，争辩道：“窃书不能算偷……窃书！……读书人的事，能算偷么？”接连便是难懂的话，什么“君子固穷”，什么“者乎”之类，引得众人都哄笑起来：店内外充满了快活的空气。\n听人家背地里谈论，孔乙己原来也读过书，但终于没有进学，又不会营生；于是愈过愈穷，弄到将要讨饭了。幸而写得一笔好字，便替人家钞钞书，换一碗饭吃。可惜他又有一样坏脾气，便是好喝懒做。坐不到几天，便连人和书籍纸张笔砚，一齐失踪。如是几次，叫他钞书的人也没有了。孔乙己没有法，便免不了偶然做些偷窃的事。但他在我们店里，品行却比别人都好，就是从不拖欠；虽然间或没有现钱，暂时记在粉板上，但不出一月，定然还清，从粉板上拭去了孔乙己的名字。\n孔乙己喝过半碗酒，涨红的脸色渐渐复了原，旁人便又问道：“孔乙己，你当真认识字么？”孔乙己看着问他的人，显出不屑置辩的神气。他们便接着说道：“你怎的连半个秀才也捞不到呢？”孔乙己立刻显出颓唐不安模样，脸上笼上了一层灰色，嘴里说些话；这回可是全是之乎者也之类，一些不懂了。在这时候，众人也都哄笑起来：店内外充满了快活的空气。\n在这些时候，我可以附和着笑，掌柜是决不责备的。而且掌柜见了孔乙己，也每每这样问他，引人发笑。孔乙己自己知道不能和他们谈天，便只好向孩子说话。有一回对我说道：“你读过书么？”我略略点一点头。他说：“读过书，……我便考你一考。茴香豆的茴字，怎样写的？”我想，讨饭一样的人，也配考我么？便回过脸去，不再理会。孔乙己等了许久，很恳切的说道：“不能写罢？……我教给你，记着！这些字应该记着。将来做掌柜的时候，写账要用。”我暗想我和掌柜的等级还很远呢，而且我们掌柜也从不将茴香豆上账；又好笑，又不耐烦，懒懒的答他道：“谁要你教，不是草头底下一个来回的回字么？”孔乙己显出极高兴的样子，将两个指头的长指甲敲着柜台，点头说：“对呀对呀！……回字有四样写法，你知道么？”我愈不耐烦了，努着嘴走远。孔乙己刚用指甲蘸了酒，想在柜上写字，见我毫不热心，便又叹一口气，显出极惋惜的样子。\n有几回，邻居孩子听得笑声，也赶热闹，围住了孔乙己。他便给他们茴香豆吃，一人一颗。孩子吃完豆，仍然不散，眼睛都望着碟子。孔乙己着了慌，伸开五指将碟子罩住，弯腰下去说道：“不多了，我已经不多了。”直起身又看一看豆，自己摇头说：“不多不多！多乎哉？不多也。”于是这一群孩子都在笑声里走散了。\n孔乙己是这样的使人快活，可是没有他，别人也便这么过。\n有一天，大约是中秋前的两三天，掌柜正在慢慢的结账，取下粉板，忽然说：“孔乙己长久没有来了。还欠十九个钱呢！”我才也觉得他的确长久没有来了。一个喝酒的人说道：“他怎么会来？……他打折了腿了。”掌柜说：“哦！”“他总仍旧是偷。这一回，是自己发昏，竟偷到丁举人家里去了。他家的东西，偷得的么？”“后来怎么样？”“怎么样？先写服辩，后来是打，打了大半夜，再打折了腿。”“后来呢？”“后来打折了腿了。”“打折了怎样呢？”      “怎样？……谁晓得？许是死了。”掌柜也不再问，仍然慢慢的算他的账。\n中秋过后，秋风是一天凉比一天，看看将近初冬；我整天的靠着火，也须穿上棉袄了。一天的下半天，没有一个顾客，我正合了眼坐着。忽然间听得一个声音：“温一碗酒。”这声音虽然极低，却很耳熟。看时又全没有人。站起来向外一望，那孔乙己便在柜台下对了门槛坐着。他脸上黑而且瘦，已经不成样子；穿一件破夹袄，盘着两腿，下面垫一个蒲包，用草绳在肩上挂住；见了我，又说道：“温一碗酒。”掌柜也伸出头去，一面说：“孔乙己么？你还欠十九个钱呢！”孔乙己很颓唐的仰面答道：“这……下回还清罢。这一回是现钱，酒要好。”掌柜仍然同平常一样，笑着对他说：“孔乙已，你又偷了东西了！”但他这回却不十分分辩，单说了一句“不要取笑！”“取笑？要是不偷，怎么会打断腿？”孔乙己低声说道：“跌断，跌，跌……”他的眼色，很像恳求掌柜，不要再提。此时已经聚集了几个人，便和掌柜都笑了。我温了酒，端出去，放在门槛上。他从破衣袋里摸出四文大钱，放在我手里，见他满手是泥，原来他便用这手走来的。不一会，他喝完酒，便又在旁人的说笑声中，坐着用这手慢慢走去了。\n自此以后，又长久没有看见孔乙己。到了年关，掌柜取下粉板说：“孔乙己还欠十九个钱呢！”到第二年的端午，又说：“孔乙己还欠十九个钱呢！”到中秋可是没有说，再到年关也没有看见他。\n我到现在终于没有见――大约孔乙己的确死了。\n一九一九年三月",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/ef687be794d521702953142184384307/ef687be794d521702953142184384307.m3u8?auth=698aae8db42228fb97c657272697c4dd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533629.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第6课",
-    "title": "变色龙",
-    "author": "安��",
-    "reader": "孙小梅",
-    "content": "契诃夫\n警官奥楚蔑洛夫穿着新的军大衣，提着小包，穿过市场的广场。他身后跟着一个火红色头发的巡警，端着一个筛子，盛满了没收来的醋栗。四下里一片沉静。广场上一个人也没有。商店和饭馆的门无精打采地敞着，面对着这个世界，就跟许多饥饿的嘴巴一样；门口连一个乞丐也没有。\n“好哇，你咬人？该死的东西！”奥楚蔑洛夫忽然听见叫喊声，“伙计们，别放走它！这年月，咬人可不行！逮住它！哎哟……哎哟！”\n传来了狗的尖叫声。奥楚蔑洛夫向那边一瞧，看见从商人彼楚金的木柴厂里跑出来一条狗，用三条腿一颠一颠地跑着，不住地回头瞧。它后边跟着追来一个人，穿着浆硬的花布衬衫和敞着怀的坎肩。他追上狗，身子往前一探，扑倒在地下，抓住了狗的后腿。又传来了狗的叫声，还有人的叫喊：“别放走它！”有人从商店里探出头来，脸上还带着睡意。木柴厂四周很快就聚了一群人，仿佛一下子从地底下钻出来的。\n“好像出乱子了，长官！”巡警说。\n奥楚蔑洛夫微微向左一转，往人群那里走去。在木柴厂门口，他看见那个敞开了坎肩的人举起右手，把一个血淋淋的手指头伸给人们看。他那半醉的脸上现出这样的神气：“我要揭你的皮，坏蛋！”就连那手指头也像是一面胜利的旗帜。奥楚蔑洛夫认出这人是首饰匠赫留金。这个案子的“罪犯”呢，坐在人群中央的地上，前腿劈开，浑身发抖――原来是一条白毛的小猎狗，脸尖尖的，背上有块黄斑。它那含泪的眼睛流露出悲苦和恐怖的神情。\n“这儿到底出了什么事？”奥楚蔑洛夫挤进人群里去，问道，“你在这儿干什么？你究竟为什么举着那个手指头？……谁在嚷？”\n“长官，我好好地走我的路，没招谁没惹谁……”赫留金开口了，拿手罩在嘴上，咳嗽一下，“我正在跟密特里・密特里奇谈木柴的事，忽然，这贱畜生无缘无故就咬了我的手指头一口……您得原谅我，我是做工的人，我做的是细致的活儿。这得叫他们赔我一笔钱才成，因为也许我要有一个礼拜不能用这个手指头啦……长官，就连法律上也没有那么一条，说是人受了畜生的害就该忍着。要是人人都这么让畜生乱咬一阵，那在这世界上也没个活头了。”\n“嗯！不错……”奥楚蔑洛夫严厉地说，咳了一声，拧起眉头，“不错……这是谁家的狗？我绝不轻易放过这件事！我要拿点儿颜色出来给那些放出狗来到处乱跑的人看看。那些老爷既然不愿意遵守法令，现在就得管管他们。等到他，那个混蛋，受了罚，拿出钱来，他才会知道放出这种狗来，放出这种野畜生来，会有什么下场。我要好好地教训他一顿！叶尔德林，”警官对巡警说，“去调查一下，这是谁的狗，打个报告上来！这条狗呢，把它弄死好了。马上去办，别拖！这多半是条疯狗……请问，这到底是谁家的狗？”\n“这好像是席加洛夫将军家的狗。”人群里有人说。\n“席加洛夫将军？哦！……叶尔德林，帮我把大衣脱下来……真要命，天这么热，看样子多半要下雨了……只是有一件事我还不懂：它怎么会咬着你的？”奥楚蔑洛夫对赫留金说，“难道它够得着你的手指头？它是那么小；你呢，却长得这么魁梧！你那手指头一定是给小钉子弄破的，后来却异想天开，想得到一笔什么赔偿费了。你这种人啊・・・・・・是出了名的！我可知道你们这些鬼东西是什么玩意儿！”\n“长官，他本来是开玩笑，把烟卷戳到狗的脸上去；狗呢――可不肯做傻瓜，就咬了他一口……他是个荒唐的家伙，长官！”\n“胡说，独眼鬼！你什么也没看见，你为什么胡说？他老人家是明白人，看得出来到底谁胡说，谁是凭良心说话；要是我说了谎，那就让调解法官审问我好了。他的法律上说得明白，现在大家都平等啦。不瞒您说，我的兄弟就在当宪兵……”\n“少说废话！”\n“不对，这不是将军家里的狗……”巡警深思地说，“将军家里没有这样的狗。他家的狗，全是大猎狗。”\n“你拿得准吗？”\n“拿得准，长官……”\n“我也知道。将军家里都是些名贵的、纯种的狗；这条狗呢，鬼才知道是什么玩意儿！毛色既不好，模样也不中看，完全是个下贱胚子。居然有人养这种狗！这人的脑子上哪儿去啦？要是这样的狗在彼得堡或者莫斯科让人碰见，你们猜猜看，结果会怎样？那儿的人可不管什么法律不法律，一眨眼的工夫就叫它断了气！你呢，赫留金，受了害，我们绝不能不管。得好好教训他们一下！是时候了。”\n“不过也说不定就是将军家的狗……”巡警把他的想法说出来，“它的脸上又没写着……前几天我在将军家院子里看见过这样的一条狗。”\n“没错儿，将军家的！”人群里有人说。\n“哦！……叶尔德林老弟，给我穿上大衣吧……好像起风了，挺冷……你把这条狗带到将军家里去，问问清楚。就说这狗是我找着，派人送上的。告诉他们别再把狗放到街上来了。说不定这是条名贵的狗；可要是每个坏家伙都拿烟卷戳到它的鼻子上去，那它早就毁了。狗是娇贵的动物……你这混蛋，把手放下来！不用把你那蠢手指头伸出来！怪你自己不好！……”\n“将军家的厨师来了，问他好了――喂，普洛诃尔！过来吧，老兄，上这儿来！瞧瞧这条狗，是你们家的吗？”\n“瞎猜！我们那儿从来没有这样的狗！”\n“那就用不着白费工夫再上那儿去问了，”奥楚蔑洛夫说，“这是条野狗！用不着白费工夫说空话了。既然普洛诃尔说这是野狗，那它就是野狗。弄死它算了。”\n“这不是我们的狗，”普洛诃尔接着说，“这是将军的哥哥的狗。他哥哥是前几天才到这儿来的。我们将军不喜欢这种小猎狗，他哥哥却喜欢。”\n“他哥哥来啦？是乌拉吉米尔・伊凡尼奇吗？”奥楚蔑洛夫问，整个脸上洋溢着含笑的温情，“哎呀，天！我还不知道呢！他是上这儿来住一阵就走吗？”“是来住一阵的。”\n“哎呀，天！他是惦记他的兄弟了……可我还不知道呢！这么说，这是他老人家的狗？高兴得很……把它带走吧。这小狗还不赖，怪伶俐的，一口就咬破了这家伙的手指头！哈哈哈……得了，你干什么发抖呀？呜呜……呜呜……这坏蛋生气了……好一条小狗……”\n普洛诃尔喊一声那条狗的名字，带着它从木柴厂走了。那群人就对着赫留金哈哈大笑。\n“我早晚要收拾你！”奥楚蔑洛夫向他恐吓说，裹紧大衣，穿过市场的广场径自走了。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/51fed065e0c4e170295433790823412/51fed065e0c4e170295433790823412.m3u8?auth=ce5018c69f8458ecef9ddcdcdb3df579",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533630.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐉"
-  },
-  {
-    "lesson_number": "第7课",
-    "title": "溜索",
-    "author": "安��",
-    "reader": "姚科",
-    "content": "阿城\n不信这声音就是怒江。首领也不多说，用小腿磕一下马。马却更觉迟疑，牛们也慢下来。\n一只大鹰旋了半圈，忽然一歪身，扎进山那侧的声音里。马帮像是得到信号，都止住了。汉子们全不说话，纷纷翻下马来，走到牛队的前后，猛发一声喊，连珠脆骂，拳打脚踢。铃铛们又慌慌响起来，马帮如极稠的粥，慢慢流向那个山口。\n一个钟头之前就感闻到这隐隐闷雷，初不在意，只当是百里之外天公浇地。雷总不停，才渐渐生疑，懒懒问了一句。首领也只懒懒说是怒江，要过溜索了。\n山不高，口极狭，仅容得一个半牛过去。不由捏紧了心，准备一睹气贯滇西的那江，却不料转出山口，依然是闷闷的雷。心下大惑，见前边牛们死也不肯再走，就下马向岸前移去。行到岸边，抽一口气，腿子抖起来，如牛一般，不敢再往前动半步。\n万丈绝壁飞快垂下去，马帮原来就在这壁顶上。转了多半日，总觉山低风冷，却不料一直是在万丈之处盘桓。\n怒江自西北天际亮亮而来，深远似涓涓细流，隐隐喧声腾上来，着一派森气。俯望那江，蓦地心中一颤，惨叫一声。急转身，却什么也没有，只是再不敢轻易向下探视。叫声漫开，撞了对面的壁，又远远荡回来。\n首领稳稳坐在马上，笑一笑。那马平时并不觉雄壮，此时却静立如伟人，晃一晃头，鬃飘起来。首领眼睛细成一道缝，先望望天，满脸冷光一闪，又俯身看峡，腮上绷出筋来。汉子们咦咦喂喂地吼起来，停一刻，又吼着撞那回声。声音旋起来，缓缓落下峡去。\n牛铃如击在心上，一步一响，马帮向横在峡上的一根索子颤颤移去。\n那索似有千钧之力，扯住两岸石壁，谁也动弹不得，仿佛再有锱铢之力加在上面，不是山倾，就是索崩。\n首领缓缓移下马，拐着腿走到索前，举手敲一敲那索，索一动不动。首领瞟一眼汉子们。汉子们早蹲在一边吃烟。只有一个精瘦短小的汉子站起来，向峡下弹出一截纸烟，飘飘悠悠，不见去向。瘦小汉子迈着一双细腿，走到索前，从索头扯出一个竹子折的角框，只一跃，腿已入套。脚一用力，飞身离岸，嗖的一下小过去，却发现他腰上还牵一根绳，一端在索头，另一端如带一缕黑烟，弯弯划过峡顶。\n那只大鹰在瘦小汉子身下十余丈处移来移去，翅膀尖上几根羽毛被风吹得抖。\n再看时，瘦小汉子已到索子向上弯的地方，悄没声地反着倒手拔索，横在索下的绳也一抖一抖地长出去。\n大家正睁眼望，对岸一个黑点早停在壁上。不一刻，一个长音飘过来，绳子抖了几抖。\n三条汉子一个一个小过去。首领哑声说道：“可还歇？”余下的汉子们漫声应道：“不消。”纷纷走到牛队里卸驮子。\n牛们早卧在地下，两眼哀哀地慢慢眨。两个汉子拽起一头牛，骂着赶到索头。那牛软下去，淌出两滴泪，大眼失了神，皮肉开始抖起来。汉子们缚了它的四蹄，挂在角框上，又将绳扣住框，发一声喊，猛力一推。牛嘴咧开，叫不出声，皮肉抖得模糊一层，屎尿尽数撒泄，飞起多高，又纷纷扬扬，星散坠下峡去。过了索子一多半，那边的汉子们用力飞快地收绳，牛倒垂着，升到对岸。这边的牛们都哀哀地叫着，汉子们并不理会，仍一头一头推过去。牛们如商量好的，不例外都是一路屎尿，皮肉疯了一样抖。\n之后是运驮子，就玩一般了。这岸的汉子们也一个接一个飞身小过去。\n战战兢兢跨上角框，首领吼一声：“往下看不得，命在天上！”猛一送，只觉耳边生风，聋了一般，任什么也听不见，僵着脖颈盯住天，倒像俯身看海。那海慢慢一旋，无波无浪，却深得令人眼呆，又透远得欲呕。自觉慢了一下，急忙伸手在索上向身后拔去。这索由十几股竹皮扭绞而成，磨得赛刀。手划出血来，黏黏的反倒抓得紧索。手一松开，撕得钻心一疼，不及多想，赶紧倒上去抓住。渐渐就有血溅到唇上、鼻子上，自然顾不到，命在天上。\n猛地耳边有人笑：“看脚底板！”方才觉出已到索头，几个汉子笑着在吃烟，眼纹一直扯到耳边。\n慎慎地下来，腿子抖得站不住，脚倒像生下来第一遭知道世界上还有土地，亲亲热热跺几下。小肚子胀得紧，像有尿，却不敢撒，生怕走了气再也立不住了。\n眼珠涩涩的，使劲挤一下，端着两手，不敢放下。猛听得空中一声呼哨，尖得直入脑髓，腰背颤一下。回身却见首领早已飞到索头，抽身跃下，拐着腿弹一弹，走到汉子们跟前。有人递过一支烟，嚓的一声点好。烟浓浓地在首领脸前聚了一下，又忽地被风吹散，扬起数点火星。\n牛马们还卧在地下，皮肉乱抖，半个钟头立不起来。\n首领与两个汉子走到绝壁前，扯下裤腰，弯弯地撒出一道尿，落下不到几尺，就被风吹得散开，顺峡向东南飘走。万丈下的怒江，倒像是一股尿水，细细流着。\n那鹰斜移着，忽然一栽身，射到壁上，顷刻又飞起来，翅膀一鼓一鼓地扇动。首领把裤腰塞紧，曲着眼望那鹰，说：“蛇？”几个汉子也望那鹰，都说:“是呢，蛇。”\n牛们终于又上了驮，铃铛朗朗响着，急急地要离开这里。上得马上，才觉出一身黏汗，风吹得身子抖起来。手掌向上托着，寻思几时才能有水洗一洗血肉。顺风扩一扩腮，出一口长气，又觉出闷雷原来一直响着。俯在马上再看怒江，干干地咽一咽，寻不着那鹰。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/d1816457df9861702954888298830849/d1816457df9861702954888298830849.m3u8?auth=ffdb7252add9d79c71f79575a675c904",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533631.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第8课",
-    "title": "蒲柳人家（节选）",
-    "author": "安��",
-    "reader": "曾颖",
-    "content": "刘绍棠\n一\n七月天，中伏大晌午，热得像天上下火。何满子被爷爷拴在葡萄架的立柱上，系的是拴贼扣儿。\n那一年是1936年。何满子六岁，剃个光葫芦头，天灵盖上留着个木梳背儿；一交立夏就光屁股，晒得两道眉毛只剩下淡淡的痕影，鼻梁子裂了皮，全身上下就像刚从烟囱里爬出来，连眼珠都比立夏之前乌黑。\n奶奶叫东隔壁的望日莲姑姑给何满子做了一条大红兜肚，兜肚上还用五彩细线绣了一大堆花草。人配衣裳马配鞍，何满子穿上这条花红兜肚，一定会在小伙伴们中间出人头地。可是，何满子一天也不穿。\n何满子整天在运河滩上野跑，头顶着毒热的阳光，身上再裹起兜肚，一不风凉，二又窝汗，穿不了一天，就得起大半身痱子。再有，全村跟他一般大的小姑娘，谁的兜肚也没有这么花儿草儿的鲜艳，他穿在身上，男不男，女不女，小姑娘们要用手指刮破脸蛋儿，臊得他得找个田鼠窝钻进去；小小子儿们也要敲起锣鼓似的叫他小丫头儿，管叫他一辈子抬不起头。\n何满子不穿花红兜肚，奶奶气得咬牙切齿地骂他，手握着擀面杖要梆他，还威吓要三天不给他饭吃。原来，这条兜肚大有讲究。何满子是个娇哥儿，奶奶老是怕阎王爷打发白无常把他勾走；听说阎王爷非常重男轻女，何满子穿上花红兜肚，男扮女装，阎王爷老眼昏花的看不真切，也就起不了勾魂索命的恶念。\n何满子的奶奶，人人都管她叫一丈青大娘；大高个儿，一双大脚，青铜肤色，嗓门也亮堂，骂起人来，方圆二三十里，敢说找不出能够招架几个回合的敌手。一丈青大娘骂人，就像雨打芭蕉，长短句，四六体，鼓点似的骂一天，一气呵成，也不倒嗓子。她也能打架，动起手来，别看五六十岁了，三五个大小伙子不够她打一锅的。\n她家坐落在北运河岸上，门口外就是大河。有一回，一只外江大帆船打门口路过，也正是歇晌时分。一丈青大娘站在篱笆外的伞柳荫下放鸭子，一见几个纤夫赤身露体，只系着一条围腰，裤子卷起来盘在头上，便断喝一声：“站住！”这几个纤夫头顶着火盆子，拉了百八十里路，顶水又逆风，还没有歇脚打尖，个顶个窝着一肚子饿火。一丈青大娘的这一声断喝，他们只当耳旁风。一丈青大娘见他们头也不抬，理也不理，气更大了，又吆喝了一声：“都给我穿上裤子！”有个年轻不知好歹的纤夫，白瞪了一丈青大娘一眼，没好气地说：“一大把岁数儿，什么没见过；不爱看合上眼，掉过脸去！”一丈青大娘火了起来，挽了挽袖口，手腕子上露出两只叮叮当当响的黄铜镯子，一阵风冲下河坡，阻挡在这几个纤夫的面前，手戳着他们的鼻子说：“不能叫你们腌�H了我们大姑娘小媳妇的眼睛！”那个不知好歹的年轻纤夫，是个生愣儿，用手一推一丈青大娘，说：“好狗不挡道！”这一下可捅了马蜂窝。一丈青大娘勃然大怒，老大一个耳刮子抡圆了扇过去；那个年轻的纤夫就像风吹乍蓬，转了三转，拧了三圈儿，满脸开花，口鼻出血，一头栽倒在滚烫的白沙滩上，紧一口慢一口�移�，高一声低一声呻吟。几个纤夫见他们的伙伴挨了打，呼哨而上；只听咔吧一声，一丈青大娘折断了一棵茶碗口粗细的河柳，带着呼呼风声挥舞起来，把这几个纤夫扫下河去，就像正月十五煮元宵，纷纷落水。一丈青大娘不依不饶，站在河边大骂不住声，还不许那几个纤夫爬上岸来；大帆船失去了纤力，掌舵的绽裂了虎口，也驾驭不住，在河上转开了磨。最后，还是船老板请出了摆渡船的柳罐斗，钉掌铺的吉老秤，老木匠郑端午，开小店的花鞋杜四，说和了两三个时辰，一丈青大娘才算开恩放行。\n一丈青大娘有一双长满老茧的大手，种地、撑船、打鱼都是行家。她还会扎针、拔罐子、接生、接骨、看红伤。这个小村大人小孩有个头疼脑热，都来找她妙手回春；全村三十岁以下的人，都是她那一双粗大的手给接来了人间。\n不过，别看一丈青大娘能镇八方，她可管不了何满子。何家世代单传，辈辈一棵苗，何满子的爷爷就是老生儿，他父亲也是在一丈青大娘将近四十岁时才落生的；偏是何满子不同凡响，是他母亲头一胎生下来的贵子。一丈青大娘一听见孙子呱呱坠地的啼声，喜泪如雨，又烧香又上供，又拜佛又许愿。洗三那天，亲手杀了一只羊和三只鸡，摆了个小宴；满月那天，更杀了一口猪和六只鸭，大宴乡亲。她又跑遍沿河几个村落，挨门挨户乞讨零碎布头儿，给何满子缝了一件五光十色的百家衣；百日那天，给何满子穿上，抱出来见客，博得一片彩声。到一周岁生日，还打造了一个分量不小的包铜镀金长命锁，金光闪闪，差一点儿把何满子勒断了气。\n何满子是一丈青大娘的心尖子，肺叶子，眼珠子，命根子。这一来，一丈青大娘可就跟儿媳妇发生了尖锐的矛盾。\n何满子的父亲，十三岁到通州城里一家书铺学徒，学的是石印。他学会一笔好字，也学会一笔好画，人又长得清秀，性情十分温顺，掌柜的很中意，就把女儿许配给他。何满子的爷爷虚荣心强，好攀高枝儿，眉开眼笑地答应了这门亲事。一丈青大娘却不大乐意；她不喜欢城里人，想给儿子找个农家或船家姑娘做妻子，能帮她干活儿，也能支撑门户。可是，她拗不过老头子，也怕伤了儿子的心，不乐意也只得同意了。何满子的母亲不能算是小姐出身，她家那个小书铺一年也只能赚个温饱；可是，她到底是文墨小康之家出身，虽没上过学，却也熏陶得一身书香，识文断字。她又长得好看，身子单薄，言谈举止非常斯文，在一丈青大娘的眼里，就是一朵中看而无用的纸花，心里不喜爱。何满子的母亲更看不上婆婆的粗野，在乡下又住不惯，一住娘家就不想回来。等生下了何满子，何满子的父亲就想在城里另立个家。一丈青大娘是个爱面子的人，分家丢脸，可是一家子鸡吵鹅斗，也惹人笑话；老人家左右为难，偷偷掉了好几回眼泪。但是，前思后想，千里搭长棚，没有不散的筵席，到了儿点了头。不过，却有个条件，那就是儿媳妇不能把何满子带走。孩子是娘身上掉下来的肉，何满子的母亲哭得死去活来。最后，还是请来摆渡船的柳罐斗，钉掌铺的吉老秤，老木匠郑端午，开小店的花鞋杜四，说和三天三夜，婆媳俩才算讲定，何满子上学之前，留在奶奶身边；该上学了，再接到城里跟父母团聚。\n何满子在奶奶身边长大，要天上的星星，奶奶也赶快搬梯子去摘。长到四五岁，就像野鸟不入笼，一天不着家，整日在河滩野跑。奶奶八样不放心，怕让狗咬了，怕让鹰抓了，怕掉在土井子里，怕给拍花子的拐走。老人家提心吊胆，就像丢了魂儿，出来进去团团转，扯着一条亮堂嗓门儿，村前村后，河滩野地，喊哑了嗓子。何满子却隐匿在柳棵子地里，深藏到芦苇丛中，潜伏在青纱帐内的豆棵下，跟奶奶捉迷藏，暗暗发笑。等到天黑回家去，奶奶抄起顶门杠子，要敲碎何满子的光葫芦头；何满子一动不动，眼皮眨也不眨，奶奶只得把顶门杠子一扔，叫了声：“小祖宗儿！”回到屋里给孙子做好吃的去了。不是煮鸡蛋，就是烙白面饼。\n这一天，何满子的爷爷回来了。一丈青大娘跟老头子叨唠这个，嘟哝那个，老头子阴沉着脸，哼哼哈哈，一脑门子官司；一丈青大娘气不打一处来，跟老头子叫起了苦，顺口就给何满子告了状。爷爷是个风火性儿，一怒之下，就把何满子拴在了葡萄架的立柱上，系的是拴贼扣儿，跑不了更飞不了。而且，在他面前扔下一个纸盒，盒子里有一百个方块字码，还有一块石板和一支石笔，勒令他在这一个歇晌的工夫，把这一百个字写下来。\n这倒难不住何满子。可是，他有生以来头一回失去自由，心里委屈而又憋闷，两眼直呆呆，双手懒洋洋，一点儿也没有写字的兴致。\n二\n何满子的爷爷，官讳已不可考。但是，如果提起他的外号，北运河两岸，古北口内外，在卖力气走江湖的人们中间，那可真是叫得山响。\n他的外号叫何大学问。\n何大学问人高马大，膀阔腰圆，面如重枣，浓眉朗目，一副关公相貌。年轻的时候，当过义和团，会耍大刀，拳脚上也有两下子。以后，他给地主家当赶车把式，会摆弄牲口，打一手好鞭花。他这个人好说大话，自吹站在通州东门外的北运河头，抽一个响脆的鞭花，借着水音，天津海河边上都震耳朵。他又好喝酒，脾气大，爱打抱不平，为朋友敢两肋插刀，所以在哪一个地主家都待不长。于是，他就改了行，给牲口贩子赶马；一年有七八个月出入古北口，往返于塞外和通州骡马大市之间，奔走在长城内外的古驿道上。几百匹野马，在他那一杆大鞭的管束下，乖乖地像一群温驯的绵羊。沿路的偷马贼，一听见他的鞭花在山谷间回响，急忙四散奔逃，躲他远远的。所以，他不但是赶马的，还是保镖的，牲口贩子都抢着雇他。这一来，他的架子大了，不三顾茅庐，他是不出山的；至于脚钱多少，倒在其次，要的就是刘皇叔那样的礼贤下士。\n他这个人，不知道钱是好的，伙友们有谁家揭不开锅，沿路上遇见老、弱、病、残，伸手就掏荷包，抓多少就给多少，也不点数儿；所以出一趟口外挣来的脚钱，到不了家就花个精光。\n在这个小村，数他走的地方多，见的世面广；他又好戴高帽儿，讲排场，摆阔气。出一趟口外，本来挣不了多少钱，而且到家之前已经花得不剩分文，但是回到村来，却要装得好像腰缠万贯；跟牲口贩子借一笔驴打滚儿，也要大摆酒筵，请他的知音相好们前来聚会，听他谈讲过五关，斩六将，云山雾罩。他这个人非常富有想象力，编起故事来，有枝有叶，有文有武，生动曲折，惊险红火。于是，人们一半是戏谑，一半是尊敬，就给他送了个何大学问的外号。\n自从他被尊称为何大学问以后，他也真在学问上下起功夫来了。过去，他好听书，也会说书；在荣膺这个尊称之后，当真看起书来。他腰里常常揣着个北京老二酉堂出版的唱本，投宿住店，歇脚打尖，他就把唱本掏出来，咿咿哦哦地嘟念。遇上生字儿，不耻下问，而且舍得掏学费；谁教他一字一句，他能请这位白吃一顿酒饭。既然人称大学问，那就要打扮得斯文模样儿，于是穿起了长衫，说话也咬文嚼字。人们看见，在长城内外崇山峻岭的古驿道上，这位身穿长衫的何大学问，骑一匹光背儿马，左肩挂一只书囊，右肩扛一杆一丈八尺的大鞭，那形象是既威风凛凛又滑稽可笑。而且，路遇文庙，他都要下马，作个大揖，上一股高香。本来，孔夫子门前早已冷落，小城镇的文庙十有八九坍塌破败，只剩下断壁残垣，埋没于蓬蒿荆棘之中，成为鸟兽栖聚之地；他这一作揖，一烧香，只吓得麻雀满天飞叫，野兔望影而逃。\n夜深人静睡不着觉的时候，何大学问也常常感到阵阵悲凉。自家祖宗八辈儿，穷得房无一间，地无一垄，都是睁眼瞎。自个儿跳跳了大半辈子，已经年过花甲，不过挣下三间泥棚茅舍，八亩河滩洼地；虽然被人尊称大学问，可从没进过学堂一天，斗大的字认不得三筐，而且只会念不会写。儿子天生文质，也只念了三年私塾，就不得不到书铺学徒。看来，何家要出个真正大学问，只有指望孙子何满子了。可是，掂量一下自己这点儿财力，供他念完小学，已经是鼓着肚子充胖；而中学大学的门槛九丈九尺高，没有白花花的银洋砌台阶，怎么能高攀得上？自己已经老迈年高，砸碎了骨头也榨不出几两油来；难道孙儿到头来也要落得个赶马或是学徒的命运？\n何满子也真是聪慧灵秀，脑瓜儿记性好，爱听故事，过耳不忘；好问个字儿，过目不忘。何大学问在孙子面前假充圣人，把他的那些唱本传授给孙子；何满子就像春蚕贪吃桑叶，一册唱本不够他几天念的。何大学问惊喜过望，就想求个名师指点。正巧他在赶马路上，在一座骡马大店里，遇见一位前清的老秀才，在这座骡马大店里当账房先生，写一手魏碑好字；店里生意冷清，掌柜的打算辞退这个穷儒。何大学问脑瓜子一热，就礼聘这位老秀才到他家教专馆，讲定教一个字给一个铜板。\n老秀才来到何家，就在葡萄架下开讲。他高高在上，坐一张太师椅，手拿一杆斑竹白铜锅的长杆烟袋；何满子低首俯身，坐个蒲团儿，面前一张小饭桌，就像被老秀才踩在脚下。老秀才整天板着一张阴沉沉的长脸，何满子抬头一看，只觉得头上压着一朵乌云，叫人喘不过气。老秀才又酸气冲天，开口诗云子曰，闭口之乎者也，何满子只觉得枯燥乏味，更加闷闷不乐。他本是个整天跑野马的孩子，从早到晚关在家里，难受得屁股下如坐针毡，身上像芒刺在背。念着书，一听见篱笆外柳树梢上莺啼燕啭，就想嘬着嘴唇学鸟叫，念书跑了调儿；一听见门外过往行船的纤歌声，心里就七上八下，想跑出去看一看，念书走了神儿。老秀才的眼睛尖得像锥子，一见他的身子动了动，就伸出斑竹白铜锅的长杆烟袋，敲他的光葫芦头；每敲一下，就肿起一个枣子大的青包，何满子恨透了老秀才。一丈青大娘见孙子天天挨打，心疼得就像一块一块剜肉；只有何大学问认定不打不成材，非但不怪罪老秀才学规森严，而且还从旁给老秀才呐喊助威。何大学问每天招待老秀才三顿净米净面，外加一壶酒；这个局面，穷门小户怎能支撑得住？不到一个月，何大学问就闹了饥荒，拉下了斗大的亏空，只得又去赶马。\n何大学问一走，何满子就像野马摘了笼头；天不亮，头顶着星星，脚��着露水，从家里溜出去，逃开了学。一丈青大娘早就腻歪了老秀才，先断了每天一壶酒，又撤了一天三顿净米净面。老秀才混不下去了，留下了几百个方块字码，索取了几百个铜板，愤愤而去。\n这时，西隔壁那个在通州潞河中学念书的周檎，放暑假回来，何满子整天跟这位洋学生形影不离。何大学问赶马回来，一见老秀才走了，很觉得过意不去，埋怨一丈青大娘头发长，见识短；但是，一见何满子跟着周檎学会了一大堆字儿，还不花一文钱，又不禁转怒为喜了。\n何大学问也不是不疼爱孙子。他每趟赶马回来，一心盼家，最大的盼头就是享受天伦之乐。他满脸胡茬，就像根根松针，最喜欢磨蹭孙子的脸蛋儿，逗得孙子吱儿喳乱叫，笑成一团儿，打成一团儿。而且，每趟回来，都要给孙子带回一捎马子吃食。\n但是，这一趟回来，何大学问好像苍老了几岁，愁眉苦脸，垂头丧气，眉头子挽成个鸡蛋大的疙瘩。何满子吱吱喳喳欢迎爷爷，爷爷一点儿也不欢喜，没有抱他，也没有亲他，捎马子空空荡荡只有两层皮。\n何满子对爷爷心怀不满，拿白眼珠儿翻瞪爷爷，闷坐在窗根下，小嘴噘得能挂个油瓶儿。\n后来，他听见奶奶跟爷爷吵了起来：\n“你一进家就丧门神似的，没一点儿喜色，要是你嫌弃我们娘儿俩，就留在口外别回来，死外丧也没人去给你收尸！”\n“妈的，我差一点儿扔了这把老骨头，你还咒我！”这一回吵架，爷爷却不肯向奶奶低头服软儿，忍气吞声，“日本鬼子把咱们中国大卸八块啦！先在东三省立了个小宣统的满洲国，又在口外立了个德王的蒙疆政府，往后没有殷汝耕的公文护照，不许出口一步。这一趟，蒙疆军把我跟掌柜的扣住，硬说我们是共产党，不过是为了没收那几百匹马。掌柜的在牢房里上吊了，他们看我是个榨不出油水的穷光蛋，白吃他们的狱粮不上算，才把我放了。”\n何满子听不大懂，可是他听说过殷汝耕这个名字。去年冬天，一个下大雪的日子，乡下哄传殷汝耕在通州坐了龙庭，另立国号，天怒人怨，大地穿白挂孝。寒假里周檎回来，大骂殷汝耕是儿皇帝，管殷汝耕叫石敬瑭，还给何满子讲了一段五代残唐的故事。\n原来爷爷坐了牢，还险些扔了命，何满子心疼起爷爷来了。他正想进屋把爷爷哄得开了心，谁想爷爷竟把满腔怒火发泄到他身上，不但将他拴在葡萄架的立柱上，系的是拴贼扣儿，而且还硬逼他在石板上写一百个字。何满子一看见老秀才留下的这些手迹，就想起老秀才那一张阴沉沉的长脸和斑竹白铜锅的长杆烟袋，心里烦透了。\n爷爷喝了一壶酒，四脚八叉躺在北房东屋土炕上，打着呼噜睡大觉，天塌了也惊不醒他；奶奶哭丧着脸，坐在外屋锅台上，拨动着一支牛拐骨捻麻绳，依然怒气不息。\n现在，只有一个人能搭救何满子；但是，何满子望眼欲穿，这颗救命星却迟迟不从东边闪现出来。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/38d7aab85b7aa1702955436817821482/38d7aab85b7aa1702955436817821482.m3u8?auth=8c1aa95957540fc71f2b291d471eb540",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533632.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🏠"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "鱼我所欲也",
-    "author": "安��",
-    "reader": "雅坤",
-    "content": "《孟子》\n鱼，我所欲也；熊掌，亦我所欲也。二者不可得兼，舍鱼而取熊掌者也。生，亦我所欲也；义，亦我所欲也。二者不可得兼，舍生而取义者也。生亦我所欲，所欲有甚于生者，故不为苟得也；死亦我所恶，所恶有甚于死者，故患有所不辟也。如使人之所欲莫甚于生，则凡可以得生者何不用也？使人之所恶莫甚于死者，则凡可以辟患者何不为也？由是则生而有不用也，由是则可以辟患而有不为也。是故所欲有甚于生者，所恶有甚于死者。非独贤者有是心也，人皆有之，贤者能勿丧耳。\n一箪食，一豆羹，得之则生，弗得则死。呼尔而与之，行道之人弗受；蹴尔而与之，乞人不屑也。万钟则不辩礼义而受之，万钟于我何加焉！为宫室之美、妻妾之奉、所识穷乏者得我与？乡为身死而不受，今为宫室之美为之；乡为身死而不受，今为妻妾之奉为之；乡为身死而不受，今为所识穷乏者得我而为之：是亦不可以已乎？此之谓失其本心。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/81861c07ce9621702956260061987004/81861c07ce9621702956260061987004.m3u8?auth=531e5836c0dd16c9f2ef9f31e6be61b4",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533634.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐟"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "繁星（七一）",
-    "author": "吴佳怡",
-    "reader": "于芳",
-    "content": "这些事――\n是永不漫灭的回忆：\n月明的园中，\n藤萝的叶下，\n母亲的膝上。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1226/86322202cd4961703592188607430961/86322202cd4961703592188607430961.m3u8?auth=ccc31b6116fc98989437bd19ded31b73",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/snjx/20231227/t20231227_526536054.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "⭐"
-  },
-  {
-    "lesson_number": "第10课",
-    "title": "唐雎不辱使命",
-    "author": "安��",
-    "reader": "于芳",
-    "content": "《战国策》\n秦王使人谓安陵君曰：“寡人欲以五百里之地易安陵，安陵君其许寡人！”安陵君曰：“大王加惠，以大易小，甚善；虽然，受地于先王，愿终守之，弗敢易！”秦王不说。安陵君因使唐雎使于秦。\n秦王谓唐雎曰：“寡人以五百里之地易安陵，安陵君不听寡人，何也？且秦灭韩亡魏，而君以五十里之地存者，以君为长者，故不错意也。今吾以十倍之地，请广于君，而君逆寡人者，轻寡人与？”唐雎对曰：“否，非若是也。安陵君受地于先王而守之，虽千里不敢易也，岂直五百里哉？”\n秦王怫然怒，谓唐雎曰：“公亦尝闻天子之怒乎？”唐雎对曰：“臣未尝闻也。”秦王曰：“天子之怒，伏尸百万，流血千里。”唐雎曰：“大王尝闻布衣之怒乎？”秦王曰：“布衣之怒，亦免冠徒跣，以头抢地尔。”唐雎曰：“此庸夫之怒也，非士之怒也。夫专诸之刺王僚也，彗星袭月；聂政之刺韩傀也，白虹贯日；要离之刺庆忌也，仓鹰击于殿上。此三子者，皆布衣之士也，怀怒未发，休��降于天，与臣而将四矣。若士必怒，伏尸二人，流血五步，天下缟素，今日是也。”挺剑而起。\n秦王色挠，长跪而谢之曰：“先生坐！何至于此！寡人谕矣：夫韩、魏灭亡，而安陵以五十里之地存者，徒以有先生也。”",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/f63d887e5ebbb1702956503990361464/f63d887e5ebbb1702956503990361464.m3u8?auth=f2088ca33f3d5bbeb50aab416e4e1f3b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533635.html",
-    "grade": "4",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第11课",
-    "title": "送东阳马生序",
-    "author": "安��",
-    "reader": "常亮",
-    "content": "宋濂\n余幼时即嗜学。家贫，无从致书以观，每假借于藏书之家，手自笔录，计日以还。天大寒，砚冰坚，手指不可屈伸，弗之怠。录毕，走送之，不敢稍逾约。以是人多以书假余，余因得遍观群书。既加冠，益慕圣贤之道。又患无硕师名人与游，尝趋百里外，从乡之先达执经叩问。先达德隆望尊，门人弟子填其室，未尝稍降辞色。余立侍左右，援疑质理，俯身倾耳以请；或遇其叱咄，色愈恭，礼愈至，不敢出一言以复；俟其欣悦，则又请焉。故余虽愚，卒获有所闻。\n当余之从师也，负箧曳屣行深山巨谷中。穷冬烈风，大雪深数尺，足肤皲裂而不知。至舍，四支僵劲不能动，媵人持汤沃灌，以衾拥覆，久而乃和。寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴朱缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，烨然若神人；余则��袍敝衣处其间，略无慕艳意，以中有足乐者，不知口体之奉不若人也。盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎?\n今诸生学于太学，县官日有廪稍之供，父母岁有裘葛之遗，无冻馁之患矣；坐大厦之下而诵诗书，无奔走之劳矣；有司业、博士为之师，未有问而不告、求而不得者也；凡所宜有之书，皆集于此，不必若余之手录，假诸人而后见也。其业有不精、德有不成者，非天质之卑，则心不若余之专耳，岂他人之过哉?\n东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达。与之论辨，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉?",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/7ac61c211c7661702956723487648318/7ac61c211c7661702956723487648318.m3u8?auth=ab51a182b4b39c57c5721b834fd5a969",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533637.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🐎"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "渔家傲・秋思",
-    "author": "安��",
-    "reader": "于芳",
-    "content": "渔家傲・秋思\n范仲淹\n塞下秋来风景异，衡阳雁去无留意。四面边声连角起，千嶂里，长烟落日孤城闭。浊酒一杯家万里，燕然未勒归无计。羌管悠悠霜满地，人不寐，将军白发征夫泪。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/9251b201ab4b4170295712430084641/9251b201ab4b4170295712430084641.m3u8?auth=8a2cf14b0e81e92ca41c7565eb8044dd",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533639.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🍂"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "江城子・密州出猎",
-    "author": "安��",
-    "reader": "贾际",
-    "content": "江城子・密州出猎\n苏轼\n老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。\n酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/71e28436e167d1702957526235245205/71e28436e167d1702957526235245205.m3u8?auth=c4b13e261904b37d062831af730f6cc8",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533640.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "破阵子・陈同甫赋壮词以寄之",
-    "author": "安��",
-    "reader": "常亮",
-    "content": "破阵子・陈同甫赋壮词以寄之\n辛弃疾\n醉里挑灯看剑，梦回吹角连营。八百里分麾下炙，五十弦翻塞外声，沙场秋点兵。\n马作的卢飞快，弓如霹雳弦惊。了却君王天下事，赢得生前身后名。可怜白发生！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/e57dd8d02810e1702957746085111344/e57dd8d02810e1702957746085111344.m3u8?auth=db48fbd97eaf16d540d81ff3003eaebf",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533641.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📝"
-  },
-  {
-    "lesson_number": "第12课",
-    "title": "满江红",
-    "author": "安��",
-    "reader": "黎江",
-    "content": "秋瑾\n小住京华，早又是中秋佳节。为篱下黄花开遍，秋容如拭。四面歌残终破楚，八年风味徒思浙。苦将侬强派作蛾眉，殊未屑！\n身不得，男儿列，心却比，男儿烈。算平生肝胆，因人常热。俗子胸襟谁识我？英雄末路当磨折。莽红尘何处觅知音？青衫湿！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/3d050a6a2886d1702957922134459236/3d050a6a2886d1702957922134459236.m3u8?auth=1ba0fc6454d172b4e493bcf84fd6cb04",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533642.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🔴"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "定风波",
-    "author": "安��",
-    "reader": "雅坤",
-    "content": "定风波\n苏轼\n三月七日，沙湖道中遇雨，雨具先去，同行皆狼狈，余独不觉。已而遂晴，故作此词。\n莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕?一蓑烟雨任平生。料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/7520ef171ff91702958527110962901/7520ef171ff91702958527110962901.m3u8?auth=560ac6e0e3b88ed55b7c721fc527c86d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533643.html",
-    "grade": "9",
-    "semester": "2",
-    "emoji": "💨"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "临江仙・夜登小阁，忆洛中旧游",
-    "author": "安��",
-    "reader": "贾际",
-    "content": "临江仙・夜登小阁，忆洛中旧游\n陈与义\n忆昔午桥桥上饮，坐中多是豪英。长沟流月去无声。杏花疏影里，吹笛到天明。二十余年如一梦，此身虽在堪惊。闲登小阁看新晴。古今多少事，渔唱起三更。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/6cbcd386a00dc1702966538996263264/6cbcd386a00dc1702966538996263264.m3u8?auth=d87b1ff8d43361f41a2101804d293a5c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533644.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🔵"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "太常引・建康中秋夜为吕叔潜赋",
-    "author": "安��",
-    "reader": "李修平",
-    "content": "太常引・建康中秋夜为吕叔潜赋\n辛弃疾\n一轮秋影转金波，飞镜又重磨。把酒问��娥：被白发，欺人奈何？乘风好去，长空万里，直下看山河。斫去桂婆娑，人道是，清光更多。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/c6111cac3aa521702966637071816464/c6111cac3aa521702966637071816464.m3u8?auth=bdd6ca6407983f412a114afa209e8c02",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533645.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🍂"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "浣溪沙",
-    "author": "安��",
-    "reader": "忠诚",
-    "content": "浣溪沙\n纳兰性德\n身向云山那畔行，北风吹断马嘶声，深秋远塞若为情！一抹晚烟荒戍垒，半竿斜日旧关城。古今幽恨几时平！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/99a0fb56909b21702966919238676983/99a0fb56909b21702966919238676983.m3u8?auth=9dde713eb58ea75a868ee0c2f946884c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533646.html",
-    "grade": "6",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第13课",
-    "title": "谈读书",
-    "author": "安��",
-    "reader": "卫东",
-    "content": "弗朗西斯・培根\n读书足以怡情，足以傅彩，足以长才。其怡情也，最见于独处幽居之时；其傅彩也，最见于高谈阔论之中；其长才也，最见于处世判事之际。练达之士虽能分别处理细事或一一判别枝节，然纵观统筹，全局策划，则舍好学深思者莫属。读书费时过多易惰，文采藻饰太盛则矫，全凭条文断事乃学究故态。读书补天然之不足，经验又补读书之不足，盖天生才干犹如自然花草，读书然后知如何修剪移接；而书中所示，如不以经验范之，则又大而无当。狡黠者鄙读书，无知者羡读书，唯明智之士用读书，然书并不以用处告人，用书之智不在书中，而在书外，全凭观察得之。读书时不可存心诘难作者，不可尽信书上所言，亦不可只为寻章摘句，而应推敲细思。书有可浅尝者，有可吞食者，少数则须咀嚼消化。换言之，有只须读其部分者，有只须大体涉猎者，少数则须全读，读时须全神贯注，孜孜不倦。书亦可请人代读，取其所作摘要，但只限题材较次或价值不高者，否则书经提炼犹如水经蒸馏，味同嚼蜡矣。读书使人充实，讨论使人机智，作文使人准确。因此不常作文者须记忆特强，不常讨论者须天生聪颖，不常读书者须欺世有术，始能无知而显有知。读史使人明智，读诗使人灵秀，数学使人周密，科学使人深刻，伦理学使人庄重，逻辑修辞之学使人善辩：凡有所学，皆成性格。人之才智但有滞碍，无不可读适当之书使之顺畅，一如身体百病，皆可借相宜之运动除之。滚球利睾肾，射箭利胸肺，漫步利肠胃，骑术利头脑，诸如此类。如智力不集中，可令读数学，盖演题须全神贯注，稍有分散即须重演；如不能辨异，可令读经院哲学，盖是辈皆吹毛求疵之人；如不善求同，不善以一物阐证另一物，可令读律师之案卷。如此头脑中凡有缺陷，皆有特药可医。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/8e26a37ee46f31702967129866651144/8e26a37ee46f31702967129866651144.m3u8?auth=ca2a34d1b7257663668f073f94e254e7",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533647.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第14课",
-    "title": "山水画的意境",
-    "author": "安��",
-    "reader": "肖玉",
-    "content": "李可染\n画山水，最重要的问题是“意境”，意境是山水画的灵魂。\n什么是意境?我认为，意境就是景与情的结合；写景就是写情。山水画不是地理、自然环境的说明和图解，不用说，它当然要求包括自然地理的准确性，但更重要的还是表现人对自然的思想感情，见景生情，景与情要结合。如果片面追求自然科学的一面，画花、画鸟都会成为死的标本，画风景也缺乏情趣，没有画意，自己就不曾感动，当然更感动不了别人。\n在我们的古诗里，往往有很好的意境。虽然关于“人”一句也不写，但是，通过写景，却充分表现了人的思想感情，如李太白《送孟浩然之广陵》的诗句：\n故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧空尽，唯见长江天际流。\n这里包含着朋友惜别的惆怅，使人联想到依依送别的情景：帆已经远了，消失了，送别的人还遥望着江水，好像心都随着帆和流水去了……情寓于景。这四句诗，没有一句写作者的感情如何，尤其是后两句，完全描写自然的景色；然而就在这两句里，使人深深体会到诗人的深厚的友情。\n毛主席的诗句，意境是很深的。如《十六字令三首》，每一首都是写景，每一字都是说山，但每一首、每一字又都充分表达了人的思想感情。三首词分别体现了山的崇高、气势和力量，这里并没有直接描写人，实际上都有力地歌颂了人，歌颂了人的英雄气概。古人说“缘物寄情”，写景就是写情。诗画有意境，就有了灵魂。\n怎样才能获得意境呢?我以为要深刻认识对象，要有强烈、真挚的思想感情。\n意境的产生，有赖于思想感情，而思想感情的产生，又与对客观事物认识的深度有关。要深入全面地认识对象，必须身临其境，长期观察。例如，齐白石画虾，就是在长期观察中，在不断表现的过程中，对虾的认识才逐渐深入了，也只有当对事物的认识全面了，做到“全马在胸”“胸有成竹”“白纸对青天”“造化在手”的程度，才能把握对象的精神实质，赋予对象以生命。我们不能设想齐白石画虾，在看一眼、画一笔的情况下能画出今天这样的作品来；而是对虾的精神状态熟悉极了，虾才在画家的笔下活起来的。对客观对象不熟悉或不太熟悉，就一定画不出好画。\n写景是为了要写情，这一点，在中国优秀诗人和画家心里一直是很明确的。无论写诗、作画，都要求站得高于现实，这样来观察、认识现实，才可能全面深入。例如毛主席的《沁园春・雪》开头几句“北国风光，千里冰封，万里雪飘”，就充分体现了诗人胸怀和思想的崇高境界。\n中国画不强调“光”，这并非不科学，而是注重表现长期观察的结果。拿画松树来说，以中国画家看来，如没有特殊的时间要求(如朝霞暮霭等)，早晨8点钟或中午12点，都不是重要的。重要的是表现松树的精神实质。像五代画家荆浩在太行山上描写松树，朝朝暮暮长期观察，画松“凡数万本，始得其真”。过去见一位作者出外写生，两个礼拜就画了一百多张，这当然只能浮光掠影，不可能深刻认识对象，更不可能创造意境。如果一位画家真正力求表现对象的精神实质，那么一棵树，就可以唱一出重头戏。记得苏州有四棵古老的柏树，名叫“清”“奇”“古”“怪”，经历过风暴、雷击，有一棵大树已横倒在地下，像一条巨龙似的，但是枝叶茂盛，生命力强，使人感觉很年轻的样子。经过两千多年，不断与自然搏斗，古老的枝干坚如铁石，而又重生出千枝万叶，使人感觉到它的气势和宇宙的力量。一棵树、一座山，观其精神实质，经过画家思想感情的夸张渲染，意境会更鲜明；木然地画画，是画不出好画的。每一处风景都有其各自不同的特色，如同人的性格差异一样。四川人说：“峨眉天下秀，夔门天下险，剑阁天下雄，青城天下幽。”这话是有道理的。我们看颐和园风景，则是富丽堂皇，给人金碧辉煌的印象。一个山水画家，对所描绘的景物，一定要有强烈、真挚、朴素的感情，说假话不行。有的画家，没有深刻感受，没有表现自己亲身感受的强烈欲望，总是重复别人的，就谈不到意境的独创性。\n肯定地说，画画要有意境，否则力量无处使，但是有了意境不够，还要有意匠；为了传达思想感情，要千方百计想办法。意匠即表现方法、表现手段的设计，简单地说，就是加工手段。齐白石有一印章“老齐手段”，说明他的画是很讲究意匠的。意境和意匠是山水画的两个关键，有了意境，没有意匠，意境也就落了空。杜甫说“意匠惨淡经营中”，又说“语不惊人死不休”。诗人、画家为了把自己的感受传达给别人，一定要苦心经营意匠，才能找到打动人心的艺术语言。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/6ee993d4dced41702970654987952967/6ee993d4dced41702970654987952967.m3u8?auth=23a1a437e8bff95e601358888a355d64",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533649.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "第15课",
-    "title": "无言之美",
-    "author": "安��",
-    "reader": "忠诚",
-    "content": "朱光潜\n孔子有一天突然很高兴地对他的学生说：“予欲无言。”子贡就接着问他：“子如不言，则小子何述焉?”孔子说：“天何言哉?四时行焉，百物生焉。天何言哉?”\n这段赞美无言的话，本来从教育方面着想。但是要想明了无言的意蕴，宜从美术观点去研究。\n言所以达意，然而意决不是完全可以言达的。因为言是固定的，有迹象的；意是瞬息万变，是缥缈无踪的。言是散碎的，意是混整的。言是有限的，意是无限的。以言达意，好像用断续的虚线画实物，只能得其近似。\n所谓文学，就是以言达意的一种美术。在文学作品中，言语之先的意象，和情绪意旨所附丽的语言，都要尽美尽善，才能引起美感。\n尽美尽善的条件很多。但是第一要不违背美术的基本原理，要“和自然逼真”。这句话讲得通俗一点儿，就是说美术作品不能说谎。不说谎包含有两种意义：一、我们所说的话，就恰是我们所想说的话；二、我们所想说的话，我们都吐肚子说出来了，毫无余蕴。\n意既不可以完全达之以言，“和自然逼真”一个条件在文学上不是做不到吗?或者我们问得再直截一点，假使语言文字能够完全传达情意，假使笔之于书的和存之于心的铢两悉称，丝毫不爽，这是不是文学上所应希求的一件事？\n这个问题是了解文学及其他美术所必须回答的。现在我们姑且答道：文字语言固然不能完全传达情绪意旨，假使能够，也并非文学所应希求的。一切美术作品也都是这样，尽量表现，非唯不能，而且不必。\n先从事实下手研究。譬如有一个荒村或任何物体，摄影家把它照一幅相，美术家把它画一幅图。这种相片和图画可以从两个观点去比较：第一，相片或图画，哪一个较“和自然逼真”?不消说得，在同一视域以内的东西，相片都可以包罗尽致，并且体积、比例和实物都两两相称，不会有丝毫错误。图画就不然。美术家对一种境遇，未表现之先，先加一番选择。选择定的材料还须经过一番理想化，把美术家的人格参加进去，然后表现出来。所表现的只是实物一部分，就连这一部分也不必和实物完全一致。所以图画决不能如相片一样“和自然逼真”。第二，我们再问，相片和图画所引起的美感哪一个浓厚，所发生的印象哪一个深刻，这也不消说，稍有美术口胃的人都觉得图画比相片美得多。\n文学作品也是同样。譬如《论语》“子在川上曰：‘逝者如斯夫，不舍昼夜。’”几句话，绝没完全描写出孔子说这番话时候的心境，而“如斯夫”三字更笼统，没有把当时的流水形容尽致。如果说详细一点儿，孔子也许这样说：“河水滚滚地流去，日夜都是这样，没有一刻停止。世界上一切事物不都像这流水时常变化不尽吗?过去的事物不就永远过去绝不回头吗?我看见这流水心中好不惨伤呀！……”但是纵使这样说去，还没有尽意。而比较起来，“逝者如斯夫，不舍昼夜”九个字，比这段长而臭的演义就值得玩味多了！在上等文学作品中――尤其在诗词中――这种言不尽意的例子处处可见。譬如陶渊明的《时运》“有风自南，翼彼新苗”，《读〈山海经〉》“微雨从东来，好风与之俱”，本来没有表现出诗人的情绪，然而玩味起来，自觉有一种闲情逸致，令人心旷神怡。钱起的《省试湘灵鼓瑟》末二句“曲终人不见，江上数峰青”，也没有说出诗人的心绪，然而一种凄凉惜别的神情自然流露于言语之外。此外像陈子昂的《登幽州台歌》：“前不见古人，后不见来者。念天地之悠悠，独怆然而涕下！”李白的《怨情》：“美人卷珠帘，深坐颦蛾眉。但见泪痕湿，不知心恨谁。”虽然说明了诗人的情感，而所说出来的多么简单，所含蓄的多么深远！再就写景说，无论何种境遇，要描写得惟妙惟肖，都要费许多笔墨。但是大手笔只选择两三件事轻描淡写一下，完全境遇便呈露眼前，栩栩如生。譬如陶渊明的《归园田居》：“方宅十余亩，草屋八九间。榆柳荫后檐，桃李罗堂前。暖暖远人村，依依墟里烟。狗吠深巷中，鸡鸣桑树颠。”四十字把乡村风景写得多么真切！再如杜工部的《后出塞》：“落日照大旗，马鸣风萧萧。平沙列万幕，部伍各见招。中天悬明月，令严夜寂寥。悲笳数声动，壮士惨不骄。”寥寥几句话，把月夜沙场状况写得多么有声有色，然而仔细观察起来，乡村景物还有多少为陶渊明所未提及，战地情况还有多少为杜工部所未提及。从此可知文学上我们并不以尽量表现为难能可贵。\n在音乐里面，我们也有这种感想。凡是唱歌奏乐，音调由宏壮急促而变到低微以至于无声的时候，我们精神上就有一种沉默渊穆和平愉快的景象。白香山在《琵琶行》里形容琵琶声音暂时停顿的情况说：“冰泉冷涩弦凝绝，凝绝不通声暂歇。别有幽愁暗恨生，此时无声胜有声。”这就是形容音乐上无言之美的滋味。著名英国诗人济慈在《希腊花瓶歌》也说，“听得见的声调固然幽美，听不见的声调尤其幽美”，也是说同样道理。大概喜欢听音乐的人都尝过此中滋味。\n雕刻塑像本来是无言的，也可以拿来说明无言之美。所谓无言，不一定指不说话，是注重在含蓄不露。雕刻以静体传神，有些是流露的，有些是含蓄的。这种分别在眼睛上尤其容易看见。中国有一句谚语说：“金刚怒目，不如菩萨低眉。”所谓怒目，便是流露；所谓低眉，便是含蓄。凡看低头闭目的神像，所生的印象往往特别深刻。\n要说明雕刻上流露和含蓄的分别，希腊著名雕刻《拉奥孔》是最好的例子。相传拉奥孔犯了大罪，天神用了一种极惨酷的刑法来惩罚他，遣了一条恶蛇把他和他的两个儿子在一块儿绞死了。在这种极刑之下，未死之前当然有一种悲伤惨戚、目不忍睹的一顷刻，而希腊雕刻家并不擒住这一顷刻来表现，他只把将达苦痛极点前一顷刻的神情雕刻出来，所以他所表现的悲哀是含蓄不露的。倘若是流露的，一定带了挣扎呼号的样子。这个雕刻，一眼看去，只觉得他们父子三人都有一种难言之痛；仔细看去便可发现条条筋肉、根根毛发都暗示一种极苦痛的神情。德国莱辛的名著《拉奥孔》就根据这个雕刻，讨论美术上含蓄的道理。\n以上是从各种艺术中信手拈来的几个实例。把这些个别的实例归纳在一起，我们可以得一个公例，就是：拿美术来表现思想和情感，与其尽量流露，不如稍有含蓄；与其吐肚子把一切都说出来，不如留一大部分让欣赏者自己去领会。因为在欣赏者的头脑里所产生的印象和美感，有含蓄比较尽量流露的还要更加深刻。换句话说，说出来的越少，留着不说的越多，所引起的美感就越大越深越真切。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/a6f54af88cf641702970918977462125/a6f54af88cf641702970918977462125.m3u8?auth=4dc8127fac1fcaefb08aa30a1cfac936",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533650.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第16课",
-    "title": "驱遣我们的想象",
-    "author": "安��",
-    "reader": "姚科",
-    "content": "叶圣陶\n在原始社会里，文字还没有创造出来，却先有了歌谣一类的东西。这也就是文艺。\n文字创造出来以后，人就用它把所见所闻所想所感的一切记录下来。一首歌谣，不但口头唱，还要刻呀，漆呀，把它保留在什么东西上(指使用纸和笔以前的时代而言)。这样，文艺和文字就并了家。\n后来纸和笔普遍地使用了，而且发明了印刷术。凡是需要记录下来的东西，要多少份就可以有多少份。于是所谓文艺，从外表说，就是一篇稿子，一部书，就是许多文字的集合体。\n当然，现在还有许多文盲在唱着未经文字记录的歌谣，像原始社会里的人一样。这些歌谣只要记录下来，就是文字的集合体了。文艺的门类很多，不止歌谣一种。古今属于各种门类的文艺，我们所接触到的，可以说，没有一种不是文字的集合体。\n文字是一道桥梁。这边的桥堍站着读者，那边的桥堍站着作者。通过了这一道桥梁，读者才和作者会面。不但会面，并且了解作者的心情，和作者的心情相契合。\n先就作者的方面说。文艺的创作决不是随便取许多文字来集合在一起。作者着手创作，必然对于人生先有所见，先有所感。他把这些所见所感写出来，不作抽象的分析，而作具体的描写，不作刻板的记载，而作想象的安排。他准备写的不是普通的论说文、记叙文；他准备写的是文艺。他动手写，不但选择那些最适当的文字，让它们集合起来，还要审查那些写了下来的文字，看有没有应当修改或是增减的。总之，作者想做到的是：写下来的文字正好传达出他的所见所感。\n现在就读者的方面说。读者看到的是写在纸面或者印在纸面的文字，但是看到文字并不是他们的目的。他们要通过文字去接触作者的所见所感。\n如果不识文字，那自然不必说了。即使识了文字，如果仅能按照字面解释，也接触不到作者的所见所感。王维的一首诗中有这样两句：\n大漠孤烟直，长河落日圆。\n大家认为佳句。如果单就字面解释，大漠上一缕孤烟是笔直的，长河背后一轮落日是圆圆的，这有什么意思呢？或者再提出疑问：大漠上也许有几处地方聚集着人，难道不会有几缕的炊烟吗？假使起了风，烟不就曲折了吗？落日固然是圆的，难道朝阳就不圆吗？这样地提问，似乎是在研究，在考察，可是也领会不到这两句诗的意思。要领会这两句诗，得睁开眼睛来看。看到的只是十个文字呀。不错，我该说得清楚一点儿：在想象中睁开眼睛来，看这十个文字所构成的一幅图画。这幅图画简单得很，景物只选四样，大漠、长河、孤烟、落日，传出北方旷远荒凉的印象。给“孤烟”加上个“直”字，见得没有一丝的风，当然也没有风声，于是更来了个静寂的印象。给“落日”加上个“圆”字，并不是说唯有“落日”才“圆”，而是说“落日”挂在地平线上的时候才见得“圆”。圆圆的一轮“落日”不声不响地衬托在“长河”的背后，这又是多么静寂的境界啊！一个“直”，一个“圆”，在图画方面说起来，都是简单的线条，和那旷远荒凉的大漠、长河、孤烟、落日正相配合，构成通体的一致。\n像这样驱遣着想象来看，这一幅图画就显现在眼前了，同时也就接触了作者的意境。读者也许是到过北方的，本来觉得北方的景物旷远、荒凉、静寂，使人怅然凝望。现在读到这两句，领会着作者的意境，宛如听一个朋友说着自己也正要说的话，这是一种愉快。读者也许不曾到过北方，不知道北方的景物是怎样的。现在读到这两句，领会着作者的意境，想象中的眼界就因而扩大了，并且想想这意境多美，这也是一种愉快。假如死盯着文字而不能从文字看出一幅图画来，就感受不到这种愉快了。\n上面说的不过是一个例子。这并不是说所有文艺作品都要看作一幅图画，才能够鉴赏。这一点必须弄清楚。\n再来看另一些诗句。这是从高尔基的《海燕》里摘录出来的。\n白蒙蒙的海面上，风在收集着阴云。在阴云和海的中间，得意扬扬地掠过了海燕……\n………\n海鸥在暴风雨前头哼着，――哼着，在海面上窜着，愿意把自己对于暴风雨的恐惧藏到海底里去。\n潜水鸟也在哼着――它们这些潜水鸟，够不上享受生活的战斗的快乐！轰击的雷声就把它们吓坏了。\n蠢笨的企鹅，畏缩地在崖岸底下躲藏着肥胖的身体……\n只有高傲的海燕，勇敢地，自由自在地，在泛着白沫的海面上飞掠着。\n……\n――暴风雨！暴风雨快要爆发了！\n勇猛的海燕，在闪电中间，在怒吼的海上，得意扬扬地飞掠着，这胜利的预言者叫了：\n――让暴风雨来得厉害些吧！\n如果单就字面解释，这些诗句说了一些鸟儿在暴风雨之前各自不同的情况，这有什么意思呢？或者进一步追问：当暴风雨将要到来的时候，人忧惧着生产方面的损失以及人事方面的阻障，不是更要感到不安吗？为什么抛开了人不说，却去说一些无关紧要的鸟儿？这样地问着，似乎是在研究，在考察，可是也领会不到这首诗的意思。\n要领会这首诗，得在想象中生出一对翅膀来，而且展开这对翅膀，跟着海燕“在闪电中间，在怒吼的海上，得意扬扬地飞掠着”。这当儿，就仿佛看见了聚集的阴云、耀眼的闪电，以及汹涌的波浪，就仿佛听见了震耳的雷声、怒号的海啸。同时仿佛体会到，一场暴风雨之后，天地将被洗刷得格外清明，那时候在那格外清明的天地之间飞翔，是一种无可比拟的舒适愉快。“暴风雨有什么可怕呢？迎上前去吧！教暴风雨快些来吧！让格外清明的天地快些出现吧！”这样的心情自然萌生出来了。回头来看看海鸥、潜水鸟、企鹅那些东西，它们苟安，怕事，只想躲避暴风雨，无异于不愿看见格外清明的天地。于是禁不住激昂地叫道：“让暴风雨来得厉害些吧！”\n像这样驱遣着想象来看，这才接触到作者的意境。那意境是什么呢？就是不避“生活的战斗”。唯有迎上前去，才够得上“享受生活的战斗的快乐”。读者也许是海鸥、潜水鸟、企鹅似的人物，现在接触到作者的意境，感到海燕的快乐，因而改取海燕的态度，这是一种受用。读者也许本来就是海燕似的人物，现在接触到作者的意境，仿佛听见同伴的高兴的歌唱，因而把自己的态度把握得更坚定，这也是一种受用。假如死盯着文字而不能从文字领会作者的意境，就无从得到这种受用了。\n我们鉴赏文艺，最大目的无非是接受美感的经验，得到人生的受用。要达到这个目的，不能够拘泥于文字。必须驱遣我们的想象，才能够通过文字，达到这个目的。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/8484d67bc18681702971483999860309/8484d67bc18681702971483999860309.m3u8?auth=0ce143c6eda30c79a8becdcf0cd53300",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533651.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "🐘"
-  },
-  {
-    "lesson_number": "第17课",
-    "title": "屈原（节选）",
-    "author": "安��",
-    "reader": "田龙等",
-    "content": "郭沫若\n东皇太一庙之正殿。与第二幕明堂相似，四柱三间，唯无帘幕。三间靠壁均有神像。中室正中东皇太一与云中君并坐，其前左右二侧山鬼与国殇立侍，右首东君骑黄马，左首河伯乘龙，均斜向。马首向左，龙首向右。左室为一龙船，船首向右，湘君坐船中吹笙，湘夫人立船尾摇橹。右室一片云彩之上现大司命与少司命。左右二室后壁靠外侧均有门，左者开放，右者掩闭。各室均有灯，光甚昏暗，室外雷电交加，时有大风咆哮。\n靳尚带卫士二人，各蒙面，诡谲地由右侧登场。\n靳      尚      (命卫士乙)你去叫太卜郑詹尹来见我。\n卫士乙      是。(向湘夫人神像左侧门走入。)\n俄顷，一瘦削而阴沉的老人，左手提灯，随卫士乙由左侧门入场。靳尚除去面罩，向郑詹尹走去。\n靳      尚      刚才我叫人送了一通南后的密令来，你收到了吗？\n郑詹尹    (鞠躬)收到了。上官大夫，我正想来见你啦。\n靳      尚      罪人怎样处置了？\n郑詹尹      还锁在这神殿后院的一间小屋子里面。\n靳      尚      你打算什么时候动手？\n郑詹尹      (迟疑地)上官大夫，我觉得有点儿为难。\n靳      尚      (惊异)什么？\n郑詹尹      屈原是有些名望的人，毒死了他，不会惹出乱子吗？\n靳      尚      哼，正是为了这样，所以非赶快毒死他不可啦！那家伙惯会收揽人心，把他囚在这里，都城里的人很多愤愤不平。再缓三两日，消息一传开了，会引起更大规模的骚动。待消息传到国外，还会引起关东诸国的非难。到那时你不放他吧，非难是难以平息的。你放他吧，增长了他的威风，更有损秦、楚两国的交谊。秦国已经允许割让的商於之地六百里，不用说，就永远得不到了。因此，非得在今晚趁早下手不可。你须得用毒酒毒死了他，然后放火焚烧大庙。今晚有大雷电，正好造个口实，说是着了雷火。这样，老百姓便只以为他是遭了天灾，一场大祸就可以消灭于无形了。\n郑詹尹      上官大夫，屈原不是不喝酒的吗？\n靳      尚      你可以想出方法来劝他。你要做出很宽大、很同情他的样子。不要老是把他锁在小屋子里。你可让他出来，走动走动。他戴着脚镣手铐，逃不了的。\n郑詹尹      (迟疑地)你们是不是有点儿小题大做呢？\n靳      尚      (含怒)你这是什么话？\n郑詹尹      我觉得你们把屈原又未免估计得过高。他其实只会做几首谈情说爱的山歌，时而说些哗众取宠的大话罢了，并没有什么大本领。只要你们不杀他，老百姓就不会闹乱子。何苦为了一个夸大的诗人，要烧毁这样一座庄严的东皇太一庙？我实在有点儿不了解。\n靳      尚      哈哈，你原来是在心疼你的这座破庙吗？这烧了有什么可惜？国王会给你重新造一座真正庄严的庙宇。好了，我不再和你多说了。你烧掉它，这是南后的意旨。你毒死他，这是南后的意旨。要快，就在今晚，不能再迟延。南后的脾气，你是知道的。你尽管是她的父亲，但如果不照着她的意旨办事，她可以大义灭亲，明天便把你一齐处死。(把面巾蒙上，向卫士)走！我们从小路赶回城去！\n靳尚与二卫士由左首下场。\n郑詹尹立在神殿中，沉默有间，最后下定了决心，向东君神像右侧门走入。俄顷，将屈原带出。\n郑詹尹      三闾大夫，请你在这神殿上走动走动，舒散一下筋骨吧。这儿的壁画，是你平常所喜欢的啦。我不奉陪了。\n屈原略略点头，郑詹尹走入左侧门。\n屈原手足已戴刑具，颈上并系有长链，仍着其白日所着之玄衣，披发，在殿中徘徊。因有脚镣，行步甚有限制，时而伫立睥睨，目中含有怒火。手有举动时，必两手同时举出。如无举动时，则拳曲于胸前。\n屈      原        (向风及雷电)风！你咆哮吧！咆哮吧！尽力地咆哮吧！在这暗无天日的时候，一切都睡着了，都沉在梦里，都死了的时候，正是应该你咆哮的时候，应该你尽力咆哮的时候！\n尽管你是怎样的咆哮，你也不能把他们从梦中叫醒，不能把死了的吹活转来，不能吹掉这比铁还沉重的眼前的黑暗，但你至少可以吹走一些灰尘，吹走一些沙石，至少可以吹动一些花草树木。你可以使那洞庭湖，使那长江，使那东海，为你翻波涌浪，和你一同地大声咆哮啊！\n啊，我思念那洞庭湖，我思念那长江，我思念那东海，那浩浩荡荡的无边无际的波澜呀！那浩浩荡荡的无边无际的伟大的力呀！那是自由，是跳舞，是音乐，是诗！\n啊，这宇宙中的伟大的诗！你们风，你们雷，你们电，你们在这黑暗中咆哮着的，闪耀着的一切的一切，你们都是诗，都是音乐，都是跳舞。你们宇宙中伟大的艺人们呀，尽量发挥你们的力量吧。发泄出无边无际的怒火，把这黑暗的宇宙，阴惨的宇宙，爆炸了吧！爆炸了吧！\n雷！你那轰隆隆的，是你车轮子滚动的声音？你把我载着拖到洞庭湖的边上去，拖到长江的边上去，拖到东海的边上去呀！我要看那滚滚的波涛，我要听那镗镗�O�O的咆哮，我要漂流到那没有阴谋、没有污秽、没有自私自利的没有人的小岛上去呀！我要和着你，和着你的声音，和着那茫茫的大海，一同跳进那没有边际的没有限制的自由里去！\n啊，电！你这宇宙中最犀利的剑呀！我的长剑是被人拔去了，但是你，你能拔去我有形的长剑，你不能拔去我无形的长剑呀。电，你这宇宙中的剑，也正是，我心中的剑。你劈吧，劈吧，劈吧！把这比铁还坚固的黑暗，劈开，劈开，劈开！虽然你劈它如同劈水一样，你抽掉了，它又合拢了来，但至少你能使那光明得到暂时的一瞬的显现，哦，那多么灿烂的、多么炫目的光明呀！\n光明呀，我景仰你，我景仰你，我要向你拜手，我要向你稽首。我知道，你的本身就是火，你，你这宇宙中的最伟大者呀，火！你在天边，你在眼前，你在我的四面，我知道你就是宇宙的生命，你就是我的生命，你就是我呀！我这熊熊地燃烧着的生命，我这快要使我全身炸裂的怒火，难道就不能迸射出光明了吗？\n炸裂呀，我的身体！炸裂呀，宇宙！让那赤条条的火滚动起来，像这风一样，像那海一样，滚动起来，把一切的有形，一切的污秽，烧毁了吧，烧毁了吧！把这包含着一切罪恶的黑暗烧毁了吧！\n把你这东皇太一烧毁了吧！把你这云中君烧毁了吧！你们这些土偶木梗，你们高坐在神位上有什么德能？你们只是产生黑暗的父亲和母亲！\n你，你东君，你是什么个东君？别人说你是太阳神，你，你坐在那马上丝毫也不能驰骋。你，你红着一个面孔，你也害羞吗？啊，你，你完全是一片假！你，你这土偶木梗，你这没心肝的，没灵魂的，我要把你烧毁，烧毁，烧毁你的一切，特别要烧毁你那匹马！你假如是有本领，就下来走走吧！\n什么个大司命，什么个少司命，你们的天大的本领就只有晓得播弄人！什么个湘君，什么个湘夫人，你们的天大的本领也就只晓得痛哭几声！哭，哭有什么用？眼泪，眼泪有什么用？顶多让你们哭出几笼湘妃竹吧！但那湘妃竹不是主人们用来打奴隶的刑具吗？你们滚下船来，你们滚下云头来，我都要把你们烧毁！烧毁！烧毁！\n哼，还有你这河伯……哦，你河伯！你，你是我最初的一个安慰者！我是看得很清楚的呀！当我被人们押着，押上了一个高坡，卫士们要息脚，我也就站立在高坡上，回头望着龙门。我是看得很清楚，很清楚的呀！我看见婵娟被人虐待，我看见你挺身而出，指天画地有所争论。结果，你是被人押进了龙门，婵娟她也被人押进了龙门。\n但是我，我没有眼泪。宇宙，宇宙也没有眼泪呀！眼泪有什么用啊？我们只有雷霆，只有闪电，只有风暴，我们没有拖泥带水的雨！这是我的意志，宇宙的意志。鼓动吧，风！咆哮吧，雷！闪耀吧，电！把一切沉睡在黑暗怀里的东西，毁灭，毁灭，毁灭呀！",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/b329a61b6f0e41702971741193970879/b329a61b6f0e41702971741193970879.m3u8?auth=64faef9bb8140a0c81630b3e0d01e795",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231225/t20231225_526533652.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第20课",
-    "title": "曹刿论战",
-    "author": "安��",
-    "reader": "忠诚",
-    "content": "《左传》\n十年春，齐师伐我。公将战，曹刿请见。其乡人曰：“肉食者谋之，又何间焉?”刿曰：“肉食者鄙，未能远谋。”乃入见。问：“何以战?”公曰：“衣食所安，弗敢专也，必以分人。”对曰：“小惠未遍，民弗从也。”公曰：“牺牲玉帛，弗敢加也，必以信。”对曰：“小信未孚，神弗福也。”公曰：“小大之狱，虽不能察，必以情。”对曰：“忠之属也。可以一战。战则请从。”\n公与之乘，战于长勺。公将鼓之。刿曰：“未可。”齐人三鼓。刿曰：“可矣。”齐师败绩。公将驰之。刿曰：“未可。”下视其辙，登轼而望之，曰：“可矣。”遂逐齐师。\n既克，公问其故。对曰：“夫战，勇气也。一鼓作气，再而衰，三而竭。彼竭我盈，故克之。夫大国，难测也，惧有伏焉。吾视其辙乱，望其旗靡，故逐之。”",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/047f765856ba91702976764008443297/047f765856ba91702976764008443297.m3u8?auth=4d1e4d13922e2353ac4f1b3e72789c93",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534485.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第21课",
-    "title": "邹忌讽齐王纳谏",
-    "author": "安��",
-    "reader": "于芳",
-    "content": "《战国策》\n邹忌修八尺有余，而形貌�i丽。朝服衣冠，窥镜，谓其妻曰：“我孰与城北徐公美？”其妻曰：“君美甚，徐公何能及君也？”城北徐公，齐国之美丽者也。忌不自信，而复问其妾曰：“吾孰与徐公美？”妾曰：“徐公何能及君也？”旦日，客从外来，与坐谈，问之客曰：“吾与徐公孰美？”客曰：“徐公不若君之美也。”明日徐公来，孰视之，自以为不如；窥镜而自视，又弗如远甚。暮寝而思之，曰：“吾妻之美我者，私我也；妾之美我者，畏我也；客之美我者，欲有求于我也。”\n于是入朝见威王，曰：“臣诚知不如徐公美。臣之妻私臣，臣之妾畏臣，臣之客欲有求于臣，皆以美于徐公。今齐地方千里，百二十城，宫妇左右莫不私王，朝廷之臣莫不畏王，四境之内莫不有求于王；由此观之，王之蔽甚矣。”\n王曰：“善。”乃下令：“群臣吏民能面刺寡人之过者，受上赏；上书谏寡人者，受中赏；能谤讥于市朝，闻寡人之耳者，受下赏。”令初下，群臣进谏，门庭若市；数月之后，时时而间进；期年之后，虽欲言，无可进者。燕、赵、韩、魏闻之，皆朝于齐。此所谓战胜于朝廷。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/97b36cf6a02de1702976933955960595/97b36cf6a02de1702976933955960595.m3u8?auth=d2a6706c9bef3c799ccba23672022255",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534487.html",
-    "grade": "1",
-    "semester": "2",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第23课",
-    "title": "出师表",
-    "author": "安��",
-    "reader": "雅坤",
-    "content": "诸葛亮\n先帝创业未半而中道崩阻，今天下三分，益州疲弊，此诚危急存亡之秋也。然侍卫之臣不懈于内，忠志之士忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气，不宜妄自菲薄，引喻失义，以塞忠谏之路也。\n宫中府中，俱为一体，陟罚臧否，不宜异同。若有作奸犯科及为忠善者，宜付有司论其刑赏，以昭陛下平明之理，不宜偏私，使内外异法也。侍中、侍郎郭攸之、费�t、董允等，此皆良实，志虑忠纯，是以先帝简拔以遗陛下。愚以为宫中之事，事无大小，悉以咨之，然后施行，必能裨补阙漏，有所广益。\n将军向宠，性行淑均，晓畅军事，试用于昔日，先帝称之曰能，是以众议举宠为督。愚以为营中之事，悉以咨之，必能使行阵和睦，优劣得所。\n亲贤臣，远小人，此先汉所以兴隆也；亲小人，远贤臣，此后汉所以倾颓也。先帝在时，每与臣论此事，未尝不叹息痛恨于桓、灵也。侍中、尚书、长史、参军，此悉贞良死节之臣，愿陛下亲之信之，则汉室之隆，可计日而待也。\n臣本布衣，躬耕于南阳，苟全性命于乱世，不求闻达于诸侯。先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中，咨臣以当世之事，由是感激，遂许先帝以驱驰。后值倾覆，受任于败军之际，奉命于危难之间，尔来二十有一年矣。\n先帝知臣谨慎，故临崩寄臣以大事也。受命以来，夙夜忧叹，恐托付不效，以伤先帝之明，故五月渡泸，深入不毛。今南方已定，兵甲已足，当奖率三军，北定中原，庶竭驽钝，攘除奸凶，兴复汉室，还于旧都。此臣所以报先帝而忠陛下之职分也。至于斟酌损益，进尽忠言，则攸之、�t、允之任也。\n愿陛下托臣以讨贼兴复之效；不效，则治臣之罪，以告先帝之灵。若无兴德之言，则责攸之、�t、允等之慢，以彰其咎。陛下亦宜自谋，以咨诹善道，察纳雅言，深追先帝遗诏。臣不胜受恩感激。今当远离，临表涕零，不知所言。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/4e80600e3baba1702977747108297890/4e80600e3baba1702977747108297890.m3u8?auth=d1debd5103584ad0b8afe08866c4c91a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534490.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "⌚"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "十五从军征",
-    "author": "安��",
-    "reader": "贺红梅",
-    "content": "十五从军征\n十五从军征，八十始得归。\n道逢乡里人：“家中有阿谁？”\n“遥看是君家，松柏冢累累。”\n兔从狗窦入，雉从梁上飞。\n中庭生旅谷，井上生旅葵。\n舂谷持作饭，采葵持作羹。\n羹饭一时熟，不知贻阿谁。\n出门东向看，泪落沾我衣。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/6b7e9810a3da11702978144371810809/6b7e9810a3da11702978144371810809.m3u8?auth=4f4b88988bee351cfade85bd857bcb68",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534491.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "5️⃣"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "白雪歌送武判官归京",
-    "author": "安��",
-    "reader": "潘涛",
-    "content": "白雪歌送武判官归京\n岑参\n北风卷地白草折，胡天八月即飞雪。\n忽如一夜春风来，千树万树梨花开。\n散入珠帘湿罗幕，狐裘不暖锦衾薄。\n将军角弓不得控，都护铁衣冷难着。\n瀚海阑干百丈冰，愁云惨淡万里凝。\n中军置酒饮归客，胡琴琵琶与羌笛。\n纷纷暮雪下辕门，风掣红旗冻不翻。\n轮台东门送君去，去时雪满天山路。\n山回路转不见君，雪上空留马行处。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/9bf0dcbb97a6c170298058609171887/9bf0dcbb97a6c170298058609171887.m3u8?auth=2edaa79923529b1f94a8a7a74bed268e",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534492.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "❄️"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "南乡子・登京口北固亭有怀",
-    "author": "安��",
-    "reader": "梁艳",
-    "content": "南乡子・登京口北固亭有怀\n辛弃疾\n何处望神州？满眼风光北固楼。千古兴亡多少事？悠悠。不尽长江滚滚流。\n年少万兜鍪，坐断东南战未休。天下英雄谁敌手？曹刘。生子当如孙仲谋。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/ccbc9b157db9d1702980780606695462/ccbc9b157db9d1702980780606695462.m3u8?auth=520b0944ffdebc88cdcce4fe827aa0fe",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534493.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "过零丁洋",
-    "author": "安��",
-    "reader": "贾际",
-    "content": "过零丁洋\n文天祥\n辛苦遭逢起一经，干戈寥落四周星。\n山河破碎风飘絮，身世浮沉雨打萍。\n惶恐滩头说惶恐，零丁洋里叹零丁。\n人生自古谁无死？留取丹心照汗青。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/828b22b2dbe16170298097137391975/828b22b2dbe16170298097137391975.m3u8?auth=8ce4b76c96c455a72c01852d493e81e8",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526535247.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第24课",
-    "title": "山坡羊・潼关怀古",
-    "author": "安��",
-    "reader": "宝晓峰",
-    "content": "山坡羊・潼关怀古\n张养浩\n峰峦如聚，波涛如怒，山河表里潼关路。望西都，意踌躇。伤心秦汉经行处，宫阙万间都做了土。兴，百姓苦；亡，百姓苦！",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/78c0c36f35191702981255219255049/78c0c36f35191702981255219255049.m3u8?auth=80240ed22cb90d9d52ecbd45681a6d9c",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534494.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "南安军",
-    "author": "安��",
-    "reader": "王世林",
-    "content": "南安军\n文天祥\n梅花南北路，风雨湿征衣。\n出岭同谁出？归乡如此归！\n山河千古在，城郭一时非。\n饿死真吾志，梦中行采薇。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/aec2ddf61f2771702981452307398733/aec2ddf61f2771702981452307398733.m3u8?auth=9e5c169817b5d5507addb88861fb2453",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534496.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "别云间",
-    "author": "安��",
-    "reader": "于芳",
-    "content": "别云间\n夏完淳\n三年羁旅客，今日又南冠。\n无限山河泪，谁言天地宽？\n已知泉路近，欲别故乡难。\n毅魄归来日，灵旗空际看。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/f5e8958c802061702981651749288181/f5e8958c802061702981651749288181.m3u8?auth=451f9d64a2ce047069b93a14071c991b",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534497.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "☁️"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "山坡羊・骊山怀古",
-    "author": "安��",
-    "reader": "贾际",
-    "content": "山坡羊・骊山怀古\n张养浩\n骊山四顾，阿房一炬，当时奢侈今何处？只见草萧疏，水萦纡。至今遗恨迷烟树。列国周齐秦汉楚。赢，都变做了土；输，都变做了土。",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/4467fed4d1b941702981802716763766/4467fed4d1b941702981802716763766.m3u8?auth=59fe043de97f1cfc3b7ac35510e06e98",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534498.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "⛰️"
-  },
-  {
-    "lesson_number": "课外古诗词",
-    "title": "朝天子・咏喇叭",
-    "author": "安��",
-    "reader": "雅坤",
-    "content": "朝天子・咏喇叭\n王磐\n喇叭，唢呐，曲儿小腔儿大。官船来往乱如麻，全仗你抬声价。军听了军愁，民听了民怕。哪里去辨甚么真共假？眼见的吹翻了这家，吹伤了那家，只吹的水尽鹅飞罢！",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/42d311911a39c1702982005620286616/42d311911a39c1702982005620286616.m3u8?auth=ae503045e1f5bcc7fea6ffd3bdf6aaf1",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534500.html",
-    "grade": "",
-    "semester": "",
-    "emoji": "🌤️"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "日",
-    "author": "安��",
-    "reader": "陈智鹏",
-    "content": "巴金\n为着追求光和热，将身子扑向灯火，终于死在灯下，或者浸在油中，飞蛾是值得赞美的。在最后的一瞬间它得到光，也得到热了。\n我怀念上古的夸父，他追赶日影，渴死在�D谷。\n为着追求光和热，人宁愿舍弃自己的生命。生命是可爱的。但寒冷的、寂寞的生，却不如轰轰烈烈的死。\n没有了光和热，这人间不是会成为黑暗的寒冷世界吗?\n倘使有一双翅膀，我甘愿做人间的飞蛾。我要飞向火热的日球，让我在眼前一阵光、身内一阵热的当儿，失去知觉，而化作一阵烟，一撮灰。\n1941年7月21日",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/9c79f5acea1b41702982453527812666/9c79f5acea1b41702982453527812666.m3u8?auth=09b51299d89ec17a191d12320f52786d",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534502.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📖"
-  },
-  {
-    "lesson_number": "第4课",
-    "title": "月",
-    "author": "安��",
-    "reader": "肖玉",
-    "content": "巴金\n每次对着长空的一轮皓月，我会想：在这时候某某人也在凭栏望月吗?\n圆月有如一面明镜，高悬在蓝空。我们的面影都该留在镜里吧，这镜里一定有某某人的影子。\n寒夜对镜，只觉冷光扑面。面对凉月，我也有这感觉。\n在海上，山间，园内，街中，有时在静夜里一个人立在都市的高高露台上，我望着明月，总感到寒光冷气侵入我的身子。冬季的深夜，立在小小庭院中望见落了霜的地上的月色，觉得自己衣服上也积了很厚的霜似的。\n的确，月光冷得很。我知道死了的星球是不会发出热力的。月的光是死的光。\n但是为什么还有��娥奔月的传说呢?难道那个服了不死之药的美女便可以使这已死的星球再生吗?或者她在那一面明镜中看见了什么人的面影吧。\n1941年7月22日\n(选自《巴金选集》，四川文艺出版社2014年版)",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/788932daebdb81702982611777602492/788932daebdb81702982611777602492.m3u8?auth=bfbe66016607cfab11c0da7536ce5c1a",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534503.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌙"
-  },
-  {
-    "lesson_number": "第6课",
-    "title": "习近平《坚持实事求是的思想路线――在中央党校2012年春季学期第二批入学学员开学典礼上的讲话》（节选）",
-    "author": "安��",
-    "reader": "方亮",
-    "content": "《古文辑要》上记载了这样一个故事：初唐名臣裴矩在隋朝做官时，曾经阿谀逢迎，溜须拍马，想方设法满足隋炀帝的要求；可到了唐朝，他却一反故态，敢于当面跟唐太宗争论，成了忠直敢谏的诤臣。司马光就此评论说：“裴矩佞于隋而诤于唐，非其性之有变也。君恶闻其过，则诤化为佞；君乐闻其过，则佞化为诤。”这个故事告诉我们，人们只有在那些愿意听真话、能够听真话的人面前，才敢于讲真话，愿意讲真话，乐于讲真话。我们的领导干部一定要本着“言者无罪，闻者足戒”的原则，欢迎和鼓励别人讲真话。\n――习近平《坚持实事求是的思想路线――在中央党校2012年春季学期第二批入学学员开学典礼上的讲话》",
-    "audio_url": "https://mediastorage.cnr.cn/vmark/video/cnr/CNRCDP/2023/1219/f14c7ba8237921702982783211597041/f14c7ba8237921702982783211597041.m3u8?auth=f9aadad3963987101f2d3aa7fb777029",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534504.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "🌸"
-  },
-  {
-    "lesson_number": "第9课",
-    "title": "关于国文的学习（节选）",
-    "author": "安��",
-    "reader": "忠诚",
-    "content": "理解又可分两方面来说。(1)关于词句的；(2)关于全文的。关于词句的理解，不外乎从词义的解释入手，次之是文法知识的运用。词义的解释如不正确，不但读不通眼前的文字，结果还会于写作时露出毛病。……词义的解释正确了，逐句的文句已可通解了，那么就可说能理解全文了吗?尚未。文字的理解，最要紧的是捕捉大意或要旨，否则逐句虽已理解，对于全文仍难免有不得要领之弊。一篇文字，全体必有一个中心思想，每节每段也必有一个要旨。文字虽有几千字或几万字，其中全文中心思想与每节、每段的要旨，却是可以用一句话或几个字来包括的。阅读的人如不能抽出这潜藏在文字背后的真意，只就每句的文字表面支离求解，结果每句是懂了，而全文的真意所在仍是茫然。\n――夏�D尊《关于国文的学习》",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/a58aa258808521702982996793937950/a58aa258808521702982996793937950.m3u8?auth=84103ab1f1c6b045bbb01ad690d6b548",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534506.html",
-    "grade": "1",
-    "semester": "1",
-    "emoji": "📚"
-  },
-  {
-    "lesson_number": "第17课",
-    "title": "屈原（剧情梗概）",
-    "author": "安��",
-    "reader": "田龙",
-    "content": "《屈原》全剧分五幕，虽然只写屈原一天的生活经历，却具有高度的概括性。\n第一幕，屈原清晨漫步橘园，吟诵《橘颂》，抒发爱国忧民、报效祖国的壮志豪情，并把诗赠予学生宋玉，教育他好好做人。这时秦国丞相张仪与楚怀王的宠姬南后郑袖内外勾结，一场分裂和出卖楚国的阴谋正在酝酿之中。\n第二幕，郑袖伙同楚怀王侍臣靳尚，设计诬陷屈原“调戏”郑袖，致使楚怀王大怒，将屈原免职。张仪乘机阿谀郑袖，讨好楚怀王，促使楚与齐断交，与秦结好。奸佞阴谋得逞，楚国陷入危亡之中。\n第三幕，由于靳尚等人的谎言欺骗，群众不明真相，以为屈原真“疯了”，宋玉也攀附权贵而去，只有侍女和弟子婵娟对屈原的品格笃信不移。屈原在群众的招魂声中愤然出走。\n第四幕，屈原行吟河畔，巧遇为其辩诬者。接着他又遇到楚怀王、郑袖、张仪等人，再遭侮辱。屈原揭穿郑袖的阴谋，怒斥张仪，遭监禁。婵娟亦因之被囚。\n第五幕，屈原被囚禁在东皇太一庙，含冤被屈，悲愤填膺，在雷电风雨交加的夜晚创作风、雷、电的颂歌。婵娟逃脱囚禁来见屈原，误饮靳尚暗害屈原的毒酒而身亡。屈原与前来救助他的卫士一起出走，潜往汉北。全剧在哀悼婵娟的《礼魂》歌声中结束。",
-    "audio_url": "https://mediastorage.cnr.cn/record/video/cnr/CNRCDP/2023/1219/ab2c20bb6f6321702983092655540155/ab2c20bb6f6321702983092655540155.m3u8?auth=556a77080f586a7ec5081ada02045718",
-    "detail_url": "https://www.cnr.cn/jy/eduzt/ywkwsfsd/jdld/jnjxc/20231226/t20231226_526534508.html",
-    "grade": "2",
-    "semester": "1",
-    "emoji": "📖"
+    "emoji": "🏛️"
   }
 ]; module.exports = articlesData;

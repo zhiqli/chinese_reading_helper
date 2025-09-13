@@ -1,18 +1,19 @@
 <!--index.wxml-->
-<navigation-bar title="课文朗读助手" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<navigation-bar title="朗朗书声 声声入耳" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 
 <view class="container">
   <!-- 选项卡 -->
   <view class="tabs">
     <view class="tab {{currentTab === 'chinese' ? 'active' : ''}}" bindtap="switchTab" data-tab="chinese">
       <text class="tab-icon">📖</text>
-      <text class="tab-text">语文朗读</text>
+      <text class="tab-text">语文</text>
     </view>
     <view class="tab {{currentTab === 'english' ? 'active' : ''}}" bindtap="switchTab" data-tab="english">
       <text class="tab-icon">🔤</text>
-      <text class="tab-text">英语朗读</text>
+      <text class="tab-text">英语</text>
     </view>
   </view>
+
 
   <!-- 语文板块 -->
   <view class="tab-content" wx:if="{{currentTab === 'chinese'}}">
@@ -42,7 +43,7 @@
             </view>
           </view>
           <view class="article-controls">
-            <view class="play-btn" bindtap="playAudio" data-index="{{index}}" catchtap="playAudio">
+            <view class="play-btn" catchtap="playAudio" data-index="{{index}}">
               <text class="play-icon">▶</text>
               <text class="play-text">播放</text>
             </view>
@@ -55,7 +56,18 @@
   <!-- 英语板块 -->
   <view class="tab-content" wx:if="{{currentTab === 'english'}}">
     <view class="coming-soon">
-      <text>英语板块开发中...</text>
+      <text>开发中...</text>
     </view>
   </view>
+
+  <!-- 底部播放条 -->
+  <audio-player 
+    id="audioPlayer"
+    currentTrack="{{currentTrack}}"
+    isPlaying="{{isPlaying}}"
+    progress="{{progress}}"
+    currentTime="{{currentTime}}"
+    duration="{{duration}}"
+    bind:toggleplay="onTogglePlay"
+  />
 </view>

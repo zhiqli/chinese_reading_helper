@@ -1,6 +1,22 @@
 // app.ts
+interface IAppOption {
+  globalData: {
+    audioManager: any;
+    currentTrack: any;
+    isPlaying: boolean;
+    playlist: any[];
+    currentIndex: number;
+  }
+}
+
 App<IAppOption>({
-  globalData: {},
+  globalData: {
+    audioManager: null,
+    currentTrack: null,
+    isPlaying: false,
+    playlist: [],
+    currentIndex: -1
+  },
   onLaunch() {
     // 初始化云开发
     if (wx.cloud) {

@@ -8,6 +8,8 @@
     "navigationBarTextStyle": "black",
     "navigationStyle": "custom"
   },
+  "requiredBackgroundModes": ["audio"],
+  "shareTimeline": {},
   "style": "v2",
   "rendererOptions": {
     "skyline": {

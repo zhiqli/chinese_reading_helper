@@ -1,4 +1,5 @@
 // index.ts
+console.log('=== index.ts 文件加载 ===');
 // 获取应用实例
 const app = getApp<IAppOption>()
 
@@ -28,6 +29,8 @@ interface DisplayArticle {
   author: string;
   reader: string;
   detailUrl: string;
+  grade: string;
+  semester: string;
 }
 
 
@@ -42,7 +45,28 @@ function generateColor(index: number): { color: string, darkColor: string } {
     { color: '#E91E63', darkColor: '#C2185B' },
     { color: '#607D8B', darkColor: '#455A64' },
     { color: '#795548', darkColor: '#3E2723' },
-    { color: '#009688', darkColor: '#004D40' }
+    { color: '#009688', darkColor: '#004D40' },
+    { color: '#FF5722', darkColor: '#D84315' },
+    { color: '#673AB7', darkColor: '#4527A0' },
+    { color: '#3F51B5', darkColor: '#283593' },
+    { color: '#00BCD4', darkColor: '#00838F' },
+    { color: '#8BC34A', darkColor: '#558B2F' },
+    { color: '#FFC107', darkColor: '#FF8F00' },
+    { color: '#CDDC39', darkColor: '#9E9D24' },
+    { color: '#FFEB3B', darkColor: '#FBC02D' },
+    { color: '#9E9E9E', darkColor: '#616161' },
+    { color: '#607D8B', darkColor: '#37474F' },
+    { color: '#F44336', darkColor: '#C62828' },
+    { color: '#E57373', darkColor: '#C62828' },
+    { color: '#BA68C8', darkColor: '#8E24AA' },
+    { color: '#7986CB', darkColor: '#3949AB' },
+    { color: '#4FC3F7', darkColor: '#0288D1' },
+    { color: '#4DB6AC', darkColor: '#00695C' },
+    { color: '#AED581', darkColor: '#689F38' },
+    { color: '#FFD54F', darkColor: '#F9A825' },
+    { color: '#FFB74D', darkColor: '#F57C00' },
+    { color: '#A1887F', darkColor: '#4E342E' },
+    { color: '#90A4AE', darkColor: '#546E7A' }
   ]
   return colors[index % colors.length]
 }
@@ -55,7 +79,12 @@ Component({
     gradeIndex: 0, // 默认一年级
     semesterIndex: 0, // 默认上学期
     articles: [] as DisplayArticle[],
-    allArticles: [] as Article[] // 存储所有文章数据
+    allArticles: [] as Article[], // 存储所有文章数据
+    currentTrack: null,
+    isPlaying: false,
+    progress: 0,
+    currentTime: 0,
+    duration: 0
   },
 
   lifetimes: {
@@ -67,11 +96,52 @@ Component({
       setTimeout(() => {
         console.log('延迟后的数据状态:', this.data);
         this.loadArticlesData();
+        
+        // 检查是否有上次播放的记录，如果有则恢复播放
+        this.restorePlayback();
       }, 100);
+      
+      // 启用分享功能
+      this.enableSharing();
     }
   },
 
+  // 分享给好友
+  onShareAppMessage() {
+    return {
+      title: '朗朗书声 - 中小学语文课文朗读',
+      path: '/pages/index/index',
+      imageUrl: 'https://mmbiz.qpic.cn/mmbiz_png/4MBNKq9XibX6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X/0?wx_fmt=png'
+    };
+  },
+
+
   methods: {
+    // 启用分享功能
+    enableSharing() {
+      // 启用转发给朋友
+      wx.showShareMenu({
+        withShareTicket: true,
+        menus: ['shareAppMessage', 'shareTimeline']
+      });
+      
+      // 单独启用分享到朋友圈
+      if (wx.enableShareTimeline) {
+        wx.enableShareTimeline();
+      }
+      
+      console.log('分享功能已启用');
+    },
+
+    // 分享到朋友圈
+    onShareTimeline() {
+      return {
+        title: '朗朗书声 - 中小学语文课文朗读',
+        query: '',
+        imageUrl: 'https://mmbiz.qpic.cn/mmbiz_png/4MBNKq9XibX6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X6bJf5f5v8X2X/0?wx_fmt=png'
+      };
+    },
+
     // 切换标签页
     switchTab(e: any) {
       const tab = e.currentTarget.dataset.tab;
@@ -168,12 +238,6 @@ Component({
         targetSemester,
         totalArticles: allArticles.length
       });
-      
-      // 调试：打印所有文章的年级和学期
-      console.log('所有文章的年级学期分布:');
-      allArticles.forEach((article, index) => {
-        console.log(`  ${index}: ${article.title} - 年级:${article.grade}, 学期:${article.semester}`);
-      });
 
       // 先看看有哪些年级和学期的组合
       const gradesSemesters: Record<string, number> = {};
@@ -212,7 +276,9 @@ Component({
             lessonNumber: article.lesson_number,
             author: article.author,
             reader: article.reader,
-            detailUrl: article.detail_url
+            detailUrl: article.detail_url,
+            grade: article.grade,
+            semester: article.semester
           };
         });
 
@@ -229,6 +295,16 @@ Component({
       const index = e.currentTarget.dataset.index;
       const article = this.data.articles[index];
       
+      console.log('跳转详情页 - 文章信息:', {
+        title: article.fullTitle,
+        hasAudio: !!article.audio,
+        audio: article.audio,
+        audioLength: article.audio ? article.audio.length : 0
+      });
+      
+      // 停止外部播放
+      this.stopExternalPlayback();
+      
       wx.navigateTo({
         url: `/pages/detail/detail?title=${encodeURIComponent(article.fullTitle)}&content=${encodeURIComponent(article.content)}&author=${encodeURIComponent(article.author)}&lessonNumber=${encodeURIComponent(article.lessonNumber)}&audio=${encodeURIComponent(article.audio || '')}`
       });
@@ -242,46 +318,26 @@ Component({
       if (article.audio) {
         console.log('播放音频:', article.audio);
         
-        // 先尝试使用 innerAudioContext
-        const audioContext = wx.createInnerAudioContext();
-        audioContext.src = article.audio;
-        audioContext.autoplay = true;
+        // 设置全局播放列表和当前播放项
+        const app = getApp<IAppOption>();
+        app.globalData.playlist = this.data.articles;
+        app.globalData.currentIndex = index;
+        app.globalData.currentTrack = {
+          title: article.fullTitle,
+          author: article.author,
+          audio: article.audio
+        };
+        
+        // 初始化音频管理器
+        this.initAudioManager();
+        
+        // 开始播放
+        this.startPlayback();
         
         wx.showToast({
           title: `播放: ${article.title}`,
           icon: 'success',
           duration: 1500
-        });
-        
-        // 监听播放成功
-        audioContext.onPlay(() => {
-          console.log('音频开始播放');
-        });
-        
-        // 监听播放错误，如果失败则尝试背景音频管理器
-        audioContext.onError((error) => {
-          console.error('innerAudio播放错误:', error);
-          console.log('尝试使用背景音频管理器');
-          
-          // 尝试使用背景音频管理器
-          const backgroundAudioManager = wx.getBackgroundAudioManager();
-          backgroundAudioManager.title = article.fullTitle || '课文朗读';
-          backgroundAudioManager.singer = article.author || '未知';
-          backgroundAudioManager.src = article.audio;
-          
-          backgroundAudioManager.onError((bgError) => {
-            console.error('背景音频播放错误:', bgError);
-            wx.showToast({
-              title: '播放失败，请检查网络',
-              icon: 'none',
-              duration: 2000
-            });
-          });
-        });
-        
-        // 播放结束时销毁上下文
-        audioContext.onEnded(() => {
-          audioContext.destroy();
         });
         
       } else {
@@ -290,6 +346,283 @@ Component({
           icon: 'none',
           duration: 2000
         });
+      }
+    },
+
+    // 初始化音频管理器
+    initAudioManager() {
+      const app = getApp<IAppOption>();
+      
+      if (!app.globalData.audioManager) {
+        app.globalData.audioManager = wx.createInnerAudioContext();
+        
+        // 设置音频播放选项 - 忽略静音开关
+        wx.setInnerAudioOption({
+          obeyMuteSwitch: false
+        });
+        
+        // 设置音频播放参数
+        app.globalData.audioManager.volume = 1.0; // 最大音量
+        
+        // 监听播放结束事件，实现连续播放
+        app.globalData.audioManager.onEnded(() => {
+          // 保存最终播放状态
+          this.savePlaybackState();
+          this.playNext();
+        });
+        
+        // 监听播放错误
+        app.globalData.audioManager.onError((error: any) => {
+          console.error('音频播放错误:', error);
+          wx.showToast({
+            title: '播放失败',
+            icon: 'none',
+            duration: 2000
+          });
+        });
+        
+        // 监听播放开始
+        app.globalData.audioManager.onPlay(() => {
+          console.log('音频开始播放');
+        });
+        
+        // 监听播放暂停
+        app.globalData.audioManager.onPause(() => {
+          console.log('音频暂停');
+        });
+        
+        // 监听时间更新
+        app.globalData.audioManager.onTimeUpdate(() => {
+          const currentTime = app.globalData.audioManager.currentTime;
+          const duration = app.globalData.audioManager.duration;
+          const progress = duration > 0 ? (currentTime / duration) * 100 : 0;
+          this.setData({
+            currentTime,
+            duration,
+            progress
+          });
+          
+          // 更新音频播放器组件
+          const audioPlayer = this.selectComponent('#audioPlayer');
+          if (audioPlayer) {
+            audioPlayer.updateTime(currentTime, duration);
+            audioPlayer.updateProgress(progress);
+          }
+          
+          // 定期保存播放状态
+          this.savePlaybackState();
+        });
+      }
+    },
+
+    // 开始播放
+    startPlayback() {
+      const app = getApp<IAppOption>();
+      const currentTrack = app.globalData.currentTrack;
+      
+      if (currentTrack && currentTrack.audio) {
+        // 检查音频格式
+        const isM3u8 = currentTrack.audio.includes('.m3u8');
+        
+        if (isM3u8) {
+          // HLS格式，使用背景音频管理器
+          this.playHlsAudio(currentTrack);
+        } else {
+          // 普通音频格式
+          app.globalData.audioManager.src = currentTrack.audio;
+          app.globalData.audioManager.autoplay = true;
+          app.globalData.isPlaying = true;
+          
+          // 更新页面状态
+          this.setData({
+            currentTrack: app.globalData.currentTrack,
+            isPlaying: true,
+            progress: 0
+          });
+          
+          // 显示播放条
+          const audioPlayer = this.selectComponent('#audioPlayer');
+          if (audioPlayer) {
+            audioPlayer.show();
+          }
+        }
+      }
+    },
+
+    // 播放HLS格式音频
+    playHlsAudio(track: any) {
+      const app = getApp<IAppOption>();
+      
+      // 使用背景音频管理器播放HLS
+      const backgroundAudioManager = wx.getBackgroundAudioManager();
+      backgroundAudioManager.title = track.title || '课文朗读';
+      backgroundAudioManager.singer = track.author || '未知';
+      backgroundAudioManager.src = track.audio;
+      backgroundAudioManager.volume = 1.0;
+      
+      app.globalData.isPlaying = true;
+      
+      // 更新页面状态
+      this.setData({
+        currentTrack: track,
+        isPlaying: true,
+        progress: 0
+      });
+      
+      // 显示播放条
+      const audioPlayer = this.selectComponent('#audioPlayer');
+      if (audioPlayer) {
+        audioPlayer.show();
+      }
+      
+      // 监听播放错误
+      backgroundAudioManager.onError((error: any) => {
+        console.error('HLS播放错误:', error);
+        wx.showToast({
+          title: 'HLS格式播放失败',
+          icon: 'none',
+          duration: 2000
+        });
+        
+        app.globalData.isPlaying = false;
+        this.setData({
+          isPlaying: false
+        });
+      });
+    },
+
+    // 播放下一首
+    playNext() {
+      const app = getApp<IAppOption>();
+      const { playlist, currentIndex } = app.globalData;
+      
+      if (playlist.length > 0 && currentIndex < playlist.length - 1) {
+        const nextIndex = currentIndex + 1;
+        const nextArticle = playlist[nextIndex];
+        
+        app.globalData.currentIndex = nextIndex;
+        app.globalData.currentTrack = {
+          title: nextArticle.fullTitle,
+          author: nextArticle.author,
+          audio: nextArticle.audio
+        };
+        
+        // 更新页面状态
+        this.setData({
+          currentTrack: app.globalData.currentTrack,
+          progress: 0
+        });
+        
+        this.startPlayback();
+        
+        wx.showToast({
+          title: `下一首: ${nextArticle.title}`,
+          icon: 'none',
+          duration: 1500
+        });
+      } else {
+        // 播放列表结束
+        app.globalData.isPlaying = false;
+        this.setData({
+          isPlaying: false
+        });
+        
+        // 停止所有音频播放
+        try {
+          app.globalData.audioManager.stop();
+          const backgroundAudioManager = wx.getBackgroundAudioManager();
+          backgroundAudioManager.stop();
+        } catch (error) {
+          console.log('停止音频播放时出错:', error);
+        }
+        
+        // 隐藏播放条
+        const audioPlayer = this.selectComponent('#audioPlayer');
+        if (audioPlayer) {
+          audioPlayer.hide();
+        }
+      }
+    },
+
+    // 暂停/继续播放
+    togglePlayback() {
+      const app = getApp<IAppOption>();
+      const currentTrack = app.globalData.currentTrack;
+      
+      if (!currentTrack || !currentTrack.audio) return;
+      
+      const isM3u8 = currentTrack.audio.includes('.m3u8');
+      
+      if (isM3u8) {
+        // HLS格式使用背景音频管理器
+        const backgroundAudioManager = wx.getBackgroundAudioManager();
+        
+        if (app.globalData.isPlaying) {
+          backgroundAudioManager.pause();
+          app.globalData.isPlaying = false;
+        } else {
+          backgroundAudioManager.play();
+          app.globalData.isPlaying = true;
+        }
+      } else {
+        // 普通音频格式 - 确保音频管理器已初始化
+        if (!app.globalData.audioManager) {
+          this.initAudioManager();
+        }
+        
+        if (app.globalData.isPlaying) {
+          app.globalData.audioManager.pause();
+          app.globalData.isPlaying = false;
+        } else {
+          app.globalData.audioManager.play();
+          app.globalData.isPlaying = true;
+        }
+      }
+      
+      // 更新页面状态
+      this.setData({
+        isPlaying: app.globalData.isPlaying
+      });
+    },
+
+    // 播放条点击事件
+    onTogglePlay() {
+      this.togglePlayback();
+    },
+
+    // 更新播放进度
+    updateProgress(progress: number) {
+      this.setData({ progress });
+    },
+
+    // 停止外部播放
+    stopExternalPlayback() {
+      const app = getApp<IAppOption>();
+      
+      // 停止所有音频播放
+      try {
+        if (app.globalData.audioManager) {
+          app.globalData.audioManager.stop();
+          app.globalData.audioManager = null;
+        }
+        
+        const backgroundAudioManager = wx.getBackgroundAudioManager();
+        backgroundAudioManager.stop();
+        
+        app.globalData.isPlaying = false;
+        this.setData({
+          isPlaying: false
+        });
+        
+        // 隐藏播放条
+        const audioPlayer = this.selectComponent('#audioPlayer');
+        if (audioPlayer) {
+          audioPlayer.hide();
+        }
+        
+        console.log('已停止外部播放');
+      } catch (error) {
+        console.error('停止外部播放时出错:', error);
       }
     },
 
@@ -339,6 +672,83 @@ Component({
         });
       }
     },
+
+    // 恢复上次播放状态
+    restorePlayback() {
+      const app = getApp<IAppOption>();
+      
+      try {
+        // 从本地存储加载播放状态
+        const playbackState = wx.getStorageSync('playbackState');
+        
+        if (playbackState && playbackState.currentTrack && playbackState.currentTrack.audio) {
+          console.log('恢复上次播放状态:', playbackState);
+          
+          // 恢复全局播放状态
+          app.globalData.currentTrack = playbackState.currentTrack;
+          app.globalData.currentIndex = playbackState.currentIndex;
+          app.globalData.playlist = playbackState.playlist;
+          app.globalData.isPlaying = false; // 先暂停状态，等待用户操作
+          
+          // 初始化音频管理器并设置音频源
+          this.initAudioManager();
+          if (app.globalData.audioManager && playbackState.currentTrack.audio) {
+            app.globalData.audioManager.src = playbackState.currentTrack.audio;
+            // 设置播放位置
+            app.globalData.audioManager.startTime = playbackState.currentTime || 0;
+          }
+          
+          // 更新页面状态，显示播放条
+          this.setData({
+            currentTrack: playbackState.currentTrack,
+            isPlaying: false,
+            progress: playbackState.progress || 0,
+            currentTime: playbackState.currentTime || 0,
+            duration: playbackState.duration || 0
+          });
+          
+          // 显示播放条
+          const audioPlayer = this.selectComponent('#audioPlayer');
+          if (audioPlayer) {
+            audioPlayer.show();
+            audioPlayer.updateProgress(playbackState.progress || 0);
+            audioPlayer.updateTime(playbackState.currentTime || 0, playbackState.duration || 0);
+          }
+          
+          wx.showToast({
+            title: '已恢复上次播放位置',
+            icon: 'none',
+            duration: 1500
+          });
+        } else {
+          console.log('没有上次播放记录');
+        }
+      } catch (error) {
+        console.error('恢复播放状态失败:', error);
+      }
+    },
+
+    // 保存播放状态到本地存储
+    savePlaybackState() {
+      const app = getApp<IAppOption>();
+      
+      try {
+        const playbackState = {
+          currentTrack: app.globalData.currentTrack,
+          currentIndex: app.globalData.currentIndex,
+          playlist: app.globalData.playlist,
+          progress: this.data.progress,
+          currentTime: this.data.currentTime,
+          duration: this.data.duration
+        };
+        
+        wx.setStorageSync('playbackState', playbackState);
+        console.log('播放状态已保存');
+      } catch (error) {
+        console.error('保存播放状态失败:', error);
+      }
+    }
+
 
   }
 })

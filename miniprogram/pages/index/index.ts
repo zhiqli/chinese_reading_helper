@@ -38,35 +38,46 @@ interface DisplayArticle {
 // 生成颜色的函数
 function generateColor(index: number): { color: string, darkColor: string } {
   const colors = [
-    { color: '#4CAF50', darkColor: '#2E7D32' },
-    { color: '#2196F3', darkColor: '#1565C0' },
-    { color: '#FF9800', darkColor: '#F57C00' },
-    { color: '#9C27B0', darkColor: '#7B1FA2' },
-    { color: '#E91E63', darkColor: '#C2185B' },
-    { color: '#607D8B', darkColor: '#455A64' },
-    { color: '#795548', darkColor: '#3E2723' },
-    { color: '#009688', darkColor: '#004D40' },
-    { color: '#FF5722', darkColor: '#D84315' },
-    { color: '#673AB7', darkColor: '#4527A0' },
-    { color: '#3F51B5', darkColor: '#283593' },
-    { color: '#00BCD4', darkColor: '#00838F' },
-    { color: '#8BC34A', darkColor: '#558B2F' },
-    { color: '#FFC107', darkColor: '#FF8F00' },
-    { color: '#CDDC39', darkColor: '#9E9D24' },
-    { color: '#FFEB3B', darkColor: '#FBC02D' },
-    { color: '#9E9E9E', darkColor: '#616161' },
-    { color: '#607D8B', darkColor: '#37474F' },
-    { color: '#F44336', darkColor: '#C62828' },
-    { color: '#E57373', darkColor: '#C62828' },
-    { color: '#BA68C8', darkColor: '#8E24AA' },
-    { color: '#7986CB', darkColor: '#3949AB' },
-    { color: '#4FC3F7', darkColor: '#0288D1' },
-    { color: '#4DB6AC', darkColor: '#00695C' },
-    { color: '#AED581', darkColor: '#689F38' },
-    { color: '#FFD54F', darkColor: '#F9A825' },
-    { color: '#FFB74D', darkColor: '#F57C00' },
-    { color: '#A1887F', darkColor: '#4E342E' },
-    { color: '#90A4AE', darkColor: '#546E7A' }
+    { color: '#E8F5E8', darkColor: '#C8E6C9' }, // 淡绿
+    { color: '#E3F2FD', darkColor: '#BBDEFB' }, // 淡蓝
+    { color: '#F3E5F5', darkColor: '#E1BEE7' }, // 淡紫
+    { color: '#FFF3E0', darkColor: '#FFE0B2' }, // 淡橙
+    { color: '#E8EAF6', darkColor: '#C5CAE9' }, // 淡靛
+    { color: '#F1F8E9', darkColor: '#DCEDC8' }, // 淡青绿
+    { color: '#FFFDE7', darkColor: '#FFF9C4' }, // 淡黄
+    { color: '#E0F7FA', darkColor: '#B2EBF2' }, // 淡青
+    { color: '#F9FBE7', darkColor: '#F0F4C3' }, // 淡柠檬
+    { color: '#EFEBE9', darkColor: '#D7CCC8' }, // 淡灰褐
+    { color: '#ECEFF1', darkColor: '#CFD8DC' }, // 淡灰蓝
+    { color: '#FAFAFA', darkColor: '#F5F5F5' }, // 淡白
+    { color: '#E8F5E9', darkColor: '#C8E6C9' }, // 淡薄荷
+    { color: '#E0F2F1', darkColor: '#B2DFDB' }, // 淡青绿2
+    { color: '#FFF8E1', darkColor: '#FFECB3' }, // 淡香槟
+    { color: '#F5F5F5', darkColor: '#EEEEEE' }, // 淡灰
+    { color: '#EDE7F6', darkColor: '#D1C4E9' }, // 淡薰衣草
+    { color: '#E8EAF6', darkColor: '#C5CAE9' }, // 淡靛蓝
+    { color: '#FFEBEE', darkColor: '#FFCDD2' }, // 淡粉红
+    { color: '#F3E5F5', darkColor: '#E1BEE7' }, // 淡紫罗兰
+    { color: '#E8F5E8', darkColor: '#C8E6C9' }, // 淡草绿
+    { color: '#FFF3E0', darkColor: '#FFE0B2' }, // 淡杏色
+    { color: '#E0F7FA', darkColor: '#B2EBF2' }, // 淡天蓝
+    { color: '#F1F8E9', darkColor: '#DCEDC8' }, // 淡苹果绿
+    { color: '#FFFDE7', darkColor: '#FFF9C4' }, // 淡奶油
+    { color: '#EFEBE9', darkColor: '#D7CCC8' }, // 淡米色
+    { color: '#ECEFF1', darkColor: '#CFD8DC' }, // 淡银灰
+    { color: '#FAFAFA', darkColor: '#F5F5F5' }, // 淡雪白
+    { color: '#E0F2F1', darkColor: '#B2DFDB' }, // 淡水绿
+    { color: '#FCE4EC', darkColor: '#F8BBD0' }, // 淡玫瑰粉
+    { color: '#E8EAF6', darkColor: '#C5CAE9' }, // 淡紫灰
+    { color: '#FFF9C4', darkColor: '#FFF59D' }, // 淡金丝雀
+    { color: '#E1F5FE', darkColor: '#B3E5FC' }, // 淡冰蓝
+    { color: '#F1F8E9', darkColor: '#DCEDC8' }, // 淡春绿
+    { color: '#FFF3E0', darkColor: '#FFE0B2' }, // 淡桃色
+    { color: '#E8F5E8', darkColor: '#C8E6C9' }, // 淡嫩绿
+    { color: '#F3E5F5', darkColor: '#E1BEE7' }, // 淡丁香紫
+    { color: '#FFFDE7', darkColor: '#FFF9C4' }, // 淡象牙
+    { color: '#E0F7FA', darkColor: '#B2EBF2' }, // 淡湖蓝
+    { color: '#F9FBE7', darkColor: '#F0F4C3' }  // 淡柠檬黄
   ]
   return colors[index % colors.length]
 }

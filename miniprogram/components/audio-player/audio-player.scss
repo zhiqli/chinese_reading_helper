@@ -62,22 +62,12 @@
   width: 60rpx;
   height: 60rpx;
   border-radius: 50%;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
   transition: all 0.2s ease;
   
   &:active {
     transform: scale(0.95);
     opacity: 0.8;
   }
-}
-
-.control-icon {
-  font-size: 24rpx;
-  color: white;
-  font-weight: bold;
 }
 
 .progress-time-container {
@@ -102,7 +92,7 @@
 
 .progress-fill {
   height: 100%;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #8b7a69;
   border-radius: 2rpx;
   transition: width 0.3s ease;
 }

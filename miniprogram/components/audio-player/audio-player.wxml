@@ -19,9 +19,7 @@
     </view>
     
     <view class="controls">
-      <view class="control-btn" bindtap="togglePlay">
-        <text class="control-icon">{{isPlaying ? '❚❚' : '▶'}}</text>
-      </view>
+      <image class="control-btn" src="{{isPlaying ? '/img/stop.svg' : '/img/play.svg'}}" mode="aspectFit" bindtap="togglePlay"></image>
     </view>
   </view>
 </view>

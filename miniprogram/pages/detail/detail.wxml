@@ -24,9 +24,7 @@
         <view class="progress-fill" style="width: {{progress}}%"></view>
       </view>
       <view class="progress-controls">
-        <view class="control-btn" bindtap="togglePlay">
-          <text class="control-icon">{{isPlaying ? '❚❚' : '▶'}}</text>
-        </view>
+        <image class="control-btn" src="{{isPlaying ? '/img/stop.svg' : '/img/play.svg'}}" mode="aspectFit" bindtap="togglePlay"></image>
         <text class="time-display">{{formatTime(currentTime)}} / {{formatTime(duration)}}</text>
         <text class="progress-text">{{isPlaying ? '播放中' : '暂停'}}</text>
       </view>

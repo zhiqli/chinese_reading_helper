@@ -98,96 +98,22 @@
   letter-spacing: 1rpx;
 }
 
-/* 隐藏的video组件用于播放HLS */
-.hidden-video {
-  position: fixed;
-  top: -1000rpx;
-  left: -1000rpx;
-  width: 1rpx;
-  height: 1rpx;
-  opacity: 0;
-}
-
-/* 详情页进度条 */
-.detail-progress {
-  padding: 20rpx 0;
-  margin: 0 32rpx;
-  border-bottom: 1rpx solid #f0f0f0;
-}
-
-.progress-bar {
-  width: 100%;
-  height: 6rpx;
-  background: #e0e0e0;
-  border-radius: 3rpx;
-  margin-bottom: 16rpx;
-}
-
-.progress-fill {
-  height: 100%;
-  background: #8b7a69;
-  border-radius: 3rpx;
-  transition: width 0.3s ease;
-}
-
-.progress-controls {
-  display: flex;
-  align-items: center;
-  gap: 16rpx;
-}
-
-.control-btn {
-  width: 50rpx;
-  height: 50rpx;
-  border-radius: 50%;
-  transition: all 0.2s ease;
-  
-  &:active {
-    transform: scale(0.95);
-    opacity: 0.8;
-  }
-}
-
-.progress-text {
-  font-size: 24rpx;
-  color: #666;
-}
-
-.time-display {
-  font-size: 22rpx;
-  color: #888;
-  font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
-}
 
 /* 响应式调整 */
 @media (max-width: 600rpx) {
   .container {
     padding: 16rpx;
   }
-  
+
   .header {
     padding: 20rpx;
   }
-  
+
   .lesson-title {
     font-size: 32rpx;
   }
-  
+
   .content-text {
     font-size: 30rpx;
-  }
-  
-  .detail-progress {
-    margin: 0 24rpx;
-    padding: 16rpx 0;
-  }
-  
-  .control-btn {
-    width: 44rpx;
-    height: 44rpx;
-  }
-  
-  .progress-text {
-    font-size: 22rpx;
   }
 }

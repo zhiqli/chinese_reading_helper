@@ -1,20 +1,7 @@
 <!--index.wxml-->
-<navigation-bar title="书声" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<navigation-bar title="朗朗书声" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 
 <view class="container">
-  <!-- 选项卡 -->
-  <view class="tabs">
-    <view class="tab {{currentTab === 'chinese' ? 'active' : ''}}" bindtap="switchTab" data-tab="chinese">
-      <text class="tab-icon">📖</text>
-      <text class="tab-text">语文</text>
-    </view>
-    <view class="tab {{currentTab === 'english' ? 'active' : ''}}" bindtap="switchTab" data-tab="english">
-      <text class="tab-icon">🔤</text>
-      <text class="tab-text">英语</text>
-    </view>
-  </view>
-
-
   <!-- 语文板块 -->
   <view class="tab-content" wx:if="{{currentTab === 'chinese'}}">
     <!-- 年级和学期选择 -->
@@ -60,6 +47,7 @@
     </view>
   </view>
 
+
   <!-- 底部播放条 -->
   <audio-player 
     id="audioPlayer"
@@ -70,4 +58,16 @@
     duration="{{duration}}"
     bind:toggleplay="onTogglePlay"
   />
+
+  <!-- 选项卡 -->
+  <view class="tabs">
+    <view class="tab {{currentTab === 'chinese' ? 'active' : ''}}" bindtap="switchTab" data-tab="chinese">
+      <text class="tab-icon">📖</text>
+      <text class="tab-text">语文</text>
+    </view>
+    <view class="tab {{currentTab === 'english' ? 'active' : ''}}" bindtap="switchTab" data-tab="english">
+      <text class="tab-icon">🔤</text>
+      <text class="tab-text">英语</text>
+    </view>
+  </view>
 </view>

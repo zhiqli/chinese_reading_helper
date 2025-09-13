@@ -18,34 +18,9 @@
 
   <!-- 课文内容 -->
   <scroll-view class="content-section" scroll-y>
-    <!-- 进度条 -->
-    <view class="detail-progress" wx:if="{{audio}}">
-      <view class="progress-bar">
-        <view class="progress-fill" style="width: {{progress}}%"></view>
-      </view>
-      <view class="progress-controls">
-        <image class="control-btn" src="{{isPlaying ? '/img/stop.svg' : '/img/play.svg'}}" mode="aspectFit" bindtap="togglePlay"></image>
-        <text class="time-display">{{formatTime(currentTime)}} / {{formatTime(duration)}}</text>
-        <text class="progress-text">{{isPlaying ? '播放中' : '暂停'}}</text>
-      </view>
-    </view>
-    
     <view class="content-wrapper">
       <text class="content-text">{{content}}</text>
     </view>
   </scroll-view>
 
-  <!-- 隐藏的video组件用于播放HLS音频 -->
-  <video 
-    wx:if="{{showVideoPlayer}}"
-    id="audioVideo"
-    src="{{audio}}" 
-    class="hidden-video"
-    controls="{{false}}"
-    show-center-play-btn="{{false}}"
-    show-fullscreen-btn="{{false}}"
-    show-play-btn="{{false}}"
-    bindplay="onVideoPlay"
-    binderror="onVideoError"
-  ></video>
 </view>

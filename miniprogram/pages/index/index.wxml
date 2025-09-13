@@ -31,8 +31,8 @@
           </view>
           <view class="article-controls">
             <view class="play-btn" catchtap="playAudio" data-index="{{index}}">
-              <text class="play-icon">▶</text>
-              <text class="play-text">播放</text>
+              <image class="play-icon" src="{{currentTrack && currentTrack.index === index && isPlaying ? '/img/player-stop.svg' : '/img/player-play.svg'}}" mode="aspectFit"></image>
+              <text class="play-text">{{currentTrack && currentTrack.index === index && isPlaying ? '暂停' : '播放'}}</text>
             </view>
           </view>
         </view>

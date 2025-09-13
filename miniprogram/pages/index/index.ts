@@ -325,33 +325,75 @@ Component({
     playAudio(e: any) {
       const index = e.currentTarget.dataset.index;
       const article = this.data.articles[index];
-      
+
+      console.log('=== 播放按钮点击 ===');
+      console.log('文章索引:', index);
+      console.log('文章标题:', article.title);
+      console.log('音频链接:', article.audio);
+      console.log('是否有音频:', !!article.audio);
+
       if (article.audio) {
-        console.log('播放音频:', article.audio);
-        
-        // 设置全局播放列表和当前播放项
         const app = getApp<IAppOption>();
-        app.globalData.playlist = this.data.articles;
-        app.globalData.currentIndex = index;
-        app.globalData.currentTrack = {
-          title: article.fullTitle,
-          author: article.author,
-          audio: article.audio
-        };
-        
-        // 初始化音频管理器
-        this.initAudioManager();
-        
-        // 开始播放
-        this.startPlayback();
-        
-        wx.showToast({
-          title: `播放: ${article.title}`,
-          icon: 'success',
-          duration: 1500
-        });
-        
+
+        // 检查是否正在播放同一篇文章
+        const isSameArticle = this.data.currentTrack &&
+                             this.data.currentTrack.index === index;
+
+        console.log('是否同一篇文章:', isSameArticle);
+        console.log('当前播放状态:', this.data.isPlaying);
+
+        if (isSameArticle && this.data.isPlaying) {
+          // 如果正在播放同一篇文章，则暂停
+          console.log('暂停音频');
+          this.pausePlayback();
+          wx.showToast({
+            title: `暂停: ${article.title}`,
+            icon: 'success',
+            duration: 1500
+          });
+        } else {
+          // 播放新文章或继续播放
+          console.log('开始播放音频');
+          console.log('音频URL详细:', article.audio);
+
+          // 设置全局播放列表和当前播放项
+          app.globalData.playlist = this.data.articles;
+          app.globalData.currentIndex = index;
+          app.globalData.currentTrack = {
+            title: article.fullTitle,
+            author: article.author,
+            audio: article.audio,
+            index: index // 添加索引用于标识当前播放的文章
+          };
+
+          // 设置页面当前播放项
+          this.setData({
+            currentTrack: {
+              title: article.fullTitle,
+              author: article.author,
+              audio: article.audio,
+              index: index
+            }
+          });
+
+          // 初始化音频管理器
+          this.initAudioManager();
+
+          // 清除保存的播放进度（从文章按钮点击时重新开始）
+          this.clearPlaybackState();
+
+          // 开始播放
+          this.startPlayback();
+
+          wx.showToast({
+            title: `播放: ${article.title}`,
+            icon: 'success',
+            duration: 1500
+          });
+        }
+
       } else {
+        console.log('文章没有音频文件');
         wx.showToast({
           title: '暂无音频',
           icon: 'none',
@@ -385,21 +427,44 @@ Component({
         // 监听播放错误
         app.globalData.audioManager.onError((error: any) => {
           console.error('音频播放错误:', error);
+          console.log('错误代码:', error.errCode, '错误信息:', error.errMsg);
+
+          // 根据错误代码提供更具体的错误信息
+          let errorMessage = '播放失败';
+          if (error.errCode === 10001) {
+            errorMessage = '网络错误，请检查网络连接';
+          } else if (error.errCode === 10002) {
+            errorMessage = '音频格式不支持';
+          } else if (error.errCode === 10003) {
+            errorMessage = '音频文件损坏或无法播放';
+          }
+
           wx.showToast({
-            title: '播放失败',
+            title: errorMessage,
             icon: 'none',
             duration: 2000
           });
+
+          // 播放失败时自动播放下一首
+          this.playNext();
         });
         
         // 监听播放开始
         app.globalData.audioManager.onPlay(() => {
           console.log('音频开始播放');
+          app.globalData.isPlaying = true;
+          this.setData({
+            isPlaying: true
+          });
         });
-        
+
         // 监听播放暂停
         app.globalData.audioManager.onPause(() => {
           console.log('音频暂停');
+          app.globalData.isPlaying = false;
+          this.setData({
+            isPlaying: false
+          });
         });
         
         // 监听时间更新
@@ -430,72 +495,66 @@ Component({
     startPlayback() {
       const app = getApp<IAppOption>();
       const currentTrack = app.globalData.currentTrack;
-      
-      if (currentTrack && currentTrack.audio) {
-        // 检查音频格式
-        const isM3u8 = currentTrack.audio.includes('.m3u8');
-        
-        if (isM3u8) {
-          // HLS格式，使用背景音频管理器
-          this.playHlsAudio(currentTrack);
-        } else {
-          // 普通音频格式 - 确保音频管理器已初始化
-          if (!app.globalData.audioManager) {
-            this.initAudioManager();
-          }
-          app.globalData.audioManager.src = currentTrack.audio;
-          app.globalData.audioManager.autoplay = true;
-          app.globalData.isPlaying = true;
-          
-          // 更新页面状态
-          this.setData({
-            currentTrack: app.globalData.currentTrack,
-            isPlaying: true,
-            progress: 0
-          });
-          
-          // 进度条现在始终显示，无需手动显示
+
+      console.log('=== 开始播放 ===');
+      console.log('当前音轨:', currentTrack);
+
+      if (currentTrack && currentTrack.audio && currentTrack.audio.length > 0) {
+        console.log('音频URL:', currentTrack.audio);
+        console.log('音频URL长度:', currentTrack.audio.length);
+        console.log('音频URL是否有效:', currentTrack.audio && currentTrack.audio.length > 0);
+
+        // 确保音频管理器已初始化
+        if (!app.globalData.audioManager) {
+          console.log('初始化音频管理器');
+          this.initAudioManager();
+        }
+        console.log('设置音频源:', currentTrack.audio);
+        app.globalData.audioManager.src = currentTrack.audio;
+        app.globalData.audioManager.startTime = 0; // 确保从0开始播放
+        app.globalData.audioManager.autoplay = true;
+        app.globalData.isPlaying = true;
+
+        // 更新页面状态
+        this.setData({
+          currentTrack: app.globalData.currentTrack,
+          isPlaying: true,
+          progress: 0
+        });
+
+        console.log('页面状态更新完成');
+        // 进度条现在始终显示，无需手动显示
+      } else {
+        console.log('没有有效的音轨或音频URL');
+        console.log('currentTrack:', currentTrack);
+
+        // 如果没有有效的音频URL，自动播放下一首
+        if (currentTrack && (!currentTrack.audio || currentTrack.audio.length === 0)) {
+          console.log('音频URL无效，自动播放下一首');
+          this.playNext();
         }
       }
     },
 
-    // 播放HLS格式音频
-    playHlsAudio(track: any) {
+    // 暂停播放
+    pausePlayback() {
       const app = getApp<IAppOption>();
-      
-      // 使用背景音频管理器播放HLS
-      const backgroundAudioManager = wx.getBackgroundAudioManager();
-      backgroundAudioManager.title = track.title || '课文朗读';
-      backgroundAudioManager.singer = track.author || '未知';
-      backgroundAudioManager.src = track.audio;
-      backgroundAudioManager.volume = 1.0;
-      
-      app.globalData.isPlaying = true;
-      
-      // 更新页面状态
-      this.setData({
-        currentTrack: track,
-        isPlaying: true,
-        progress: 0
-      });
-      
-      // 进度条现在始终显示，无需手动显示
-      
-      // 监听播放错误
-      backgroundAudioManager.onError((error: any) => {
-        console.error('HLS播放错误:', error);
-        wx.showToast({
-          title: 'HLS格式播放失败',
-          icon: 'none',
-          duration: 2000
-        });
-        
+
+      if (app.globalData.audioManager) {
+        app.globalData.audioManager.pause();
         app.globalData.isPlaying = false;
         this.setData({
           isPlaying: false
         });
-      });
+      }
+
+      // 暂停背景音频管理器
+      const backgroundAudioManager = wx.getBackgroundAudioManager();
+      if (!backgroundAudioManager.paused) {
+        backgroundAudioManager.pause();
+      }
     },
+
 
     // 播放下一首
     playNext() {
@@ -505,20 +564,35 @@ Component({
       if (playlist.length > 0 && currentIndex < playlist.length - 1) {
         const nextIndex = currentIndex + 1;
         const nextArticle = playlist[nextIndex];
-        
+
+        console.log('准备播放下一首 - 索引:', nextIndex, '标题:', nextArticle.fullTitle);
+        console.log('下一首音频URL:', nextArticle.audio);
+        console.log('下一首是否有音频:', !!nextArticle.audio);
+
+        // 检查下一首是否有有效的音频URL
+        if (!nextArticle.audio || nextArticle.audio.length === 0) {
+          console.log('下一首没有音频，继续跳过');
+          // 如果没有音频，继续播放下一首
+          this.playNext();
+          return;
+        }
+
         app.globalData.currentIndex = nextIndex;
         app.globalData.currentTrack = {
           title: nextArticle.fullTitle,
           author: nextArticle.author,
           audio: nextArticle.audio
         };
-        
+
         // 更新页面状态
         this.setData({
           currentTrack: app.globalData.currentTrack,
           progress: 0
         });
-        
+
+        // 清除保存的播放进度（自动播放下一首时重新开始）
+        this.clearPlaybackState();
+
         this.startPlayback();
         
         wx.showToast({
@@ -550,37 +624,22 @@ Component({
     togglePlayback() {
       const app = getApp<IAppOption>();
       const currentTrack = app.globalData.currentTrack;
-      
+
       if (!currentTrack || !currentTrack.audio) return;
-      
-      const isM3u8 = currentTrack.audio.includes('.m3u8');
-      
-      if (isM3u8) {
-        // HLS格式使用背景音频管理器
-        const backgroundAudioManager = wx.getBackgroundAudioManager();
-        
-        if (app.globalData.isPlaying) {
-          backgroundAudioManager.pause();
-          app.globalData.isPlaying = false;
-        } else {
-          backgroundAudioManager.play();
-          app.globalData.isPlaying = true;
-        }
-      } else {
-        // 普通音频格式 - 确保音频管理器已初始化
-        if (!app.globalData.audioManager) {
-          this.initAudioManager();
-        }
-        
-        if (app.globalData.isPlaying) {
-          app.globalData.audioManager.pause();
-          app.globalData.isPlaying = false;
-        } else {
-          app.globalData.audioManager.play();
-          app.globalData.isPlaying = true;
-        }
+
+      // 确保音频管理器已初始化
+      if (!app.globalData.audioManager) {
+        this.initAudioManager();
       }
-      
+
+      if (app.globalData.isPlaying) {
+        app.globalData.audioManager.pause();
+        app.globalData.isPlaying = false;
+      } else {
+        app.globalData.audioManager.play();
+        app.globalData.isPlaying = true;
+      }
+
       // 更新页面状态
       this.setData({
         isPlaying: app.globalData.isPlaying
@@ -722,6 +781,16 @@ Component({
         }
       } catch (error) {
         console.error('恢复播放状态失败:', error);
+      }
+    },
+
+    // 清除播放状态
+    clearPlaybackState() {
+      try {
+        wx.removeStorageSync('playbackState');
+        console.log('播放状态已清除');
+      } catch (error) {
+        console.error('清除播放状态失败:', error);
       }
     },
 

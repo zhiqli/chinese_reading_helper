@@ -86,7 +86,7 @@ const articlesData =
     "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-99-11.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📚"
+    "emoji": "🌙"
   },
   {
     "lesson_number": "语文园地",
@@ -141,7 +141,7 @@ const articlesData =
     "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-98-9.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "🏛️"
+    "emoji": "🌙"
   },
   {
     "lesson_number": "语文园地",
@@ -240,7 +240,7 @@ const articlesData =
     "audio_url": "http://t1st3ml87.hn-bkt.clouddn.com/1-1-6.mp3",
     "grade": "1",
     "semester": "1",
-    "emoji": "📚"
+    "emoji": "🐒"
   },
   {
     "lesson_number": "第7课",

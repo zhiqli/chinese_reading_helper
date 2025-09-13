@@ -64,7 +64,7 @@ page {
 }
 
 .tab-text {
-  font-size: 22rpx;
+  font-size: 32rpx;
   font-weight: 400;
   letter-spacing: 0.2rpx;
   transition: all 0.3s ease;
@@ -101,7 +101,7 @@ page {
   background: transparent;
   border-radius: 0;
   text-align: center;
-  font-size: 24rpx;
+  font-size: 32rpx;
   color: #7d6147;
   font-weight: 500;
   border: none;
@@ -183,7 +183,7 @@ page {
 
 .article-title {
   color: #fefefe;
-  font-size: 24rpx;
+  font-size: 30rpx;
   font-weight: 400;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -208,7 +208,7 @@ page {
   border: none;
   border-radius: 12rpx;
   padding: 16rpx 0;
-  font-size: 24rpx;
+  font-size: 28rpx;
   font-weight: 400;
   transition: all 0.3s ease;
   box-shadow: 0 4rpx 12rpx rgba(156, 139, 122, 0.2);
@@ -223,7 +223,8 @@ page {
 
 .play-icon {
   margin-right: 8rpx;
-  font-size: 24rpx;
+  width: 42rpx;
+  height: 42rpx;
 }
 
 .play-text {
@@ -237,7 +238,7 @@ page {
   align-items: center;
   height: 200rpx;
   color: #8b7157;
-  font-size: 24rpx;
+  font-size: 32rpx;
   font-weight: 300;
   background: transparent;
   margin: 0;

@@ -54,7 +54,11 @@ Component({
 
     updateTime(currentTime: number, duration: number) {
       console.log('Audio player time update:', { currentTime, duration });
-      this.setData({ currentTime, duration });
+      this.setData({ 
+        currentTime, 
+        duration,
+        progress: duration > 0 ? (currentTime / duration) * 100 : 0
+      });
     },
 
     // 格式化时间显示 (mm:ss)

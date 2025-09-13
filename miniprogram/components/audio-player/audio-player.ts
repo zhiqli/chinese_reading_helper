@@ -29,11 +29,11 @@ Component({
 
   methods: {
     show() {
-      this.setData({ isVisible: true });
+      // 进度条现在始终显示，此方法保留但不执行操作
     },
 
     hide() {
-      this.setData({ isVisible: false });
+      // 进度条现在始终显示，此方法保留但不执行操作
     },
 
     togglePlay() {

@@ -451,11 +451,7 @@ Component({
             progress: 0
           });
           
-          // 显示播放条
-          const audioPlayer = this.selectComponent('#audioPlayer');
-          if (audioPlayer) {
-            audioPlayer.show();
-          }
+          // 进度条现在始终显示，无需手动显示
         }
       }
     },
@@ -480,11 +476,7 @@ Component({
         progress: 0
       });
       
-      // 显示播放条
-      const audioPlayer = this.selectComponent('#audioPlayer');
-      if (audioPlayer) {
-        audioPlayer.show();
-      }
+      // 进度条现在始终显示，无需手动显示
       
       // 监听播放错误
       backgroundAudioManager.onError((error: any) => {
@@ -547,11 +539,7 @@ Component({
           console.log('停止音频播放时出错:', error);
         }
         
-        // 隐藏播放条
-        const audioPlayer = this.selectComponent('#audioPlayer');
-        if (audioPlayer) {
-          audioPlayer.hide();
-        }
+        // 进度条现在始终显示，无需隐藏
       }
     },
 
@@ -625,11 +613,7 @@ Component({
           isPlaying: false
         });
         
-        // 隐藏播放条
-        const audioPlayer = this.selectComponent('#audioPlayer');
-        if (audioPlayer) {
-          audioPlayer.hide();
-        }
+        // 进度条现在始终显示，无需隐藏
         
         console.log('已停止外部播放');
       } catch (error) {
@@ -718,10 +702,9 @@ Component({
             duration: playbackState.duration || 0
           });
           
-          // 显示播放条
+          // 进度条现在始终显示，无需手动显示
           const audioPlayer = this.selectComponent('#audioPlayer');
           if (audioPlayer) {
-            audioPlayer.show();
             audioPlayer.updateProgress(playbackState.progress || 0);
             audioPlayer.updateTime(playbackState.currentTime || 0, playbackState.duration || 0);
           }

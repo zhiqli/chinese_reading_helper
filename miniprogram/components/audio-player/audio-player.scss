@@ -9,15 +9,6 @@
   padding: 20rpx 24rpx;
   box-shadow: 0 -2rpx 12rpx rgba(0, 0, 0, 0.1);
   z-index: 1000;
-  transition: transform 0.3s ease;
-  
-  &.hidden {
-    transform: translateY(100%);
-  }
-  
-  &.visible {
-    transform: translateY(0);
-  }
 }
 
 .player-content {

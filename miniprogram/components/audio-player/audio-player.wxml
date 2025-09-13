@@ -1,5 +1,5 @@
 <!--components/audio-player/audio-player.wxml-->
-<view class="audio-player {{isVisible ? 'visible' : 'hidden'}}">
+<view class="audio-player">
   <view class="player-content">
     <!-- 标题信息 -->
     <view class="track-info">

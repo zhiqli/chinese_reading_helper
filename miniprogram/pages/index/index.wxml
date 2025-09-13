@@ -1,5 +1,5 @@
 <!--index.wxml-->
-<navigation-bar title="朗朗书声 声声入耳" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<navigation-bar title="书声" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 
 <view class="container">
   <!-- 选项卡 -->

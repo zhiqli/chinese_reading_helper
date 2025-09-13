@@ -14,7 +14,7 @@
         </view>
       </view>
       <view class="time-display">
-        <text class="time-text">{{formatTime(currentTime)}} / {{formatTime(duration)}}</text>
+        <text class="time-text">{{formatTime(currentTime)}}</text>
       </view>
     </view>
     

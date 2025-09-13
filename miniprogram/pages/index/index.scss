@@ -109,7 +109,7 @@ page {
 .article-list {
   flex: 1;
   height: 100%;
-  padding: 0 0 40rpx 0;
+  padding: 0 0 140rpx 0; /* 增加底部留白，避免被音频播放器遮挡 */
   display: flex;
   justify-content: center;
 }

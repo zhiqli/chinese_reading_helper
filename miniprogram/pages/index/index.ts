@@ -439,7 +439,10 @@ Component({
           // HLS格式，使用背景音频管理器
           this.playHlsAudio(currentTrack);
         } else {
-          // 普通音频格式
+          // 普通音频格式 - 确保音频管理器已初始化
+          if (!app.globalData.audioManager) {
+            this.initAudioManager();
+          }
           app.globalData.audioManager.src = currentTrack.audio;
           app.globalData.audioManager.autoplay = true;
           app.globalData.isPlaying = true;
